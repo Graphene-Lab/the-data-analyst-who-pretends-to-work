@@ -1,1 +1,121 @@
-IyAyMC4gRGFzIHJpY2h0aWdlIERpYWdyYW1tIHfDpGhsZW4KCkVpbiBEaWFncmFtbSBpc3Qga2VpbmUgRGVrby4gRXMgaXN0IGVpbiBXZXJremV1ZywgdW0gZWluZSBXYWhyaGVpdCBzaWNodGJhciB6dQptYWNoZW4uIERhcyByaWNodGlnZSBEaWFncmFtbSBtYWNodCBlaW5lIEVya2VubnRuaXMgaW4gZWluZXIgU2VrdW5kZSBvZmZlbnNpY2h0bGljaDsKZGFzIGZhbHNjaGUgdmVyc3RlY2t0IHNpZSBvZGVyLCBzY2hsaW1tZXIsIGzDvGd0LiBEaWVzZXMgS2FwaXRlbCBoYW5kZWx0IGRhdm9uLCBkYXMKcmljaHRpZ2UgQmlsZCBmw7xyIGRpZSBXYWhyaGVpdCB6dSB3w6RobGVuLCBkaWUgZHUgemVpZ2VuIHdpbGxzdC4KCiMjIERpZSBlaW5lIFJlZ2VsCgpFcyBnaWJ0IGVpbmUgUmVnZWwsIGRpZSBkYXMgbWVpc3RlIGRhdm9uIGFiZGVja3Q6Cgo+ICoqU3RpbW1lIGRhcyBEaWFncmFtbSBhdWYgZGllIEZyYWdlIGFiLCBuaWNodCBkYXJhdWYsIHdhcyBjb29sIGF1c3NpZWh0LioqCgpLYXRlZ29yaWVuIHZlcmdsZWljaGVuPyBCYWxrZW4uIFZlcsOkbmRlcnVuZyDDvGJlciBaZWl0PyBFaW5lIExpbmllLiBUZWlsIGVpbmVzCkdhbnplbj8gRWluIEtyZWlzIChlaW4ga2xlaW5lcikuIFp1c2FtbWVuaGFuZyB6d2lzY2hlbiB6d2VpIFphaGxlbj8gRWluClN0cmV1ZGlhZ3JhbW0uIFfDpGhsIGRhcyBEaWFncmFtbSwgZGFzIGRpZSBGcmFnZSBiZWFudHdvcnRldCwgdW5kIGRpZSBBbnR3b3J0IHplaWd0CnNpY2ggdm9uIHNlbGJzdC4KCiMjIEthdGVnb3JpZW4gdmVyZ2xlaWNoZW46IG5pbW0gQmFsa2VuCgpXZW5uIGR1IOKAnndpZSB2aWVsIGbDvHIgamVkZXMgRGluZyIgdmVyZ2xlaWNoZW4gd2lsbHN0IOKAkyBVbXNhdHogbmFjaCBLYXRlZ29yaWUsIG5hY2gKUmVnaW9uLCBuYWNoIFByb2R1a3Qg4oCTLCBuaW1tIGVpbiAqKkJhbGtlbmRpYWdyYW1tKiogKG9kZXIgU8OkdWxlbmRpYWdyYW1tKS4gQmFsa2VuCmthbm4gZGFzIEF1Z2UgbGVpY2h0IHJhbmdpZXJlbi4gRGVyIEFzc2lzdGVudCBrYW5uIGRpciBkaWUgRGF0ZW4gZ2VuYXUgZGFmw7xyIGdlZm9ybXQKZ2ViZW46Cgo+IOKAnkdpYiBtaXIgZGVuIFVtc2F0eiBuYWNoIEthdGVnb3JpZSBmw7xyIGVpbiBCYWxrZW5kaWFncmFtbS4iCgohW1Vtc2F0eiBuYWNoIEthdGVnb3JpZSBmw7xyIGVpbiBCYWxrZW5kaWFncmFtbV0oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2UwNjAucG5nKQoKRHJlaSBLYXRlZ29yaWVuLCBpaHJlIFN1bW1lbiwgYmVyZWl0LCBlaW4gQmFsa2VuZGlhZ3JhbW0genUgd2VyZGVuLiBEYXMgQXVnZSBzaWVodApzb2ZvcnQgRnVybml0dXJlIG9iZW4sIFN0YXRpb25lcnkgdW50ZW4uCgpVbmQgaGllciBzaW5kIGRpZXNlbGJlbiBlY2h0ZW4gRGF0ZW4gYWxzIERpYWdyYW1tIGdlcmVuZGVydDoKCiFbVW1zYXR6IG5hY2ggS2F0ZWdvcmllIOKAkyBCYWxrZW5kaWFncmFtbV0oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2NoYXJ0LWNhdGVnb3J5LnBuZykKCj4g4oCeVW1zYXR6IG5hY2ggUmVnaW9uIGbDvHIgZWluZSBLYXJ0ZSBvZGVyIGVpbiBTw6R1bGVuZGlhZ3JhbW0uIgoKIVtVbXNhdHogbmFjaCBSZWdpb25dKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9lMDYxLnBuZykKClJlZ2lvbmFsZSBTdW1tZW4sIGJlcmVpdCBmw7xyIGVpbiBTw6R1bGVuZGlhZ3JhbW0gb2RlciBlaW5lIEthcnRlLgoKIyMgVmVyw6RuZGVydW5nIMO8YmVyIFplaXQ6IG5pbW0gZWluZSBMaW5pZQoKV2VubiBkaWUgRnJhZ2Ug4oCed2llIGhhdCBzaWNoIGRhcyDDvGJlciBaZWl0IGJld2VndD8iIGlzdCwgemVpZ3QgZWluCioqTGluaWVuZGlhZ3JhbW0qKiBkaWUgRm9ybSBkZXMgVHJlbmRzIOKAkyBkaWUgQW5zdGllZ2UsIGRpZSBEZWxsZW4sIGRpZSBKYWhyZXN6ZWl0IOKAkwpiZXNzZXIgYWxzIGplZGUgVGFiZWxsZS4KCiFbR2VzYW10dW1zYXR6IHBybyBNb25hdCDigJMgTGluaWVuZGlhZ3JhbW1dKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9jaGFydC1tb250aGx5LnBuZykKClp3w7ZsZiBNb25hdGUgZWNodGVyIFVtc2F0eiwgZWluZSBMaW5pZS4gTWFuIHNpZWh0IGRlbiBNw6Ryei1Iw7ZoZXB1bmt0IHVuZCBkYXMKSGVyYnN0LVRhbCBhdWYgZWluZW4gQmxpY2sg4oCTIGRpZSBBcnQgTXVzdGVyLCBkaWUgZWluZSBaYWhsZW50YWJlbGxlIHZlcnN0ZWNrdC4KCiMjIFRlaWwgZWluZXMgR2FuemVuOiBuaW1tIGVpbiBLcmVpc2RpYWdyYW1tICh2b3JzaWNodGlnKQoKRWluIEtyZWlzZGlhZ3JhbW0gemVpZ3QsIHdpZSBlaW4gR2VzYW10IHNpY2ggaW4gVGVpbGUgYXVmc3BhbHRldC4gRXMgZnVua3Rpb25pZXJ0Cm1pdCAqKmRyZWkgb2RlciB2aWVyIFN0w7xja2VuKiouIE1pdCB6ZWhuIHZlcnNhZ3QgZXMgasOkbW1lcmxpY2guCgo+IOKAnkthdGVnb3JpZS1BbnRlaWwgZsO8ciBlaW4gS3JlaXNkaWFncmFtbS4iCgohW0thdGVnb3JpZS1BbnRlaWxdKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9lMDgzLnBuZykKCktpdGNoZW4sIEZ1cm5pdHVyZSwgU3RhdGlvbmVyeSBhbHMgQW50ZWlsZSBhbSBHYW56ZW4g4oCTIGVpbiBzYXViZXJlciBLdWNoZW4uIEVpbgpEdXR6ZW5kIEthdGVnb3JpZW4gZGF6dSwgdW5kIGRhc3NlbGJlIERpYWdyYW1tIHdpcmQgenUgdW5sZXNiYXJlbSBLb25mZXR0aS4KCkRlciBnbGVpY2hlIEFudGVpbCwgYWxzIERvbnV0IG1pdCBkZW4gV2VydGVuIHVuZCBQcm96ZW50emFobGVuIGdlcmVuZGVydDoKCiFbS2F0ZWdvcmllLUFudGVpbCDigJMgRG9udXQtRGlhZ3JhbW1dKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9jaGFydC1zaGFyZS5wbmcpCgojIyBEaWUgRGlhZ3JhbW1lLCBkaWUgbWFuIG1laWRlbiBzb2xsdGUKCi0gKiozRC1EaWFncmFtbWUqKiDigJMgc2llIHZlcnplcnJlbiBkaWUgRGF0ZW4uIEVpbiAzRC1LcmVpcyBraXBwdCBkaWUgU3TDvGNrZSB1bmQKICBsw7xndCDDvGJlciBpaHJlIEdyw7bDn2UuIE5pZW1hbHMuCi0gKipad2VpLUFjaHNlbi1EaWFncmFtbWUqKiDigJMgendlaSB5LUFjaHNlbiBrw7ZubmVuIFVudmVyd2FuZHRlcyB2ZXJ3YW5kdCBhdXNzZWhlbgogIGxhc3Nlbi4gTWl0IGV4dHJlbWVyIFZvcnNpY2h0IGJlbnV0emVuLCBvZGVyIGdhciBuaWNodC4KLSAqKktyZWlzZGlhZ3JhbW1lIG1pdCB2aWVsZW4gU3TDvGNrZW4qKiDigJMgdW5sZXNiYXIuIE5pbW0gc3RhdHRkZXNzZW4gZWluCiAgQmFsa2VuZGlhZ3JhbW0uCi0gKipBYmdlc2Nobml0dGVuZSBBY2hzZW4qKiDigJMgZWluIEJhbGtlbmRpYWdyYW1tLCBkZXNzZW4gQWNoc2UgYmVpIDkwICUgc3RhdHQgYmVpIDAKICBiZWdpbm50LCBsw6Rzc3QgZWluZW4gd2luemlnZW4gVW50ZXJzY2hpZWQgcmllc2lnIGF1c3NlaGVuLiBCZWdpbm5lIGRpZSBBY2hzZSBiZWkKICBudWxsLCBhdcOfZXIgZHUgaGFzdCBlaW5lbiBzdGFya2VuIEdydW5kLgoKIyMgRWluZSBLdXJpb3NpdMOkdDogZGFzIERpYWdyYW1tLCBkYXMgZWluZSBOYXRpb24gYW5sb2cKCkJlaSBkZXIgVVMtV2FobCAyMDEyIHplaWd0ZSBlaW4gdmllbCBnZXRlaWx0ZXMgRGlhZ3JhbW0sIGRhc3MgUHLDpHNpZGVudCBPYmFtYQrigJ45OCAlIGRlciBTdGltbWVuIiBnZXdhbm4g4oCTIHdlaWwgZXMgZWluZSBLYXJ0ZSBkZXIgKkNvdW50eSotU2llZ2Ugd2FyLCB1bmQgbMOkbmRsaWNoZQpDb3VudHlzIHNpbmQgcmllc2lnIGFuIEZsw6RjaGUsIGFiZXIgd2luemlnIGFuIEJldsO2bGtlcnVuZy4gRGllIEthcnRlIHplaWd0ZSBMYW5kLApuaWNodCBNZW5zY2hlbiwgdW5kIGlycnRlIE1pbGxpb25lbi4gRGllIExlaHJlOiBFaW4gRGlhZ3JhbW0ga2FubiB0ZWNobmlzY2gga29ycmVrdAp1bmQgdsO2bGxpZyBpcnJlZsO8aHJlbmQgc2Vpbi4gRGllIEF1ZmdhYmUgZGVzIEFuYWx5c3RlbiBpc3QsIGRpZSBTaWNodCB6dSB3w6RobGVuLCBkaWUKZGllICpXYWhyaGVpdCogemVpZ3QsIG5pY2h0IG51ciAqZWluZSogV2FocmhlaXQuCgojIyBGYXJiZSBtaXQgQWJzaWNodAoKRmFyYmUgaXN0IG3DpGNodGlnIHVuZCBsZWljaHQgdmVyc2Nod2VuZGV0OgoKLSBOdXR6IEZhcmJlIHp1bSAqKkhlcnZvcmhlYmVuKiosIG5pY2h0IHp1bSBEZWtvcmllcmVuLgotIFJlc2VydmllcmUgUm90IGbDvHIg4oCec2NobGVjaHQgLyB1bnRlciBaaWVsIiwgR3LDvG4gZsO8ciDigJ5ndXQiIOKAkyB1bmQgw7xiZXJudXR6ZSBrZWluZXMKICB2b24gYmVpZGVuLgotIERlc2lnbiBmw7xyICoqZmFyYmVuYmxpbmRlKiogTGVzZXI6IHZlcmxhc3MgZGljaCBuaWNodCBudXIgYXVmIFJvdC9HcsO8bjsgZsO8Z2UKICBMYWJlbHMgb2RlciBGb3JtZW4gaGluenUuCi0gV2VuaWdlciBGYXJiZW4gPSBrbGFyZXJlIEJvdHNjaGFmdC4KCiMjIEVpbiBEYXNoYm9hcmQgaXN0IGVpbmUgR2VzY2hpY2h0ZSwga2VpbmUgRmFyYnBhbGV0dGUKCkplZGVzIFZpc3VhbCBhdWYgZWluZXIgU2VpdGUgc29sbHRlIHNpY2ggc2VpbmVuIFBsYXR6IHZlcmRpZW5lbiwgaW5kZW0gZXMgZGllCkdlc2NoaWNodGUgdm9yYW5icmluZ3QuIFdlbm4gZWluIERpYWdyYW1tIGRlbSBMZXNlciBuaWNodCBoaWxmdCB6dSB2ZXJzdGVoZW4gb2Rlcgp6dSBlbnRzY2hlaWRlbiwgc2NobmVpZCBlcyByYXVzLiBFaW5lIHNhdWJlcmUgU2VpdGUgbWl0IGRyZWkgZ3V0ZW4gRGlhZ3JhbW1lbgpzY2hsw6RndCBlaW5lIHZvbGxlIFNlaXRlIG1pdCB6d8O2bGYgaMO8YnNjaGVuLgoKLS0tCgojIyBXYXMgZHUgYXVzIGRpZXNlbSBLYXBpdGVsIG1pdG5pbW1zdAoKLSBTdGltbWUgZGFzIERpYWdyYW1tIGF1ZiBkaWUgRnJhZ2UgYWIsIG5pY2h0IGRhcmF1Ziwgd2FzIGNvb2wgYXVzc2llaHQuCi0gQmFsa2VuIHp1bSBWZXJnbGVpY2hlbjsgTGluaWVuIGbDvHIgWmVpdDsga2xlaW5lIEtyZWlzZGlhZ3JhbW1lIGbDvHIgVGVpbGUgZWluZXMKICBHYW56ZW4uCi0gTWVpZGUgM0QsIFp3ZWktQWNoc2VuLVRyaWNrcywgdmllbGUtU3TDvGNrLUt1Y2hlbiB1bmQgYWJnZXNjaG5pdHRlbmUgQWNoc2VuLgotIEVpbiBEaWFncmFtbSBrYW5uIGtvcnJla3QgdW5kIHRyb3R6ZGVtIGlycmVmw7xocmVuZCBzZWluIOKAkyB3w6RobGUgZGllIGVocmxpY2hlIFNpY2h0LgotIE51dHogRmFyYmUgenVtIEhlcnZvcmhlYmVuLCB1bmQgZGVzaWduIGbDvHIgZmFyYmVuYmxpbmRlIExlc2VyLgoKQWxzIE7DpGNoc3RlczogZGFzIEdhbnplIHp1c2FtbWVuZsO8Z2VuIOKAkyBCZXJpY2h0ZSB1bmQgRGFzaGJvYXJkcywgZGllIExldXRlIHdpcmtsaWNoCm51dHplbi4K
+# 20. Das richtige Diagramm wählen
+
+Ein Diagramm ist keine Deko. Es ist ein Werkzeug, um eine Wahrheit sichtbar zu
+machen. Das richtige Diagramm macht eine Erkenntnis in einer Sekunde offensichtlich;
+das falsche versteckt sie oder, schlimmer, lügt. Dieses Kapitel handelt davon, das
+richtige Bild für die Wahrheit zu wählen, die du zeigen willst.
+
+## Die eine Regel
+
+Es gibt eine Regel, die das meiste davon abdeckt:
+
+> **Stimme das Diagramm auf die Frage ab, nicht darauf, was cool aussieht.**
+
+Kategorien vergleichen? Balken. Veränderung über Zeit? Eine Linie. Teil eines
+Ganzen? Ein Kreis (ein kleiner). Zusammenhang zwischen zwei Zahlen? Ein
+Streudiagramm. Wähl das Diagramm, das die Frage beantwortet, und die Antwort zeigt
+sich von selbst.
+
+## Kategorien vergleichen: nimm Balken
+
+Wenn du „wie viel für jedes Ding" vergleichen willst – Umsatz nach Kategorie, nach
+Region, nach Produkt –, nimm ein **Balkendiagramm** (oder Säulendiagramm). Balken
+kann das Auge leicht rangieren. Der Assistent kann dir die Daten genau dafür geformt
+geben:
+
+> „Gib mir den Umsatz nach Kategorie für ein Balkendiagramm."
+
+![Umsatz nach Kategorie für ein Balkendiagramm](../../assets/examples/e060.png)
+
+Drei Kategorien, ihre Summen, bereit, ein Balkendiagramm zu werden. Das Auge sieht
+sofort Furniture oben, Stationery unten.
+
+Und hier sind dieselben echten Daten als Diagramm gerendert:
+
+![Umsatz nach Kategorie – Balkendiagramm](../../assets/examples/chart-category.png)
+
+> „Umsatz nach Region für eine Karte oder ein Säulendiagramm."
+
+![Umsatz nach Region](../../assets/examples/e061.png)
+
+Regionale Summen, bereit für ein Säulendiagramm oder eine Karte.
+
+## Veränderung über Zeit: nimm eine Linie
+
+Wenn die Frage „wie hat sich das über Zeit bewegt?" ist, zeigt ein
+**Liniendiagramm** die Form des Trends – die Anstiege, die Dellen, die Jahreszeit –
+besser als jede Tabelle.
+
+![Gesamtumsatz pro Monat – Liniendiagramm](../../assets/examples/chart-monthly.png)
+
+Zwölf Monate echter Umsatz, eine Linie. Man sieht den März-Höhepunkt und das
+Herbst-Tal auf einen Blick – die Art Muster, die eine Zahlentabelle versteckt.
+
+## Teil eines Ganzen: nimm ein Kreisdiagramm (vorsichtig)
+
+Ein Kreisdiagramm zeigt, wie ein Gesamt sich in Teile aufspaltet. Es funktioniert
+mit **drei oder vier Stücken**. Mit zehn versagt es jämmerlich.
+
+> „Kategorie-Anteil für ein Kreisdiagramm."
+
+![Kategorie-Anteil](../../assets/examples/e083.png)
+
+Kitchen, Furniture, Stationery als Anteile am Ganzen – ein sauberer Kuchen. Ein
+Dutzend Kategorien dazu, und dasselbe Diagramm wird zu unlesbarem Konfetti.
+
+Der gleiche Anteil, als Donut mit den Werten und Prozentzahlen gerendert:
+
+![Kategorie-Anteil – Donut-Diagramm](../../assets/examples/chart-share.png)
+
+## Die Diagramme, die man meiden sollte
+
+- **3D-Diagramme** – sie verzerren die Daten. Ein 3D-Kreis kippt die Stücke und
+  lügt über ihre Größe. Niemals.
+- **Zwei-Achsen-Diagramme** – zwei y-Achsen können Unverwandtes verwandt aussehen
+  lassen. Mit extremer Vorsicht benutzen, oder gar nicht.
+- **Kreisdiagramme mit vielen Stücken** – unlesbar. Nimm stattdessen ein
+  Balkendiagramm.
+- **Abgeschnittene Achsen** – ein Balkendiagramm, dessen Achse bei 90 % statt bei 0
+  beginnt, lässt einen winzigen Unterschied riesig aussehen. Beginne die Achse bei
+  null, außer du hast einen starken Grund.
+
+## Eine Kuriosität: das Diagramm, das eine Nation anlog
+
+Bei der US-Wahl 2012 zeigte ein viel geteiltes Diagramm, dass Präsident Obama
+„98 % der Stimmen" gewann – weil es eine Karte der *County*-Siege war, und ländliche
+Countys sind riesig an Fläche, aber winzig an Bevölkerung. Die Karte zeigte Land,
+nicht Menschen, und irrte Millionen. Die Lehre: Ein Diagramm kann technisch korrekt
+und völlig irreführend sein. Die Aufgabe des Analysten ist, die Sicht zu wählen, die
+die *Wahrheit* zeigt, nicht nur *eine* Wahrheit.
+
+## Farbe mit Absicht
+
+Farbe ist mächtig und leicht verschwendet:
+
+- Nutz Farbe zum **Hervorheben**, nicht zum Dekorieren.
+- Reserviere Rot für „schlecht / unter Ziel", Grün für „gut" – und übernutze keines
+  von beiden.
+- Design für **farbenblinde** Leser: verlass dich nicht nur auf Rot/Grün; füge
+  Labels oder Formen hinzu.
+- Weniger Farben = klarere Botschaft.
+
+## Ein Dashboard ist eine Geschichte, keine Farbpalette
+
+Jedes Visual auf einer Seite sollte sich seinen Platz verdienen, indem es die
+Geschichte voranbringt. Wenn ein Diagramm dem Leser nicht hilft zu verstehen oder
+zu entscheiden, schneid es raus. Eine saubere Seite mit drei guten Diagrammen
+schlägt eine volle Seite mit zwölf hübschen.
+
+---
+
+## Was du aus diesem Kapitel mitnimmst
+
+- Stimme das Diagramm auf die Frage ab, nicht darauf, was cool aussieht.
+- Balken zum Vergleichen; Linien für Zeit; kleine Kreisdiagramme für Teile eines
+  Ganzen.
+- Meide 3D, Zwei-Achsen-Tricks, viele-Stück-Kuchen und abgeschnittene Achsen.
+- Ein Diagramm kann korrekt und trotzdem irreführend sein – wähle die ehrliche Sicht.
+- Nutz Farbe zum Hervorheben, und design für farbenblinde Leser.
+
+Als Nächstes: das Ganze zusammenfügen – Berichte und Dashboards, die Leute wirklich
+nutzen.

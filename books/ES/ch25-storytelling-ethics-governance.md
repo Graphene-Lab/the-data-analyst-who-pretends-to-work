@@ -1,1 +1,110 @@
-IyAyNS4gTmFycmFyIGhpc3Rvcmlhcywgw6l0aWNhIHkgZ29iZXJuYW56YQoKQXF1w60gZXN0w6EgbGEgcGFydGUgcXVlIGxhIGhlcnJhbWllbnRhIG5vIHB1ZWRlIGhhY2VyIHBvciB0aS4gUHVlZGUgY29uc3RydWlyIGxhCm1lZGlkYSwgdmFsaWRhciBlbCBEQVggeSBkb2N1bWVudGFyIGVsIG1vZGVsby4gTm8gcHVlZGUgZGVjaWRpciBxdcOpIHNpZ25pZmljYSBsYQpoaXN0b3JpYSwgc2kgZWwgbsO6bWVybyBlcyBob25lc3RvLCBvIHNpIGVsIG1vZGVsbyBlcyBzZWd1cm8gZGUgZmlhci4gRXNvIGVzIHR1eW8uCkVzdGUgY2Fww610dWxvIHRyYXRhIGRlIGxhcyB0cmVzIGNvc2FzIHF1ZSBzZSBxdWVkYW4gaHVtYW5hcy4KCiMjIE5hcnJhciBoaXN0b3JpYXM6IGVsIG7Dum1lcm8gbm8gZXMgZWwgYXN1bnRvCgpVbiBwYW5lbCBsbGVubyBkZSBuw7ptZXJvcyBjb3JyZWN0b3MgcXVlIG5vIGN1ZW50YSBuaW5ndW5hIGhpc3RvcmlhIGVzIHVuIG11cm8gZGUKcnVpZG8uIEVsIHZhbG9yIGRlbCBhbsOhbGlzaXMgZXMgbGEgZGVjaXNpw7NuIHF1ZSBpbXB1bHNhLiBBc8OtIHF1ZSBlbCB0cmFiYWpvIHJlYWwgZGVsCmFuYWxpc3RhIGVzIGNvbnZlcnRpciBuw7ptZXJvcyBlbiB1bmEgaGlzdG9yaWEgcXVlIGFsZ3VpZW4gcHVlZGEgYWNjaW9uYXIuCgpVbmEgZXN0cnVjdHVyYSBzaW1wbGUgZnVuY2lvbmE6CgotICoqUXXDqSBwYXPDsy4qKiBFbCBoZWNobywgbGxhbmFtZW50ZS4gwqtMYXMgdmVudGFzIGRlIGNvY2luYSBjYXllcm9uIGVzdGUgdHJpbWVzdHJlLsK7Ci0gKipQb3IgcXXDqSBpbXBvcnRhLioqIExvIHF1ZSBlc3TDoSBlbiBqdWVnby4gwqtMYSBjb2NpbmEgZXMgZWwgNDAlIGRlIG51ZXN0cm8gaW5ncmVzby7CuwotICoqUXXDqSBoYWNlci4qKiBMYSBhY2Npw7NuLiDCq1JldmlzYSBlbCBwcmVjaW8gZGVsIHByb3ZlZWRvciBlbiBlbCBTS1UgcHJpbmNpcGFsLsK7CgpFbCBhc2lzdGVudGUgdGUgZGEgbGEgcHJpbWVyYSBsw61uZWEgYWwgaW5zdGFudGUuIExhIHNlZ3VuZGEgeSBsYSB0ZXJjZXJhIHNvbiBjcml0ZXJpbzoKY29udGV4dG8gcXVlIGxhIGhlcnJhbWllbnRhIG5vIHRpZW5lLgoKPiBVbmEgY3VyaW9zaWRhZDogbGEgcGFsYWJyYSDCq2RhdGHCuyB2aWVuZSBkZWwgbGF0w61uICpkYXJlKiwgwqtkYXLCuy4gTG9zIGRhdG9zIGVzdMOhbgo+IGhlY2hvcyBwYXJhIHNlciBkYWRvcywgbm8gYWNhcGFyYWRvcy4gVW4gbsO6bWVybyBxdWUgbnVuY2EgbGxlZ2EgYSB1bmEgZGVjaXNpw7NuIG51bmNhCj4gZnVlIHJlYWxtZW50ZSBkYWRvLgoKIyMgTGEgaG9uZXN0aWRhZCBkZSB1biBncsOhZmljbwoKTG9zIG1pc21vcyBkYXRvcyBwdWVkZW4gY29udGFyIGhpc3RvcmlhcyBvcHVlc3RhcyBzZWfDum4gY8OzbW8gbG9zIGRpYnVqZXMuIFVuIGVqZQp0cnVuY2FkbyBoYWNlIHF1ZSB1biBjYW1iaW8gcGVxdWXDsW8gcGFyZXpjYSBlbm9ybWUuIFVuYSB2ZW50YW5hIHRlbXBvcmFsIGVsZWdpZGEgYQpkZWRvIGhhY2UgcXVlIHVuIGh1bmRpbWllbnRvIHBhcmV6Y2EgdW5hIHRlbmRlbmNpYS4gRXN0byBubyBlcyBudWV2bzogZXMgdGFuIHZpZWpvCmNvbW8gbG9zIGdyw6FmaWNvcyBtaXNtb3MsIHBlcm8gdW5hIGhlcnJhbWllbnRhIHF1ZSBoYWNlIGxvcyBncsOhZmljb3Mgc2luIGVzZnVlcnpvCnRhbWJpw6luIGhhY2UgbG9zIGVuZ2HDsW9zb3Mgc2luIGVzZnVlcnpvLgoKTGEgcmVnbGEgZXMgc2ltcGxlOiAqKmRpYnVqYSBlbCBncsOhZmljbyBob25lc3RvLCB5IGx1ZWdvIGN1ZW50YSBsYSBoaXN0b3JpYSBob25lc3RhLioqClNpIHRlIHNlbnRpcsOtYXMgaW5jw7Ntb2RvIGV4cGxpY2FuZG8gcG9yIHF1w6kgY29ydGFzdGUgZWwgZWplIGVuIGVzZSBwdW50bywgbm8gbG8gY29ydGVzLgoKPiBVbmEgYWR2ZXJ0ZW5jaWEgZmFtb3NhOiDCq0hheSB0cmVzIGNsYXNlcyBkZSBtZW50aXJhczogbWVudGlyYXMsIG1hbGRpdGFzIG1lbnRpcmFzIHkKPiBlc3RhZMOtc3RpY2FzLsK7IEVsIGNoaXN0ZSBwZXJkdXJhIHBvcnF1ZSB1biBuw7ptZXJvIGxsZXZhIHVuIGFpcmUgZGUgdmVyZGFkIHF1ZSBsYXMKPiBwYWxhYnJhcyBubyB0aWVuZW4uIEVzZSBhaXJlIGVzIHVuYSByZXNwb25zYWJpbGlkYWQsIG5vIHVuIHRydWNvLgoKIyMgw4l0aWNhOiB0cmVzIHByZWd1bnRhcyBhbnRlcyBkZSBwdWJsaWNhcgoKQW50ZXMgZGUgcXVlIGN1YWxxdWllciBhbsOhbGlzaXMgbGxlZ3VlIGEgdW4gdG9tYWRvciBkZSBkZWNpc2lvbmVzLCBwcmVndW50YToKCjEuICoqwr9FcyB2ZXJkYWQ/Kiogwr9FbCBuw7ptZXJvIHNpZ25pZmljYSBkZSB2ZXJkYWQgbG8gcXVlIGxhIGV0aXF1ZXRhIGFmaXJtYT8gKExhCiAgIHZhbGlkYWNpw7NuIGRlbCBhc2lzdGVudGUgYXl1ZGEgYXF1w60sIHBlcm8gZWwgc2lnbmlmaWNhZG8gZXMgdHV5by4pCjIuICoqwr9FcyBqdXN0bz8qKiDCv1BvZHLDrWEgdXNhcnNlIGVzdGUgYW7DoWxpc2lzIHBhcmEgZGHDsWFyIGEgYWxndWllbiBkZSBmb3JtYSBpbmp1c3RhOgogICBzZcOxYWxhciBhIHVuYSBwZXJzb25hLCBwZW5hbGl6YXIgYSB1biBncnVwbyB1IG9jdWx0YXIgdW5hIHZlcmRhZCBpbmPDs21vZGE/CjMuICoqwr9FcyBwcml2YWRvPyoqIMK/SW5jbHV5ZW4gbG9zIGRhdG9zIGluZm9ybWFjacOzbiBwZXJzb25hbCBxdWUgZGViZXLDrWEgcHJvdGVnZXJzZSBvCiAgIGFncmVnYXJzZT8KClVuYSBoZXJyYW1pZW50YSBxdWUgaGFjZSBlbCBhbsOhbGlzaXMgcsOhcGlkbyB0YW1iacOpbiBoYWNlIGbDoWNpbCBzYWx0YXJzZSBlc3RhcwpwcmVndW50YXMuIE5vIGxvIGhhZ2FzLiBMYSB2ZWxvY2lkYWQgbm8gZXMgZXhjdXNhIHBhcmEgdW5hIGNvbmNsdXNpw7NuIGRlc2N1aWRhZGEgbwpkYcOxaW5hLgoKIyMgR29iZXJuYW56YTogZWwgbW9kZWxvIGVzIHVuIGFjdGl2bwoKVW4gbW9kZWxvIHF1ZSBpbXB1bHNhIGRlY2lzaW9uZXMgZXMgdW4gYWN0aXZvIGRlIG5lZ29jaW8sIHkgbG9zIGFjdGl2b3MgbmVjZXNpdGFuCmdvYmVybmFuemE6CgotICoqwr9RdWnDqW4gbG8gcG9zZWU/KiogQWxndWllbiBkZWJlIHNlciByZXNwb25zYWJsZSBkZSBsb3MgbsO6bWVyb3MuCi0gKirCv0RlIGTDs25kZSB2aW5vPyoqIExhIGZ1ZW50ZSBkZSBkYXRvcyB5IGxhcyB0cmFuc2Zvcm1hY2lvbmVzIGRlYmVuIHNlciB0cmF6YWJsZXMuCi0gKirCv0VzdMOhIGRvY3VtZW50YWRvPyoqIFVuIG1vZGVsbyBxdWUgbmFkaWUgZW50aWVuZGUgZXMgdW4gbW9kZWxvIGVuIGVsIHF1ZSBuYWRpZQogIHB1ZWRlIGNvbmZpYXIsIG5pIGNhbWJpYXIgY29uIHNlZ3VyaWRhZC4KLSAqKsK/RXN0w6EgY29tcHJvYmFkbz8qKiBSZXZpc2lvbmVzIHJlZ3VsYXJlcyBkZSBidWVuYXMgcHLDoWN0aWNhcyB5IGRlIGNhbGlkYWQgbWFudGllbmVuCiAgbGEgZGVyaXZhIGEgcmF5YS4KCkFxdcOtIGVzIGRvbmRlIGVsIGFzaXN0ZW50ZSBicmlsbGEgZW4gc2lsZW5jaW8uIENhZGEgbWVkaWRhIHF1ZSBjcmVhIHB1ZWRlIGxsZXZhciB1bmEKZGVzY3JpcGNpw7NuLiBDYWRhIG1vZGVsbyBwdWVkZSBvYnRlbmVyIHVuIGRpY2Npb25hcmlvIGRlIGRhdG9zIGdlbmVyYWRvIHkgdW4gaW5mb3JtZQpkZSBidWVuYXMgcHLDoWN0aWNhcy4gTGEgZ29iZXJuYW56YSBzdWVsZSBzZXIgbGEgY29zYSBxdWUgbG9zIGVxdWlwb3Mgc2Ugc2FsdGFuIHBvcnF1ZQplcyB0ZWRpb3NhLCB5IHRlZGlvc28gZXMgZXhhY3RhbWVudGUgbG8gcXVlIHVuIGFzaXN0ZW50ZSBlbGltaW5hLgoKPiBVbmEgY3VyaW9zaWRhZDogZWwgdMOpcm1pbm8gwqtnb2Jlcm5hbnphwrsgZW4gZGF0b3MgdmllbmUgZGUgbGEgbWlzbWEgcmHDrXogcXVlCj4gwqtnb2JpZXJub8K7LiBObyBlcyBidXJvY3JhY2lhIHBvciBzw60gbWlzbWE6IGVzIGVsIGVzdGFkbyBkZSBkZXJlY2hvIHBhcmEgdHVzCj4gbsO6bWVyb3MuIFNpbiDDqWwsIGxvcyBkYXRvcyBzb24gdW4gZXN0YWRvIGZhbGxpZG8uCgojIyBMYSB2ZW50YWphIGh1bWFuYSwgcmVhZmlybWFkYQoKRWwgYXNpc3RlbnRlIHB1ZWRlIGhhY2VyIGVsICpjw7NtbyouIFTDuiBwb3NlZXMgZWwgKnF1w6kqLCBlbCAqcG9yIHF1w6kqIHkgZWwgKmRlYmVyw61hKi4KRXNhIGRpdmlzacOzbiBubyBlcyB1bmEgbGltaXRhY2nDs246IGVzIHRvZGEgbGEgcmF6w7NuIHBvciBsYSBxdWUgdW4gaHVtYW5vIHNpZ3VlIGVuIGVsCmJ1Y2xlLiBFbCBhbmFsaXN0YSBkZWwgZnV0dXJvIG5vIGVzIHJlZW1wbGF6YWRvIHBvciBsYSBoZXJyYW1pZW50YTsgZWwgYW5hbGlzdGEgZXMKcXVpZW4gaGFjZSBhIGxhIGhlcnJhbWllbnRhIGxhcyBwcmVndW50YXMgY29ycmVjdGFzIHkgcmVzcG9uZGUgbGFzIHByZWd1bnRhcyDDqXRpY2FzCnF1ZSBsYSBoZXJyYW1pZW50YSBubyBwdWVkZS4KCiMjIFVuIGJyZXZlIGxpc3RhZG8gcGFyYSBlbCBodW1hbm8KCkFudGVzIGRlIHB1YmxpY2FyIG5hZGEgcXVlIGVsIGFzaXN0ZW50ZSBheXVkw7MgYSBjb25zdHJ1aXI6CgotIFsgXSBFbCBncsOhZmljbyBlcyBob25lc3RvIChzaW4gZWplIGVuZ2HDsW9zbywgc2luIHZlbnRhbmEgZWxlZ2lkYSBhIGRlZG8pLgotIFsgXSBFbCBuw7ptZXJvIHNpZ25pZmljYSBsbyBxdWUgZGljZSBsYSBldGlxdWV0YS4KLSBbIF0gTGEgaGlzdG9yaWEgcmVzcG9uZGUgwqvCv3kgcXXDqT/CuyB5IMKrwr95IGFob3JhIHF1w6k/wrsuCi0gWyBdIEVsIG1vZGVsbyBlc3TDoSBkb2N1bWVudGFkbyB5IHRpZW5lIHVuIGR1ZcOxby4KLSBbIF0gRWwgYW7DoWxpc2lzIG5vIHBvZHLDrWEgdXNhcnNlIHBhcmEgZGHDsWFyIGRlIGZvcm1hIGluanVzdGEuCi0gWyBdIExvcyBkYXRvcyBwZXJzb25hbGVzIGVzdMOhbiBwcm90ZWdpZG9zIG8gYWdyZWdhZG9zLgoKU2VpcyBjYXNpbGxhcy4gTGEgaGVycmFtaWVudGEgaGl6byBsYXMgaG9yYXMgZGUgdHJhYmFqbzsgZXN0YXMgc2VpcyBjb21wcm9iYWNpb25lcyBzb24KbGEgcGFydGUgaHVtYW5hIHF1ZSBsbyBtYW50aWVuZSBmaWFibGUuCgotLS0KCiMjIExvIHF1ZSB0ZSBsbGV2YXLDoXMgZGUgZXN0ZSBjYXDDrXR1bG8KCi0gRWwgbsO6bWVybyBubyBlcyBlbCBhc3VudG86IGxvIGVzIGxhIGRlY2lzacOzbi4KLSBEaWJ1amEgZWwgZ3LDoWZpY28gaG9uZXN0bywgY3VlbnRhIGxhIGhpc3RvcmlhIGhvbmVzdGEuCi0gUHJlZ3VudGE6IMK/ZXMgdmVyZGFkLCBqdXN0bywgcHJpdmFkbz8KLSBFbCBtb2RlbG8gZXMgdW4gYWN0aXZvOiBkdWXDsW8sIHRyYXphYmlsaWRhZCwgZG9jdW1lbnRhY2nDs24sIGNvbXByb2JhY2lvbmVzLgotIExhIGhlcnJhbWllbnRhIGhhY2UgZWwgKmPDs21vKjsgdMO6IHBvc2VlcyBlbCAqcXXDqSosIGVsICpwb3IgcXXDqSogeSBlbCAqZGViZXLDrWEqLgoKU2lndWllbnRlOiB0dSBjYXJyZXJhIGNvbW8gYW5hbGlzdGEgZGUgZGF0b3MgZW4gbGEgZXJhIGRlbCBhc2lzdGVudGUuCg==
+# 25. Narrar historias, ética y gobernanza
+
+Aquí está la parte que la herramienta no puede hacer por ti. Puede construir la
+medida, validar el DAX y documentar el modelo. No puede decidir qué significa la
+historia, si el número es honesto, o si el modelo es seguro de fiar. Eso es tuyo.
+Este capítulo trata de las tres cosas que se quedan humanas.
+
+## Narrar historias: el número no es el asunto
+
+Un panel lleno de números correctos que no cuenta ninguna historia es un muro de
+ruido. El valor del análisis es la decisión que impulsa. Así que el trabajo real del
+analista es convertir números en una historia que alguien pueda accionar.
+
+Una estructura simple funciona:
+
+- **Qué pasó.** El hecho, llanamente. «Las ventas de cocina cayeron este trimestre.»
+- **Por qué importa.** Lo que está en juego. «La cocina es el 40% de nuestro ingreso.»
+- **Qué hacer.** La acción. «Revisa el precio del proveedor en el SKU principal.»
+
+El asistente te da la primera línea al instante. La segunda y la tercera son criterio:
+contexto que la herramienta no tiene.
+
+> Una curiosidad: la palabra «data» viene del latín *dare*, «dar». Los datos están
+> hechos para ser dados, no acaparados. Un número que nunca llega a una decisión nunca
+> fue realmente dado.
+
+## La honestidad de un gráfico
+
+Los mismos datos pueden contar historias opuestas según cómo los dibujes. Un eje
+truncado hace que un cambio pequeño parezca enorme. Una ventana temporal elegida a
+dedo hace que un hundimiento parezca una tendencia. Esto no es nuevo: es tan viejo
+como los gráficos mismos, pero una herramienta que hace los gráficos sin esfuerzo
+también hace los engañosos sin esfuerzo.
+
+La regla es simple: **dibuja el gráfico honesto, y luego cuenta la historia honesta.**
+Si te sentirías incómodo explicando por qué cortaste el eje en ese punto, no lo cortes.
+
+> Una advertencia famosa: «Hay tres clases de mentiras: mentiras, malditas mentiras y
+> estadísticas.» El chiste perdura porque un número lleva un aire de verdad que las
+> palabras no tienen. Ese aire es una responsabilidad, no un truco.
+
+## Ética: tres preguntas antes de publicar
+
+Antes de que cualquier análisis llegue a un tomador de decisiones, pregunta:
+
+1. **¿Es verdad?** ¿El número significa de verdad lo que la etiqueta afirma? (La
+   validación del asistente ayuda aquí, pero el significado es tuyo.)
+2. **¿Es justo?** ¿Podría usarse este análisis para dañar a alguien de forma injusta:
+   señalar a una persona, penalizar a un grupo u ocultar una verdad incómoda?
+3. **¿Es privado?** ¿Incluyen los datos información personal que debería protegerse o
+   agregarse?
+
+Una herramienta que hace el análisis rápido también hace fácil saltarse estas
+preguntas. No lo hagas. La velocidad no es excusa para una conclusión descuidada o
+dañina.
+
+## Gobernanza: el modelo es un activo
+
+Un modelo que impulsa decisiones es un activo de negocio, y los activos necesitan
+gobernanza:
+
+- **¿Quién lo posee?** Alguien debe ser responsable de los números.
+- **¿De dónde vino?** La fuente de datos y las transformaciones deben ser trazables.
+- **¿Está documentado?** Un modelo que nadie entiende es un modelo en el que nadie
+  puede confiar, ni cambiar con seguridad.
+- **¿Está comprobado?** Revisiones regulares de buenas prácticas y de calidad mantienen
+  la deriva a raya.
+
+Aquí es donde el asistente brilla en silencio. Cada medida que crea puede llevar una
+descripción. Cada modelo puede obtener un diccionario de datos generado y un informe
+de buenas prácticas. La gobernanza suele ser la cosa que los equipos se saltan porque
+es tediosa, y tedioso es exactamente lo que un asistente elimina.
+
+> Una curiosidad: el término «gobernanza» en datos viene de la misma raíz que
+> «gobierno». No es burocracia por sí misma: es el estado de derecho para tus
+> números. Sin él, los datos son un estado fallido.
+
+## La ventaja humana, reafirmada
+
+El asistente puede hacer el *cómo*. Tú posees el *qué*, el *por qué* y el *debería*.
+Esa división no es una limitación: es toda la razón por la que un humano sigue en el
+bucle. El analista del futuro no es reemplazado por la herramienta; el analista es
+quien hace a la herramienta las preguntas correctas y responde las preguntas éticas
+que la herramienta no puede.
+
+## Un breve listado para el humano
+
+Antes de publicar nada que el asistente ayudó a construir:
+
+- [ ] El gráfico es honesto (sin eje engañoso, sin ventana elegida a dedo).
+- [ ] El número significa lo que dice la etiqueta.
+- [ ] La historia responde «¿y qué?» y «¿y ahora qué?».
+- [ ] El modelo está documentado y tiene un dueño.
+- [ ] El análisis no podría usarse para dañar de forma injusta.
+- [ ] Los datos personales están protegidos o agregados.
+
+Seis casillas. La herramienta hizo las horas de trabajo; estas seis comprobaciones son
+la parte humana que lo mantiene fiable.
+
+---
+
+## Lo que te llevarás de este capítulo
+
+- El número no es el asunto: lo es la decisión.
+- Dibuja el gráfico honesto, cuenta la historia honesta.
+- Pregunta: ¿es verdad, justo, privado?
+- El modelo es un activo: dueño, trazabilidad, documentación, comprobaciones.
+- La herramienta hace el *cómo*; tú posees el *qué*, el *por qué* y el *debería*.
+
+Siguiente: tu carrera como analista de datos en la era del asistente.

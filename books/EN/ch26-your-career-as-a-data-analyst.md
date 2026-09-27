@@ -1,1 +1,99 @@
-IyAyNi4gWW91ciBDYXJlZXIgYXMgYSBEYXRhIEFuYWx5c3QgaW4gdGhlIEFnZSBvZiB0aGUgQXNzaXN0YW50CgpUaGUgYm9vayBlbmRzIHdoZXJlIHlvdXIgY2FyZWVyIGFjdHVhbGx5IGJlZ2luczogd2hhdCBkb2VzIGl0IG1lYW4gdG8gYmUgYSBkYXRhCmFuYWx5c3Qgbm93LCB3aGVuIGEgdG9vbCBjYW4gZG8gbXVjaCBvZiB0aGUgZG9pbmc/IFRoaXMgY2hhcHRlciBpcyBhIHByYWN0aWNhbAphbnN3ZXIuCgojIyBUaGUgam9iIGRlc2NyaXB0aW9uIGlzIGNoYW5naW5nCgpGb3IgeWVhcnMsIGEgZGF0YSBhbmFseXN0J3Mgam9iIGRlc2NyaXB0aW9uIHdhcyBhIGxpc3Qgb2YgdG9vbHM6IEV4Y2VsLCBTUUwsIFBvd2VyCkJJLCBhIGJpdCBvZiBQeXRob24uIFRoYXQgbGlzdCBpcyBiZWNvbWluZyBhIGZsb29yLCBub3QgYSBjZWlsaW5nLiBUaGUgbmV3IGpvYiBpcwpsZXNzICJvcGVyYXRlIHRoZSB0b29scyIgYW5kIG1vcmUgImFzayB0aGUgcXVlc3Rpb25zIGFuZCBvd24gdGhlIGFuc3dlcnMuIgoKV2hhdCdzIGNoYW5naW5nOgoKLSAqKkZyb20gc3ludGF4IHRvIGludGVudC4qKiBZb3UgdXNlZCB0byBiZSBwYWlkIHRvIGtub3cgdGhlIERBWC4gTm93IHlvdSdyZSBwYWlkCiAgdG8ga25vdyB0aGUgcXVlc3Rpb24uCi0gKipGcm9tIGJ1aWxkaW5nIHRvIGp1ZGdpbmcuKiogVGhlIHRvb2wgYnVpbGRzOyB5b3UgZGVjaWRlIHdoYXQncyByaWdodC4KLSAqKkZyb20gcHJvZHVjaW5nIHRvIGludGVycHJldGluZy4qKiBBbnlvbmUgY2FuIG1ha2UgYSBjaGFydC4gWW91IG1ha2UgaXQgbWVhbgogIHNvbWV0aGluZy4KCiMjIFdoYXQgdGhlIGFzc2lzdGFudCBkb2VzICpub3QqIHRha2UgYXdheQoKSXQncyB0ZW1wdGluZyB0byB0aGluayBhIGNhcGFibGUgdG9vbCBzaHJpbmtzIHRoZSBhbmFseXN0J3Mgcm9sZS4gVGhlIG9wcG9zaXRlIGlzCmNsb3NlciB0byB0cnVlLiBUaGUgYXNzaXN0YW50IHJlbW92ZXMgdGhlIHBhcnRzIG9mIHRoZSBqb2IgdGhhdCB3ZXJlIHRlZGlvdXMgYW5kCmxvdy12YWx1ZSwgYW5kIHB1c2hlcyB5b3UgdXAgdGhlIHZhbHVlIGNoYWluOgoKLSAqKkN1cmlvc2l0eSoqIGlzIHdvcnRoIG1vcmUsIG5vdCBsZXNzLiBUaGUgYmV0dGVyIHlvdXIgcXVlc3Rpb25zLCB0aGUgbW9yZSB0aGUKICB0b29sIGdpdmVzIHlvdS4KLSAqKkNvbnRleHQqKiBpcyB5b3VycyBhbG9uZS4gVGhlIHRvb2wgZG9lc24ndCBrbm93IHlvdXIgYnVzaW5lc3MsIHlvdXIgY3VzdG9tZXJzLAogIHlvdXIgcG9saXRpY3MuIFlvdSBkby4KLSAqKlRydXN0KiogaXMgYnVpbHQgYnkgdGhlIGh1bWFuLiBQZW9wbGUgYWN0IG9uIGFuYWx5c2lzIGJlY2F1c2UgdGhleSB0cnVzdCB0aGUKICBwZXJzb24gYmVoaW5kIGl0LCBub3QgdGhlIHNvZnR3YXJlIHRoYXQgbWFkZSBpdC4KCiMjIFRoZSBza2lsbHMgdG8gZG91YmxlIGRvd24gb24KCklmIHlvdSB3YW50IHRvIHRocml2ZSBhcyBhbiBhbmFseXN0IG5vdywgaW52ZXN0IGluIHRoZXNlOgoKMS4gKipBc2tpbmcgZ29vZCBxdWVzdGlvbnMuKiogVGhlIGJvdHRsZW5lY2sgbW92ZWQgaGVyZS4gTGVhcm4gdG8gZnJhbWUgYSBidXNpbmVzcwogICBwcm9ibGVtIGFzIGEgZGF0YSBxdWVzdGlvbi4KMi4gKipEYXRhIGxpdGVyYWN5LioqIFVuZGVyc3RhbmQgd2hhdCBkYXRhIGNhbiBhbmQgY2Fubm90IHRlbGwgeW91LiBTcG90IGEgYmFkCiAgIGFzc3VtcHRpb24gYmVmb3JlIGl0IGJlY29tZXMgYSBiYWQgZGVjaXNpb24uCjMuICoqU3Rvcnl0ZWxsaW5nLioqIFR1cm4gYSByZXN1bHQgaW50byBhIGRlY2lzaW9uLiBUaGlzIGlzIHRoZSBtb3N0CiAgIGNhcmVlci1wcm9vZiBza2lsbCBpbiB0aGUgZmllbGQuCjQuICoqSnVkZ2VtZW50IGFuZCBldGhpY3MuKiogS25vdyB3aGVuIGEgbnVtYmVyIGlzIG1pc2xlYWRpbmcsIHdoZW4gYW4gYW5hbHlzaXMgaXMKICAgdW5mYWlyLCB3aGVuIHRvIHNheSAibm90IHlldC4iCjUuICoqRmx1ZW5jeSB3aXRoIHRoZSBhc3Npc3RhbnQuKiogTGVhcm4gdG8gdGFsayB0byB0aGUgdG9vbC4gVGhlIGFuYWx5c3RzIHdobyB3aW4KICAgYXJlIG5vdCB0aGUgb25lcyB3aG8gcmVzaXN0IHRoZSBhc3Npc3RhbnQg4oCUIHRoZXkncmUgdGhlIG9uZXMgd2hvIHVzZSBpdCBiZXN0LgoKIyMgQSBjdXJpb3NpdHk6IHRoZSBjYWxjdWxhdG9yIGFuYWx5c3QKCldoZW4gZWxlY3Ryb25pYyBzcHJlYWRzaGVldHMgYXJyaXZlZCBpbiB0aGUgMTk4MHMsIHBlb3BsZSBwcmVkaWN0ZWQgdGhlIGVuZCBvZiB0aGUKZmluYW5jaWFsIGFuYWx5c3QuIFRoZSBzcHJlYWRzaGVldCBkaWQgdGhlIGFyaXRobWV0aWMgaW5zdGFudGx5LCBzbyB0aGUKYXJpdGhtZXRpYy1iYXNlZCBqb2Igd291bGQgdmFuaXNoLiBXaGF0IGFjdHVhbGx5IGhhcHBlbmVkOiB0aGUgbnVtYmVyIG9mIGFuYWx5c3RzCmdyZXcsIGJlY2F1c2UgYW5hbHlzaXMgZ290IGNoZWFwIGVub3VnaCB0byBkbyBldmVyeXdoZXJlLiBUaGUgam9iIHNoaWZ0ZWQgZnJvbQoqY29tcHV0aW5nKiB0byAqdGhpbmtpbmcqLiBUaGUgc2FtZSBzaGlmdCBpcyBoYXBwZW5pbmcgbm93LCB3aXRoIGEgYmlnZ2VyIHRvb2wuCgojIyBUaGUgcG9ydGZvbGlvIGJlYXRzIHRoZSBjZXJ0aWZpY2F0ZQoKSW4gYSB3b3JsZCB3aGVyZSB0aGUgdG9vbCBjYW4gcHJvZHVjZSB0aGUgYXJ0aWZhY3QsIHdoYXQgcHJvdmVzIHlvdSdyZSBnb29kPyBOb3QgYQpjZXJ0aWZpY2F0ZSDigJQgYSBwb3J0Zm9saW8uIFNob3cgdGhhdCB5b3UgY2FuOgoKLSBUdXJuIGEgbWVzc3kgcXVlc3Rpb24gaW50byBhIGNsZWFuIG1vZGVsLgotIFZhbGlkYXRlIGFuZCBkb2N1bWVudCB5b3VyIHdvcmsuCi0gVGVsbCBhIHN0b3J5IHRoYXQgZHJvdmUgYSBkZWNpc2lvbi4KLSBVc2UgdGhlIGFzc2lzdGFudCB3ZWxsLCBhbmQga25vdyBpdHMgbGltaXRzLgoKVGhlIGFwcGVuZGljZXMgb2YgdGhpcyBib29rIGdpdmUgeW91IGEgcG9ydGZvbGlvIHByb2plY3QgbW9kZWwgYW5kIGd1aWRlZCBleGVyY2lzZXMKZm9yIGV4YWN0bHkgdGhpcy4gQnVpbGQgYSBmZXcsIHNob3cgdGhlbSwgYW5kIHRoZSB0b29sIGJlY29tZXMgcGFydCBvZiB5b3VyIHN0b3J5LApub3QgYSB0aHJlYXQgdG8gaXQuCgojIyBUaGUgaG9uZXN0IHdhcm5pbmcKClRoZXJlIGlzIGEgcmVhbCByaXNrOiB0aGUgYXNzaXN0YW50IG1ha2VzIGl0IGVhc3kgdG8gcHJvZHVjZSBhbiBhbnN3ZXIgeW91IGRvbid0CnVuZGVyc3RhbmQuIEEganVuaW9yIHdobyBsZWFucyBvbiB0aGUgdG9vbCB3aXRob3V0IGp1ZGdlbWVudCBiZWNvbWVzIGEgYnV0dG9uLCBub3QKYW4gYW5hbHlzdC4gVGhlIHdheSB0byBhdm9pZCB0aGF0IGlzIHRvIHVzZSB0aGUgYXNzaXN0YW50IHRvICpsZWFybiBmYXN0ZXIqLCBub3QgdG8KKnRoaW5rIGxlc3MqLiBBc2sgaXQgdG8gZXhwbGFpbiB0aGUgREFYIGl0IHdyb3RlLiBDaGVjayBpdHMgd29yay4gVW5kZXJzdGFuZCBldmVyeQpudW1iZXIgYmVmb3JlIHlvdSBwdWJsaXNoIGl0LiBVc2VkIHRoYXQgd2F5LCB0aGUgYXNzaXN0YW50IG1ha2VzIHlvdSBiZXR0ZXIuIFVzZWQKbGF6aWx5LCBpdCBtYWtlcyB5b3UgZGVwZW5kZW50LgoKIyMgV2hlcmUgdGhpcyBsZWF2ZXMgeW91CgpZb3UgYXJlIG5vdCB0aGUgcGVyc29uIHdobyBvcGVyYXRlcyB0aGUgdG9vbC4gWW91IGFyZSB0aGUgcGVyc29uIHdobyBkZWNpZGVzIHdoYXQKdGhlIHRvb2wgc2hvdWxkIGRvLCBjaGVja3MgdGhhdCBpdCBkaWQgaXQgcmlnaHQsIGFuZCB0dXJucyB0aGUgcmVzdWx0IGludG8Kc29tZXRoaW5nIHRoYXQgbWF0dGVycy4gVGhhdCBpcyBhIG1vcmUgaW50ZXJlc3Rpbmcgam9iIHRoYW4gdGhlIG9uZSBpdCByZXBsYWNlZCDigJQKYW5kIGl0J3MgdGhlIG9uZSB0aGlzIGJvb2sgaGFzIGJlZW4gcXVpZXRseSBwcmVwYXJpbmcgeW91IGZvciwgb25lIHBsYWluLUVuZ2xpc2gKZXhhbXBsZSBhdCBhIHRpbWUuCgotLS0KCiMjIFdoYXQgeW91J2xsIGNhcnJ5IGZyb20gdGhpcyBjaGFwdGVyCgotIFRoZSBqb2IgbW92ZWQgZnJvbSBvcGVyYXRpbmcgdG9vbHMgdG8gYXNraW5nIHF1ZXN0aW9ucyBhbmQgb3duaW5nIGFuc3dlcnMuCi0gQ3VyaW9zaXR5LCBjb250ZXh0LCBhbmQgdHJ1c3QgYXJlIHdvcnRoIG1vcmUsIG5vdCBsZXNzLgotIERvdWJsZSBkb3duIG9uIHF1ZXN0aW9ucywgbGl0ZXJhY3ksIHN0b3J5dGVsbGluZywganVkZ2VtZW50LCBhbmQgZmx1ZW5jeSB3aXRoIHRoZQogIGFzc2lzdGFudC4KLSBBIHBvcnRmb2xpbyBiZWF0cyBhIGNlcnRpZmljYXRlLgotIFVzZSB0aGUgYXNzaXN0YW50IHRvIGxlYXJuIGZhc3Rlciwgbm90IHRvIHRoaW5rIGxlc3MuCgpOZXh0OiBhIHNob3J0IGNvbmNsdXNpb24sIHRoZW4gdGhlIGFwcGVuZGljZXMuCg==
+# 26. Your Career as a Data Analyst in the Age of the Assistant
+
+The book ends where your career actually begins: what does it mean to be a data
+analyst now, when a tool can do much of the doing? This chapter is a practical
+answer.
+
+## The job description is changing
+
+For years, a data analyst's job description was a list of tools: Excel, SQL, Power
+BI, a bit of Python. That list is becoming a floor, not a ceiling. The new job is
+less "operate the tools" and more "ask the questions and own the answers."
+
+What's changing:
+
+- **From syntax to intent.** You used to be paid to know the DAX. Now you're paid
+  to know the question.
+- **From building to judging.** The tool builds; you decide what's right.
+- **From producing to interpreting.** Anyone can make a chart. You make it mean
+  something.
+
+## What the assistant does *not* take away
+
+It's tempting to think a capable tool shrinks the analyst's role. The opposite is
+closer to true. The assistant removes the parts of the job that were tedious and
+low-value, and pushes you up the value chain:
+
+- **Curiosity** is worth more, not less. The better your questions, the more the
+  tool gives you.
+- **Context** is yours alone. The tool doesn't know your business, your customers,
+  your politics. You do.
+- **Trust** is built by the human. People act on analysis because they trust the
+  person behind it, not the software that made it.
+
+## The skills to double down on
+
+If you want to thrive as an analyst now, invest in these:
+
+1. **Asking good questions.** The bottleneck moved here. Learn to frame a business
+   problem as a data question.
+2. **Data literacy.** Understand what data can and cannot tell you. Spot a bad
+   assumption before it becomes a bad decision.
+3. **Storytelling.** Turn a result into a decision. This is the most
+   career-proof skill in the field.
+4. **Judgement and ethics.** Know when a number is misleading, when an analysis is
+   unfair, when to say "not yet."
+5. **Fluency with the assistant.** Learn to talk to the tool. The analysts who win
+   are not the ones who resist the assistant — they're the ones who use it best.
+
+## A curiosity: the calculator analyst
+
+When electronic spreadsheets arrived in the 1980s, people predicted the end of the
+financial analyst. The spreadsheet did the arithmetic instantly, so the
+arithmetic-based job would vanish. What actually happened: the number of analysts
+grew, because analysis got cheap enough to do everywhere. The job shifted from
+*computing* to *thinking*. The same shift is happening now, with a bigger tool.
+
+## The portfolio beats the certificate
+
+In a world where the tool can produce the artifact, what proves you're good? Not a
+certificate — a portfolio. Show that you can:
+
+- Turn a messy question into a clean model.
+- Validate and document your work.
+- Tell a story that drove a decision.
+- Use the assistant well, and know its limits.
+
+The appendices of this book give you a portfolio project model and guided exercises
+for exactly this. Build a few, show them, and the tool becomes part of your story,
+not a threat to it.
+
+## The honest warning
+
+There is a real risk: the assistant makes it easy to produce an answer you don't
+understand. A junior who leans on the tool without judgement becomes a button, not
+an analyst. The way to avoid that is to use the assistant to *learn faster*, not to
+*think less*. Ask it to explain the DAX it wrote. Check its work. Understand every
+number before you publish it. Used that way, the assistant makes you better. Used
+lazily, it makes you dependent.
+
+## Where this leaves you
+
+You are not the person who operates the tool. You are the person who decides what
+the tool should do, checks that it did it right, and turns the result into
+something that matters. That is a more interesting job than the one it replaced —
+and it's the one this book has been quietly preparing you for, one plain-English
+example at a time.
+
+---
+
+## What you'll carry from this chapter
+
+- The job moved from operating tools to asking questions and owning answers.
+- Curiosity, context, and trust are worth more, not less.
+- Double down on questions, literacy, storytelling, judgement, and fluency with the
+  assistant.
+- A portfolio beats a certificate.
+- Use the assistant to learn faster, not to think less.
+
+Next: a short conclusion, then the appendices.

@@ -1,1 +1,119 @@
-IyBEQVg6IGlsIGxpbmd1YWdnaW8gZGlldHJvIGkgbnVtZXJpCgpEQVggw6ggaWwgbGluZ3VhZ2dpbyBkaSBjYWxjb2xvIGRlbnRybyBQb3dlciBCSS4gSGEgbGEgbm9tZWEgZGkgZmFyZSBwYXVyYS4gUXVlc3RvCmNhcGl0b2xvIHBhcmxhIGRpIHBlcmNow6kgY29udGEsIGUgcGVyY2jDqSwgY29uIGwnYXNzaXN0ZW50ZSwgcHVvaSB1c2FybG8gc2VuemEgbWFpCmNvbWJhdHRlcmxvLgoKIyMgQSBjb3NhIHNlcnZlIERBWAoKREFYIChEYXRhIEFuYWx5c2lzIEV4cHJlc3Npb25zKSBjYWxjb2xhIGkgbnVtZXJpIG5laSB0dW9pIHJlcG9ydDogdG90YWxpLCBtZWRpZSwKcGVyY2VudHVhbGksIGFubm8gc3UgYW5ubywgdG90YWxpIHByb2dyZXNzaXZpLCBjbGFzc2lmaWNoZS4gT2duaSBtaXN1cmEgY2hlIHZlZGkgc3UKdW5hIGRhc2hib2FyZCBQb3dlciBCSSDDqCBEQVggc290dG8gaWwgY29mYW5vLgoKTGUgZnVuemlvbmkgY2VudHJhbGkgc29ubyBzZW1wbGljaTogYFNVTWAsIGBBVkVSQUdFYCwgYENPVU5UYCwgYE1JTmAsIGBNQVhgLCBlIGxhCnBvdGVudGlzc2ltYSBgQ0FMQ1VMQVRFYCwgY2hlIHRpIHBlcm1ldHRlIGRpIGNhbGNvbGFyZSB1biBudW1lcm8gKnNvdHRvIHVuIGZpbHRybwpzcGVjaWZpY28qLgoKIyMgTCdhc3Npc3RlbnRlIGxvIHNjcml2ZTsgdHUgbG8gbGVnZ2kKCk5vbiBkaWdpdGkgREFYLiBEZXNjcml2aSBpbCBudW1lcm8gY2hlIHZ1b2ksIGUgbCdhc3Npc3RlbnRlIHNjcml2ZSBpbCBEQVggZSBjcmVhCmxhIG1pc3VyYSBkYWwgdml2by4gTWEgZG92cmVzdGkgZXNzZXJlIGluIGdyYWRvIGRpICpsZWdnZXJlKiBjacOyIGNoZSBoYSBwcm9kb3R0bywKY29zw6wgZGEgZmlkYXJ0ZW5lLgoKPiAiQ3JlYSB1bmEgbWlzdXJhIHZlbmRpdGUgc29sbyBNaWxhbm8uIgoKIVtNaXN1cmEgdmVuZGl0ZSBNaWxhbm9dKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9lMDUzLnBuZykKClNvdHRvIGlsIGNvZmFubyDDqCBgQ0FMQ1VMQVRFKFtUb3RhbCBTYWxlc10sIFN0b3Jlc1tDaXR5XSA9ICJNaWxhbiIpYDogbGUgdmVuZGl0ZQp0b3RhbGksIG1hIHNvbG8gZG92ZSBsYSBjaXR0w6Agw6ggTWlsYW5vLiBVbmEgdm9sdGEgdmlzdG8gaWwgcGF0dGVybiwgREFYIHNtZXR0ZSBkaQplc3NlcmUgbWFnaWEuCgojIyBWYWxpZGEgcHJpbWEgZGkgZmlkYXJ0aQoKTCdhc3Npc3RlbnRlIHB1w7IgdGVzdGFyZSB1bmEgZm9ybXVsYSBzZW56YSBjcmVhcmUgbnVsbGE6Cgo+ICLDiCB1bmEgbWlzdXJhIHZhbGlkYT8gU1VNKFNhbGVzW0Ftb3VudF0pIgoKIVtWYWxpZGF6aW9uZSBtaXN1cmEgYnVvbmFdKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9lMDQ5LnBuZykKCj4gIkNvbnRyb2xsYSBxdWVzdGEgZm9ybXVsYSByb3R0YTogU1VNWChTYWxlc1tBbW91bnRdKSIKCiFbVmFsaWRhemlvbmUgbWlzdXJhIHJvdHRhXSguLi8uLi9hc3NldHMvZXhhbXBsZXMvZTA1MC5wbmcpCgpVbmEgcGFzc2EsIHVuYSBmYWxsaXNjZSwgZSBpbXBhcmkgY29zYSBjJ8OoIGNoZSBub24gdmEgKnByaW1hKiBjaGUgZGl2ZW50aSB1bmEgbWlzdXJhCnJvdHRhIG5lbCBtb2RlbGxvLiBRdWVzdGEgYWJpdHVkaW5lIGRlbCAiY29udHJvbGxhIHByaW1hIiBmYSByaXNwYXJtaWFyZSBvcmUgZGkKZGVidWdnaW5nLgoKPiAiVmFsaWRhIHVuYSBtaXN1cmEgQ0FMQ1VMQVRFLiIKCiFbVmFsaWRhemlvbmUgQ0FMQ1VMQVRFXSguLi8uLi9hc3NldHMvZXhhbXBsZXMvZTA4MS5wbmcpCgo+ICJWYWxpZGEgdW5hIG1pc3VyYSBwZXJjZW50dWFsZS4iCgohW1ZhbGlkYXppb25lIHBlcmNlbnR1YWxlXSguLi8uLi9hc3NldHMvZXhhbXBsZXMvZTA5NC5wbmcpCgojIyBMaW50aW5nOiBpbCB2aWdpbGUgZGVsbG8gc3RpbGUgcGVyIERBWAoKT2x0cmUgYSAiZnVuemlvbmE/IiwgbCdhc3Npc3RlbnRlIHB1w7IgY29udHJvbGxhcmUgIsOoICpiZW4gc2NyaXR0YSo/IiwgdW4gcHJvY2Vzc28KY2hpYW1hdG8gKipsaW50aW5nKiouIEZpdXRhIGVycm9yaSBjb211bmkgZSBwYXR0ZXJuIHJpc2NoaW9zaS4KCj4gIkZhaSBpbCBsaW50IGRpIHF1ZXN0byBEQVg6IFNVTShhKS9TVU0oYikiCgohW0xpbnQgZGl2aXNpb25lIGNvbiBiYXJyYV0oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2UwNTEucG5nKQoKQXZ2ZXJ0ZTogbm9uIHVzYXJlIHVuYSBgL2Agc2VtcGxpY2UsIHVzYSBgRElWSURFYCwgY2hlIGdlc3Rpc2NlIGxhIGRpdmlzaW9uZSBwZXIKemVybyBpbiBzaWN1cmV6emEuIFVuIHBpY2NvbG8gcHJvbWVtb3JpYSBjaGUgcHJldmllbmUgdW4naW50ZXJhIGNsYXNzZSBkaSBlcnJvcmkKYCNESVYvMCFgLgoKPiAiRmFpIGlsIGxpbnQgZGkgcXVlc3RvIERBWCBwdWxpdG8gY29uIERJVklERS4iCgohW0xpbnQgREFYIHB1bGl0b10oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2UwNTIucG5nKQoKTGEgdmVyc2lvbmUgcHVsaXRhIHBhc3NhLiBJbXBhcmkgaWwgYnVvbiBwYXR0ZXJuIHZlZGVuZG9sbyBwcmVtaWF0by4KCj4gIkZhaSBpbCBsaW50IGRpIHVuYSBtaXN1cmEgY2hlIHVzYSBJRkVSUk9SLiIKCiFbTGludCBJRkVSUk9SXSguLi8uLi9hc3NldHMvZXhhbXBsZXMvZTA4Mi5wbmcpCgpTZWduYWxhIGBJRkVSUk9SYCBjb21lIHVuIGNhdHRpdm8gc2Vnbm86IGluY2FydGFyZSBnbGkgZXJyb3JpIHB1w7IgbmFzY29uZGVyZSB2ZXJpCmJ1ZyBpbnZlY2UgZGkgc2lzdGVtYXJsaS4gSWwgbGludGVyIGluc2VnbmEgYnVvbmUgYWJpdHVkaW5pIHVuIGF2dmVydGltZW50byBhbGxhCnZvbHRhLgoKIyMgTW9kaWZpY2FyZSBsZSBtaXN1cmUKCkxlIG1pc3VyZSBldm9sdm9uby4gTCdhc3Npc3RlbnRlIHB1w7IgYWdnaW9ybmFybGUgZSBjYW5jZWxsYXJsZToKCj4gIkNhbWJpYSBpbCBmb3JtYXRvIGRpIFZlbmRpdGUgVG90YWxpIGluIGV1cm8gaW50ZXJpLiIKCiFbQWdnaW9ybmEgZm9ybWF0b10oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2UwNTQucG5nKQoKPiAiQ2FuY2VsbGEgbGEgbWlzdXJhIE1pbGFuIFNhbGVzLiIKCiFbQ2FuY2VsbGEgbWlzdXJhXSguLi8uLi9hc3NldHMvZXhhbXBsZXMvZTA1NS5wbmcpCgpSaW5vbWluYSwgcmlmb3JtYXR0YSwgcmltdW92aTogdHV0dG8gZGFsIHZpdm8sIHR1dHRvIHJldmVyc2liaWxlIGZpbmNow6kgbm9uCnNhbHZpLgoKIyMgVW5hIGN1cmlvc2l0w6A6IGxhIGJlc3RpYSBkZWwgY29udGVzdG8gZGkgZmlsdHJvCgpMYSByYWdpb25lIHBlciBjdWkgREFYIMOoIGNoaWFtYXRvIGRpZmZpY2lsZSDDqCB1biBjb25jZXR0bzogaWwgKipjb250ZXN0byBkaQpmaWx0cm8qKjogbCdpbnNpZW1lIGludmlzaWJpbGUgZGkgZmlsdHJpIGNoZSB1biBjYWxjb2xvIHZlZGUgaW4gb2duaSBtb21lbnRvIChsYQpyaWdhIGNvcnJlbnRlLCBsYSBzZWxlemlvbmUgY29ycmVudGUgZGVsbG8gc2xpY2VyLCBpbCB2aXN1YWwgY29ycmVudGUpLgpQYWRyb25lZ2dpYWxvIGUgREFYIMOoIHR1byBhbWljbzsgZnJhaW50ZW5kaWxvIGUgaSBudW1lcmkgc2VtYnJhbm8gc2JhZ2xpYXRpIGluIG1vZGkKZGlmZmljaWxpIGRhIHJpbnRyYWNjaWFyZS4gRWNjbyBsYSB2ZXJpdMOgIGxpYmVyYXRvcmlhIGRpIHF1ZXN0byBsaWJybzogKip0dQpkZXNjcml2aSBsYSByaXNwb3N0YSwgZSBsJ2Fzc2lzdGVudGUgZ2VzdGlzY2UgaWwgY29udGVzdG8gZGkgZmlsdHJvLioqIExhIGJlc3RpYQpkaXZlbnRhIHVuIHByb2JsZW1hIGRlbGxvIHN0cnVtZW50bywgbm9uIHR1by4KCi0tLQoKIyMgQ29zYSB0aSBwb3J0aSBhIGNhc2EgZGEgcXVlc3RvIGNhcGl0b2xvCgotIERBWCBjYWxjb2xhIGkgbnVtZXJpOyBgQ0FMQ1VMQVRFYCDDqCBsYSBzdWEgcGFyb2xhIHBpw7kgcG90ZW50ZS4KLSBUdSBkZXNjcml2aSBsYSByaXNwb3N0YTsgbCdhc3Npc3RlbnRlIHNjcml2ZSBpbCBEQVguCi0gVmFsaWRhIHVuYSBmb3JtdWxhIHByaW1hIGRpIGNyZWFybGEuCi0gRmFpIGlsIGxpbnQgcGVyIGNvZ2xpZXJlIGkgcGF0dGVybiBjYXR0aXZpIChgL2Agc2VtcGxpY2UsIGBJRkVSUk9SYCBjaGUKICBuYXNjb25kZSBidWcpLgotIExhIHBhcnRlIGRpZmZpY2lsZSwgaWwgY29udGVzdG8gZGkgZmlsdHJvLCBvcmEgw6ggdW4gY29tcGl0byBkZWxsbyBzdHJ1bWVudG8uCgpQcm9zc2ltbzogdmVkZXJlIMOoIGNyZWRlcmU6IGNvbWUgc2NlZ2xpZXJlIGlsIGdyYWZpY28gZ2l1c3RvIGUgbm9uIG1lbnRpcmUgY29uIGxlCnZpc3VhbC4K
+# DAX: il linguaggio dietro i numeri
+
+DAX è il linguaggio di calcolo dentro Power BI. Ha la nomea di fare paura. Questo
+capitolo parla di perché conta, e perché, con l'assistente, puoi usarlo senza mai
+combatterlo.
+
+## A cosa serve DAX
+
+DAX (Data Analysis Expressions) calcola i numeri nei tuoi report: totali, medie,
+percentuali, anno su anno, totali progressivi, classifiche. Ogni misura che vedi su
+una dashboard Power BI è DAX sotto il cofano.
+
+Le funzioni centrali sono semplici: `SUM`, `AVERAGE`, `COUNT`, `MIN`, `MAX`, e la
+potentissima `CALCULATE`, che ti permette di calcolare un numero *sotto un filtro
+specifico*.
+
+## L'assistente lo scrive; tu lo leggi
+
+Non digiti DAX. Descrivi il numero che vuoi, e l'assistente scrive il DAX e crea
+la misura dal vivo. Ma dovresti essere in grado di *leggere* ciò che ha prodotto,
+così da fidartene.
+
+> "Crea una misura vendite solo Milano."
+
+![Misura vendite Milano](../../assets/examples/e053.png)
+
+Sotto il cofano è `CALCULATE([Total Sales], Stores[City] = "Milan")`: le vendite
+totali, ma solo dove la città è Milano. Una volta visto il pattern, DAX smette di
+essere magia.
+
+## Valida prima di fidarti
+
+L'assistente può testare una formula senza creare nulla:
+
+> "È una misura valida? SUM(Sales[Amount])"
+
+![Validazione misura buona](../../assets/examples/e049.png)
+
+> "Controlla questa formula rotta: SUMX(Sales[Amount])"
+
+![Validazione misura rotta](../../assets/examples/e050.png)
+
+Una passa, una fallisce, e impari cosa c'è che non va *prima* che diventi una misura
+rotta nel modello. Questa abitudine del "controlla prima" fa risparmiare ore di
+debugging.
+
+> "Valida una misura CALCULATE."
+
+![Validazione CALCULATE](../../assets/examples/e081.png)
+
+> "Valida una misura percentuale."
+
+![Validazione percentuale](../../assets/examples/e094.png)
+
+## Linting: il vigile dello stile per DAX
+
+Oltre a "funziona?", l'assistente può controllare "è *ben scritta*?", un processo
+chiamato **linting**. Fiuta errori comuni e pattern rischiosi.
+
+> "Fai il lint di questo DAX: SUM(a)/SUM(b)"
+
+![Lint divisione con barra](../../assets/examples/e051.png)
+
+Avverte: non usare una `/` semplice, usa `DIVIDE`, che gestisce la divisione per
+zero in sicurezza. Un piccolo promemoria che previene un'intera classe di errori
+`#DIV/0!`.
+
+> "Fai il lint di questo DAX pulito con DIVIDE."
+
+![Lint DAX pulito](../../assets/examples/e052.png)
+
+La versione pulita passa. Impari il buon pattern vedendolo premiato.
+
+> "Fai il lint di una misura che usa IFERROR."
+
+![Lint IFERROR](../../assets/examples/e082.png)
+
+Segnala `IFERROR` come un cattivo segno: incartare gli errori può nascondere veri
+bug invece di sistemarli. Il linter insegna buone abitudini un avvertimento alla
+volta.
+
+## Modificare le misure
+
+Le misure evolvono. L'assistente può aggiornarle e cancellarle:
+
+> "Cambia il formato di Vendite Totali in euro interi."
+
+![Aggiorna formato](../../assets/examples/e054.png)
+
+> "Cancella la misura Milan Sales."
+
+![Cancella misura](../../assets/examples/e055.png)
+
+Rinomina, riformatta, rimuovi: tutto dal vivo, tutto reversibile finché non
+salvi.
+
+## Una curiosità: la bestia del contesto di filtro
+
+La ragione per cui DAX è chiamato difficile è un concetto: il **contesto di
+filtro**: l'insieme invisibile di filtri che un calcolo vede in ogni momento (la
+riga corrente, la selezione corrente dello slicer, il visual corrente).
+Padroneggialo e DAX è tuo amico; fraintendilo e i numeri sembrano sbagliati in modi
+difficili da rintracciare. Ecco la verità liberatoria di questo libro: **tu
+descrivi la risposta, e l'assistente gestisce il contesto di filtro.** La bestia
+diventa un problema dello strumento, non tuo.
+
+---
+
+## Cosa ti porti a casa da questo capitolo
+
+- DAX calcola i numeri; `CALCULATE` è la sua parola più potente.
+- Tu descrivi la risposta; l'assistente scrive il DAX.
+- Valida una formula prima di crearla.
+- Fai il lint per cogliere i pattern cattivi (`/` semplice, `IFERROR` che
+  nasconde bug).
+- La parte difficile, il contesto di filtro, ora è un compito dello strumento.
+
+Prossimo: vedere è credere: come scegliere il grafico giusto e non mentire con le
+visual.

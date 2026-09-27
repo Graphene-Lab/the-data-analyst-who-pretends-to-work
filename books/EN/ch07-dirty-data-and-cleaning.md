@@ -1,1 +1,112 @@
-IyA3LiBEaXJ0eSBEYXRhIGFuZCBIb3cgdG8gQ2xlYW4gSXQKCkhlcmUgaXMgYSB0cnV0aCBub2JvZHkgcHV0cyBvbiB0aGUgam9iIGRlc2NyaXB0aW9uOiAqKm1vc3Qgb2YgYW4gYW5hbHlzdCdzIHRpbWUgaXMKc3BlbnQgY2xlYW5pbmcgZGF0YS4qKiBSZWFsLXdvcmxkIGRhdGEgaXMgbWVzc3kg4oCUIG1pc3NwZWxsZWQsIGR1cGxpY2F0ZWQsIG1pc3NpbmcsCmluY29uc2lzdGVudC4gR2FyYmFnZSBpbiwgZ2FyYmFnZSBvdXQuIEJlZm9yZSB5b3UgY2FuIGZpbmQgYW55IHRydXRoLCB5b3UgaGF2ZSB0bwpzd2VlcCB0aGUgZmxvb3IuCgojIyBUaGUgdXN1YWwgbWVzcwoKRXZlcnkgYW5hbHlzdCBtZWV0cyB0aGUgc2FtZSBjYXN0IG9mIHByb2JsZW1zOgoKLSAqKkluY29uc2lzdGVudCB0ZXh0Kiog4oCUICJNaWxhbiIsICJtaWxhbiIsICJNSUxBTk8iLCAiTWlsYW5vICIuIEZvdXIgdmFsdWVzLCBvbmUKICBjaXR5LgotICoqTWl4ZWQgZm9ybWF0cyoqIOKAlCBkYXRlcyBhcyAwMy8wNC8yMDI1IGFuZCAyMDI1LTA0LTAzIGluIHRoZSBzYW1lIGNvbHVtbi4KLSAqKk1pc3NpbmcgdmFsdWVzKiog4oCUIGJsYW5rIGNpdGllcywgZW1wdHkgY2F0ZWdvcmllcywgbm8gcGhvbmUgbnVtYmVyLgotICoqRHVwbGljYXRlcyoqIOKAlCB0aGUgc2FtZSBjdXN0b21lciB0d2ljZSB1bmRlciB0d28gZW1haWxzLgotICoqV3JvbmcgdHlwZXMqKiDigJQgYSBudW1iZXIgc3RvcmVkIGFzIHRleHQsIHNvIGl0IHdvbid0IGFkZCB1cC4KLSAqKk91dC1vZi1wbGFjZSB2YWx1ZXMqKiDigJQgYSBuZWdhdGl2ZSBzYWxlIHRoYXQgaXMgcmVhbGx5IGEgcmVmdW5kLgoKTm9uZSBvZiB0aGVzZSBhcmUgZHJhbWF0aWMuIEFsbCBvZiB0aGVtIHdpbGwgcXVpZXRseSBydWluIGFuIGFuYWx5c2lzIGlmIHlvdSBpZ25vcmUKdGhlbS4KCiMjIENsZWFuaW5nIHdpdGggY2FsY3VsYXRlZCBjb2x1bW5zCgpJbiBQb3dlciBCSSwgYSBsb3Qgb2YgY2xlYW5pbmcgaXMgZG9uZSB3aXRoICoqY2FsY3VsYXRlZCBjb2x1bW5zKiog4oCUIG5ldyBjb2x1bW5zCnlvdSBjcmVhdGUgd2l0aCBhIGZvcm11bGEgdGhhdCBmaXhlcyBvciBzdGFuZGFyZGlzZXMgZXhpc3RpbmcgZGF0YS4gVGhpcyBpcyBleGFjdGx5CndoZXJlIHRoZSBhc3Npc3RhbnQgc2hpbmVzOiB5b3UgZGVzY3JpYmUgdGhlIGZpeCBpbiBwbGFpbiB3b3JkcywgaXQgd3JpdGVzIHRoZQpmb3JtdWxhIGFuZCBhcHBsaWVzIGl0IGxpdmUuCgoqKlN0YW5kYXJkaXNlIHRleHQuKiogQSBwZXJzb24gYXNrZWQ6Cgo+ICJBZGQgYSBjb2x1bW4gd2l0aCB0aGUgY2F0ZWdvcnkgaW4gY2FwaXRhbCBsZXR0ZXJzLiIKCiFbQ2F0ZWdvcnkgaW4gY2FwaXRhbHNdKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9lMDExLnBuZykKCk5vdyAia2l0Y2hlbiIsICJLaXRjaGVuIiwgYW5kICJLSVRDSEVOIiBhbGwgYmVjb21lICJLSVRDSEVOIiBhbmQgZ3JvdXAgdG9nZXRoZXIuCk9uZSBzbWFsbCBjb2x1bW4sIG9uZSB3aG9sZSBjbGFzcyBvZiBwcm9ibGVtIGdvbmUuCgoqKlR1cm4gYSBudW1iZXIgaW50byBhIHVzYWJsZSBiYW5kLioqCgo+ICJCdWNrZXQgcHJvZHVjdHMgaW50byBIaWdoIC8gTWlkIC8gTG93IGJ5IHByaWNlLiIKCiFbUHJpY2UgYmFuZF0oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2UwMTIucG5nKQoKQSByYXcgcHJpY2Ugb2Yg4oKsMjQ5IGlzIGhhcmQgdG8gZ3JvdXAgYnkuIEEgYmFuZCBvZiAiSGlnaCIgaXMgZWFzeSB0byBjaGFydCBhbmQgZWFzeQp0byB0YWxrIGFib3V0LiBUaGlzIGlzIG9uZSBvZiB0aGUgbW9zdCB1c2VmdWwgdHJpY2tzIGluIGFuYWx5c2lzOiB0dXJuaW5nIGEKY29udGludW91cyBudW1iZXIgaW50byBhIGZyaWVuZGx5IGNhdGVnb3J5LgoKQW5kIGhlcmUgaXMgd2hhdCB0aGF0IGJhbmQgYnV5cyB5b3Ug4oCUIHNhbGVzIGdyb3VwZWQgYW5kIGNoYXJ0ZWQgYnkgcHJpY2UgYmFuZDoKCiFbU2FsZXMgYnkgcHJpY2UgYmFuZCDigJQgYmFyIGNoYXJ0XSguLi8uLi9hc3NldHMvZXhhbXBsZXMvY2hhcnQtcHJpY2ViYW5kLnBuZykKCioqQ29tYmluZSBmaWVsZHMgaW50byBhIGxhYmVsLioqCgo+ICJNYWtlIGEgY3VzdG9tZXIgbGFiZWwgbGlrZSAnTmFtZSAoQ2l0eSknLiIKCiFbQ3VzdG9tZXIgbGFiZWxdKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9lMDEzLnBuZykKCk5vdyBldmVyeSBjdXN0b21lciBoYXMgb25lIGNsZWFuIGRpc3BsYXkgbGFiZWwsIGJ1aWx0IGZyb20gdHdvIGNvbHVtbnMsIHdpdGhvdXQKYW55b25lIHR5cGluZyBhIHRoaW5nLgoKIyMgQ2hlY2sgYmVmb3JlIHlvdSBjb21taXQKCkEgZ29vZCBoYWJpdDogKip2YWxpZGF0ZSB0aGUgZm9ybXVsYSBiZWZvcmUgeW91IHNhdmUgaXQuKiogVGhlIGFzc2lzdGFudCBjYW4gdGVzdCBhCmZvcm11bGEgYW5kIHNob3cgeW91IGEgc2FtcGxlIHZhbHVlLCBzbyB5b3Uga25vdyBpdCB3b3JrcyBiZWZvcmUgaXQgYmVjb21lcyBwYXJ0IG9mCnRoZSBtb2RlbC4KCj4gIkNoZWNrIHRoaXMgcHJpY2UtYmFuZCBmb3JtdWxhIGJlZm9yZSBJIHNhdmUgaXQuIgoKIVtWYWxpZGF0ZSB0aGUgcHJpY2UgYmFuZF0oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2UwMTQucG5nKQoKSXQgcmV0dXJucyAiVmFsaWQiIHdpdGggYSBzYW1wbGUgdmFsdWUuIE5vIHN1cnByaXNlcyBsYXRlci4KCiMjIEh1bnRpbmcgdGhlIGJsYW5rcwoKTWlzc2luZyB2YWx1ZXMgYXJlIHNpbGVudCBraWxsZXJzLiBBIGJsYW5rIGNpdHkgbWVhbnMgYSBjdXN0b21lciB2YW5pc2hlcyBmcm9tIGV2ZXJ5Cm1hcC4gVGhlIGFzc2lzdGFudCBjYW4gaHVudCB0aGVtIGRvd246Cgo+ICJBbnkgYmxhbmsgY2l0aWVzIGluIHRoZSBjdXN0b21lciBsaXN0PyIKCiFbQmxhbmsgY2l0aWVzIGNoZWNrXSguLi8uLi9hc3NldHMvZXhhbXBsZXMvZTA3Mi5wbmcpCgpJZiB0aGUgcmVzdWx0IGlzIGVtcHR5LCB5b3UgYXJlIGNsZWFuLiBJZiBub3QsIHlvdSBrbm93IGV4YWN0bHkgd2hlcmUgdGhlIGhvbGVzIGFyZQpiZWZvcmUgdGhleSBtaXNsZWFkIGEgY2hhcnQuCgojIyBBIGN1cmlvc2l0eTogODAvMjAgb2YgdGhlIGpvYgoKQXNrIGFueSBleHBlcmllbmNlZCBhbmFseXN0IGhvdyB0aGVpciB0aW1lIHNwbGl0cyBhbmQgeW91J2xsIGhlYXIgYSB2ZXJzaW9uIG9mIHRoZQpzYW1lIGpva2U6ICoqODAlIG9mIGRhdGEgc2NpZW5jZSBpcyBjbGVhbmluZyBkYXRhLCBhbmQgdGhlIG90aGVyIDIwJSBpcwpjb21wbGFpbmluZyBhYm91dCBjbGVhbmluZyBkYXRhLioqIEl0J3MgYSBjbGljaMOpIGJlY2F1c2UgaXQncyB0cnVlLiBUaGUgYW5hbHlzdHMgd2hvCmFyZSBnb29kIGF0IGNsZWFuaW5nIGFyZSB3b3J0aCB0aGVpciB3ZWlnaHQg4oCUIGJlY2F1c2UgYSBiZWF1dGlmdWwgbW9kZWwgYnVpbHQgb24KZGlydHkgZGF0YSBpcyBhIGJlYXV0aWZ1bCB3YXkgdG8gYmUgd3JvbmcuCgojIyBXaGVuIGNsZWFuaW5nIGlzIG5ldmVyIGVub3VnaAoKU29tZXRpbWVzIHRoZSBkYXRhIGlzIHRvbyBmYXIgZ29uZSDigJQgbWlzc2luZyA0MCUgb2YgYSBrZXkgZmllbGQsIG9yIHR3byBzeXN0ZW1zCnRoYXQgc2ltcGx5IGRpc2FncmVlLiBBIGdvb2QgYW5hbHlzdCBrbm93cyB3aGVuIHRvIHN0b3AgY2xlYW5pbmcgYW5kIGVzY2FsYXRlOiAqZml4CnRoaXMgYXQgdGhlIHNvdXJjZSosIG9yICpjb2xsZWN0IGJldHRlciBkYXRhIG5leHQgdGltZSouIENsZWFuaW5nIGlzIGEgdG9vbCwgbm90IGEKcmVsaWdpb24uCgotLS0KCiMjIFdoYXQgeW91J2xsIGNhcnJ5IGZyb20gdGhpcyBjaGFwdGVyCgotIFJlYWwgZGF0YSBpcyBkaXJ0eTsgY2xlYW5pbmcgaXMgbW9zdCBvZiB0aGUgam9iLgotIENhbGN1bGF0ZWQgY29sdW1ucyBmaXggdGV4dCwgYmFuZCBudW1iZXJzLCBhbmQgYnVpbGQgbGFiZWxzIGluIHNlY29uZHMuCi0gVmFsaWRhdGUgYSBmb3JtdWxhIGJlZm9yZSB5b3UgY29tbWl0IGl0LgotIEh1bnQgdGhlIGJsYW5rcyBiZWZvcmUgdGhleSBtaXNsZWFkIGEgY2hhcnQuCi0gS25vdyB3aGVuIHRvIHN0b3AgY2xlYW5pbmcgYW5kIGZpeCB0aGUgc291cmNlLgoKTmV4dDogaG93IGRhdGEgcGllY2VzIGNvbm5lY3Qg4oCUIHRhYmxlcywga2V5cywgYW5kIHJlbGF0aW9uc2hpcHMg4oCUIHRoZSB3aXJpbmcgdGhhdAptYWtlcyBhbmFseXNpcyBwb3NzaWJsZS4K
+# 7. Dirty Data and How to Clean It
+
+Here is a truth nobody puts on the job description: **most of an analyst's time is
+spent cleaning data.** Real-world data is messy — misspelled, duplicated, missing,
+inconsistent. Garbage in, garbage out. Before you can find any truth, you have to
+sweep the floor.
+
+## The usual mess
+
+Every analyst meets the same cast of problems:
+
+- **Inconsistent text** — "Milan", "milan", "MILANO", "Milano ". Four values, one
+  city.
+- **Mixed formats** — dates as 03/04/2025 and 2025-04-03 in the same column.
+- **Missing values** — blank cities, empty categories, no phone number.
+- **Duplicates** — the same customer twice under two emails.
+- **Wrong types** — a number stored as text, so it won't add up.
+- **Out-of-place values** — a negative sale that is really a refund.
+
+None of these are dramatic. All of them will quietly ruin an analysis if you ignore
+them.
+
+## Cleaning with calculated columns
+
+In Power BI, a lot of cleaning is done with **calculated columns** — new columns
+you create with a formula that fixes or standardises existing data. This is exactly
+where the assistant shines: you describe the fix in plain words, it writes the
+formula and applies it live.
+
+**Standardise text.** A person asked:
+
+> "Add a column with the category in capital letters."
+
+![Category in capitals](../../assets/examples/e011.png)
+
+Now "kitchen", "Kitchen", and "KITCHEN" all become "KITCHEN" and group together.
+One small column, one whole class of problem gone.
+
+**Turn a number into a usable band.**
+
+> "Bucket products into High / Mid / Low by price."
+
+![Price band](../../assets/examples/e012.png)
+
+A raw price of €249 is hard to group by. A band of "High" is easy to chart and easy
+to talk about. This is one of the most useful tricks in analysis: turning a
+continuous number into a friendly category.
+
+And here is what that band buys you — sales grouped and charted by price band:
+
+![Sales by price band — bar chart](../../assets/examples/chart-priceband.png)
+
+**Combine fields into a label.**
+
+> "Make a customer label like 'Name (City)'."
+
+![Customer label](../../assets/examples/e013.png)
+
+Now every customer has one clean display label, built from two columns, without
+anyone typing a thing.
+
+## Check before you commit
+
+A good habit: **validate the formula before you save it.** The assistant can test a
+formula and show you a sample value, so you know it works before it becomes part of
+the model.
+
+> "Check this price-band formula before I save it."
+
+![Validate the price band](../../assets/examples/e014.png)
+
+It returns "Valid" with a sample value. No surprises later.
+
+## Hunting the blanks
+
+Missing values are silent killers. A blank city means a customer vanishes from every
+map. The assistant can hunt them down:
+
+> "Any blank cities in the customer list?"
+
+![Blank cities check](../../assets/examples/e072.png)
+
+If the result is empty, you are clean. If not, you know exactly where the holes are
+before they mislead a chart.
+
+## A curiosity: 80/20 of the job
+
+Ask any experienced analyst how their time splits and you'll hear a version of the
+same joke: **80% of data science is cleaning data, and the other 20% is
+complaining about cleaning data.** It's a cliché because it's true. The analysts who
+are good at cleaning are worth their weight — because a beautiful model built on
+dirty data is a beautiful way to be wrong.
+
+## When cleaning is never enough
+
+Sometimes the data is too far gone — missing 40% of a key field, or two systems
+that simply disagree. A good analyst knows when to stop cleaning and escalate: *fix
+this at the source*, or *collect better data next time*. Cleaning is a tool, not a
+religion.
+
+---
+
+## What you'll carry from this chapter
+
+- Real data is dirty; cleaning is most of the job.
+- Calculated columns fix text, band numbers, and build labels in seconds.
+- Validate a formula before you commit it.
+- Hunt the blanks before they mislead a chart.
+- Know when to stop cleaning and fix the source.
+
+Next: how data pieces connect — tables, keys, and relationships — the wiring that
+makes analysis possible.

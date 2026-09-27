@@ -1,1 +1,75 @@
-IyBBcMOpbmRpY2UgRyDigJQgVW4gbW9kZWxvIGRlIHByb3llY3RvIGRlIHBvcnRhZm9saW8KClVuIHBvcnRhZm9saW8gcHJ1ZWJhIHF1ZSBwdWVkZXMgaGFjZXIgZWwgdHJhYmFqby4gRXN0ZSBtb2RlbG8gdGUgZGEgdW4gcHJveWVjdG8gcGFyYQpjb25zdHJ1aXIsIGRvY3VtZW50YXIgeSBtb3N0cmFyLiBIYXogdW5vIG8gZG9zIGRlIGVzdG9zIHkgdGVuZHLDoXMgYWxnbyBhIGxvIHF1ZSBzZcOxYWxhcgplbiB1bmEgZW50cmV2aXN0YS4KCiMjIEVsIHByb3llY3RvOiB1biBwYW5lbCBkZSBhbsOhbGlzaXMgZGUgdmVudGFzCgpDb25zdHJ1eWUgdW4gcGVxdWXDsW8gYW7DoWxpc2lzIGRlIHB1bnRhIGEgcHVudGEgc29icmUgdW4gY29uanVudG8gZGUgZGF0b3MgZGUgdmVudGFzIGRlCm11ZXN0cmEgKGxhIG1pc21hIGZvcm1hIHVzYWRhIGEgbG8gbGFyZ28gZGUgZXN0ZSBsaWJybzogU2FsZXMsIFByb2R1Y3RzLCBDdXN0b21lcnMsClN0b3JlcykuCgojIyMgUGFzbyAxIOKAlCBFbnRlbmRlciBsb3MgZGF0b3MKCi0gUGVyZmlsYWRvIGRlIGNhZGEgdGFibGEuCi0gQW5vdGEgdmFsb3JlcyBkaXN0aW50b3MsIGh1ZWNvcyB5IHJhbmdvcy4KLSBFc2NyaWJlIHVuYSBmcmFzZSBwb3IgdGFibGE6IHF1w6kgZ3VhcmRhLgoKIyMjIFBhc28gMiDigJQgTGltcGlhciB5IG1vZGVsYXIKCi0gRXN0YW5kYXJpemEgZWwgdGV4dG8gZGVzb3JkZW5hZG8gKGNvbHVtbmFzIFVQUEVSL0xPV0VSKS4KLSBFbmNham9uYSBuw7ptZXJvcyBlbiBiYW5kYXMgKGJhbmRhcyBkZSBwcmVjaW8pLgotIENhYmxlYSBsYXMgcmVsYWNpb25lcyAoU2FsZXMg4oaSIFByb2R1Y3RzLCBDdXN0b21lcnMsIFN0b3JlcykuCgojIyMgUGFzbyAzIOKAlCBDb25zdHJ1aXIgbGFzIG3DqXRyaWNhcwoKLSBWZW50YXMgVG90YWxlcywgQ2FudGlkYWQgVG90YWwsIFBlZGlkb3MuCi0gVmFsb3IgTWVkaW8gZGVsIFBlZGlkbywgVmVudGFzIHBvciBDbGllbnRlLgotIFVuYSBtZWRpZGEgZGUgbWFyZ2VuIChpbmdyZXNvIG1lbm9zIGNvc3RlKS4KLSBVbmEgbWVkaWRhIGRlIHBhcnRpY2lwYWNpw7NuIGRlbCB0b3RhbC4KCiMjIyBQYXNvIDQg4oCUIFNlZ21lbnRhcgoKLSBNZWpvcmVzIGNsaWVudGVzIHBvciBnYXN0by4KLSBWZW50YXMgcG9yIHNlZ21lbnRvIChSZXRhaWwgLyBCdXNpbmVzcyAvIE9ubGluZSkuCi0gVmVudGFzIHBvciByZWdpw7NuIHkgcG9yIG1lcy4KCiMjIyBQYXNvIDUg4oCUIFZhbGlkYXIgeSBkb2N1bWVudGFyCgotIFZhbGlkYSBjYWRhIG1lZGlkYSBhbnRlcyBkZSBndWFyZGFyLgotIFBhc2EgZWwgbGludGVyIGFsIERBWCBwb3IgYW50aXBhdHJvbmVzLgotIEdlbmVyYSBlbCBkaWNjaW9uYXJpbyBkZSBkYXRvcy4KLSBDb3JyZSBlbCBpbmZvcm1lIGRlIGJ1ZW5hcyBwcsOhY3RpY2FzLgoKIyMjIFBhc28gNiDigJQgVmlzdWFsaXphcgoKLSBVbmEgZmlsYSBkZSB0YXJqZXRhcyBLUEkgKHZlbnRhcyB0b3RhbGVzLCBwZWRpZG9zLCBwZWRpZG8gbWVkaW8pLgotIFVuIGdyw6FmaWNvIGRlIGJhcnJhcyBkZSB2ZW50YXMgcG9yIGNhdGVnb3LDrWEuCi0gVW4gZ3LDoWZpY28gZGUgbMOtbmVhcyBkZSBsYSB0ZW5kZW5jaWEgbWVuc3VhbC4KLSBVbmEgdGFibGEgZGUgY2xhc2lmaWNhY2nDs24gZGUgdG9wIHByb2R1Y3Rvcy4KCiMjIFF1w6kgbW9zdHJhciBlbiBlbCBwb3J0YWZvbGlvCgpQYXJhIGNhZGEgcHJveWVjdG8sIHByZXNlbnRhOgoKMS4gKipMYSBwcmVndW50YS4qKiBRdcOpIHByb2JsZW1hIGRlIG5lZ29jaW8gZXN0YWJhcyByZXNvbHZpZW5kby4KMi4gKipFbCBtb2RlbG8uKiogVW5hIGNhcHR1cmEgZGUgbGFzIHRhYmxhcyB5IHJlbGFjaW9uZXMuCjMuICoqTGFzIG3DqXRyaWNhcy4qKiBMYXMgbWVkaWRhcyBxdWUgY29uc3RydWlzdGUsIGNvbiBzdSBEQVguCjQuICoqRWwgcGFuZWwuKiogTG9zIHZpc3VhbGVzIGZpbmFsZXMuCjUuICoqTGEgaGlzdG9yaWEuKiogUXXDqSBlbmNvbnRyYXN0ZSB5IHF1w6kgaGFyw61hcyBhbCByZXNwZWN0by4KNi4gKipFbCB1dGlsbGFqZS4qKiBVbmEgbm90YSBkZSBxdWUgbG8gY29uc3RydWlzdGUgY29uIEFnZW50QnJpZGdlICsgUG93ZXJCSVRvb2wsIHkKICAgY8OzbW8gYXl1ZMOzIGVsIGFzaXN0ZW50ZSAodmFsaWRhY2nDs24sIGRvY3VtZW50YWNpw7NuLCBidWVuYXMgcHLDoWN0aWNhcykuCgojIyBQb3IgcXXDqSBmdW5jaW9uYQoKQSB1biBlbnRyZXZpc3RhZG9yIG5vIGxlIGltcG9ydGEgcXVlIGxhIGhlcnJhbWllbnRhIGxvIGhpY2llcmEgcsOhcGlkby4gTGUgaW1wb3J0YSBxdWUKcHVlZGFzOiBwbGFudGVhciB1biBwcm9ibGVtYSwgY29uc3RydWlyIHVuIG1vZGVsbyBsaW1waW8sIHZhbGlkYXIgdHUgdHJhYmFqbywKZG9jdW1lbnRhcmxvIHkgY29udGFyIHVuYSBoaXN0b3JpYS4gRXN0ZSBwcm95ZWN0byBlamVyY2l0YSBsb3Mgc2Vpcy4gTGEgaGVycmFtaWVudGEgZXMKdW4gZXh0cmEgcXVlIG11ZXN0cmEgcXVlIGVzdMOhcyBhbCBkw61hLCBubyB1biBhdGFqbyBxdWUgcmVlbXBsYXphIGVsIHBlbnNhbWllbnRvLgoKIyMgSGF6bG8gdHV5bwoKQ2FtYmlhIGxvcyBkYXRvcyBkZSBtdWVzdHJhIHBvciB1biBjb25qdW50byBxdWUgdGUgaW1wb3J0ZTogdW4gaG9iYnksIHVuIGRhdGFzZXQKcMO6YmxpY28sIHVuIHByb3llY3RvIHBhcmFsZWxvLiBDdWFudG8gbcOhcyB0ZSBpbXBvcnRlIGVsIHRlbWEsIG1lam9yZXMgcHJlZ3VudGFzIGhhcsOhcywgeQptZWpvciBzZSB2ZXLDoSBlbCBwb3J0YWZvbGlvLiBFbCBwYXRyw7NuIGVzIGVsIG1pc21vOyBsb3MgZGF0b3Mgc29uIHR1eW9zIHBhcmEgZWxlZ2lyLgo=
+# Apéndice G — Un modelo de proyecto de portafolio
+
+Un portafolio prueba que puedes hacer el trabajo. Este modelo te da un proyecto para
+construir, documentar y mostrar. Haz uno o dos de estos y tendrás algo a lo que señalar
+en una entrevista.
+
+## El proyecto: un panel de análisis de ventas
+
+Construye un pequeño análisis de punta a punta sobre un conjunto de datos de ventas de
+muestra (la misma forma usada a lo largo de este libro: Sales, Products, Customers,
+Stores).
+
+### Paso 1 — Entender los datos
+
+- Perfilado de cada tabla.
+- Anota valores distintos, huecos y rangos.
+- Escribe una frase por tabla: qué guarda.
+
+### Paso 2 — Limpiar y modelar
+
+- Estandariza el texto desordenado (columnas UPPER/LOWER).
+- Encajona números en bandas (bandas de precio).
+- Cablea las relaciones (Sales → Products, Customers, Stores).
+
+### Paso 3 — Construir las métricas
+
+- Ventas Totales, Cantidad Total, Pedidos.
+- Valor Medio del Pedido, Ventas por Cliente.
+- Una medida de margen (ingreso menos coste).
+- Una medida de participación del total.
+
+### Paso 4 — Segmentar
+
+- Mejores clientes por gasto.
+- Ventas por segmento (Retail / Business / Online).
+- Ventas por región y por mes.
+
+### Paso 5 — Validar y documentar
+
+- Valida cada medida antes de guardar.
+- Pasa el linter al DAX por antipatrones.
+- Genera el diccionario de datos.
+- Corre el informe de buenas prácticas.
+
+### Paso 6 — Visualizar
+
+- Una fila de tarjetas KPI (ventas totales, pedidos, pedido medio).
+- Un gráfico de barras de ventas por categoría.
+- Un gráfico de líneas de la tendencia mensual.
+- Una tabla de clasificación de top productos.
+
+## Qué mostrar en el portafolio
+
+Para cada proyecto, presenta:
+
+1. **La pregunta.** Qué problema de negocio estabas resolviendo.
+2. **El modelo.** Una captura de las tablas y relaciones.
+3. **Las métricas.** Las medidas que construiste, con su DAX.
+4. **El panel.** Los visuales finales.
+5. **La historia.** Qué encontraste y qué harías al respecto.
+6. **El utillaje.** Una nota de que lo construiste con AgentBridge + PowerBITool, y
+   cómo ayudó el asistente (validación, documentación, buenas prácticas).
+
+## Por qué funciona
+
+A un entrevistador no le importa que la herramienta lo hiciera rápido. Le importa que
+puedas: plantear un problema, construir un modelo limpio, validar tu trabajo,
+documentarlo y contar una historia. Este proyecto ejercita los seis. La herramienta es
+un extra que muestra que estás al día, no un atajo que reemplaza el pensamiento.
+
+## Hazlo tuyo
+
+Cambia los datos de muestra por un conjunto que te importe: un hobby, un dataset
+público, un proyecto paralelo. Cuanto más te importe el tema, mejores preguntas harás, y
+mejor se verá el portafolio. El patrón es el mismo; los datos son tuyos para elegir.

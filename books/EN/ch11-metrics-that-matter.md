@@ -1,1 +1,112 @@
-IyAxMS4gVGhlIE1ldHJpY3MgVGhhdCBNYXR0ZXIKCkEgbWV0cmljIGlzIGEgbnVtYmVyIHlvdSB3YXRjaCB0byBrbm93IGhvdyB0aGUgYnVzaW5lc3MgaXMgZG9pbmcuIENob29zZSB0aGUgcmlnaHQKb25lcyBhbmQgeW91IGNhbiBzdGVlci4gQ2hvb3NlIHRoZSB3cm9uZyBvbmVzIGFuZCB5b3UgY2FuIGRyaXZlIHN0cmFpZ2h0IG9mZiBhIGNsaWZmCndoaWxlIHRoZSBkYXNoYm9hcmQgZ2xvd3MgZ3JlZW4uIFRoaXMgY2hhcHRlciBpcyBhYm91dCBwaWNraW5nIHRoZSBudW1iZXJzIHRoYXQKYWN0dWFsbHkgbWF0dGVyIOKAlCBhbmQgYnVpbGRpbmcgdGhlbSB3aXRoIHRoZSBhc3Npc3RhbnQuCgojIyBXaGF0IG1ha2VzIGEgbWV0cmljIHdvcnRoIHdhdGNoaW5nCgpBIGdvb2QgbWV0cmljIHBhc3NlcyB0aHJlZSB0ZXN0czoKCjEuICoqSXQgbW92ZXMgd2hlbiB0aGUgYnVzaW5lc3MgbW92ZXMuKiogSWYgdGhlIGJ1c2luZXNzIGdldHMgd29yc2UsIHRoZSBudW1iZXIKICAgc2hvdWxkIGdldCB3b3JzZS4KMi4gKipZb3UgY2FuIGFjdCBvbiBpdC4qKiBBIG51bWJlciB5b3UgY2FuIG9ubHkgYWRtaXJlIGlzIGRlY29yYXRpb24uCjMuICoqSXQncyBob25lc3QuKiogSXQgY2FuJ3QgYmUgZ2FtZWQgaW50byBsb29raW5nIGdvb2Qgd2hpbGUgdGhpbmdzIHJvdC4KCkEgKip2YW5pdHkgbWV0cmljKiogZmFpbHMgdGhlc2UuICJUb3RhbCByZWdpc3RlcmVkIHVzZXJzIHNpbmNlIDIwMTAiIG9ubHkgZXZlciBnb2VzCnVwLiBJdCBmZWVscyBncmVhdCBhbmQgbWVhbnMgbm90aGluZy4gV2F0Y2ggcmF0ZXMgYW5kIGNoYW5nZXMsIG5vdCBldmVyLWdyb3dpbmcKdG90YWxzLgoKIyMgVGhlIGNvcmUgc2FsZXMgbWV0cmljcwoKRXZlcnkgYnVzaW5lc3MgdGhhdCBzZWxscyB0aGluZ3Mgd2F0Y2hlcyBhIHNpbWlsYXIgc2V0OgoKLSAqKlRvdGFsIHNhbGVzKiog4oCUIHRoZSBoZWFkbGluZSByZXZlbnVlLgotICoqVW5pdHMgc29sZCoqIOKAlCBob3cgbXVjaCBzdHVmZiBtb3ZlZC4KLSAqKk9yZGVycyoqIOKAlCBob3cgbWFueSB0cmFuc2FjdGlvbnMuCi0gKipBdmVyYWdlIG9yZGVyIHZhbHVlKiog4oCUIHJldmVudWUgcGVyIG9yZGVyLgotICoqQWN0aXZlIGN1c3RvbWVycyoqIOKAlCBob3cgbWFueSBwZW9wbGUgYWN0dWFsbHkgYm91Z2h0LgotICoqTGFyZ2VzdCBzYWxlKiog4oCUIHRoZSBiaWdnZXN0IHNpbmdsZSBsaW5lIChmb3Igc3BvdHRpbmcgd2hhbGVzKS4KClRoZSBhc3Npc3RhbnQgYnVpbGRzIGVhY2ggb2YgdGhlc2UgZnJvbSBhIHBsYWluIHJlcXVlc3QuIFdhdGNoIGEgc2V0IGFwcGVhcjoKCj4gIkNyZWF0ZSBhIFRvdGFsIFNhbGVzIG1lYXN1cmUgd2l0aCBhIGV1cm8gZm9ybWF0LiIKCiFbVG90YWwgU2FsZXMgbWVhc3VyZV0oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2UwMjYucG5nKQoKPiAiQ3JlYXRlIGEgbWVhc3VyZSBmb3IgdW5pdHMgc29sZC4iCgohW1VuaXRzIFNvbGQgbWVhc3VyZV0oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2UwMjcucG5nKQoKPiAiQ3JlYXRlIGFuIGF2ZXJhZ2Ugb3JkZXIgdmFsdWUgbWVhc3VyZS4iCgohW0F2ZXJhZ2Ugb3JkZXIgdmFsdWVdKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9lMDI4LnBuZykKCk5vdGljZSB0aGUgYXZlcmFnZSBvcmRlciB2YWx1ZSB1c2VzIGBESVZJREVgLCBub3QgYSBzbGFzaC4gVGhhdCBpcyBkZWxpYmVyYXRlIOKAlApgRElWSURFYCBoYW5kbGVzIHRoZSBjYXNlIHdoZXJlIHRoZSBib3R0b20gaXMgemVybyB3aXRob3V0IGNyYXNoaW5nLiBBIHNtYWxsCnNhZmV0eSBoYWJpdCB0aGF0IHNhdmVzIHlvdSBmcm9tIGAjRElWLzAhYCBlcnJvcnMgbGF0ZXIuCgo+ICJIb3cgbWFueSBhY3RpdmUgY3VzdG9tZXJzIGRvIHdlIGhhdmU/IgoKIVtBY3RpdmUgY3VzdG9tZXJzXSguLi8uLi9hc3NldHMvZXhhbXBsZXMvZTAyOS5wbmcpCgo+ICJXaGF0IGlzIHRoZSBiaWdnZXN0IHNpbmdsZSBzYWxlPyIKCiFbTGFyZ2VzdCBzYWxlXSguLi8uLi9hc3NldHMvZXhhbXBsZXMvZTAzMC5wbmcpCgpJbiBhIGhhbmRmdWwgb2Ygc2VudGVuY2VzLCB0aGUgd2hvbGUgY29yZSBLUEkgc2V0IGV4aXN0cywgbGl2ZSBpbiB0aGUgbW9kZWwuCgojIyBNb25leSBtZXRyaWNzOiBtYXJnaW4gYW5kIHNoYXJlCgpSZXZlbnVlIGlzIHZhbml0eTsgcHJvZml0IGlzIHNhbml0eS4gVG8ga25vdyB3aGF0IHlvdSAqa2VlcCosIHlvdSBuZWVkIGNvc3Q6Cgo+ICJBZGQgYSBjb3N0IGNvbHVtbiBhbmQgYSBtYXJnaW4gbWVhc3VyZS4iCgohW0Nvc3QgY29sdW1uXSguLi8uLi9hc3NldHMvZXhhbXBsZXMvZTA1Ni5wbmcpCgo+ICJUb3RhbCBtYXJnaW4gYWNyb3NzIGFsbCBzYWxlcy4iCgohW1RvdGFsIG1hcmdpbl0oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2UwNTcucG5nKQoKQW5kIHRvIHNlZSBob3cgYSBzbGljZSBjb21wYXJlcyB0byB0aGUgd2hvbGU6Cgo+ICJTaGFyZSBvZiB0b3RhbCBzYWxlcywgYXMgYSBwZXJjZW50YWdlLiIKCiFbUGVyY2VudCBvZiB0b3RhbF0oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2UwNTgucG5nKQoKQSBwZXJjZW50YWdlLW9mLXRvdGFsIGlzIG9uZSBvZiB0aGUgbW9zdC11c2VkIG1ldHJpY3MgaW4gcmVwb3J0aW5nIOKAlCBpdCB0dXJucyBhbnkKbnVtYmVyIGludG8gImhvdyBiaWcgaXMgdGhpcyBjb21wYXJlZCB0byBldmVyeXRoaW5nPyIKCiMjIEEgZmV3IG1vcmUgcXVpY2sgb25lcwoKPiAiQXZlcmFnZSB1bml0IHByaWNlIHBhaWQuIgoKIVtBdmVyYWdlIHVuaXQgcHJpY2VdKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9lMDc1LnBuZykKCj4gIlRvdGFsIHNhbGVzIGV4Y2x1ZGluZyBhIGNhdGVnb3J5LiIKCiFbU2FsZXMgZXhjbHVkaW5nIGEgY2F0ZWdvcnldKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9lMDg5LnBuZykKCkVhY2ggaXMgYSBwbGFpbiBzZW50ZW5jZSwgZWFjaCBpcyBhIHJlYWwgbWVhc3VyZSBpbiB0aGUgbGl2ZSBtb2RlbC4KCiMjIEEgY3VyaW9zaXR5OiB0aGUgbWV0cmljIHRoYXQgYmFja2ZpcmVkCgpXaGVuIHRoZSBTb3ZpZXQgVW5pb24gbWVhc3VyZWQgbmFpbCBwcm9kdWN0aW9uIGJ5ICoqcXVhbnRpdHkqKiwgZmFjdG9yaWVzIG1hZGUgdGlueQp1c2VsZXNzIG5haWxzIGJ5IHRoZSBtaWxsaW9uLiBXaGVuIHRoZXkgc3dpdGNoZWQgdG8gbWVhc3VyaW5nIGJ5ICoqd2VpZ2h0KiosIHRoZXkKbWFkZSBhIGZldyBlbm9ybW91cyBuYWlscy4gU2FtZSBnb2FsLCBkaWZmZXJlbnQgbWV0cmljLCBkaWZmZXJlbnQgYWJzdXJkaXR5LiBUaGUKbGVzc29uIGV2ZXJ5IGFuYWx5c3QgbXVzdCBsZWFybjogKip5b3UgZ2V0IHdoYXQgeW91IG1lYXN1cmUqKiwgc28gbWVhc3VyZQpjYXJlZnVsbHkg4oCUIGlkZWFsbHkgYSBtZXRyaWMgdGhhdCBjYW4gb25seSBpbXByb3ZlIGlmIHRoZSBidXNpbmVzcyB0cnVseSBpbXByb3Zlcy4KCi0tLQoKIyMgV2hhdCB5b3UnbGwgY2FycnkgZnJvbSB0aGlzIGNoYXB0ZXIKCi0gQ2hvb3NlIG1ldHJpY3MgdGhhdCBtb3ZlIHdpdGggdGhlIGJ1c2luZXNzLCB0aGF0IHlvdSBjYW4gYWN0IG9uLCB0aGF0IGNhbid0IGJlIGdhbWVkLgotIEF2b2lkIHZhbml0eSBtZXRyaWNzIChldmVyLWdyb3dpbmcgdG90YWxzKS4KLSBUaGUgY29yZSBzYWxlcyBzZXQ6IHJldmVudWUsIHVuaXRzLCBvcmRlcnMsIGF2ZXJhZ2Ugb3JkZXIsIGFjdGl2ZSBjdXN0b21lcnMuCi0gTWFyZ2luIGFuZCBzaGFyZS1vZi10b3RhbCB0dXJuIHJldmVudWUgaW50byBtZWFuaW5nLgotIFlvdSBnZXQgd2hhdCB5b3UgbWVhc3VyZSDigJQgbWVhc3VyZSB3aXNlbHkuCgpOZXh0OiB0aGUgZm91ciBraW5kcyBvZiBhbmFseXNpcywgZnJvbSAid2hhdCBoYXBwZW5lZCIgYWxsIHRoZSB3YXkgdG8gIndoYXQgc2hvdWxkCndlIGRvLiIK
+# 11. The Metrics That Matter
+
+A metric is a number you watch to know how the business is doing. Choose the right
+ones and you can steer. Choose the wrong ones and you can drive straight off a cliff
+while the dashboard glows green. This chapter is about picking the numbers that
+actually matter — and building them with the assistant.
+
+## What makes a metric worth watching
+
+A good metric passes three tests:
+
+1. **It moves when the business moves.** If the business gets worse, the number
+   should get worse.
+2. **You can act on it.** A number you can only admire is decoration.
+3. **It's honest.** It can't be gamed into looking good while things rot.
+
+A **vanity metric** fails these. "Total registered users since 2010" only ever goes
+up. It feels great and means nothing. Watch rates and changes, not ever-growing
+totals.
+
+## The core sales metrics
+
+Every business that sells things watches a similar set:
+
+- **Total sales** — the headline revenue.
+- **Units sold** — how much stuff moved.
+- **Orders** — how many transactions.
+- **Average order value** — revenue per order.
+- **Active customers** — how many people actually bought.
+- **Largest sale** — the biggest single line (for spotting whales).
+
+The assistant builds each of these from a plain request. Watch a set appear:
+
+> "Create a Total Sales measure with a euro format."
+
+![Total Sales measure](../../assets/examples/e026.png)
+
+> "Create a measure for units sold."
+
+![Units Sold measure](../../assets/examples/e027.png)
+
+> "Create an average order value measure."
+
+![Average order value](../../assets/examples/e028.png)
+
+Notice the average order value uses `DIVIDE`, not a slash. That is deliberate —
+`DIVIDE` handles the case where the bottom is zero without crashing. A small
+safety habit that saves you from `#DIV/0!` errors later.
+
+> "How many active customers do we have?"
+
+![Active customers](../../assets/examples/e029.png)
+
+> "What is the biggest single sale?"
+
+![Largest sale](../../assets/examples/e030.png)
+
+In a handful of sentences, the whole core KPI set exists, live in the model.
+
+## Money metrics: margin and share
+
+Revenue is vanity; profit is sanity. To know what you *keep*, you need cost:
+
+> "Add a cost column and a margin measure."
+
+![Cost column](../../assets/examples/e056.png)
+
+> "Total margin across all sales."
+
+![Total margin](../../assets/examples/e057.png)
+
+And to see how a slice compares to the whole:
+
+> "Share of total sales, as a percentage."
+
+![Percent of total](../../assets/examples/e058.png)
+
+A percentage-of-total is one of the most-used metrics in reporting — it turns any
+number into "how big is this compared to everything?"
+
+## A few more quick ones
+
+> "Average unit price paid."
+
+![Average unit price](../../assets/examples/e075.png)
+
+> "Total sales excluding a category."
+
+![Sales excluding a category](../../assets/examples/e089.png)
+
+Each is a plain sentence, each is a real measure in the live model.
+
+## A curiosity: the metric that backfired
+
+When the Soviet Union measured nail production by **quantity**, factories made tiny
+useless nails by the million. When they switched to measuring by **weight**, they
+made a few enormous nails. Same goal, different metric, different absurdity. The
+lesson every analyst must learn: **you get what you measure**, so measure
+carefully — ideally a metric that can only improve if the business truly improves.
+
+---
+
+## What you'll carry from this chapter
+
+- Choose metrics that move with the business, that you can act on, that can't be gamed.
+- Avoid vanity metrics (ever-growing totals).
+- The core sales set: revenue, units, orders, average order, active customers.
+- Margin and share-of-total turn revenue into meaning.
+- You get what you measure — measure wisely.
+
+Next: the four kinds of analysis, from "what happened" all the way to "what should
+we do."

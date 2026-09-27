@@ -1,1 +1,85 @@
-IyAxNy4gQ29uZWN0YXJzZSBhIHR1cyBkYXRvcwoKQW50ZXMgZGUgcXVlIGVsIGFzaXN0ZW50ZSBwdWVkYSBoYWNlciBuYWRhIGNvbiBQb3dlciBCSSwgdGllbmUgcXVlIGNvbmVjdGFyc2UgYSDDqWwuCkVzdGUgY2Fww610dWxvIHRyYXRhIGRlIGVzZSBhcHJldMOzbiBkZSBtYW5vczogY8OzbW8gZWwgYXNpc3RlbnRlIGVuY3VlbnRyYSB0dSBpbmZvcm1lCmFiaWVydG8sIHNlIGNvbmVjdGEgYWwgbW9kZWxvIGVuIHZpdm8geSBzYWJlIGV4YWN0YW1lbnRlIGNvbiBxdcOpIGVzdMOhIGhhYmxhbmRvLgoKIyMgTGEgY29uZXhpw7NuIGxvY2FsCgpBcXXDrSBlc3TDoSBsYSBjbGF2ZSBxdWUgaGF5IHF1ZSBlbnRlbmRlcjogUG93ZXIgQkkgRGVza3RvcCwgY3VhbmRvIGFicmVzIHVuIGluZm9ybWUsCmFycmFuY2EgdW4gcGVxdWXDsW8gKiptb3RvciBkZSBhbsOhbGlzaXMqKiBlbiB0dSBwcm9waWEgbcOhcXVpbmEgKHVuIHByb2dyYW1hIGxsYW1hZG8KYG1zbWRzcnZgKS4gRWwgYXNpc3RlbnRlIHNlIGNvbmVjdGEgYSAqZXNlKiBtb3RvciwgZW4gKnR1KiBtw6FxdWluYS4KCmBgYApZb3UgIOKGkiAgQWdlbnRCcmlkZ2UgIOKGkiAgUG93ZXJCSVRvb2wgIOKGkiAgdGhlIGVuZ2luZSBpbnNpZGUgeW91ciBQb3dlciBCSSBEZXNrdG9wCmBgYAoKU2luIG51YmUuIFNpbiBzdWJpciBuYWRhLiBMb3MgZGF0b3MgbnVuY2Egc2FsZW4gZGUgdHUgb3JkZW5hZG9yLiBFbCBhc2lzdGVudGUKc2ltcGxlbWVudGUgaGFibGEgY29uIGVsIG1pc21vIG1vdG9yIHF1ZSB1c2EgZWwgcHJvcGlvIFBvd2VyIEJJLCBhIHRyYXbDqXMgZGUgdW5hCnB1ZXJ0YSBsb2NhbC4KCiMjIEVuY29udHJhciBsbyBxdWUgZXN0w6EgYWJpZXJ0bwoKRWwgYXNpc3RlbnRlIHB1ZWRlIHZlciBjYWRhIGluZm9ybWUgZGUgUG93ZXIgQkkgcXVlIHRlbmdhcyBhYmllcnRvLCBjYWRhIHVubyBjb24gc3UKcHJvcGlvIG1vdG9yIHkgcHVlcnRvOgoKPiDCq8K/UXXDqSBpbmZvcm1lcyBkZSBQb3dlciBCSSBlc3TDoW4gYWJpZXJ0b3MgYWhvcmEgbWlzbW8/wrsKCiFbSW5mb3JtZXMgYWJpZXJ0b3NdKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9lMDAzLnBuZykKClNpIHRpZW5lcyB1biBpbmZvcm1lIGFiaWVydG8sIHNlIGNvbmVjdGEgYSDDqWwgZGlyZWN0YW1lbnRlLiBTaSB0aWVuZXMgdmFyaW9zLCBsZQpkaWNlcyBjdcOhbCBwb3Igc3Ugbm9tYnJlLiBBc8OtIGVzIGNvbW8gc2UgbWFudGllbmUgYXB1bnRhbmRvIGEgbG8gY29ycmVjdG8uCgojIyBDb25maXJtYXIgbGEgY29uZXhpw7NuCgpVbmEgdmV6IGNvbmVjdGFkbywgc2llbXByZSBwdWVkZXMgY29tcHJvYmFyIGVsIGVzdGFkbzoKCj4gwqvCv0N1w6FsIGVzIGVsIGVzdGFkbyBkZSBsYSBjb25leGnDs24/wrsKCiFbRXN0YWRvIGRlIGxhIGNvbmV4acOzbl0oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2UwMDQucG5nKQoKVGUgZGljZSBlbiBxdcOpIG1vZGVsbyBlc3TDoSB5IGVuIHF1w6kgcHVlcnRvIGxvY2FsLiBFc3RvIGltcG9ydGEgcG9ycXVlIGNhZGEgY2FtYmlvCnBvc3RlcmlvciB2YSBhICplc3RlKiBtb2RlbG8gZW4gdml2by4gU2FiZXIgZXhhY3RhbWVudGUgYSBxdcOpIGVzdMOhcyBjb25lY3RhZG8gZXMgbGEKcHJpbWVyYSByZWdsYSBkZSBsYSBlZGljacOzbiBzZWd1cmEuCgojIyBRdcOpIHNpZ25pZmljYSBkZSB2ZXJkYWQgwqtlbiB2aXZvwrsKCkN1YW5kbyBlbCBhc2lzdGVudGUgY2FtYmlhIGVsIG1vZGVsbywgZWwgY2FtYmlvIG9jdXJyZSBlbiBlbCAqKm1vZGVsbyBlbiB2aXZvLCBlbgptZW1vcmlhKiogZGVudHJvIGRlIFBvd2VyIEJJIERlc2t0b3AuIExvIHZlcyBkZSBpbm1lZGlhdG86IGVzZSBlcyBlbCBidWNsZSBkZQpyZXRyb2FsaW1lbnRhY2nDs24gdmlzdWFsLiBQZXJvIGhheSB1bmEgdHJhbXBhIGltcG9ydGFudGUgcXVlIGxhIGhlcnJhbWllbnRhIHNpZW1wcmUKdGUgcmVjdWVyZGE6Cgo+IEVsIGNhbWJpbyBlc3TDoSBlbiB2aXZvIHBlcm8gKipubyBndWFyZGFkbyBlbiBlbCBhcmNoaXZvKiouIFBhcmEgY29uc2VydmFybG8sIHB1bHNhcwo+ICoqQ3RybCtTKiogZW4gUG93ZXIgQkkgRGVza3RvcC4KCkVzdG8gZXMgdW5hIGZ1bmNpw7NuIGRlIHNlZ3VyaWRhZCwgbm8gdW4gZmFsbG8uIFNpZ25pZmljYSBxdWUgY2FkYSBjYW1iaW8gZXMgcmV2ZXJzaWJsZQpoYXN0YSBxdWUgZWxpZ2VzIGd1YXJkYXIuIFB1ZWRlcyBleHBlcmltZW50YXIgbGlicmVtZW50ZTsgbmFkYSBlcyBwZXJtYW5lbnRlIGhhc3RhCnF1ZSB0w7ogbG8gZGVjaWRhcy4KCiMjIFVuYSBjdXJpb3NpZGFkOiBlbCBwdWVydG8gZXMgdW5hIHB1ZXJ0YSBzZWNyZXRhCgpDYWRhIGluc3RhbmNpYSBkZSBQb3dlciBCSSBEZXNrdG9wIGVsaWdlIHVuIHB1ZXJ0byBkZSByZWQgbG9jYWwgYWxlYXRvcmlvIHBhcmEgc3UKbW90b3I6IGVzZSBuw7ptZXJvIGVuIGxhIGNhZGVuYSBkZSBjb25leGnDs24gKGNvbW8gYGxvY2FsaG9zdDo2NDQzMWApLiBFbCBhc2lzdGVudGUKZGVzY3VicmUgZXN0ZSBwdWVydG8gYXV0b23DoXRpY2FtZW50ZSBlbmNvbnRyYW5kbyBlbCBwcm9jZXNvIGRlIFBvd2VyIEJJIGVuIGVqZWN1Y2nDs24KeSBzdSBtb3RvciBoaWpvLiBOdW5jYSB0aWVuZXMgcXVlIHNhYmVyIGVsIG7Dum1lcm87IGxhIGhlcnJhbWllbnRhIGxvIGF2ZXJpZ3VhLiBFcyBsYQptaXNtYSBwdWVydGEgcXVlIFBvd2VyIEJJIHVzYSBpbnRlcm5hbWVudGU6IGVsIGFzaXN0ZW50ZSBzb2xvIGFwcmVuZGnDsyBhIGxsYW1hci4KCiMjIFJlY29uZWN0YXIgeSBzZWd1cmlkYWQKClNpIGNpZXJyYXMgZWwgaW5mb3JtZSB5IGFicmVzIG90cm8sIGVsIGFzaXN0ZW50ZSBub3RhIHF1ZSBlbCBtb3RvciBjYW1iacOzIHkgdGUgcGlkZQpyZWNvbmVjdGFydGU6IG5vIGVzY3JpYmlyw6EgYSBjaWVnYXMgZW4gZWwgbW9kZWxvIGVxdWl2b2NhZG8uIEVzdGEgc2VndXJpZGFkIGRlIHNlc2nDs24KZXMgbG8gcXVlIGhhY2UgZmlhYmxlIGxhIGVkaWNpw7NuIGVuIHZpdm86IGxhIGhlcnJhbWllbnRhIGNvbXBydWViYSBxdWUgZWwgbW90b3IgZGV0csOhcwpkZSBsYSBjb25leGnDs24gc2lndWUgc2llbmRvIGFsIHF1ZSBzZSBjb25lY3TDsyBhbnRlcyBkZSBkZWphciBwYXNhciB1biBjYW1iaW8uCgotLS0KCiMjIExvIHF1ZSB0ZSBsbGV2YXLDoXMgZGUgZXN0ZSBjYXDDrXR1bG8KCi0gRWwgYXNpc3RlbnRlIHNlIGNvbmVjdGEgYWwgbW90b3IgbG9jYWwgZGVudHJvIGRlIHR1IFBvd2VyIEJJIERlc2t0b3AuCi0gU2luIG51YmUsIHNpbiBzdWJpciBuYWRhOiB0b2RvIHNlIHF1ZWRhIGVuIHR1IG3DoXF1aW5hLgotIERlc2N1YnJlIGluZm9ybWVzIGFiaWVydG9zIHkgc3VzIHB1ZXJ0b3MgYXV0b23DoXRpY2FtZW50ZS4KLSBMb3MgY2FtYmlvcyBlc3TDoW4gZW4gdml2byBwZXJvIG5vIGd1YXJkYWRvcyBoYXN0YSBxdWUgcHVsc2FzIEN0cmwrUy4KLSBMYSBoZXJyYW1pZW50YSBwcm90ZWdlIGNvbnRyYSBlc2NyaWJpciBlbiBlbCBtb2RlbG8gZXF1aXZvY2Fkby4KClNpZ3VpZW50ZTogbW9kZWxhciBlbiBQb3dlciBCSTogZWwgYXNpc3RlbnRlIGNvbW8gdW4gbW9kZWxhZG9yIGN1aWRhZG9zbyB5IGJpZW4KZG9jdW1lbnRhZG8uCg==
+# 17. Conectarse a tus datos
+
+Antes de que el asistente pueda hacer nada con Power BI, tiene que conectarse a él.
+Este capítulo trata de ese apretón de manos: cómo el asistente encuentra tu informe
+abierto, se conecta al modelo en vivo y sabe exactamente con qué está hablando.
+
+## La conexión local
+
+Aquí está la clave que hay que entender: Power BI Desktop, cuando abres un informe,
+arranca un pequeño **motor de análisis** en tu propia máquina (un programa llamado
+`msmdsrv`). El asistente se conecta a *ese* motor, en *tu* máquina.
+
+```
+You  →  AgentBridge  →  PowerBITool  →  the engine inside your Power BI Desktop
+```
+
+Sin nube. Sin subir nada. Los datos nunca salen de tu ordenador. El asistente
+simplemente habla con el mismo motor que usa el propio Power BI, a través de una
+puerta local.
+
+## Encontrar lo que está abierto
+
+El asistente puede ver cada informe de Power BI que tengas abierto, cada uno con su
+propio motor y puerto:
+
+> «¿Qué informes de Power BI están abiertos ahora mismo?»
+
+![Informes abiertos](../../assets/examples/e003.png)
+
+Si tienes un informe abierto, se conecta a él directamente. Si tienes varios, le
+dices cuál por su nombre. Así es como se mantiene apuntando a lo correcto.
+
+## Confirmar la conexión
+
+Una vez conectado, siempre puedes comprobar el estado:
+
+> «¿Cuál es el estado de la conexión?»
+
+![Estado de la conexión](../../assets/examples/e004.png)
+
+Te dice en qué modelo está y en qué puerto local. Esto importa porque cada cambio
+posterior va a *este* modelo en vivo. Saber exactamente a qué estás conectado es la
+primera regla de la edición segura.
+
+## Qué significa de verdad «en vivo»
+
+Cuando el asistente cambia el modelo, el cambio ocurre en el **modelo en vivo, en
+memoria** dentro de Power BI Desktop. Lo ves de inmediato: ese es el bucle de
+retroalimentación visual. Pero hay una trampa importante que la herramienta siempre
+te recuerda:
+
+> El cambio está en vivo pero **no guardado en el archivo**. Para conservarlo, pulsas
+> **Ctrl+S** en Power BI Desktop.
+
+Esto es una función de seguridad, no un fallo. Significa que cada cambio es reversible
+hasta que eliges guardar. Puedes experimentar libremente; nada es permanente hasta
+que tú lo decidas.
+
+## Una curiosidad: el puerto es una puerta secreta
+
+Cada instancia de Power BI Desktop elige un puerto de red local aleatorio para su
+motor: ese número en la cadena de conexión (como `localhost:64431`). El asistente
+descubre este puerto automáticamente encontrando el proceso de Power BI en ejecución
+y su motor hijo. Nunca tienes que saber el número; la herramienta lo averigua. Es la
+misma puerta que Power BI usa internamente: el asistente solo aprendió a llamar.
+
+## Reconectar y seguridad
+
+Si cierras el informe y abres otro, el asistente nota que el motor cambió y te pide
+reconectarte: no escribirá a ciegas en el modelo equivocado. Esta seguridad de sesión
+es lo que hace fiable la edición en vivo: la herramienta comprueba que el motor detrás
+de la conexión sigue siendo al que se conectó antes de dejar pasar un cambio.
+
+---
+
+## Lo que te llevarás de este capítulo
+
+- El asistente se conecta al motor local dentro de tu Power BI Desktop.
+- Sin nube, sin subir nada: todo se queda en tu máquina.
+- Descubre informes abiertos y sus puertos automáticamente.
+- Los cambios están en vivo pero no guardados hasta que pulsas Ctrl+S.
+- La herramienta protege contra escribir en el modelo equivocado.
+
+Siguiente: modelar en Power BI: el asistente como un modelador cuidadoso y bien
+documentado.

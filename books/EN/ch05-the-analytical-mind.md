@@ -1,1 +1,99 @@
-IyA1LiBUaGUgQW5hbHl0aWNhbCBNaW5kOiBUdXJuaW5nIFF1ZXN0aW9ucyBpbnRvIE51bWJlcnMKClRoZSBoZWFydCBvZiB0aGUgam9iIGlzIGEgc2luZ2xlIG1vdmU6IHRha2luZyBhIGZ1enp5IHdvcnJ5IGFuZCB0dXJuaW5nIGl0IGludG8gYQpxdWVzdGlvbiB0aGF0IGRhdGEgY2FuIGFuc3dlci4gTWFzdGVyIHRoYXQgbW92ZSBhbmQgeW91IGNhbiB3b3JrIHdpdGggYW55IHRvb2wuIExldCdzCmxlYXJuIGl0LgoKIyMgRnJvbSAic29tZXRoaW5nIGlzIHdyb25nIiB0byBhIHJlYWwgcXVlc3Rpb24KCkEgbWFuYWdlciBzdG9ybXMgaW46ICoiU2FsZXMgYXJlIGJhZCEiKiBUaGF0IGlzIG5vdCBhIHF1ZXN0aW9uLiBJdCBpcyBhIG1vb2QuIFRoZQphbmFseXN0J3MgZmlyc3Qgam9iIGlzIHRvIHR1cm4gdGhlIG1vb2QgaW50byBhIHF1ZXN0aW9uIHdpdGggYW4gYW5zd2VyLgoKLSAiQmFkIGNvbXBhcmVkIHRvIHdoYXQ/IiDihpIgKmNvbXBhcmVkIHRvIGxhc3QgcXVhcnRlci4qCi0gIkJhZCBldmVyeXdoZXJlLCBvciBzb21ld2hlcmU/IiDihpIgKm9ubHkgaW4gdGhlIG5vcnRoIHJlZ2lvbi4qCi0gIkJhZCBpbiB3aGF0PyIg4oaSICppbiB1bml0cywgbm90IGluIHByaWNlLioKLSAiU2luY2Ugd2hlbj8iIOKGkiAqc3RhcnRpbmcgaW4gTWFyY2guKgoKTm93IGl0IGlzIGEgcmVhbCBxdWVzdGlvbjogKiJXaHkgZGlkIHVuaXQgc2FsZXMgaW4gdGhlIG5vcnRoIHJlZ2lvbiBmYWxsIHN0YXJ0aW5nCmluIE1hcmNoPyIqIFRoYXQgcXVlc3Rpb24gY2FuIGJlIGFuc3dlcmVkLiBUaGUgb3JpZ2luYWwgY291bGQgbm90LgoKIyMgVGhlIGZvdXItc3RlcCBtZXRob2QKCkFsbW9zdCBldmVyeSBhbmFseXNpcyBmb2xsb3dzIHRoZSBzYW1lIGZvdXIgc3RlcHMuIExlYXJuIHRoaXMgbG9vcCBhbmQgeW91IGhhdmUgdGhlCmpvYi4KCjEuICoqUXVlc3Rpb24qKiDigJQgd3JpdGUgdGhlIHJlYWwsIGFuc3dlcmFibGUgcXVlc3Rpb24uCjIuICoqSHlwb3RoZXNpcyoqIOKAlCBndWVzcyB0aGUgbGlrZWx5IGFuc3dlciAqYmVmb3JlKiB5b3UgbG9vay4gKGUuZy4gImEgY29tcGV0aXRvcgogICBvcGVuZWQgbmVhcmJ5LiIpCjMuICoqVGVzdCoqIOKAlCBwdWxsIHRoZSBkYXRhIHRoYXQgd291bGQgY29uZmlybSBvciBraWxsIHRoZSBndWVzcy4KNC4gKipDb25jbHVzaW9uKiog4oCUIHdoYXQgZG9lcyB0aGUgZGF0YSBzYXk/IFdhcyB0aGUgZ3Vlc3MgcmlnaHQ/IFdoYXQgbm93PwoKVGhlIGh5cG90aGVzaXMgc3RlcCBpcyB0aGUgc2VjcmV0LiBHdWVzc2luZyBmaXJzdCBzdG9wcyB5b3UgZnJvbSB3YW5kZXJpbmcgdGhyb3VnaApkYXRhIHVudGlsIHlvdSBmaW5kIHNvbWV0aGluZyB0aGF0IGNvbmZpcm1zIHdoYXRldmVyIHlvdSBzdHVtYmxlZCBvbi4gSXQga2VlcHMgeW91CmhvbmVzdC4KCiMjIFRoZSBGaXZlIFdoeXMKCkEgdHJpY2sgZnJvbSBUb3lvdGEgZm9yIGdldHRpbmcgdG8gYSByb290IGNhdXNlOiBhc2sgIndoeT8iIGZpdmUgdGltZXMuCgotIFNhbGVzIGFyZSBkb3duLiAqV2h5PyogRmV3ZXIgY3VzdG9tZXJzIGNhbWUgaW4uCi0gKldoeT8qIEZvb3QgdHJhZmZpYyBkcm9wcGVkLgotICpXaHk/KiBUaGUgYnVzIHN0b3AgbW92ZWQgYXdheS4KLSAqV2h5PyogVGhlIGNpdHkgcmVkZXNpZ25lZCB0aGUgc3RyZWV0LgotICpXaHk/KiDigKZhbmQgbm93IHlvdSBzZWUgdGhlIHJlYWwgY2F1c2UgaXMgbm90IHlvdXIgbWFya2V0aW5nIGF0IGFsbC4KCllvdSBvZnRlbiBkbyBub3QgbmVlZCBmaXZlLiBUd28gb3IgdGhyZWUgIndoeXMiIHVzdWFsbHkgYnVycm93IHBhc3QgdGhlIHN5bXB0b20gdG8KdGhlIHRoaW5nIHlvdSBjYW4gYWN0dWFsbHkgZml4LgoKIyMgRG9uJ3QgYm9pbCB0aGUgb2NlYW4KCkEgcm9va2llIG1pc3Rha2UgaXMgdHJ5aW5nIHRvIGFuYWx5c2UgKmV2ZXJ5dGhpbmcqLiBZb3UgY2Fubm90LiBQaWNrIHRoZSBzbWFsbGVzdApzbGljZSBvZiBkYXRhIHRoYXQgY291bGQgYW5zd2VyIHRoZSBxdWVzdGlvbiwgbG9vayBhdCB0aGF0LCBhbmQgb25seSB3aWRlbiBpZiB5b3UKbmVlZCB0by4gQSBmb2N1c2VkIDIwLW1pbnV0ZSBjaGVjayBiZWF0cyBhIHdlZWsgb2YgZHJvd25pbmcgaW4gc3ByZWFkc2hlZXRzLgoKIyMgQmV3YXJlIHRoZSBxdWVzdGlvbiB5b3UgY2FuJ3QgYW5zd2VyCgpTb21lIHF1ZXN0aW9ucyBoYXZlIG5vIGFuc3dlciBpbiB0aGUgZGF0YSB5b3UgaGF2ZS4gKiJXaHkgZG8gcGVvcGxlIG5vdCBidXkgb3VyCnByb2R1Y3Q/IiogbWF5IG5lZWQgYSBzdXJ2ZXksIG5vdCBhIGRhdGFiYXNlLiBBIGdvb2QgYW5hbHlzdCBrbm93cyB0aGUgZGlmZmVyZW5jZQpiZXR3ZWVuICJJIG5lZWQgbW9yZSBkYXRhIiBhbmQgIkkgbmVlZCBhIGRpZmZlcmVudCBraW5kIG9mIGRhdGEiIOKAlCBhbmQgc2F5cyBzbwppbnN0ZWFkIG9mIGludmVudGluZyBhbiBhbnN3ZXIuCgojIyBBIGN1cmlvc2l0eTogdGhlIGNvYnJhIGVmZmVjdAoKSW4gY29sb25pYWwgSW5kaWEsIHRoZSBnb3Zlcm5tZW50LCB0cm91YmxlZCBieSBjb2JyYXMsIG9mZmVyZWQgYSBib3VudHkgZm9yIGV2ZXJ5CmRlYWQgY29icmEuIFBlb3BsZSBzdGFydGVkICoqYnJlZWRpbmcgY29icmFzKiogdG8gY29sbGVjdCB0aGUgYm91bnR5LiBXaGVuIHRoZQpnb3Zlcm5tZW50IGNhdWdodCBvbiBhbmQgY2FuY2VsbGVkIHRoZSByZXdhcmQsIHRoZSBicmVlZGVycyByZWxlYXNlZCB0aGUgbm93LXdvcnRobGVzcwpjb2JyYXMsIGFuZCB0aGUgd2lsZCBjb2JyYSBwb3B1bGF0aW9uIHdlbnQgKnVwKi4gU29sdmluZyB0aGUgd3JvbmcgcHJvYmxlbSDigJQgb3IKbWVhc3VyaW5nIHRoZSB3cm9uZyB0aGluZyDigJQgY2FuIG1ha2UgaXQgd29yc2UuIE1lYXN1cmUgY2FyZWZ1bGx5LiBUaGUgdGhpbmcgeW91CnJld2FyZCBpcyB0aGUgdGhpbmcgeW91IGdldC4KCiMjIEEgd29ya2VkIGV4YW1wbGUsIHN0YXJ0IHRvIGZpbmlzaAoKKipNb29kOioqICJPdXIgbmV3IGFwcCB1cGRhdGUgaXMgYSBkaXNhc3Rlci4iCioqUXVlc3Rpb246KiogRGlkIGRhaWx5IGFjdGl2ZSB1c2VycyBmYWxsIGFmdGVyIHRoZSB1cGRhdGU/CioqSHlwb3RoZXNpczoqKiBUaGUgdXBkYXRlIGJyb2tlIHRoZSBsb2dpbiwgc28gcGVvcGxlIGxlZnQuCioqVGVzdDoqKiBDb21wYXJlIGRhaWx5IGFjdGl2ZSB1c2VycyBiZWZvcmUgYW5kIGFmdGVyIHRoZSB1cGRhdGUgZGF0ZTsgY2hlY2sgbG9naW4KZXJyb3IgcmF0ZXMuCioqUmVzdWx0OioqIFVzZXJzIGZlbGwgMTUlLCBidXQgbG9naW4gZXJyb3JzIGRpZCBub3QgcmlzZS4gVGhlIGd1ZXNzIHdhcyB3cm9uZy4KKipOZXcgaHlwb3RoZXNpczoqKiBBIGZlYXR1cmUgcGVvcGxlIGxvdmVkIHdhcyByZW1vdmVkLgoqKlRlc3Q6KiogTG9vayBhdCB1c2FnZSBvZiB0aGUgcmVtb3ZlZCBmZWF0dXJlIGJlZm9yZSB0aGUgdXBkYXRlIOKAlCBpdCB3YXMgaGVhdmlseQp1c2VkLgoqKkNvbmNsdXNpb246KiogVGhlIHVwZGF0ZSByZW1vdmVkIGEgcG9wdWxhciBmZWF0dXJlLiBUaGF0IGlzIHRoZSBjYXVzZS4gRml4OiBicmluZwppdCBiYWNrLgoKTm90aWNlIGhvdyB0aGUgZGF0YSBraWxsZWQgdGhlIGZpcnN0IGd1ZXNzIGFuZCBwb2ludGVkIHRvIHRoZSByZWFsIG9uZS4gVGhhdCBpcyB0aGUKbWV0aG9kIHdvcmtpbmcuIFRoZSBhbmFseXN0IGRpZCBub3Qga25vdyB0aGUgYW5zd2VyIGF0IHRoZSBzdGFydCDigJQgdGhleSBrbmV3IGhvdyB0bwoqZmluZCogaXQuCgotLS0KCiMjIFdoYXQgeW91J2xsIGNhcnJ5IGZyb20gdGhpcyBjaGFwdGVyCgotIFR1cm4gbW9vZHMgaW50byBhbnN3ZXJhYmxlIHF1ZXN0aW9ucy4KLSBHdWVzcyBmaXJzdCAoaHlwb3RoZXNpcyksIHRoZW4gdGVzdCDigJQgaXQga2VlcHMgeW91IGhvbmVzdC4KLSBBc2sgIndoeSIgYSBmZXcgdGltZXMgdG8gcmVhY2ggdGhlIHJvb3QgY2F1c2UuCi0gQW5hbHlzZSB0aGUgc21hbGxlc3QgdXNlZnVsIHNsaWNlOyBkb24ndCBib2lsIHRoZSBvY2Vhbi4KLSBNZWFzdXJlIHRoZSByaWdodCB0aGluZywgb3IgeW91IGJyZWVkIGNvYnJhcy4KClBhcnQgSSBpcyBkb25lIOKAlCB5b3UgdW5kZXJzdGFuZCB0aGUgY3JhZnQuIE5leHQgd2UgZ2V0IG91ciBoYW5kcyBkaXJ0eSB3aXRoIHRoZQpyYXcgbWF0ZXJpYWw6IHdoZXJlIGRhdGEgY29tZXMgZnJvbSwgYW5kIGhvdyB0byBzZWUgaXQgd2l0aCBhIHJlYWwgdG9vbC4K
+# 5. The Analytical Mind: Turning Questions into Numbers
+
+The heart of the job is a single move: taking a fuzzy worry and turning it into a
+question that data can answer. Master that move and you can work with any tool. Let's
+learn it.
+
+## From "something is wrong" to a real question
+
+A manager storms in: *"Sales are bad!"* That is not a question. It is a mood. The
+analyst's first job is to turn the mood into a question with an answer.
+
+- "Bad compared to what?" → *compared to last quarter.*
+- "Bad everywhere, or somewhere?" → *only in the north region.*
+- "Bad in what?" → *in units, not in price.*
+- "Since when?" → *starting in March.*
+
+Now it is a real question: *"Why did unit sales in the north region fall starting
+in March?"* That question can be answered. The original could not.
+
+## The four-step method
+
+Almost every analysis follows the same four steps. Learn this loop and you have the
+job.
+
+1. **Question** — write the real, answerable question.
+2. **Hypothesis** — guess the likely answer *before* you look. (e.g. "a competitor
+   opened nearby.")
+3. **Test** — pull the data that would confirm or kill the guess.
+4. **Conclusion** — what does the data say? Was the guess right? What now?
+
+The hypothesis step is the secret. Guessing first stops you from wandering through
+data until you find something that confirms whatever you stumbled on. It keeps you
+honest.
+
+## The Five Whys
+
+A trick from Toyota for getting to a root cause: ask "why?" five times.
+
+- Sales are down. *Why?* Fewer customers came in.
+- *Why?* Foot traffic dropped.
+- *Why?* The bus stop moved away.
+- *Why?* The city redesigned the street.
+- *Why?* …and now you see the real cause is not your marketing at all.
+
+You often do not need five. Two or three "whys" usually burrow past the symptom to
+the thing you can actually fix.
+
+## Don't boil the ocean
+
+A rookie mistake is trying to analyse *everything*. You cannot. Pick the smallest
+slice of data that could answer the question, look at that, and only widen if you
+need to. A focused 20-minute check beats a week of drowning in spreadsheets.
+
+## Beware the question you can't answer
+
+Some questions have no answer in the data you have. *"Why do people not buy our
+product?"* may need a survey, not a database. A good analyst knows the difference
+between "I need more data" and "I need a different kind of data" — and says so
+instead of inventing an answer.
+
+## A curiosity: the cobra effect
+
+In colonial India, the government, troubled by cobras, offered a bounty for every
+dead cobra. People started **breeding cobras** to collect the bounty. When the
+government caught on and cancelled the reward, the breeders released the now-worthless
+cobras, and the wild cobra population went *up*. Solving the wrong problem — or
+measuring the wrong thing — can make it worse. Measure carefully. The thing you
+reward is the thing you get.
+
+## A worked example, start to finish
+
+**Mood:** "Our new app update is a disaster."
+**Question:** Did daily active users fall after the update?
+**Hypothesis:** The update broke the login, so people left.
+**Test:** Compare daily active users before and after the update date; check login
+error rates.
+**Result:** Users fell 15%, but login errors did not rise. The guess was wrong.
+**New hypothesis:** A feature people loved was removed.
+**Test:** Look at usage of the removed feature before the update — it was heavily
+used.
+**Conclusion:** The update removed a popular feature. That is the cause. Fix: bring
+it back.
+
+Notice how the data killed the first guess and pointed to the real one. That is the
+method working. The analyst did not know the answer at the start — they knew how to
+*find* it.
+
+---
+
+## What you'll carry from this chapter
+
+- Turn moods into answerable questions.
+- Guess first (hypothesis), then test — it keeps you honest.
+- Ask "why" a few times to reach the root cause.
+- Analyse the smallest useful slice; don't boil the ocean.
+- Measure the right thing, or you breed cobras.
+
+Part I is done — you understand the craft. Next we get our hands dirty with the
+raw material: where data comes from, and how to see it with a real tool.

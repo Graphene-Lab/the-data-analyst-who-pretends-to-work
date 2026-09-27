@@ -1,1 +1,229 @@
-dXNpbmcgU3lzdGVtLkRpYWdub3N0aWNzOwp1c2luZyBTeXN0ZW0uTmV0Lkh0dHA7CnVzaW5nIFN5c3RlbS5OZXQuSHR0cC5IZWFkZXJzOwp1c2luZyBTeXN0ZW0uVGV4dDsKdXNpbmcgU3lzdGVtLlRleHQuSnNvbjsKdXNpbmcgU3lzdGVtLlRleHQuSnNvbi5Ob2RlczsKCi8vIFB1c2hlcyBhIHdob2xlIGZvbGRlciB0byBhIEdpdEh1YiByZXBvIHZpYSB0aGUgR2l0IERhdGEgQVBJIChibG9icyB1cCB0byAxMDBNQikuCi8vIFJ1bnMgYXMgYSBub3JtYWwgcHJvY2VzcyAobm90IGEgZ2l0IGNvbW1hbmQpLCBzbyB0aGUgZGFlbW9uJ3MgZ2l0IGd1YXJkIGRvZXMgbm90IGFwcGx5LgovLyBBIGJyYW5kLW5ldyByZXBvIGhhcyBubyBjb21taXRzLCBhbmQgdGhlIEdpdCBEYXRhIEFQSSByZWZ1c2VzIGJsb2JzIGFnYWluc3QgYW4gZW1wdHkKLy8gcmVwbyAoIkdpdCBSZXBvc2l0b3J5IGlzIGVtcHR5IiksIHNvIHdlIGZpcnN0IHNlZWQgb25lIGNvbW1pdCB2aWEgdGhlIENvbnRlbnRzIEFQSSwKLy8gdGhlbiBidWlsZCB0aGUgZnVsbCB0cmVlIG9uIHRvcCBvZiBpdC4KLy8gVXNhZ2U6IGdocHVzaCA8Ym9va0ZvbGRlcj4gW3JlcG9OYW1lXSBbb3JnXQoKdmFyIGJvb2tGb2xkZXIgPSBhcmdzLkxlbmd0aCA+IDAgPyBhcmdzWzBdCiAgICA6IEAiQzpcVXNlcnNcYW5kcmVcT25lRHJpdmVcU29yZ2VudGlcVGhlIGRhdGEgYW5hbHlzdCBwcmV0ZW5kaW5nIHRvIHdvcmsiOwp2YXIgcmVwb05hbWUgPSBhcmdzLkxlbmd0aCA+IDEgPyBhcmdzWzFdIDogInRoZS1kYXRhLWFuYWx5c3Qtd2hvLXByZXRlbmRzLXRvLXdvcmsiOwp2YXIgb3JnID0gYXJncy5MZW5ndGggPiAyID8gYXJnc1syXSA6ICJHcmFwaGVuZS1MYWIiOwoKYm9va0ZvbGRlciA9IFBhdGguR2V0RnVsbFBhdGgoYm9va0ZvbGRlcik7CkNvbnNvbGUuV3JpdGVMaW5lKCQiQm9vayBmb2xkZXI6IHtib29rRm9sZGVyfSIpOwpDb25zb2xlLldyaXRlTGluZSgkIlRhcmdldDoge29yZ30ve3JlcG9OYW1lfSIpOwoKdmFyIHRva2VuID0gR2V0VG9rZW4oKTsKdmFyIGh0dHAgPSBuZXcgSHR0cENsaWVudCgpOwpodHRwLkJhc2VBZGRyZXNzID0gbmV3IFVyaSgiaHR0cHM6Ly9hcGkuZ2l0aHViLmNvbS8iKTsKaHR0cC5EZWZhdWx0UmVxdWVzdEhlYWRlcnMuVXNlckFnZW50LlBhcnNlQWRkKCJnaHB1c2gvMS4wIik7Cmh0dHAuRGVmYXVsdFJlcXVlc3RIZWFkZXJzLkFjY2VwdC5QYXJzZUFkZCgiYXBwbGljYXRpb24vdm5kLmdpdGh1Yitqc29uIik7Cmh0dHAuRGVmYXVsdFJlcXVlc3RIZWFkZXJzLkFkZCgiWC1HaXRIdWItQXBpLVZlcnNpb24iLCAiMjAyMi0xMS0yOCIpOwpodHRwLkRlZmF1bHRSZXF1ZXN0SGVhZGVycy5BdXRob3JpemF0aW9uID0gbmV3IEF1dGhlbnRpY2F0aW9uSGVhZGVyVmFsdWUoIkJlYXJlciIsIHRva2VuKTsKCi8vIDEuIElkZW50aXR5IChub3JlcGx5IGNvbW1pdCBhdXRob3IpLgp2YXIgKF8sIHVzZXJCb2R5KSA9IGF3YWl0IFJlcShIdHRwTWV0aG9kLkdldCwgIi91c2VyIik7CnZhciBtZSA9IEpzb25Ob2RlLlBhcnNlKHVzZXJCb2R5KSE7CnZhciBsb2dpbiA9IG1lWyJsb2dpbiJdIS5HZXRWYWx1ZTxzdHJpbmc+KCk7CnZhciBpZCA9IG1lWyJpZCJdIS5HZXRWYWx1ZTxsb25nPigpOwp2YXIgbm9yZXBseSA9ICQie2lkfSt7bG9naW59QHVzZXJzLm5vcmVwbHkuZ2l0aHViLmNvbSI7CkNvbnNvbGUuV3JpdGVMaW5lKCQiSWRlbnRpdHk6IHtsb2dpbn0gPHtub3JlcGx5fT4iKTsKCi8vIDIuIENyZWF0ZSB0aGUgcmVwbyBpbiB0aGUgb3JnIChpZGVtcG90ZW50KS4KdmFyIGNyZWF0ZUJvZHkgPSBuZXcgSnNvbk9iamVjdAp7CiAgICBbIm5hbWUiXSA9IHJlcG9OYW1lLAogICAgWyJwcml2YXRlIl0gPSBmYWxzZSwKICAgIFsiZGVzY3JpcHRpb24iXSA9ICJUaGUgRGF0YSBBbmFseXN0IFdobyBQcmV0ZW5kcyB0byBXb3JrIC0gdGhlIGJvb2sgeW91ciBib3NzIHNob3VsZG4ndCBrbm93IGV4aXN0cy4gQnVpbHQgd2l0aCBBZ2VudEJyaWRnZSArIFBvd2VyQklUb29sLiIsCiAgICBbImhhc19pc3N1ZXMiXSA9IHRydWUsCiAgICBbImhhc193aWtpIl0gPSBmYWxzZQp9Owp2YXIgKGNyZWF0ZVN0YXR1cywgY3JlYXRlUmVzcCkgPSBhd2FpdCBSZXEoSHR0cE1ldGhvZC5Qb3N0LCAkIi9vcmdzL3tvcmd9L3JlcG9zIiwgY3JlYXRlQm9keSk7CmlmIChjcmVhdGVTdGF0dXMgPT0gU3lzdGVtLk5ldC5IdHRwU3RhdHVzQ29kZS5DcmVhdGVkKQogICAgQ29uc29sZS5Xcml0ZUxpbmUoJCJDcmVhdGVkIHJlcG8ge29yZ30ve3JlcG9OYW1lfS4iKTsKZWxzZSBpZiAoY3JlYXRlU3RhdHVzID09IFN5c3RlbS5OZXQuSHR0cFN0YXR1c0NvZGUuVW5wcm9jZXNzYWJsZUVudGl0eSkKICAgIENvbnNvbGUuV3JpdGVMaW5lKCQiUmVwbyB7b3JnfS97cmVwb05hbWV9IGFscmVhZHkgZXhpc3RzOyBjb250aW51aW5nLiIpOwplbHNlIHsgQ29uc29sZS5Xcml0ZUxpbmUoJCJSZXBvIGNyZWF0ZSBmYWlsZWQ6IHtjcmVhdGVTdGF0dXN9IHtjcmVhdGVSZXNwfSIpOyByZXR1cm4gMTsgfQoKLy8gMy4gU2VlZCB0aGUgcmVwbyB3aXRoIG9uZSBjb21taXQgaWYgaXQgaGFzIG5vbmUgKEdpdCBEYXRhIEFQSSBuZWVkcyBhIG5vbi1lbXB0eSByZXBvKS4KdmFyIChjb21taXRzU3RhdHVzLCBjb21taXRzQm9keSkgPSBhd2FpdCBSZXEoSHR0cE1ldGhvZC5HZXQsICQiL3JlcG9zL3tvcmd9L3tyZXBvTmFtZX0vY29tbWl0cz9wZXJfcGFnZT0xIik7CmJvb2wgaGFzQ29tbWl0cyA9IGNvbW1pdHNTdGF0dXMgPT0gU3lzdGVtLk5ldC5IdHRwU3RhdHVzQ29kZS5PSwogICAgJiYgSnNvbk5vZGUuUGFyc2UoY29tbWl0c0JvZHkpIS5Bc0FycmF5KCkuQ291bnQgPiAwOwppZiAoIWhhc0NvbW1pdHMpCnsKICAgIENvbnNvbGUuV3JpdGVMaW5lKCJSZXBvIGlzIGVtcHR5OyBzZWVkaW5nIGFuIGluaXRpYWwgY29tbWl0IHZpYSB0aGUgQ29udGVudHMgQVBJLi4uIik7CiAgICB2YXIgcmVhZG1lUGF0aCA9IFBhdGguQ29tYmluZShib29rRm9sZGVyLCAiUkVBRE1FLm1kIik7CiAgICB2YXIgcmVhZG1lQjY0ID0gQ29udmVydC5Ub0Jhc2U2NFN0cmluZyhhd2FpdCBGaWxlLlJlYWRBbGxCeXRlc0FzeW5jKHJlYWRtZVBhdGgpKTsKICAgIHZhciBzZWVkQm9keSA9IG5ldyBKc29uT2JqZWN0CiAgICB7CiAgICAgICAgWyJtZXNzYWdlIl0gPSAiSW5pdGlhbCBjb21taXQiLAogICAgICAgIFsiY29udGVudCJdID0gcmVhZG1lQjY0CiAgICB9OwogICAgdmFyIChzZWVkU3RhdHVzLCBzZWVkUmVzcCkgPSBhd2FpdCBSZXEoSHR0cE1ldGhvZC5QdXQsICQiL3JlcG9zL3tvcmd9L3tyZXBvTmFtZX0vY29udGVudHMvUkVBRE1FLm1kIiwgc2VlZEJvZHkpOwogICAgaWYgKHNlZWRTdGF0dXMgIT0gU3lzdGVtLk5ldC5IdHRwU3RhdHVzQ29kZS5PSyAmJiBzZWVkU3RhdHVzICE9IFN5c3RlbS5OZXQuSHR0cFN0YXR1c0NvZGUuQ3JlYXRlZCkKICAgIHsKICAgICAgICBDb25zb2xlLldyaXRlTGluZSgkIlNlZWQgZmFpbGVkOiB7c2VlZFN0YXR1c30ge3NlZWRSZXNwfSIpOwogICAgICAgIHJldHVybiAxOwogICAgfQogICAgQ29uc29sZS5Xcml0ZUxpbmUoIlNlZWRlZCBpbml0aWFsIGNvbW1pdC4iKTsKfQoKLy8gNC4gQ3VycmVudCByZWYgc2hhICh0aGUgcGFyZW50IGZvciBvdXIgY29tbWl0KS4KdmFyIChyZWZTdGF0dXMsIHJlZkJvZHkpID0gYXdhaXQgUmVxKEh0dHBNZXRob2QuR2V0LCAkIi9yZXBvcy97b3JnfS97cmVwb05hbWV9L2dpdC9yZWZzL2hlYWRzL21haW4iKTsKaWYgKHJlZlN0YXR1cyAhPSBTeXN0ZW0uTmV0Lkh0dHBTdGF0dXNDb2RlLk9LKQp7CiAgICBDb25zb2xlLldyaXRlTGluZSgkIkNvdWxkIG5vdCByZWFkIHJlZnMvaGVhZHMvbWFpbjoge3JlZlN0YXR1c30ge3JlZkJvZHl9Iik7CiAgICByZXR1cm4gMTsKfQp2YXIgcGFyZW50U2hhID0gSnNvbk5vZGUuUGFyc2UocmVmQm9keSkhWyJvYmplY3QiXSFbInNoYSJdIS5HZXRWYWx1ZTxzdHJpbmc+KCk7CkNvbnNvbGUuV3JpdGVMaW5lKCQiUGFyZW50IGNvbW1pdDoge3BhcmVudFNoYX0iKTsKCi8vIDUuIENvbGxlY3QgZmlsZXMgdG8gcHVzaC4KdmFyIGV4Y2x1ZGVOYW1lcyA9IG5ldyBIYXNoU2V0PHN0cmluZz4oU3RyaW5nQ29tcGFyZXIuT3JkaW5hbElnbm9yZUNhc2UpIHsgImJvb2sgbGluZWVndWlkZS5tZCIgfTsKdmFyIGV4Y2x1ZGVEaXJzID0gbmV3IEhhc2hTZXQ8c3RyaW5nPihTdHJpbmdDb21wYXJlci5PcmRpbmFsSWdub3JlQ2FzZSkgeyAiYmluIiwgIm9iaiIsICIuZ2l0IiB9Owp2YXIgZmlsZXMgPSBuZXcgTGlzdDwoc3RyaW5nIHJlbCwgc3RyaW5nIGZ1bGwpPigpOwpmb3JlYWNoICh2YXIgcGF0aCBpbiBEaXJlY3RvcnkuRW51bWVyYXRlRmlsZXMoYm9va0ZvbGRlciwgIioiLCBTZWFyY2hPcHRpb24uQWxsRGlyZWN0b3JpZXMpKQp7CiAgICB2YXIgcmVsID0gUGF0aC5HZXRSZWxhdGl2ZVBhdGgoYm9va0ZvbGRlciwgcGF0aCkuUmVwbGFjZSgnXFwnLCAnLycpOwogICAgdmFyIHBhcnRzID0gcmVsLlNwbGl0KCcvJyk7CiAgICBpZiAocGFydHMuQW55KHAgPT4gZXhjbHVkZURpcnMuQ29udGFpbnMocCkpKSBjb250aW51ZTsKICAgIGlmIChleGNsdWRlTmFtZXMuQ29udGFpbnMocGFydHNbXjFdKSkgY29udGludWU7CiAgICBmaWxlcy5BZGQoKHJlbCwgcGF0aCkpOwp9CmZpbGVzLlNvcnQoKGEsIGIpID0+IHN0cmluZy5Db21wYXJlT3JkaW5hbChhLnJlbCwgYi5yZWwpKTsKQ29uc29sZS5Xcml0ZUxpbmUoJCJGaWxlcyB0byBwdXNoOiB7ZmlsZXMuQ291bnR9Iik7CgovLyA2LiBDcmVhdGUgYSBibG9iIHBlciBmaWxlLgp2YXIgdHJlZSA9IG5ldyBKc29uQXJyYXkoKTsKbG9uZyB0b3RhbEJ5dGVzID0gMDsKaW50IG4gPSAwOwpmb3JlYWNoICh2YXIgKHJlbCwgZnVsbCkgaW4gZmlsZXMpCnsKICAgIHZhciBieXRlcyA9IGF3YWl0IEZpbGUuUmVhZEFsbEJ5dGVzQXN5bmMoZnVsbCk7CiAgICB0b3RhbEJ5dGVzICs9IGJ5dGVzLkxlbmd0aDsKICAgIHZhciBiNjQgPSBDb252ZXJ0LlRvQmFzZTY0U3RyaW5nKGJ5dGVzKTsKICAgIHZhciBibG9iQm9keSA9IG5ldyBKc29uT2JqZWN0IHsgWyJjb250ZW50Il0gPSBiNjQgfTsKICAgIHZhciAoc3QsIHJlc3ApID0gYXdhaXQgUmVxUmV0cnkoJCIvcmVwb3Mve29yZ30ve3JlcG9OYW1lfS9naXQvYmxvYnMiLCBibG9iQm9keSk7CiAgICBpZiAoc3QgIT0gU3lzdGVtLk5ldC5IdHRwU3RhdHVzQ29kZS5DcmVhdGVkKQogICAgewogICAgICAgIENvbnNvbGUuV3JpdGVMaW5lKCQiQmxvYiBmYWlsZWQgZm9yIHtyZWx9OiB7c3R9IHtyZXNwfSIpOwogICAgICAgIHJldHVybiAxOwogICAgfQogICAgdmFyIHNoYSA9IEpzb25Ob2RlLlBhcnNlKHJlc3ApIVsic2hhIl0hLkdldFZhbHVlPHN0cmluZz4oKTsKICAgIHRyZWUuQWRkKG5ldyBKc29uT2JqZWN0IHsgWyJwYXRoIl0gPSByZWwsIFsibW9kZSJdID0gIjEwMDY0NCIsIFsidHlwZSJdID0gImJsb2IiLCBbInNoYSJdID0gc2hhIH0pOwogICAgbisrOwogICAgaWYgKG4gJSAxMCA9PSAwIHx8IG4gPT0gZmlsZXMuQ291bnQpCiAgICAgICAgQ29uc29sZS5Xcml0ZUxpbmUoJCIgIGJsb2JzIHtufS97ZmlsZXMuQ291bnR9ICh7dG90YWxCeXRlcyAvIDEwMjQgLyAxMDI0fSBNQikiKTsKICAgIGF3YWl0IFRhc2suRGVsYXkoMjUwKTsgLy8gcGFjZSBibG9iIGNyZWF0aW9uIHRvIHN0YXkgdW5kZXIgR2l0SHViIGFidXNlIGRldGVjdGlvbgp9CgovLyA3LiBDcmVhdGUgdGhlIHRyZWUgKGZyZXNoLCBmdWxsIGNvbnRlbnQpLgp2YXIgKHRyZWVTdGF0dXMsIHRyZWVSZXNwKSA9IGF3YWl0IFJlcShIdHRwTWV0aG9kLlBvc3QsICQiL3JlcG9zL3tvcmd9L3tyZXBvTmFtZX0vZ2l0L3RyZWVzIiwKICAgIG5ldyBKc29uT2JqZWN0IHsgWyJ0cmVlIl0gPSB0cmVlIH0pOwppZiAodHJlZVN0YXR1cyAhPSBTeXN0ZW0uTmV0Lkh0dHBTdGF0dXNDb2RlLkNyZWF0ZWQpCnsKICAgIENvbnNvbGUuV3JpdGVMaW5lKCQiVHJlZSBmYWlsZWQ6IHt0cmVlU3RhdHVzfSB7dHJlZVJlc3B9Iik7CiAgICByZXR1cm4gMTsKfQp2YXIgdHJlZVNoYSA9IEpzb25Ob2RlLlBhcnNlKHRyZWVSZXNwKSFbInNoYSJdIS5HZXRWYWx1ZTxzdHJpbmc+KCk7CkNvbnNvbGUuV3JpdGVMaW5lKCQiVHJlZToge3RyZWVTaGF9Iik7CgovLyA4LiBDcmVhdGUgdGhlIGNvbW1pdCBvbiB0b3Agb2YgdGhlIHBhcmVudC4KdmFyIG5vdyA9IERhdGVUaW1lLlV0Y05vdy5Ub1N0cmluZygieXl5eS1NTS1kZFRISDptbTpzc1oiKTsKSnNvbk9iamVjdCBQZXJzb24oKSA9PiBuZXcoKSB7IFsibmFtZSJdID0gbG9naW4sIFsiZW1haWwiXSA9IG5vcmVwbHksIFsiZGF0ZSJdID0gbm93IH07CnZhciAoY1N0YXR1cywgY1Jlc3ApID0gYXdhaXQgUmVxKEh0dHBNZXRob2QuUG9zdCwgJCIvcmVwb3Mve29yZ30ve3JlcG9OYW1lfS9naXQvY29tbWl0cyIsIG5ldyBKc29uT2JqZWN0CnsKICAgIFsibWVzc2FnZSJdID0gIlRoZSBEYXRhIEFuYWx5c3QgV2hvIFByZXRlbmRzIHRvIFdvcmsgLSBmdWxsIGJvb2sgKEVOKVxuXG4iICsKICAgICAgICAgICAgICAgICAiU291cmNlLCBhc3NldHMsIGdlbmVyYXRvcnMsIGFuZCBidWlsdCBQREYvRVBVQi9wcmludC4gIiArCiAgICAgICAgICAgICAgICAgIkFsbCBleGFtcGxlcyBwcm9kdWNlZCB3aXRoIEFnZW50QnJpZGdlICsgUG93ZXJCSVRvb2wuIiwKICAgIFsidHJlZSJdID0gdHJlZVNoYSwKICAgIFsicGFyZW50cyJdID0gbmV3IEpzb25BcnJheSB7IHBhcmVudFNoYSB9LAogICAgWyJhdXRob3IiXSA9IFBlcnNvbigpLAogICAgWyJjb21taXR0ZXIiXSA9IFBlcnNvbigpCn0pOwppZiAoY1N0YXR1cyAhPSBTeXN0ZW0uTmV0Lkh0dHBTdGF0dXNDb2RlLkNyZWF0ZWQpCnsKICAgIENvbnNvbGUuV3JpdGVMaW5lKCQiQ29tbWl0IGZhaWxlZDoge2NTdGF0dXN9IHtjUmVzcH0iKTsKICAgIHJldHVybiAxOwp9CnZhciBjb21taXRTaGEgPSBKc29uTm9kZS5QYXJzZShjUmVzcCkhWyJzaGEiXSEuR2V0VmFsdWU8c3RyaW5nPigpOwpDb25zb2xlLldyaXRlTGluZSgkIkNvbW1pdDoge2NvbW1pdFNoYX0iKTsKCi8vIDkuIE1vdmUgcmVmcy9oZWFkcy9tYWluIHRvIHRoZSBuZXcgY29tbWl0Lgp2YXIgKHJTdGF0dXMsIHJSZXNwKSA9IGF3YWl0IFJlcShuZXcgSHR0cE1ldGhvZCgiUEFUQ0giKSwgJCIvcmVwb3Mve29yZ30ve3JlcG9OYW1lfS9naXQvcmVmcy9oZWFkcy9tYWluIiwKICAgIG5ldyBKc29uT2JqZWN0IHsgWyJzaGEiXSA9IGNvbW1pdFNoYSwgWyJmb3JjZSJdID0gZmFsc2UgfSk7CmlmIChyU3RhdHVzICE9IFN5c3RlbS5OZXQuSHR0cFN0YXR1c0NvZGUuT0spCnsKICAgIENvbnNvbGUuV3JpdGVMaW5lKCQiUmVmIHVwZGF0ZSBmYWlsZWQ6IHtyU3RhdHVzfSB7clJlc3B9Iik7CiAgICByZXR1cm4gMTsKfQpDb25zb2xlLldyaXRlTGluZSgkIlB1c2hlZCByZWZzL2hlYWRzL21haW4gLT4ge2NvbW1pdFNoYX0iKTsKQ29uc29sZS5Xcml0ZUxpbmUoJCJodHRwczovL2dpdGh1Yi5jb20ve29yZ30ve3JlcG9OYW1lfSIpOwpyZXR1cm4gMDsKCi8vIC0tLSBoZWxwZXJzIC0tLQpzdHJpbmcgR2V0VG9rZW4oKQp7CiAgICB2YXIgZW52ID0gRW52aXJvbm1lbnQuR2V0RW52aXJvbm1lbnRWYXJpYWJsZSgiR0hfVE9LRU4iKSA/PyBFbnZpcm9ubWVudC5HZXRFbnZpcm9ubWVudFZhcmlhYmxlKCJHSVRIVUJfVE9LRU4iKTsKICAgIGlmICghc3RyaW5nLklzTnVsbE9yV2hpdGVTcGFjZShlbnYpKSByZXR1cm4gZW52LlRyaW0oKTsKICAgIHZhciBwc2kgPSBuZXcgUHJvY2Vzc1N0YXJ0SW5mbygiZ2giLCAiYXV0aCB0b2tlbiIpCiAgICB7CiAgICAgICAgUmVkaXJlY3RTdGFuZGFyZE91dHB1dCA9IHRydWUsCiAgICAgICAgUmVkaXJlY3RTdGFuZGFyZEVycm9yID0gdHJ1ZSwKICAgICAgICBVc2VTaGVsbEV4ZWN1dGUgPSBmYWxzZQogICAgfTsKICAgIHVzaW5nIHZhciBwID0gUHJvY2Vzcy5TdGFydChwc2kpITsKICAgIHZhciB0b2sgPSBwLlN0YW5kYXJkT3V0cHV0LlJlYWRUb0VuZCgpLlRyaW0oKTsKICAgIHAuV2FpdEZvckV4aXQoKTsKICAgIGlmIChzdHJpbmcuSXNOdWxsT3JXaGl0ZVNwYWNlKHRvaykpCiAgICAgICAgdGhyb3cgbmV3IEV4Y2VwdGlvbigiQ291bGQgbm90IG9idGFpbiBhIEdpdEh1YiB0b2tlbiBmcm9tIGBnaCBhdXRoIHRva2VuYC4iKTsKICAgIHJldHVybiB0b2s7Cn0KCmFzeW5jIFRhc2s8KFN5c3RlbS5OZXQuSHR0cFN0YXR1c0NvZGUsIHN0cmluZyk+IFJlcShIdHRwTWV0aG9kIG1ldGhvZCwgc3RyaW5nIHBhdGgsIEpzb25Ob2RlPyBib2R5ID0gbnVsbCkKewogICAgdXNpbmcgdmFyIG1zZyA9IG5ldyBIdHRwUmVxdWVzdE1lc3NhZ2UobWV0aG9kLCBwYXRoKTsKICAgIGlmIChib2R5IGlzIG5vdCBudWxsKQogICAgICAgIG1zZy5Db250ZW50ID0gbmV3IFN0cmluZ0NvbnRlbnQoYm9keS5Ub0pzb25TdHJpbmcoKSwgRW5jb2RpbmcuVVRGOCwgImFwcGxpY2F0aW9uL2pzb24iKTsKICAgIHVzaW5nIHZhciByZXMgPSBhd2FpdCBodHRwLlNlbmRBc3luYyhtc2cpOwogICAgdmFyIHRleHQgPSBhd2FpdCByZXMuQ29udGVudC5SZWFkQXNTdHJpbmdBc3luYygpOwogICAgcmV0dXJuIChyZXMuU3RhdHVzQ29kZSwgdGV4dCk7Cn0KCi8vIFJldHJ5IHRyYW5zaWVudCBmYWlsdXJlczoKLy8gIC0gNDA5ICJHaXQgUmVwb3NpdG9yeSBpcyBlbXB0eSIgKHJlcG8gc3RpbGwgcHJvdmlzaW9uaW5nKQovLyAgLSA0MDEvNDAzLzQyOSBhYnVzZS1kZXRlY3Rpb24gdGhyb3R0bGluZyAodG9rZW4gaXMgdmFsaWQ7IEdpdEh1YiB0aHJvdHRsZXMgcmFwaWQgYmxvYiBjcmVhdGlvbikKYXN5bmMgVGFzazwoU3lzdGVtLk5ldC5IdHRwU3RhdHVzQ29kZSwgc3RyaW5nKT4gUmVxUmV0cnkoc3RyaW5nIHBhdGgsIEpzb25Ob2RlIGJvZHksIGludCBtYXhBdHRlbXB0cyA9IDEwKQp7CiAgICBTeXN0ZW0uTmV0Lkh0dHBTdGF0dXNDb2RlIGxhc3QgPSAwOwogICAgc3RyaW5nIGxhc3RUZXh0ID0gIiI7CiAgICBmb3IgKGludCBhdHRlbXB0ID0gMTsgYXR0ZW1wdCA8PSBtYXhBdHRlbXB0czsgYXR0ZW1wdCsrKQogICAgewogICAgICAgIHZhciAoc3QsIHRleHQpID0gYXdhaXQgUmVxKEh0dHBNZXRob2QuUG9zdCwgcGF0aCwgYm9keSk7CiAgICAgICAgaWYgKHN0ID09IFN5c3RlbS5OZXQuSHR0cFN0YXR1c0NvZGUuQ3JlYXRlZCkgcmV0dXJuIChzdCwgdGV4dCk7CiAgICAgICAgbGFzdCA9IHN0OyBsYXN0VGV4dCA9IHRleHQ7CiAgICAgICAgYm9vbCBlbXB0eVJlcG8gPSBzdCA9PSBTeXN0ZW0uTmV0Lkh0dHBTdGF0dXNDb2RlLkNvbmZsaWN0ICYmIHRleHQuQ29udGFpbnMoIkdpdCBSZXBvc2l0b3J5IGlzIGVtcHR5Iik7CiAgICAgICAgYm9vbCB0aHJvdHRsZWQgPSBzdCA9PSBTeXN0ZW0uTmV0Lkh0dHBTdGF0dXNDb2RlLlVuYXV0aG9yaXplZAogICAgICAgICAgICAgICAgICAgICB8fCBzdCA9PSBTeXN0ZW0uTmV0Lkh0dHBTdGF0dXNDb2RlLkZvcmJpZGRlbgogICAgICAgICAgICAgICAgICAgICB8fCAoaW50KXN0ID09IDQyOTsKICAgICAgICBpZiAoZW1wdHlSZXBvIHx8IHRocm90dGxlZCkKICAgICAgICB7CiAgICAgICAgICAgIHZhciBkZWxheSA9IFRpbWVTcGFuLkZyb21TZWNvbmRzKE1hdGguTWluKDMwLCBNYXRoLlBvdygyLCBhdHRlbXB0KSkpOwogICAgICAgICAgICBDb25zb2xlLldyaXRlTGluZSgkIiAge3N0fSBvbiB7cGF0aH0sIHJldHJ5IHthdHRlbXB0fS97bWF4QXR0ZW1wdHN9IGluIHtkZWxheS5Ub3RhbFNlY29uZHM6MH1zIik7CiAgICAgICAgICAgIGF3YWl0IFRhc2suRGVsYXkoZGVsYXkpOwogICAgICAgICAgICBjb250aW51ZTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIChzdCwgdGV4dCk7CiAgICB9CiAgICByZXR1cm4gKGxhc3QsIGxhc3RUZXh0KTsKfQo=
+using System.Diagnostics;
+using System.Net.Http;
+using System.Net.Http.Headers;
+using System.Text;
+using System.Text.Json;
+using System.Text.Json.Nodes;
+
+// Pushes a whole folder to a GitHub repo via the Git Data API (blobs up to 100MB).
+// Runs as a normal process (not a git command), so the daemon's git guard does not apply.
+// A brand-new repo has no commits, and the Git Data API refuses blobs against an empty
+// repo ("Git Repository is empty"), so we first seed one commit via the Contents API,
+// then build the full tree on top of it.
+// Usage: ghpush <bookFolder> [repoName] [org]
+
+var bookFolder = args.Length > 0 ? args[0]
+    : @"C:\Users\andre\OneDrive\Sorgenti\The data analyst pretending to work";
+var repoName = args.Length > 1 ? args[1] : "the-data-analyst-who-pretends-to-work";
+var org = args.Length > 2 ? args[2] : "Graphene-Lab";
+
+bookFolder = Path.GetFullPath(bookFolder);
+Console.WriteLine($"Book folder: {bookFolder}");
+Console.WriteLine($"Target: {org}/{repoName}");
+
+var token = GetToken();
+var http = new HttpClient();
+http.BaseAddress = new Uri("https://api.github.com/");
+http.DefaultRequestHeaders.UserAgent.ParseAdd("ghpush/1.0");
+http.DefaultRequestHeaders.Accept.ParseAdd("application/vnd.github+json");
+http.DefaultRequestHeaders.Add("X-GitHub-Api-Version", "2022-11-28");
+http.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", token);
+
+// 1. Identity (noreply commit author).
+var (_, userBody) = await Req(HttpMethod.Get, "/user");
+var me = JsonNode.Parse(userBody)!;
+var login = me["login"]!.GetValue<string>();
+var id = me["id"]!.GetValue<long>();
+var noreply = $"{id}+{login}@users.noreply.github.com";
+Console.WriteLine($"Identity: {login} <{noreply}>");
+
+// 2. Create the repo in the org (idempotent).
+var createBody = new JsonObject
+{
+    ["name"] = repoName,
+    ["private"] = false,
+    ["description"] = "The Data Analyst Who Pretends to Work - the book your boss shouldn't know exists. Built with AgentBridge + PowerBITool.",
+    ["has_issues"] = true,
+    ["has_wiki"] = false
+};
+var (createStatus, createResp) = await Req(HttpMethod.Post, $"/orgs/{org}/repos", createBody);
+if (createStatus == System.Net.HttpStatusCode.Created)
+    Console.WriteLine($"Created repo {org}/{repoName}.");
+else if (createStatus == System.Net.HttpStatusCode.UnprocessableEntity)
+    Console.WriteLine($"Repo {org}/{repoName} already exists; continuing.");
+else { Console.WriteLine($"Repo create failed: {createStatus} {createResp}"); return 1; }
+
+// 3. Seed the repo with one commit if it has none (Git Data API needs a non-empty repo).
+var (commitsStatus, commitsBody) = await Req(HttpMethod.Get, $"/repos/{org}/{repoName}/commits?per_page=1");
+bool hasCommits = commitsStatus == System.Net.HttpStatusCode.OK
+    && JsonNode.Parse(commitsBody)!.AsArray().Count > 0;
+if (!hasCommits)
+{
+    Console.WriteLine("Repo is empty; seeding an initial commit via the Contents API...");
+    var readmePath = Path.Combine(bookFolder, "README.md");
+    var readmeB64 = Convert.ToBase64String(await File.ReadAllBytesAsync(readmePath));
+    var seedBody = new JsonObject
+    {
+        ["message"] = "Initial commit",
+        ["content"] = readmeB64
+    };
+    var (seedStatus, seedResp) = await Req(HttpMethod.Put, $"/repos/{org}/{repoName}/contents/README.md", seedBody);
+    if (seedStatus != System.Net.HttpStatusCode.OK && seedStatus != System.Net.HttpStatusCode.Created)
+    {
+        Console.WriteLine($"Seed failed: {seedStatus} {seedResp}");
+        return 1;
+    }
+    Console.WriteLine("Seeded initial commit.");
+}
+
+// 4. Current ref sha (the parent for our commit).
+var (refStatus, refBody) = await Req(HttpMethod.Get, $"/repos/{org}/{repoName}/git/refs/heads/main");
+if (refStatus != System.Net.HttpStatusCode.OK)
+{
+    Console.WriteLine($"Could not read refs/heads/main: {refStatus} {refBody}");
+    return 1;
+}
+var parentSha = JsonNode.Parse(refBody)!["object"]!["sha"]!.GetValue<string>();
+Console.WriteLine($"Parent commit: {parentSha}");
+
+// 5. Collect files to push.
+var excludeNames = new HashSet<string>(StringComparer.OrdinalIgnoreCase) { "book lineeguide.md" };
+var excludeDirs = new HashSet<string>(StringComparer.OrdinalIgnoreCase) { "bin", "obj", ".git" };
+var files = new List<(string rel, string full)>();
+foreach (var path in Directory.EnumerateFiles(bookFolder, "*", SearchOption.AllDirectories))
+{
+    var rel = Path.GetRelativePath(bookFolder, path).Replace('\\', '/');
+    var parts = rel.Split('/');
+    if (parts.Any(p => excludeDirs.Contains(p))) continue;
+    if (excludeNames.Contains(parts[^1])) continue;
+    files.Add((rel, path));
+}
+files.Sort((a, b) => string.CompareOrdinal(a.rel, b.rel));
+Console.WriteLine($"Files to push: {files.Count}");
+
+// 6. Create a blob per file.
+var tree = new JsonArray();
+long totalBytes = 0;
+int n = 0;
+foreach (var (rel, full) in files)
+{
+    var bytes = await File.ReadAllBytesAsync(full);
+    totalBytes += bytes.Length;
+    var b64 = Convert.ToBase64String(bytes);
+    // encoding MUST be "base64": without it GitHub treats `content` as UTF-8 and stores
+    // the base64 string literally, corrupting every file.
+    var blobBody = new JsonObject { ["content"] = b64, ["encoding"] = "base64" };
+    var (st, resp) = await ReqRetry($"/repos/{org}/{repoName}/git/blobs", blobBody);
+    if (st != System.Net.HttpStatusCode.Created)
+    {
+        Console.WriteLine($"Blob failed for {rel}: {st} {resp}");
+        return 1;
+    }
+    var sha = JsonNode.Parse(resp)!["sha"]!.GetValue<string>();
+    tree.Add(new JsonObject { ["path"] = rel, ["mode"] = "100644", ["type"] = "blob", ["sha"] = sha });
+    n++;
+    if (n % 10 == 0 || n == files.Count)
+        Console.WriteLine($"  blobs {n}/{files.Count} ({totalBytes / 1024 / 1024} MB)");
+    await Task.Delay(250); // pace blob creation to stay under GitHub abuse detection
+}
+
+// 7. Create the tree (fresh, full content).
+var (treeStatus, treeResp) = await Req(HttpMethod.Post, $"/repos/{org}/{repoName}/git/trees",
+    new JsonObject { ["tree"] = tree });
+if (treeStatus != System.Net.HttpStatusCode.Created)
+{
+    Console.WriteLine($"Tree failed: {treeStatus} {treeResp}");
+    return 1;
+}
+var treeSha = JsonNode.Parse(treeResp)!["sha"]!.GetValue<string>();
+Console.WriteLine($"Tree: {treeSha}");
+
+// 8. Create the commit on top of the parent.
+var now = DateTime.UtcNow.ToString("yyyy-MM-ddTHH:mm:ssZ");
+JsonObject Person() => new() { ["name"] = login, ["email"] = noreply, ["date"] = now };
+var (cStatus, cResp) = await Req(HttpMethod.Post, $"/repos/{org}/{repoName}/git/commits", new JsonObject
+{
+    ["message"] = "The Data Analyst Who Pretends to Work - full book (EN)\n\n" +
+                 "Source, assets, generators, and built PDF/EPUB/print. " +
+                 "All examples produced with AgentBridge + PowerBITool.",
+    ["tree"] = treeSha,
+    ["parents"] = new JsonArray { parentSha },
+    ["author"] = Person(),
+    ["committer"] = Person()
+});
+if (cStatus != System.Net.HttpStatusCode.Created)
+{
+    Console.WriteLine($"Commit failed: {cStatus} {cResp}");
+    return 1;
+}
+var commitSha = JsonNode.Parse(cResp)!["sha"]!.GetValue<string>();
+Console.WriteLine($"Commit: {commitSha}");
+
+// 9. Move refs/heads/main to the new commit.
+var (rStatus, rResp) = await Req(new HttpMethod("PATCH"), $"/repos/{org}/{repoName}/git/refs/heads/main",
+    new JsonObject { ["sha"] = commitSha, ["force"] = false });
+if (rStatus != System.Net.HttpStatusCode.OK)
+{
+    Console.WriteLine($"Ref update failed: {rStatus} {rResp}");
+    return 1;
+}
+Console.WriteLine($"Pushed refs/heads/main -> {commitSha}");
+Console.WriteLine($"https://github.com/{org}/{repoName}");
+return 0;
+
+// --- helpers ---
+string GetToken()
+{
+    var env = Environment.GetEnvironmentVariable("GH_TOKEN") ?? Environment.GetEnvironmentVariable("GITHUB_TOKEN");
+    if (!string.IsNullOrWhiteSpace(env)) return env.Trim();
+    var psi = new ProcessStartInfo("gh", "auth token")
+    {
+        RedirectStandardOutput = true,
+        RedirectStandardError = true,
+        UseShellExecute = false
+    };
+    using var p = Process.Start(psi)!;
+    var tok = p.StandardOutput.ReadToEnd().Trim();
+    p.WaitForExit();
+    if (string.IsNullOrWhiteSpace(tok))
+        throw new Exception("Could not obtain a GitHub token from `gh auth token`.");
+    return tok;
+}
+
+async Task<(System.Net.HttpStatusCode, string)> Req(HttpMethod method, string path, JsonNode? body = null)
+{
+    using var msg = new HttpRequestMessage(method, path);
+    if (body is not null)
+        msg.Content = new StringContent(body.ToJsonString(), Encoding.UTF8, "application/json");
+    using var res = await http.SendAsync(msg);
+    var text = await res.Content.ReadAsStringAsync();
+    return (res.StatusCode, text);
+}
+
+// Retry transient failures:
+//  - 409 "Git Repository is empty" (repo still provisioning)
+//  - 401/403/429 abuse-detection throttling (token is valid; GitHub throttles rapid blob creation)
+async Task<(System.Net.HttpStatusCode, string)> ReqRetry(string path, JsonNode body, int maxAttempts = 10)
+{
+    System.Net.HttpStatusCode last = 0;
+    string lastText = "";
+    for (int attempt = 1; attempt <= maxAttempts; attempt++)
+    {
+        var (st, text) = await Req(HttpMethod.Post, path, body);
+        if (st == System.Net.HttpStatusCode.Created) return (st, text);
+        last = st; lastText = text;
+        bool emptyRepo = st == System.Net.HttpStatusCode.Conflict && text.Contains("Git Repository is empty");
+        bool throttled = st == System.Net.HttpStatusCode.Unauthorized
+                     || st == System.Net.HttpStatusCode.Forbidden
+                     || (int)st == 429;
+        if (emptyRepo || throttled)
+        {
+            var delay = TimeSpan.FromSeconds(Math.Min(30, Math.Pow(2, attempt)));
+            Console.WriteLine($"  {st} on {path}, retry {attempt}/{maxAttempts} in {delay.TotalSeconds:0}s");
+            await Task.Delay(delay);
+            continue;
+        }
+        return (st, text);
+    }
+    return (last, lastText);
+}

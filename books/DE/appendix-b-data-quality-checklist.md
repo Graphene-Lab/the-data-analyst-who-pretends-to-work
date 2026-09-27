@@ -1,1 +1,60 @@
-IyBBbmhhbmcgQiDigJQgQ2hlY2tsaXN0ZSBmw7xyIERhdGVucXVhbGl0w6R0CgpOdXR6ZSBkYXMsIGJldm9yIGR1IGlyZ2VuZGVpbmVyIEFuYWx5c2UgdHJhdXN0LiBKZWRlbiBQdW5rdCBrYW5uc3QgZHUgbWl0IGRlbQpBc3Npc3RlbnRlbiBwcsO8ZmVuLgoKIyMgVm9sbHN0w6RuZGlna2VpdAoKLSBbIF0gS2VpbmUgdW5lcndhcnRldGVuIGxlZXJlbiBXZXJ0ZSBpbiBTY2hsw7xzc2Vsc3BhbHRlbi4gKihQcm9maWxpZXIgZGllIFRhYmVsbGU7CiAgICAgIHNjaGF1IGluIGRpZSBTcGFsdGUgQmxhbmtzLikqCi0gWyBdIEplZGUgZXJ3YXJ0ZXRlIFplaWxlIGlzdCBkYSAoa2VpbmUgZmVobGVuZGVuIFplaXRyw6R1bWUsIFJlZ2lvbmVuIG9kZXIKICAgICAgUHJvZHVrdGUpLgotIFsgXSBaZWlsZW56YWhsZW4gc3RpbW1lbiBtaXQgZGVtIFF1ZWxsc3lzdGVtIMO8YmVyZWluLgoKIyMgUmljaHRpZ2tlaXQKCi0gWyBdIFN1bW1lbiBzdGltbWVuIG1pdCBkZXIgUXVlbGxlIGRlciBXYWhyaGVpdCDDvGJlcmVpbi4KLSBbIF0gWmFobGVuIHNpbmQgaW4gZGVyIHJpY2h0aWdlbiBFaW5oZWl0IChFdXJvIHZzLiBDZW50LCBTdMO8Y2sgdnMuIEtpc3RlbikuCi0gWyBdIEtlaW5lIG9mZmVuc2ljaHRsaWNoIGZhbHNjaGVuIFdlcnRlIChuZWdhdGl2ZSBNZW5nZW4sIERhdGVuIGluIGRlciBadWt1bmZ0KS4KCiMjIEtvbnNpc3RlbnoKCi0gWyBdIFRleHQgaXN0IHN0YW5kYXJkaXNpZXJ0IChrZWluIOKAnk1pbGFuIiB2cy4g4oCebWlsYW4iIHZzLiDigJ5NSUxBTiIpLiAqKEbDvGdlIGVpbmUKICAgICAgVVBQRVIvTE9XRVItU3BhbHRlIHp1bSBQcsO8ZmVuIGhpbnp1LikqCi0gWyBdIERpZXNlbGJlIEVudGl0w6R0IGhhdCDDvGJlcmFsbCBkZW5zZWxiZW4gTmFtZW4uCi0gWyBdIENvZGVzIHN0aW1tZW4gw7xiZXIgVGFiZWxsZW4gaGlud2VnIMO8YmVyZWluIChqZWRlIFByb2R1Y3RJRCBpbiBTYWxlcyBleGlzdGllcnQKICAgICAgaW4gUHJvZHVjdHMpLgoKIyMgRWluZGV1dGlna2VpdAoKLSBbIF0gU2NobMO8c3NlbHNwYWx0ZW4gc2luZCBlaW5kZXV0aWcsIHdvIHNpZSBlcyBzZWluIHNvbGx0ZW4gKGVpbmUgWmVpbGUgcHJvCiAgICAgIFNhbGVJZCkuCi0gWyBdIEtlaW5lIGRvcHBlbHRlbiBLdW5kZW4sIFByb2R1a3RlIG9kZXIgRmlsaWFsZW4uCgojIyBHw7xsdGlna2VpdAoKLSBbIF0gV2VydGUgbGllZ2VuIGluIGRlbiBlcndhcnRldGVuIEJlcmVpY2hlbiAoUHJlaXMgPiAwLCBEYXRlbiBnw7xsdGlnKS4KLSBbIF0gS2F0ZWdvcmllbiBzdGFtbWVuIGF1cyBlaW5lciBlcmxhdWJ0ZW4gTGlzdGUuCi0gWyBdIEZvcm1hdGUgc2luZCBrb3JyZWt0IChEYXR1bXN3ZXJ0ZSBzaW5kIERhdHVtLCBrZWluIFRleHQpLgoKIyMgQWt0dWFsaXTDpHQKCi0gWyBdIERhdGVuIHNpbmQgYWt0dWVsbCBnZW51ZyBmw7xyIGRpZSBFbnRzY2hlaWR1bmcuCi0gWyBdIERpZSBBa3R1YWxpc2llcnVuZyBwYXNzaWVydGUsIHdhbm4gc2llIHNvbGx0ZS4KCiMjIEludGVncml0w6R0CgotIFsgXSBCZXppZWh1bmdlbiBzaW5kIHJpY2h0aWcgdmVyZHJhaHRldCAodmllbGUtYXVmLWVpbnMsIGFrdGl2KS4KLSBbIF0gS2VpbmUgdmVyd2Fpc3RlbiBaZWlsZW4gKFZlcmvDpHVmZSwgZGllIGF1ZiBlaW4gZmVobGVuZGVzIFByb2R1a3QgemVpZ2VuKS4KLSBbIF0gRGFzIE1vZGVsbCBiZXN0ZWh0IGRlbiBCZXN0LVByYWN0aWNlcy1DaGVjay4KCiMjIFdpZSBkZXIgQXNzaXN0ZW50IGhpbGZ0CgotICoqUHJvZmlsaWVyKiogamVkZSBUYWJlbGxlLCB1bSB2ZXJzY2hpZWRlbmUgV2VydGUsIExlZXJzdGVsbGVuLCBNaW4vTWF4LAogIFN0aWNocHJvYmVuIHp1IHNlaGVuLgotICoqVmFsaWRpZXIqKiBGb3JtZWxuLCBiZXZvciBkdSBzaWUgc3BlaWNoZXJzdC4KLSAqKkxpbnQqKiBEQVgsIHVtIHJpc2thbnRlIE11c3RlciB6dSBmYW5nZW4uCi0gKipCZXN0LVByYWN0aWNlcy1CZXJpY2h0KiosIHVtIGRhcyBnYW56ZSBNb2RlbGwgYXVmIGVpbm1hbCB6dSBwcsO8ZmVuLgoKRWluIHNhdWJlcmVzIE1vZGVsbCBpc3Qga2VpbiBOaWNlLXRvLWhhdmUuIEplZGUgWmFobCBmbHVzc2Fid8OkcnRzIGVyYnQgZGllIFF1YWxpdMOkdApkZXIgRGF0ZW4gZmx1c3NhdWZ3w6RydHMuIFByw7xmIGVpbm1hbCwgdmVydHJhdSDDvGJlcmFsbC4K
+# Anhang B — Checkliste für Datenqualität
+
+Nutze das, bevor du irgendeiner Analyse traust. Jeden Punkt kannst du mit dem
+Assistenten prüfen.
+
+## Vollständigkeit
+
+- [ ] Keine unerwarteten leeren Werte in Schlüsselspalten. *(Profilier die Tabelle;
+      schau in die Spalte Blanks.)*
+- [ ] Jede erwartete Zeile ist da (keine fehlenden Zeiträume, Regionen oder
+      Produkte).
+- [ ] Zeilenzahlen stimmen mit dem Quellsystem überein.
+
+## Richtigkeit
+
+- [ ] Summen stimmen mit der Quelle der Wahrheit überein.
+- [ ] Zahlen sind in der richtigen Einheit (Euro vs. Cent, Stück vs. Kisten).
+- [ ] Keine offensichtlich falschen Werte (negative Mengen, Daten in der Zukunft).
+
+## Konsistenz
+
+- [ ] Text ist standardisiert (kein „Milan" vs. „milan" vs. „MILAN"). *(Füge eine
+      UPPER/LOWER-Spalte zum Prüfen hinzu.)*
+- [ ] Dieselbe Entität hat überall denselben Namen.
+- [ ] Codes stimmen über Tabellen hinweg überein (jede ProductID in Sales existiert
+      in Products).
+
+## Eindeutigkeit
+
+- [ ] Schlüsselspalten sind eindeutig, wo sie es sein sollten (eine Zeile pro
+      SaleId).
+- [ ] Keine doppelten Kunden, Produkte oder Filialen.
+
+## Gültigkeit
+
+- [ ] Werte liegen in den erwarteten Bereichen (Preis > 0, Daten gültig).
+- [ ] Kategorien stammen aus einer erlaubten Liste.
+- [ ] Formate sind korrekt (Datumswerte sind Datum, kein Text).
+
+## Aktualität
+
+- [ ] Daten sind aktuell genug für die Entscheidung.
+- [ ] Die Aktualisierung passierte, wann sie sollte.
+
+## Integrität
+
+- [ ] Beziehungen sind richtig verdrahtet (viele-auf-eins, aktiv).
+- [ ] Keine verwaisten Zeilen (Verkäufe, die auf ein fehlendes Produkt zeigen).
+- [ ] Das Modell besteht den Best-Practices-Check.
+
+## Wie der Assistent hilft
+
+- **Profilier** jede Tabelle, um verschiedene Werte, Leerstellen, Min/Max,
+  Stichproben zu sehen.
+- **Validier** Formeln, bevor du sie speicherst.
+- **Lint** DAX, um riskante Muster zu fangen.
+- **Best-Practices-Bericht**, um das ganze Modell auf einmal zu prüfen.
+
+Ein sauberes Modell ist kein Nice-to-have. Jede Zahl flussabwärts erbt die Qualität
+der Daten flussaufwärts. Prüf einmal, vertrau überall.

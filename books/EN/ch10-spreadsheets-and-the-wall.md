@@ -1,1 +1,98 @@
-IyAxMC4gU3ByZWFkc2hlZXRzLCBFeGNlbCwgYW5kIEhpdHRpbmcgdGhlIFdhbGwKCk5vIGJvb2sgYWJvdXQgZGF0YSBhbmFseXNpcyBjYW4gc2tpcCB0aGUgc3ByZWFkc2hlZXQuIEl0IGlzIHdoZXJlIGFsbW9zdCBldmVyeW9uZQpzdGFydHMsIGFuZCBmb3IgZ29vZCByZWFzb24g4oCUIGl0IGlzIGJyaWxsaWFudC4gQnV0IGl0IGlzIGFsc28gd2hlcmUgcGVvcGxlIGhpdCBhCndhbGwsIGFuZCBrbm93aW5nIHdoZXJlIHRoYXQgd2FsbCBpcyB0ZWxscyB5b3Ugd2hlbiB0byBtb3ZlIG9uLgoKIyMgV2h5IHNwcmVhZHNoZWV0cyB3b24KClRoZSBzcHJlYWRzaGVldCBpcyBvbmUgb2YgdGhlIG1vc3Qgc3VjY2Vzc2Z1bCBwaWVjZXMgb2Ygc29mdHdhcmUgZXZlciBtYWRlLiBJdHMKZ2VuaXVzIGlzIHRoYXQgaXQgaXMgKipkaXJlY3QgbWFuaXB1bGF0aW9uKio6IHlvdSB0eXBlIGEgbnVtYmVyIGluIGEgYm94LCBhbmQgdGhlCmJveGVzIHRoYXQgZGVwZW5kIG9uIGl0IHVwZGF0ZSBpbnN0YW50bHkuIE5vIGNvZGUsIG5vIGNvbXBpbGUsIG5vIHdhaXRpbmcuIFlvdSBzZWUKeW91ciB3b3JrIGFuZCB5b3VyIHJlc3VsdCBzaWRlIGJ5IHNpZGUuCgpTcHJlYWRzaGVldHMgZ2F2ZSBvcmRpbmFyeSBwZW9wbGUgdGhlIHBvd2VyIHRvIG1vZGVsOiBidWRnZXRzLCBmb3JlY2FzdHMsIHNjaGVkdWxlcywKcHJpY2UgbGlzdHMuIEJlZm9yZSB0aGUgc3ByZWFkc2hlZXQsIHRoYXQgcG93ZXIgbGl2ZWQgb25seSBpbiBtYWluZnJhbWVzIGFuZCBvbmx5CndpdGggcHJvZ3JhbW1lcnMuIEFmdGVyIGl0LCBhbnlvbmUgd2l0aCBhIFBDIGNvdWxkIGRvIGl0LgoKIyMgVGhlIHBpdm90IHRhYmxlOiBhbmFseXNpcyBpbiBhIGJveAoKVGhlICoqcGl2b3QgdGFibGUqKiBpcyB0aGUgc3ByZWFkc2hlZXQncyBzdXBlcnBvd2VyLiBEcmFnIGEgZmV3IGZpZWxkcyBhbmQgaXQKc3VtbWFyaXNlcyB0aG91c2FuZHMgb2Ygcm93czogc2FsZXMgYnkgbW9udGgsIGJ5IHByb2R1Y3QsIGJ5IHJlZ2lvbi4gRm9yIGEgaHVnZQpzaGFyZSBvZiBidXNpbmVzcyBhbmFseXNpcywgYSBwaXZvdCB0YWJsZSBpcyB0aGUgd2hvbGUgam9iLiBJZiB5b3UgY2FuIHBpdm90LCB5b3UKY2FuIGFuYWx5c2UuCgojIyBUaGUgd2FsbAoKQnV0IHNwcmVhZHNoZWV0cyBoYXZlIGEgY2VpbGluZywgYW5kIGV2ZXJ5IGFuYWx5c3QgZXZlbnR1YWxseSBoaXRzIGl0OgoKLSAqKlNpemUqKiDigJQgcGFzdCBhIG1pbGxpb24gcm93cywgRXhjZWwgZ3JvYW5zLCBzbG93cywgYW5kIGNyYXNoZXMuCi0gKipGcmFnaWxpdHkqKiDigJQgb25lIGRlbGV0ZWQgY2VsbCwgb25lIGJyb2tlbiBmb3JtdWxhLCBhbmQgdGhlIHdob2xlIHdvcmtib29rIGlzCiAgcXVpZXRseSB3cm9uZy4gVGhlcmUgaXMgbm8gc2FmZXR5IG5ldC4KLSAqKk5vIHJlbGF0aW9uc2hpcHMqKiDigJQgam9pbmluZyB0d28gdGFibGVzIG1lYW5zIFZMT09LVVAsIGFuZCBWTE9PS1VQIGJyZWFrcyB0aGUKICBtb21lbnQgZGF0YSBtb3Zlcy4KLSAqKlZlcnNpb24gY2hhb3MqKiDigJQgIkJ1ZGdldF9GSU5BTF92M19yZWFsbHlfZmluYWwueGxzeCIgZWRpdGVkIGJ5IGZpdmUgcGVvcGxlLAogIGFsbCBkaXNhZ3JlZWluZy4KLSAqKk5vIHJlZnJlc2gqKiDigJQgYSByZXBvcnQgdGhhdCBnZXRzIHVwZGF0ZWQgYnkgY29weS1wYXN0ZSBldmVyeSBNb25kYXkgaXMgYQogIHJlcG9ydCB0aGF0IGlzIHdyb25nIGV2ZXJ5IFR1ZXNkYXkuCi0gKipObyBzaGFyaW5nIHN0b3J5Kiog4oCUIGEgc3ByZWFkc2hlZXQgaXMgYSBmaWxlLCBub3QgYSBsaXZlIGRhc2hib2FyZCBvdGhlcnMgY2FuCiAgdHJ1c3QgYW5kIGV4cGxvcmUuCgpJZiB5b3VyIE1vbmRheSBtb3JuaW5nIGlzICJvcGVuIHRoZSBmaWxlLCBwYXN0ZSB0aGUgbmV3IGRhdGEsIGRyYWcgdGhlIGZvcm11bGFzLApyZS1zYXZlLCBlbWFpbCBpdCIg4oCUIHlvdSBhcmUgZG9pbmcgYnkgaGFuZCB3aGF0IGEgcHJvcGVyIG1vZGVsIGRvZXMgYnkgaXRzZWxmLgoKIyMgVGhlIHNwcmVhZHNoZWV0IHZzLiB0aGUgbW9kZWwKCkhlcmUgaXMgdGhlIGRpZmZlcmVuY2UgaW4gb25lIGxpbmU6Cgo+IEEgc3ByZWFkc2hlZXQgc3RvcmVzIG51bWJlcnMgaW4gY2VsbHMuIEEgbW9kZWwgc3RvcmVzICpsb2dpYyogYW5kIGNvbXB1dGVzIHRoZQo+IG51bWJlcnMgZnJlc2ggZXZlcnkgdGltZS4KCkluIGEgc3ByZWFkc2hlZXQsIHRoZSBudW1iZXIgKmlzKiB0aGUgYW5zd2VyLCBzaXR0aW5nIGluIGEgY2VsbCwgcm90dGluZy4gSW4gYQptb2RlbCwgdGhlIGFuc3dlciBpcyByZWNvbXB1dGVkIGZyb20gdGhlIGRhdGEgYW5kIHRoZSBydWxlcywgZXZlcnkgdGltZSB5b3UgbG9vaywKYWx3YXlzIGN1cnJlbnQuCgojIyBUaGUgc2FtZSBxdWVzdGlvbiwgdHdvIHdheXMKCkluIEV4Y2VsLCAidG90YWwgc2FsZXMiIG1lYW5zIGEgU1VNIGZvcm11bGEgb3ZlciBhIGNvbHVtbiwgY29ycmVjdCBvbmx5IGFzIGxvbmcgYXMKbm9ib2R5IHRvdWNoZXMgdGhlIHJvd3MuIEluIGEgbW9kZWwsIGl0IGlzIGEgbWVhc3VyZSDigJQgYFNVTShTYWxlc1tBbW91bnRdKWAg4oCUIHRoYXQKcmVjb21wdXRlcyBvbiBkZW1hbmQgYW5kIGNhbiBiZSBzbGljZWQgYnkgYW55IGRpbWVuc2lvbiB3aXRob3V0IGEgc2luZ2xlIG5ldwpmb3JtdWxhOgoKPiAiV2hhdCBpcyB0aGUgdG90YWwgb2YgdGhlIEFtb3VudCBjb2x1bW4/IgoKIVtUb3RhbCBhbW91bnQgYXMgYSBtZWFzdXJlXSguLi8uLi9hc3NldHMvZXhhbXBsZXMvZTAyMS5wbmcpCgpTYW1lIG51bWJlciwgYnV0IG5vdyBpdCBsaXZlcyBpbiBhIG1vZGVsIHRoYXQgY2FuIGFuc3dlciAiYnkgcmVnaW9uIiwgImJ5IG1vbnRoIiwKImJ5IGN1c3RvbWVyIiB3aXRob3V0IGFueSBleHRyYSB3b3JrIOKAlCBiZWNhdXNlIHRoZSBsb2dpYyBpcyBzdG9yZWQsIG5vdCB0aGUgcmVzdWx0LgoKIyMgQSBjdXJpb3NpdHk6IHRoZSBzcHJlYWRzaGVldCB0aGF0IGxvc3QgYSBiaWxsaW9uCgpJbiAxOTk4LCBhIHNwcmVhZHNoZWV0IGVycm9yIGhlbHBlZCBjYXVzZSBhICQxLjIgYmlsbGlvbiBsb3NzIGF0IGEgbWFqb3IgZmluYW5jaWFsCmZ1bmQgKExUQ00pLCBhbmQgY291bnRsZXNzIGNvbXBhbmllcyBoYXZlIGJlZW4gYnVybmVkIGJ5IGEgc2luZ2xlIHdyb25nIGNlbGwuIEluCjIwMDgsIGEgZmFtb3VzIHJlc2VhcmNoIHBhcGVyIG9uIGRlYnQgYW5kIGdyb3d0aCB3YXMgZm91bmQgdG8gaGF2ZSBhIHNwcmVhZHNoZWV0CmVycm9yIOKAlCBhbiBhY2NpZGVudGFsbHkgZXhjbHVkZWQgc2V0IG9mIHJvd3Mg4oCUIHRoYXQgZmxpcHBlZCBpdHMgY29uY2x1c2lvbiBhbmQgaGFkCmluZmx1ZW5jZWQgcmVhbCBwb2xpY3kgZm9yIHllYXJzLiBTcHJlYWRzaGVldHMgYXJlIHBvd2VyZnVsLCBhbmQgdGhhdCBpcyBleGFjdGx5CndoeSB0aGVpciBtaXN0YWtlcyBhcmUgZGFuZ2Vyb3VzLiBBIG1vZGVsIHdpdGggdGVzdGVkIGxvZ2ljIGlzIHNhZmVyIHRoYW4gYQpzcHJlYWRzaGVldCB3aXRoIGEgaGlkZGVuIGArYCB3aGVyZSBhIGAtYCBzaG91bGQgYmUuCgojIyBXaGVuIHRvIHN0YXksIHdoZW4gdG8gZ28KClN0YXkgaW4gdGhlIHNwcmVhZHNoZWV0IHdoZW46IHRoZSBkYXRhIGlzIHNtYWxsLCB0aGUgam9iIGlzIG9uZS1vZmYsIHlvdSBhcmUKc2tldGNoaW5nLiBNb3ZlIHRvIGEgbW9kZWwgd2hlbjogdGhlIGRhdGEgaXMgYmlnLCB0aGUgcmVwb3J0IHJlcGVhdHMsIG1vcmUgdGhhbiBvbmUKcGVyc29uIHRvdWNoZXMgaXQsIG9yIHlvdSBuZWVkIGl0IHRvIGJlICpyaWdodCogYW5kICpjdXJyZW50Ki4gVGhlIGFzc2lzdGFudCBhbmQKUG93ZXIgQkkgYXJlIGhvdyB5b3UgY3Jvc3MgdGhhdCBicmlkZ2Ugd2l0aG91dCBwYWluLgoKLS0tCgojIyBXaGF0IHlvdSdsbCBjYXJyeSBmcm9tIHRoaXMgY2hhcHRlcgoKLSBTcHJlYWRzaGVldHMgYXJlIGJyaWxsaWFudCBmb3Igc21hbGwsIGRpcmVjdCwgb25lLW9mZiB3b3JrLgotIFRoZSBwaXZvdCB0YWJsZSBpcyBhIGdlbnVpbmUgc3VwZXJwb3dlci4KLSBUaGUgd2FsbDogc2l6ZSwgZnJhZ2lsaXR5LCBubyByZWxhdGlvbnNoaXBzLCB2ZXJzaW9uIGNoYW9zLCBubyByZWZyZXNoLgotIEEgbW9kZWwgc3RvcmVzIGxvZ2ljLCBub3QgZnJvemVuIHJlc3VsdHMuCi0gTW92ZSBvbiB3aGVuIHRoZSByZXBvcnQgcmVwZWF0cyBvciB0aGUgZGF0YSBncm93cy4KClBhcnQgSUkgaXMgZG9uZSDigJQgeW91IGtub3cgd2hlcmUgZGF0YSBjb21lcyBmcm9tLCBob3cgdG8gY2xlYW4gaXQsIGhvdyB0byB3aXJlIGl0LAphbmQgaG93IHRvIGFzayBpdCBxdWVzdGlvbnMuIE5leHQgd2UgdHVybiBkYXRhIGludG8gbWVhbmluZzogdGhlIG1ldHJpY3MgYW5kIGtpbmRzCm9mIGFuYWx5c2lzIHRoYXQgZHJpdmUgZGVjaXNpb25zLgo=
+# 10. Spreadsheets, Excel, and Hitting the Wall
+
+No book about data analysis can skip the spreadsheet. It is where almost everyone
+starts, and for good reason — it is brilliant. But it is also where people hit a
+wall, and knowing where that wall is tells you when to move on.
+
+## Why spreadsheets won
+
+The spreadsheet is one of the most successful pieces of software ever made. Its
+genius is that it is **direct manipulation**: you type a number in a box, and the
+boxes that depend on it update instantly. No code, no compile, no waiting. You see
+your work and your result side by side.
+
+Spreadsheets gave ordinary people the power to model: budgets, forecasts, schedules,
+price lists. Before the spreadsheet, that power lived only in mainframes and only
+with programmers. After it, anyone with a PC could do it.
+
+## The pivot table: analysis in a box
+
+The **pivot table** is the spreadsheet's superpower. Drag a few fields and it
+summarises thousands of rows: sales by month, by product, by region. For a huge
+share of business analysis, a pivot table is the whole job. If you can pivot, you
+can analyse.
+
+## The wall
+
+But spreadsheets have a ceiling, and every analyst eventually hits it:
+
+- **Size** — past a million rows, Excel groans, slows, and crashes.
+- **Fragility** — one deleted cell, one broken formula, and the whole workbook is
+  quietly wrong. There is no safety net.
+- **No relationships** — joining two tables means VLOOKUP, and VLOOKUP breaks the
+  moment data moves.
+- **Version chaos** — "Budget_FINAL_v3_really_final.xlsx" edited by five people,
+  all disagreeing.
+- **No refresh** — a report that gets updated by copy-paste every Monday is a
+  report that is wrong every Tuesday.
+- **No sharing story** — a spreadsheet is a file, not a live dashboard others can
+  trust and explore.
+
+If your Monday morning is "open the file, paste the new data, drag the formulas,
+re-save, email it" — you are doing by hand what a proper model does by itself.
+
+## The spreadsheet vs. the model
+
+Here is the difference in one line:
+
+> A spreadsheet stores numbers in cells. A model stores *logic* and computes the
+> numbers fresh every time.
+
+In a spreadsheet, the number *is* the answer, sitting in a cell, rotting. In a
+model, the answer is recomputed from the data and the rules, every time you look,
+always current.
+
+## The same question, two ways
+
+In Excel, "total sales" means a SUM formula over a column, correct only as long as
+nobody touches the rows. In a model, it is a measure — `SUM(Sales[Amount])` — that
+recomputes on demand and can be sliced by any dimension without a single new
+formula:
+
+> "What is the total of the Amount column?"
+
+![Total amount as a measure](../../assets/examples/e021.png)
+
+Same number, but now it lives in a model that can answer "by region", "by month",
+"by customer" without any extra work — because the logic is stored, not the result.
+
+## A curiosity: the spreadsheet that lost a billion
+
+In 1998, a spreadsheet error helped cause a $1.2 billion loss at a major financial
+fund (LTCM), and countless companies have been burned by a single wrong cell. In
+2008, a famous research paper on debt and growth was found to have a spreadsheet
+error — an accidentally excluded set of rows — that flipped its conclusion and had
+influenced real policy for years. Spreadsheets are powerful, and that is exactly
+why their mistakes are dangerous. A model with tested logic is safer than a
+spreadsheet with a hidden `+` where a `-` should be.
+
+## When to stay, when to go
+
+Stay in the spreadsheet when: the data is small, the job is one-off, you are
+sketching. Move to a model when: the data is big, the report repeats, more than one
+person touches it, or you need it to be *right* and *current*. The assistant and
+Power BI are how you cross that bridge without pain.
+
+---
+
+## What you'll carry from this chapter
+
+- Spreadsheets are brilliant for small, direct, one-off work.
+- The pivot table is a genuine superpower.
+- The wall: size, fragility, no relationships, version chaos, no refresh.
+- A model stores logic, not frozen results.
+- Move on when the report repeats or the data grows.
+
+Part II is done — you know where data comes from, how to clean it, how to wire it,
+and how to ask it questions. Next we turn data into meaning: the metrics and kinds
+of analysis that drive decisions.

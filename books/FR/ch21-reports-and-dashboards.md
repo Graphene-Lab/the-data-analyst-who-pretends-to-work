@@ -1,1 +1,86 @@
-IyAyMS4gUmFwcG9ydHMgZXQgdGFibGVhdXggZGUgYm9yZCBxdSdvbiB1dGlsaXNlIHZyYWltZW50CgpVbiB0YWJsZWF1IGRlIGJvcmQgcXVlIHBlcnNvbm5lIG4nb3V2cmUgZXN0IHVuIMOpY2hlYywgYXVzc2kgYmVhdSBzb2l0LWlsLiBDZSBjaGFwaXRyZSBleHBsaXF1ZSBjb21tZW50IGNvbnN0cnVpcmUgZGVzIHJhcHBvcnRzIHF1ZSBsZXMgZ2VucyByZWdhcmRlbnQgdnJhaW1lbnQsIGF1eHF1ZWxzIGlscyBmb250IGNvbmZpYW5jZSBldCBzdXIgbGVzcXVlbHMgaWxzIGFnaXNzZW50IOKAlCBldCBjb21tZW50IGwnYXNzaXN0YW50IHByw6lwYXJlIGxlcyBjaGlmZnJlcyBxdWkgcyd5IHRyb3V2ZW50LgoKIyMgVGFibGVhdSBkZSBib3JkIG91IHJhcHBvcnQgOiBjZSBuJ2VzdCBwYXMgbGEgbcOqbWUgY2hvc2UKCi0gVW4gKip0YWJsZWF1IGRlIGJvcmQqKiB0aWVudCBzdXIgdW5lIHNldWxlIHBhZ2UsIGF2ZWMgbGVzIGNoaWZmcmVzIGxlcyBwbHVzIGltcG9ydGFudHMsIGNvbsOndXMgcG91ciBzZSBsaXJlIGQndW4gY291cCBkJ8WTaWwuIFBlbnNleiBhdSBjb21wdGV1ciBkZSB2aXRlc3NlIGV0IMOgIGxhIGphdWdlIGRlIGNhcmJ1cmFudCBkJ3VuZSB2b2l0dXJlLgotIFVuICoqcmFwcG9ydCoqIGVzdCB1bmUgZXhwbG9yYXRpb24gcGx1cyBhcHByb2ZvbmRpZSwgc3VyIHBsdXNpZXVycyBwYWdlcywgb8O5IGwnb24gcGV1dCBjcmV1c2VyLiBQZW5zZXogYXUgbWFudWVsIGQnZW50cmV0aWVuIHF1J29uIGNvbnN1bHRlIHF1YW5kIHF1ZWxxdWUgY2hvc2UgbmUgdmEgcGFzLgoKTGVzIGRldXggb250IGxldXIgcGxhY2UuIExlIHRhYmxlYXUgZGUgYm9yZCByw6lwb25kIMOgIMKrIG/DuSBlbiBzb21tZXMtbm91cywgbMOgLCB0b3V0IGRlIHN1aXRlID8gwrsgOyBsZSByYXBwb3J0IHLDqXBvbmQgw6AgwqsgY3JldXNvbnMgcG91cnF1b2kgwrsuCgojIyBMYSBsaWduZSBkZSBLUEkgOiBsZSBoYXV0IGRlIHRvdXQgYm9uIHRhYmxlYXUgZGUgYm9yZAoKTGEgcGx1cGFydCBkZXMgZXhjZWxsZW50cyB0YWJsZWF1eCBkZSBib3JkIHMnb3V2cmVudCBzdXIgdW5lIHJhbmfDqWUgZGUgZ3JhbmRzIGNoaWZmcmVzIOKAlCBsYSBwb2lnbsOpZSBkZSBLUEkgcXVpIGNvbXB0ZW50IGxlIHBsdXMuIEwnYXNzaXN0YW50IHBldXQgY29uc3RydWlyZSBjZXR0ZSByYW5nw6llIGQndW5lIHNldWxlIGRlbWFuZGUgOgoKPiDCqyBVbiBqZXUgZGUgS1BJIDogdG90YWwgZGVzIHZlbnRlcywgbm9tYnJlIGRlIGNvbW1hbmRlcywgcGFuaWVyIG1veWVuLiDCuwoKIVtKZXUgZGUgS1BJXSguLi8uLi9hc3NldHMvZXhhbXBsZXMvZTA2Mi5wbmcpCgpUcm9pcyBjaGlmZnJlcywgcHLDqnRzIHBvdXIgdHJvaXMgY2FydGVzIEtQSSBhbGlnbsOpZXMgZW4gaGF1dC4gQydlc3QgbGEgcHJlbWnDqHJlIGNob3NlIHF1ZSBsaXQgdW4gZGlyaWdlYW50IHByZXNzw6ksIGFsb3JzIGlsIGZhdXQgcXVlIGNlIHNvaWVudCBsZXMgdHJvaXMgYm9ucyBjaGlmZnJlcy4KCkxlcyBtw6ptZXMgS1BJLCByZXByw6lzZW50w6lzIHNvdXMgZm9ybWUgZGUgZ3JhcGhpcXVlIGNvbXBhcmF0aWYgOgoKIVtLUEkgcGhhcmVzIOKAlCBncmFwaGlxdWVdKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9jaGFydC1rcGkucG5nKQoKPiDCqyBVbmUgbGlnbmUgZGUgS1BJIGNvbXBhY3RlIHBvdXIgbGUgaGF1dCBkJ3VuIHJhcHBvcnQuIMK7CgohW0xpZ25lIGRlIEtQSSBjb21wYWN0ZV0oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2UwOTgucG5nKQoKTcOqbWUgaWTDqWUsIHVuIGF1dHJlIGpldSDigJQgcXVlbHMgcXVlIHNvaWVudCB2b3MgaW5kaWNhdGV1cnMgZGUgcHJlbWllciBwbGFuLgoKIyMgTGUgZ3JhbmQgbm9tYnJlIHVuaXF1ZQoKUGFyZm9pcywgdW4gc2V1bCBjaGlmZnJlIHJhY29udGUgdG91dGUgbCdoaXN0b2lyZSA6Cgo+IMKrIFVuIEtQSSB1bmlxdWUgZW4gZ3JhbmQgZm9ybWF0LiDCuwoKIVtLUEkgZ3JhbmQgbm9tYnJlXSguLi8uLi9hc3NldHMvZXhhbXBsZXMvZTA4NC5wbmcpCgpMYSBjYXJ0ZSDCqyBncmFuZCBub21icmUgwrsgZXN0IGwnw6lxdWl2YWxlbnQsIHN1ciB1biB0YWJsZWF1IGRlIGJvcmQsIGQndW4gZ3JvcyB0aXRyZSDDoCBsYSB1bmUuIFLDqXNlcnZlei1sYSDDoCBsJ3VuaXF1ZSBtw6l0cmlxdWUgcXVpIGludMOpcmVzc2UgdG91dCBsZSBtb25kZS4KCiMjIExlIGNsYXNzZW1lbnQKCkxlcyBnZW5zIGFkb3JlbnQgbGVzIGNsYXNzZW1lbnRzLiBVbmUgbGlzdGUgZGVzIE4gbWVpbGxldXJzIHBvdXNzZSDDoCBsJ2FjdGlvbiBldCBzdXNjaXRlIHVuZSBwZXRpdGUgc2FpbmUgY29uY3VycmVuY2UgOgoKPiDCqyBMZXMgbWVpbGxldXJzIHByb2R1aXRzIHBvdXIgdW4gdmlzdWVsIGRlIGNsYXNzZW1lbnQuIMK7CgohW0NsYXNzZW1lbnQgZGVzIG1laWxsZXVycyBwcm9kdWl0c10oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2UwNjMucG5nKQoKVW5lIGxpc3RlIGNsYXNzw6llLCBwcsOqdGUgcG91ciB1biB2aXN1ZWwgZGUgY2xhc3NlbWVudC4gTGUgYmFzIGRlIGxhIGxpc3RlIGVzdCBsw6AgcXVlIHNlIHRyb3V2ZW50IGxlcyBwcm9ibMOobWVzIDsgbGUgaGF1dCwgbMOgIG/DuSBpbCBmYXV0IGludmVzdGlyIGRhdmFudGFnZS4KCkxlIGNsYXNzZW1lbnQsIGRlc3NpbsOpIGVuIGdyYXBoaXF1ZSA6CgohW01laWxsZXVycyBwcm9kdWl0cyDigJQgZ3JhcGhpcXVlIGRlIGNsYXNzZW1lbnRdKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9jaGFydC1wcm9kdWN0cy5wbmcpCgojIyBDZSBxdWkgcmVuZCB1biB0YWJsZWF1IGRlIGJvcmQgdXRpbGlzYWJsZQoKLSAqKlBldSBkZSBjaGlmZnJlcywgZ3JhbmRzIGV0IGNsYWlycy4qKiBVbiBjb3VwIGQnxZNpbCBkb2l0IHJhY29udGVyIGwnaGlzdG9pcmUuCi0gKipMZXMgYm9ucyBjaGlmZnJlcy4qKiBDZXV4IHF1aSBib3VnZW50IGF2ZWMgbCdlbnRyZXByaXNlIChjaGFwaXRyZSAxMSkuCi0gKipDb2jDqXJlbnQuKiogTGVzIG3Dqm1lcyBtw6l0cmlxdWVzLCBsZXMgbcOqbWVzIGNvdWxldXJzLCBsYSBtw6ptZSBtaXNlIGVuIHBhZ2Ugw6AgY2hhcXVlIGZvaXMg4oCUIHBvdXIgcXVlIGxlcyBnZW5zIGFwcHJlbm5lbnQgw6AgbGUgbGlyZS4KLSAqKkVuIGRpcmVjdC4qKiBNaXMgw6Agam91ciBhdXRvbWF0aXF1ZW1lbnQsIHBvdXIgw6p0cmUgdG91am91cnMgw6Agam91ci4KLSAqKkhvbm7DqnRlLioqIFBhcyBkJ2F4ZXMgdHJvbnF1w6lzLCBwYXMgZGUgbcOpdHJpcXVlcyBkZSB2YW5pdMOpLgoKIyMgTGUgcHJpbmNpcGUgZHUgY3JldXNlbWVudCAoZHJpbGwtZG93bikKClVuIGJvbiB0YWJsZWF1IGRlIGJvcmQgbW9udHJlIGxhIHN5bnRow6hzZSBldCBwZXJtZXQgZGUgKipjcmV1c2VyKiogcXVhbmQgb24gYSBiZXNvaW4gZGUgZMOpdGFpbC4gT24gdm9pdCDCqyBsZSBOb3JkIGVzdCBlbiBiYWlzc2Ugwrsgc3VyIGxlIHRhYmxlYXUgZGUgYm9yZCwgb24gY2xpcXVlLCBldCBsZSByYXBwb3J0IGFmZmljaGUgcXVlbHMgbWFnYXNpbnMsIHF1ZWxzIHByb2R1aXRzLCBxdWVscyBqb3Vycy4gTGEgc3ludGjDqHNlIGQnYWJvcmQsIGxlIGTDqXRhaWwgw6AgbGEgZGVtYW5kZSDigJQgaWwgbmUgZmF1dCBqYW1haXMgbm95ZXIgbGUgbGVjdGV1ciBkYW5zIGxlIGTDqXRhaWwgZMOocyBsZSBkw6lwYXJ0LgoKIyMgVW5lIGN1cmlvc2l0w6kgOiBsYSByw6hnbGUgZHUgY29ja3BpdAoKTGVzIHBpbG90ZXMgbmUgdmV1bGVudCBwYXMgcGx1cyBkJ2luc3RydW1lbnRzIDsgaWxzIHZldWxlbnQgbGVzICpib25zKiBpbnN0cnVtZW50cywgYXUgKmJvbiogZW5kcm9pdC4gTGEgbcOqbWUgcsOoZ2xlIHLDqWdpdCBsZXMgdGFibGVhdXggZGUgYm9yZC4gVW4gY8OpbMOoYnJlIHByaW5jaXBlIGRlIGRlc2lnbiB2ZXV0IHF1J3VuIGJvbiB0YWJsZWF1IGRlIGJvcmQgcsOpcG9uZGUgw6Agdm90cmUgcXVlc3Rpb24gbGEgcGx1cyBpbXBvcnRhbnRlICoqc2FucyBxdWUgdm91cyBheWV6IMOgIGxhIHBvc2VyKiog4oCUIGxlIGNoaWZmcmUgcXUnaWwgdm91cyBmYXV0IGVzdCBkw6lqw6AgbMOgLCBncmFuZCwgw6Agam91ciBldCBob25uw6p0ZS4gU2kgdm91cyBkZXZleiBjaGVyY2hlciBvdSBjbGlxdWVyIHBvdXIgdHJvdXZlciBjZSBxdWUgdm91cyB2w6lyaWZpZXogY2hhcXVlIG1hdGluLCBsZSB0YWJsZWF1IGRlIGJvcmQgbidlc3QgcGFzIGZpbmkuCgojIyBMZSByw7RsZSBkZSBsJ2Fzc2lzdGFudCBkYW5zIGxlIHRhYmxlYXUgZGUgYm9yZAoKTCdhc3Npc3RhbnQgY29uc3RydWl0IGxlcyAqKmNoaWZmcmVzKiog4oCUIGxlcyBtZXN1cmVzIGV0IGxlcyBLUEkgcXVpIGFsaW1lbnRlbnQgY2hhcXVlIGNhcnRlIGV0IGNoYXF1ZSBncmFwaGlxdWUuIFZvdXMgbGVzIGRpc3Bvc2V6IHN1ciBsZSBjYW5ldmFzLiBDZXR0ZSByw6lwYXJ0aXRpb24gZGVzIHTDomNoZXMgZXN0IGxlIHBvaW50IGlkw6lhbCA6IGwnYXNzaXN0YW50IGfDqHJlIGxlIGNhbGN1bCBldCBsYSB2w6lyaWZpY2F0aW9uIDsgdm91cyBnw6lyZXogbCdoaXN0b2lyZSBldCBsYSBtaXNlIGVuIHBhZ2UuCgotLS0KCiMjIENlIHF1ZSB2b3VzIGdhcmRlcmV6IGRlIGNlIGNoYXBpdHJlCgotIFVuIHRhYmxlYXUgZGUgYm9yZCBzZSBsaXQgZCd1biBjb3VwIGQnxZNpbCA7IHVuIHJhcHBvcnQgc2UgY3JldXNlLgotIE91dnJleiBzdXIgdW5lIGxpZ25lIGRlIEtQSSBhdmVjIGxlcyByYXJlcyBjaGlmZnJlcyBxdWkgY29tcHRlbnQuCi0gVXRpbGlzZXogbGVzIGNhcnRlcyDCqyBncmFuZCBub21icmUgwrsgZXQgbGVzIGNsYXNzZW1lbnRzIHBvdXIgY29uY2VudHJlciBsJ2F0dGVudGlvbi4KLSBVdGlsaXNhYmxlID0gcGV1LCBsZXMgYm9ucywgY29ow6lyZW50LCBlbiBkaXJlY3QsIGhvbm7DqnRlLgotIEwnYXNzaXN0YW50IGNvbnN0cnVpdCBsZXMgY2hpZmZyZXMgOyB2b3VzIGNvbnN0cnVpc2V6IGwnaGlzdG9pcmUuCgpMYSBwYXJ0aWUgSVYgZXN0IHRlcm1pbsOpZSDigJQgdm91cyBzYXZleiBjb25uZWN0ZXIsIG1vZMOpbGlzZXIsIGNhbGN1bGVyIGV0IHZpc3VhbGlzZXIuIFBsYWNlIGF1IGRlcm5pZXIgYWN0ZSA6IGxhIHLDqXZvbHV0aW9uIGFnZW50aXF1ZSBxdWkgcmVsaWUgdG91dCBjZWxhLCBldCB2b3RyZSBwbGFjZSBlbiBzb24gc2Vpbi4K
+# 21. Rapports et tableaux de bord qu'on utilise vraiment
+
+Un tableau de bord que personne n'ouvre est un échec, aussi beau soit-il. Ce chapitre explique comment construire des rapports que les gens regardent vraiment, auxquels ils font confiance et sur lesquels ils agissent — et comment l'assistant prépare les chiffres qui s'y trouvent.
+
+## Tableau de bord ou rapport : ce n'est pas la même chose
+
+- Un **tableau de bord** tient sur une seule page, avec les chiffres les plus importants, conçus pour se lire d'un coup d'œil. Pensez au compteur de vitesse et à la jauge de carburant d'une voiture.
+- Un **rapport** est une exploration plus approfondie, sur plusieurs pages, où l'on peut creuser. Pensez au manuel d'entretien qu'on consulte quand quelque chose ne va pas.
+
+Les deux ont leur place. Le tableau de bord répond à « où en sommes-nous, là, tout de suite ? » ; le rapport répond à « creusons pourquoi ».
+
+## La ligne de KPI : le haut de tout bon tableau de bord
+
+La plupart des excellents tableaux de bord s'ouvrent sur une rangée de grands chiffres — la poignée de KPI qui comptent le plus. L'assistant peut construire cette rangée d'une seule demande :
+
+> « Un jeu de KPI : total des ventes, nombre de commandes, panier moyen. »
+
+![Jeu de KPI](../../assets/examples/e062.png)
+
+Trois chiffres, prêts pour trois cartes KPI alignées en haut. C'est la première chose que lit un dirigeant pressé, alors il faut que ce soient les trois bons chiffres.
+
+Les mêmes KPI, représentés sous forme de graphique comparatif :
+
+![KPI phares — graphique](../../assets/examples/chart-kpi.png)
+
+> « Une ligne de KPI compacte pour le haut d'un rapport. »
+
+![Ligne de KPI compacte](../../assets/examples/e098.png)
+
+Même idée, un autre jeu — quels que soient vos indicateurs de premier plan.
+
+## Le grand nombre unique
+
+Parfois, un seul chiffre raconte toute l'histoire :
+
+> « Un KPI unique en grand format. »
+
+![KPI grand nombre](../../assets/examples/e084.png)
+
+La carte « grand nombre » est l'équivalent, sur un tableau de bord, d'un gros titre à la une. Réservez-la à l'unique métrique qui intéresse tout le monde.
+
+## Le classement
+
+Les gens adorent les classements. Une liste des N meilleurs pousse à l'action et suscite une petite saine concurrence :
+
+> « Les meilleurs produits pour un visuel de classement. »
+
+![Classement des meilleurs produits](../../assets/examples/e063.png)
+
+Une liste classée, prête pour un visuel de classement. Le bas de la liste est là que se trouvent les problèmes ; le haut, là où il faut investir davantage.
+
+Le classement, dessiné en graphique :
+
+![Meilleurs produits — graphique de classement](../../assets/examples/chart-products.png)
+
+## Ce qui rend un tableau de bord utilisable
+
+- **Peu de chiffres, grands et clairs.** Un coup d'œil doit raconter l'histoire.
+- **Les bons chiffres.** Ceux qui bougent avec l'entreprise (chapitre 11).
+- **Cohérent.** Les mêmes métriques, les mêmes couleurs, la même mise en page à chaque fois — pour que les gens apprennent à le lire.
+- **En direct.** Mis à jour automatiquement, pour être toujours à jour.
+- **Honnête.** Pas d'axes tronqués, pas de métriques de vanité.
+
+## Le principe du creusement (drill-down)
+
+Un bon tableau de bord montre la synthèse et permet de **creuser** quand on a besoin de détail. On voit « le Nord est en baisse » sur le tableau de bord, on clique, et le rapport affiche quels magasins, quels produits, quels jours. La synthèse d'abord, le détail à la demande — il ne faut jamais noyer le lecteur dans le détail dès le départ.
+
+## Une curiosité : la règle du cockpit
+
+Les pilotes ne veulent pas plus d'instruments ; ils veulent les *bons* instruments, au *bon* endroit. La même règle régit les tableaux de bord. Un célèbre principe de design veut qu'un bon tableau de bord réponde à votre question la plus importante **sans que vous ayez à la poser** — le chiffre qu'il vous faut est déjà là, grand, à jour et honnête. Si vous devez chercher ou cliquer pour trouver ce que vous vérifiez chaque matin, le tableau de bord n'est pas fini.
+
+## Le rôle de l'assistant dans le tableau de bord
+
+L'assistant construit les **chiffres** — les mesures et les KPI qui alimentent chaque carte et chaque graphique. Vous les disposez sur le canevas. Cette répartition des tâches est le point idéal : l'assistant gère le calcul et la vérification ; vous gérez l'histoire et la mise en page.
+
+---
+
+## Ce que vous garderez de ce chapitre
+
+- Un tableau de bord se lit d'un coup d'œil ; un rapport se creuse.
+- Ouvrez sur une ligne de KPI avec les rares chiffres qui comptent.
+- Utilisez les cartes « grand nombre » et les classements pour concentrer l'attention.
+- Utilisable = peu, les bons, cohérent, en direct, honnête.
+- L'assistant construit les chiffres ; vous construisez l'histoire.
+
+La partie IV est terminée — vous savez connecter, modéliser, calculer et visualiser. Place au dernier acte : la révolution agentique qui relie tout cela, et votre place en son sein.

@@ -1,1 +1,66 @@
-IyBBcHBlbmRpeCBEIOKAlCBSZWFsIENhc2VzIGJ5IFNlY3RvcgoKSG93IHRoZSBzYW1lIGFnZW50aWMgcGF0dGVybiDigJQgYXNrIGluIHBsYWluIEVuZ2xpc2gsIGdldCBhIHJlYWwgbW9kZWwgY2hhbmdlIOKAlApzaG93cyB1cCBhY3Jvc3MgZGlmZmVyZW50IGtpbmRzIG9mIGJ1c2luZXNzLiBFYWNoIGNhc2UgaXMgYSBzbWFsbCBzdG9yeSBvZiBhCnF1ZXN0aW9uIGFuZCBob3cgdGhlIGFzc2lzdGFudCBhbnN3ZXJzIGl0LgoKIyMgUmV0YWlsCgoqKlRoZSBxdWVzdGlvbjoqKiAiV2hpY2ggcHJvZHVjdHMgYXJlIGVhdGluZyBvdXIgbWFyZ2luPyIKKipUaGUgYXNrOioqIGNyZWF0ZSBhIG1hcmdpbiBtZWFzdXJlIGFuZCByYW5rIHByb2R1Y3RzIGJ5IGl0LgoqKlRoZSByZXN1bHQ6KiogYSBsZWFkZXJib2FyZCBzaG93aW5nIHRoYXQgYSBmZXcgaGlnaC1kaXNjb3VudCBTS1VzIHNlbGwgd2VsbCBidXQKbG9zZSBtb25leS4gVGhlIGJ1eWVyIGN1dHMgdGhlIGRpc2NvdW50IG9uIHRoZSB3b3JzdCBvbmUuIE1hcmdpbiByZWNvdmVycyB3aXRoaW4gYQpxdWFydGVyLgoKKipUaGUgcXVlc3Rpb246KiogIldoaWNoIHN0b3JlcyBhcmUgdW5kZXJwZXJmb3JtaW5nPyIKKipUaGUgYXNrOioqIHRvdGFsIHNhbGVzIGJ5IHN0b3JlLCB0aGVuIGJ5IHJlZ2lvbi4KKipUaGUgcmVzdWx0OioqIHR3byBzdG9yZXMgbGFnLiBBIHZpc2l0IGZpbmRzIGEgc3RvY2stb3V0IHByb2JsZW0sIG5vdCBhIGRlbWFuZApwcm9ibGVtLgoKIyMgRS1jb21tZXJjZQoKKipUaGUgcXVlc3Rpb246KiogIldobyBhcmUgb3VyIGhpZ2gtdmFsdWUgY3VzdG9tZXJzPyIKKipUaGUgYXNrOioqIGEgaGlnaC12YWx1ZSBmbGFnIG1lYXN1cmUgb3ZlciBhIHNwZW5kIHRocmVzaG9sZC4KKipUaGUgcmVzdWx0OioqIGEgc2VnbWVudCBvZiA4JSBvZiBjdXN0b21lcnMgZHJpdmluZyA0MCUgb2YgcmV2ZW51ZS4gQSB0YXJnZXRlZAplbWFpbCBjYW1wYWlnbiBsaWZ0cyByZXBlYXQgcHVyY2hhc2VzLgoKKipUaGUgcXVlc3Rpb246KiogIldoaWNoIGNhdGVnb3J5IGlzIGdyb3dpbmcgZmFzdGVzdD8iCioqVGhlIGFzazoqKiBzYWxlcyBieSBjYXRlZ29yeSBieSBtb250aC4KKipUaGUgcmVzdWx0OioqIG9uZSBjYXRlZ29yeSBjbGltYnMgd2hpbGUgb3RoZXJzIGZsYXRsaW5lLiBNYXJrZXRpbmcgc2hpZnRzIGJ1ZGdldAp0byByaWRlIHRoZSB0cmVuZC4KCiMjIE1hbnVmYWN0dXJpbmcKCioqVGhlIHF1ZXN0aW9uOioqICJXaGljaCBsaW5lIGhhcyB0aGUgbW9zdCBkZWZlY3RzPyIKKipUaGUgYXNrOioqIGRlZmVjdCBjb3VudCBieSBwcm9kdWN0aW9uIGxpbmUsIHJhbmtlZC4KKipUaGUgcmVzdWx0OioqIG9uZSBsaW5lIHN0YW5kcyBvdXQuIE1haW50ZW5hbmNlIGZpbmRzIGEgd29ybiBwYXJ0IGJlZm9yZSBpdCBmYWlscy4KCioqVGhlIHF1ZXN0aW9uOioqICJBcmUgd2UgaGl0dGluZyBvdXIgb3V0cHV0IHRhcmdldD8iCioqVGhlIGFzazoqKiBhY3R1YWwgdnMgdGFyZ2V0IGFzIGEgcGVyY2VudGFnZSBtZWFzdXJlLgoqKlRoZSByZXN1bHQ6KiogYSBLUEkgY2FyZCB0aGF0IHR1cm5zIHJlZCB3aGVuIG91dHB1dCBzbGlwcy4KCiMjIEZpbmFuY2UKCioqVGhlIHF1ZXN0aW9uOioqICJXaGVyZSBpcyBzcGVuZCBjb25jZW50cmF0ZWQ/IgoqKlRoZSBhc2s6Kiogc3BlbmQgYnkgZGVwYXJ0bWVudCwgc2hhcmUgb2YgdG90YWwuCioqVGhlIHJlc3VsdDoqKiBvbmUgZGVwYXJ0bWVudCBpcyAzNSUgb2Ygc3BlbmQuIEEgYnVkZ2V0IHJldmlldyBmb2xsb3dzLgoKKipUaGUgcXVlc3Rpb246KiogIldoaWNoIGFjY291bnRzIGFyZSBvdmVyZHVlPyIKKipUaGUgYXNrOioqIGEgZmxhZyBmb3IgaW52b2ljZXMgcGFzdCBkdWUuCioqVGhlIHJlc3VsdDoqKiBhIGNvbGxlY3Rpb24gbGlzdCB0aGF0IGNsZWFycyBjYXNoIGZhc3Rlci4KCiMjIEhlYWx0aGNhcmUKCioqVGhlIHF1ZXN0aW9uOioqICJXaGljaCBwYXRpZW50cyBhcmUgYXQgcmlzayBvZiByZWFkbWlzc2lvbj8iCioqVGhlIGFzazoqKiBhIHJpc2sgZmxhZyBiYXNlZCBvbiBwcmlvciB2aXNpdHMuCioqVGhlIHJlc3VsdDoqKiBhIGZvbGxvdy11cCBsaXN0IGZvciB0aGUgY2FyZSB0ZWFtLgoKKipUaGUgcXVlc3Rpb246KiogIkhvdyBpcyBiZWQgb2NjdXBhbmN5IHRyZW5kaW5nPyIKKipUaGUgYXNrOioqIG9jY3VwYW5jeSBieSB3ZWVrLgoqKlRoZSByZXN1bHQ6KiogYSBsaW5lIGNoYXJ0IHRoYXQgd2FybnMgb2YgYSBjb21pbmcgc3VyZ2UuCgojIyBUaGUgY29tbW9uIHRocmVhZAoKRXZlcnkgc2VjdG9yIGFza3MgdGhlIHNhbWUgc2hhcGUgb2YgcXVlc3Rpb246ICpjb21wYXJlLCByYW5rLCBmbGFnLCB0cmVuZC4qIFRoZQphc3Npc3RhbnQgYW5zd2VycyB0aGF0IHNoYXBlIGluc3RhbnRseSwgd2hhdGV2ZXIgdGhlIGRhdGEuIFRoZSBkb21haW4gY2hhbmdlczsgdGhlCnBhdHRlcm4gZG9lc24ndC4gVGhhdCdzIHdoeSBvbmUgdG9vbCB0cmF2ZWxzIHNvIGZhci4K
+# Appendix D — Real Cases by Sector
+
+How the same agentic pattern — ask in plain English, get a real model change —
+shows up across different kinds of business. Each case is a small story of a
+question and how the assistant answers it.
+
+## Retail
+
+**The question:** "Which products are eating our margin?"
+**The ask:** create a margin measure and rank products by it.
+**The result:** a leaderboard showing that a few high-discount SKUs sell well but
+lose money. The buyer cuts the discount on the worst one. Margin recovers within a
+quarter.
+
+**The question:** "Which stores are underperforming?"
+**The ask:** total sales by store, then by region.
+**The result:** two stores lag. A visit finds a stock-out problem, not a demand
+problem.
+
+## E-commerce
+
+**The question:** "Who are our high-value customers?"
+**The ask:** a high-value flag measure over a spend threshold.
+**The result:** a segment of 8% of customers driving 40% of revenue. A targeted
+email campaign lifts repeat purchases.
+
+**The question:** "Which category is growing fastest?"
+**The ask:** sales by category by month.
+**The result:** one category climbs while others flatline. Marketing shifts budget
+to ride the trend.
+
+## Manufacturing
+
+**The question:** "Which line has the most defects?"
+**The ask:** defect count by production line, ranked.
+**The result:** one line stands out. Maintenance finds a worn part before it fails.
+
+**The question:** "Are we hitting our output target?"
+**The ask:** actual vs target as a percentage measure.
+**The result:** a KPI card that turns red when output slips.
+
+## Finance
+
+**The question:** "Where is spend concentrated?"
+**The ask:** spend by department, share of total.
+**The result:** one department is 35% of spend. A budget review follows.
+
+**The question:** "Which accounts are overdue?"
+**The ask:** a flag for invoices past due.
+**The result:** a collection list that clears cash faster.
+
+## Healthcare
+
+**The question:** "Which patients are at risk of readmission?"
+**The ask:** a risk flag based on prior visits.
+**The result:** a follow-up list for the care team.
+
+**The question:** "How is bed occupancy trending?"
+**The ask:** occupancy by week.
+**The result:** a line chart that warns of a coming surge.
+
+## The common thread
+
+Every sector asks the same shape of question: *compare, rank, flag, trend.* The
+assistant answers that shape instantly, whatever the data. The domain changes; the
+pattern doesn't. That's why one tool travels so far.

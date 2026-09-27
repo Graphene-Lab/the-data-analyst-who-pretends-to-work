@@ -1,1 +1,71 @@
-IyBBcHBlbmRpY2UgRCDigJQgQ2FzaSByZWFsaSBwZXIgc2V0dG9yZQoKQ29tZSBsbyBzdGVzc28gc2NoZW1hIGFnZW50aWNvIOKAlCBjaGllZGkgaW4gbGluZ3VhZ2dpbyBzZW1wbGljZSwgb3R0aWVuaSB1biB2ZXJvCmNhbWJpYW1lbnRvIGFsIG1vZGVsbG8g4oCUIHNpIHByZXNlbnRhIGluIGRpdmVyc2kgdGlwaSBkaSBidXNpbmVzcy4gT2duaSBjYXNvIMOoIHVuYQpwaWNjb2xhIHN0b3JpYSBkaSB1bmEgZG9tYW5kYSBlIGRpIGNvbWUgbCdhc3Npc3RlbnRlIHZpIHJpc3BvbmRlLgoKIyMgUmV0YWlsCgoqKkxhIGRvbWFuZGE6KiogIlF1YWxpIHByb2RvdHRpIGNpIHN0YW5ubyBtYW5naWFuZG8gaWwgbWFyZ2luZT8iCioqTGEgcmljaGllc3RhOioqIGNyZWEgdW5hIG1pc3VyYSBkaSBtYXJnaW5lIGUgY2xhc3NpZmljYSBpIHByb2RvdHRpIHBlcgplc3NhLgoqKklsIHJpc3VsdGF0bzoqKiB1bmEgY2xhc3NpZmljYSBjaGUgbW9zdHJhIGNoZSBwb2NoaSBTS1UgYWQgYWx0byBzY29udG8gdmVuZG9ubwpiZW5lIG1hIHBlcmRvbm8gc29sZGkuIElsIGJ1eWVyIHRhZ2xpYSBsbyBzY29udG8gc3VsIHBlZ2dpb3JlLiBJbCBtYXJnaW5lIHNpCnJlY3VwZXJhIGVudHJvIHVuIHRyaW1lc3RyZS4KCioqTGEgZG9tYW5kYToqKiAiUXVhbGkgbmVnb3ppIHNvbm8gc290dG8gcGVyZm9ybWFuY2U/IgoqKkxhIHJpY2hpZXN0YToqKiB2ZW5kaXRlIHRvdGFsaSBwZXIgbmVnb3ppbywgcG9pIHBlciByZWdpb25lLgoqKklsIHJpc3VsdGF0bzoqKiBkdWUgbmVnb3ppIHJlc3Rhbm8gaW5kaWV0cm8uIFVuYSB2aXNpdGEgdHJvdmEgdW4gcHJvYmxlbWEgZGkKcm90dHVyYSBkaSBzdG9jaywgbm9uIGRpIGRvbWFuZGEuCgojIyBFLWNvbW1lcmNlCgoqKkxhIGRvbWFuZGE6KiogIkNoaSBzb25vIGkgbm9zdHJpIGNsaWVudGkgYWQgYWx0byB2YWxvcmU/IgoqKkxhIHJpY2hpZXN0YToqKiB1bmEgbWlzdXJhIGZsYWcgYWx0byB2YWxvcmUgc3UgdW5hIHNvZ2xpYSBkaSBzcGVzYS4KKipJbCByaXN1bHRhdG86KiogdW4gc2VnbWVudG8gZGVsbCc4JSBkZWkgY2xpZW50aSBjaGUgZ3VpZGEgaWwgNDAlIGRlbApmYXR0dXJhdG8uIFVuYSBjYW1wYWduYSBlbWFpbCBtaXJhdGEgZmEgc2FsaXJlIGdsaSBhY3F1aXN0aSByaXBldHV0aS4KCioqTGEgZG9tYW5kYToqKiAiUXVhbGUgY2F0ZWdvcmlhIGNyZXNjZSBwacO5IGluIGZyZXR0YT8iCioqTGEgcmljaGllc3RhOioqIHZlbmRpdGUgcGVyIGNhdGVnb3JpYSBwZXIgbWVzZS4KKipJbCByaXN1bHRhdG86KiogdW5hIGNhdGVnb3JpYSBzYWxlIG1lbnRyZSBsZSBhbHRyZSByZXN0YW5vIHBpYXR0ZS4gSWwgbWFya2V0aW5nCnNwb3N0YSBidWRnZXQgcGVyIGNhdmFsY2FyZSBsYSB0ZW5kZW56YS4KCiMjIE1hbmlmYXR0dXJpZXJvCgoqKkxhIGRvbWFuZGE6KiogIlF1YWxlIGxpbmVhIGhhIHBpw7kgZGlmZXR0aT8iCioqTGEgcmljaGllc3RhOioqIGNvbnRlZ2dpbyBkaWZldHRpIHBlciBsaW5lYSBkaSBwcm9kdXppb25lLCBjbGFzc2lmaWNhdG8uCioqSWwgcmlzdWx0YXRvOioqIHVuYSBsaW5lYSBzcGljY2EuIExhIG1hbnV0ZW56aW9uZSB0cm92YSB1biBwZXp6byBjb25zdW1hdG8gcHJpbWEKY2hlIHNpIGd1YXN0aS4KCioqTGEgZG9tYW5kYToqKiAiU3RpYW1vIHJhZ2dpdW5nZW5kbyBpbCBub3N0cm8gb2JpZXR0aXZvIGRpIG91dHB1dD8iCioqTGEgcmljaGllc3RhOioqIGVmZmV0dGl2byBjb250cm8gb2JpZXR0aXZvIGNvbWUgbWlzdXJhIHBlcmNlbnR1YWxlLgoqKklsIHJpc3VsdGF0bzoqKiB1bmEgY2FyZCBLUEkgY2hlIGRpdmVudGEgcm9zc2EgcXVhbmRvIGwnb3V0cHV0IHNjaXZvbGEuCgojIyBGaW5hbnphCgoqKkxhIGRvbWFuZGE6KiogIkRvdmUgw6ggY29uY2VudHJhdGEgbGEgc3Blc2E/IgoqKkxhIHJpY2hpZXN0YToqKiBzcGVzYSBwZXIgZGlwYXJ0aW1lbnRvLCBxdW90YSBkZWwgdG90YWxlLgoqKklsIHJpc3VsdGF0bzoqKiB1biBkaXBhcnRpbWVudG8gw6ggaWwgMzUlIGRlbGxhIHNwZXNhLiBTZWd1ZSB1bmEgcmV2aXNpb25lIGRpCmJ1ZGdldC4KCioqTGEgZG9tYW5kYToqKiAiUXVhbGkgY29udGkgc29ubyBzY2FkdXRpPyIKKipMYSByaWNoaWVzdGE6KiogdW4gZmxhZyBwZXIgZmF0dHVyZSBzY2FkdXRlLgoqKklsIHJpc3VsdGF0bzoqKiB1bmEgbGlzdGEgZGkgcmVjdXBlcm8gY2hlIGxpYmVyYSBsaXF1aWRpdMOgIHBpw7kgaW4gZnJldHRhLgoKIyMgU2FuaXTDoAoKKipMYSBkb21hbmRhOioqICJRdWFsaSBwYXppZW50aSBzb25vIGEgcmlzY2hpbyBkaSByaWFtbWlzc2lvbmU/IgoqKkxhIHJpY2hpZXN0YToqKiB1biBmbGFnIGRpIHJpc2NoaW8gYmFzYXRvIHN1IHZpc2l0ZSBwcmVjZWRlbnRpLgoqKklsIHJpc3VsdGF0bzoqKiB1bmEgbGlzdGEgZGkgZm9sbG93LXVwIHBlciBpbCB0ZWFtIGRpIGN1cmEuCgoqKkxhIGRvbWFuZGE6KiogIkNvbWUgc3RhIGFuZGFuZG8gbCdvY2N1cGF6aW9uZSBkZWkgbGV0dGk/IgoqKkxhIHJpY2hpZXN0YToqKiBvY2N1cGF6aW9uZSBwZXIgc2V0dGltYW5hLgoqKklsIHJpc3VsdGF0bzoqKiB1biBncmFmaWNvIGEgbGluZWUgY2hlIGF2dmVydGUgZGkgdW4naW1taW5lbnRlCmltcGVubmF0YS4KCiMjIElsIGZpbG8gY29tdW5lCgpPZ25pIHNldHRvcmUgZmEgbGEgc3Rlc3NhIGZvcm1hIGRpIGRvbWFuZGE6ICpjb25mcm9udGEsIGNsYXNzaWZpY2EsIHNlZ25hbGEsCnRyYWNjaWEuKiBMJ2Fzc2lzdGVudGUgcmlzcG9uZGUgYSBxdWVsbGEgZm9ybWEgaXN0YW50YW5lYW1lbnRlLCBxdWFsdW5xdWUgc2lhbm8gaQpkYXRpLiBJbCBkb21pbmlvIGNhbWJpYTsgbG8gc2NoZW1hIG5vLiBFY2NvIHBlcmNow6kgdW5vIHN0cnVtZW50byBzb2xvIHZpYWdnaWEgY29zw6wKbG9udGFuby4K
+# Appendice D — Casi reali per settore
+
+Come lo stesso schema agentico — chiedi in linguaggio semplice, ottieni un vero
+cambiamento al modello — si presenta in diversi tipi di business. Ogni caso è una
+piccola storia di una domanda e di come l'assistente vi risponde.
+
+## Retail
+
+**La domanda:** "Quali prodotti ci stanno mangiando il margine?"
+**La richiesta:** crea una misura di margine e classifica i prodotti per
+essa.
+**Il risultato:** una classifica che mostra che pochi SKU ad alto sconto vendono
+bene ma perdono soldi. Il buyer taglia lo sconto sul peggiore. Il margine si
+recupera entro un trimestre.
+
+**La domanda:** "Quali negozi sono sotto performance?"
+**La richiesta:** vendite totali per negozio, poi per regione.
+**Il risultato:** due negozi restano indietro. Una visita trova un problema di
+rottura di stock, non di domanda.
+
+## E-commerce
+
+**La domanda:** "Chi sono i nostri clienti ad alto valore?"
+**La richiesta:** una misura flag alto valore su una soglia di spesa.
+**Il risultato:** un segmento dell'8% dei clienti che guida il 40% del
+fatturato. Una campagna email mirata fa salire gli acquisti ripetuti.
+
+**La domanda:** "Quale categoria cresce più in fretta?"
+**La richiesta:** vendite per categoria per mese.
+**Il risultato:** una categoria sale mentre le altre restano piatte. Il marketing
+sposta budget per cavalcare la tendenza.
+
+## Manifatturiero
+
+**La domanda:** "Quale linea ha più difetti?"
+**La richiesta:** conteggio difetti per linea di produzione, classificato.
+**Il risultato:** una linea spicca. La manutenzione trova un pezzo consumato prima
+che si guasti.
+
+**La domanda:** "Stiamo raggiungendo il nostro obiettivo di output?"
+**La richiesta:** effettivo contro obiettivo come misura percentuale.
+**Il risultato:** una card KPI che diventa rossa quando l'output scivola.
+
+## Finanza
+
+**La domanda:** "Dove è concentrata la spesa?"
+**La richiesta:** spesa per dipartimento, quota del totale.
+**Il risultato:** un dipartimento è il 35% della spesa. Segue una revisione di
+budget.
+
+**La domanda:** "Quali conti sono scaduti?"
+**La richiesta:** un flag per fatture scadute.
+**Il risultato:** una lista di recupero che libera liquidità più in fretta.
+
+## Sanità
+
+**La domanda:** "Quali pazienti sono a rischio di riammissione?"
+**La richiesta:** un flag di rischio basato su visite precedenti.
+**Il risultato:** una lista di follow-up per il team di cura.
+
+**La domanda:** "Come sta andando l'occupazione dei letti?"
+**La richiesta:** occupazione per settimana.
+**Il risultato:** un grafico a linee che avverte di un'imminente
+impennata.
+
+## Il filo comune
+
+Ogni settore fa la stessa forma di domanda: *confronta, classifica, segnala,
+traccia.* L'assistente risponde a quella forma istantaneamente, qualunque siano i
+dati. Il dominio cambia; lo schema no. Ecco perché uno strumento solo viaggia così
+lontano.

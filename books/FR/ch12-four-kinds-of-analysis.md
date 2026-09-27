@@ -1,1 +1,116 @@
-IyAxMi4gUXVhdHJlIHR5cGVzIGQnYW5hbHlzZQoKVG91dGUgYW5hbHlzZSBxdWUgdm91cyBmZXJleiB1biBqb3VyIHRvbWJlIGRhbnMgbCd1biBkZSBxdWF0cmUgdHlwZXMsIGNsYXNzw6lzIHNlbG9uCmxhIHF1YW50aXTDqSBxdSdpbHMgZGVtYW5kZW50IGF1eCBkb25uw6llcy4gSWxzIGdyaW1wZW50IHVuZSDDqWNoZWxsZSA6IHJlZ2FyZGVyIGVuCmFycmnDqHJlLCBleHBsaXF1ZXIgcG91cnF1b2ksIGRldmluZXIgZW4gYXZhbnQsIHJlY29tbWFuZGVyIHF1b2kgZmFpcmUuIFNhdm9pciBkZQpxdWVsIHR5cGUgdm91cyDDqnRlcyB2b3VzIGRpdCBqdXNxdSdvw7kgcG91c3NlciBldCDDoCBxdWVsIHBvaW50IGZhaXJlIGNvbmZpYW5jZSDDoCBsYQpyw6lwb25zZS4KCiMjIDEuIERlc2NyaXB0aXZlIOKAlCBxdWUgcydlc3QtaWwgcGFzc8OpID8KCkxlIHBsdXMgc2ltcGxlIGV0IGxlIHBsdXMgY291cmFudC4gVm91cyBkw6ljcml2ZXogbGUgcGFzc8OpLiDCqyBMZXMgdmVudGVzIMOpdGFpZW50IGRlCjIyIDAyMyDigqwuIExlIE5vcmQgYSBmYWl0IDEyIDE0NSDigqwuIMK7IFBhcyBkJ2V4cGxpY2F0aW9uLCBwYXMgZGUgcHLDqWRpY3Rpb24g4oCUIHJpZW4KcXVlIGxlcyBmYWl0cywgY2xhaXJlbWVudC4KCj4gwqsgRGVzY3JpcHRpZiA6IHRvdGFsIGRlcyB2ZW50ZXMgcGFyIHLDqWdpb24uIMK7CgohW0Rlc2NyaXB0aWYgcGFyIHLDqWdpb25dKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9lMDMxLnBuZykKCkxhIHBsdXBhcnQgZGVzIHRhYmxlYXV4IGRlIGJvcmQgc29udCBkZXNjcmlwdGlmcy4gSWxzIHLDqXBvbmRlbnQgw6AgwqsgY29tbWVudCBhbGxvbnMtCm5vdXMgPyDCuyBldCBpbHMgc29udCBsZSBzb2NsZSBzdXIgbGVxdWVsIHRvdXQgbGUgcmVzdGUgcmVwb3NlLgoKTGEgcsOpcGFydGl0aW9uIHLDqWdpb25hbGUsIGVuIGdyYXBoaXF1ZSA6CgohW1ZlbnRlcyBwYXIgcsOpZ2lvbiDigJQgaGlzdG9ncmFtbWVdKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9jaGFydC1yZWdpb24ucG5nKQoKIyMgMi4gRGlhZ25vc3RpcXVlIOKAlCBwb3VycXVvaSBlc3QtY2UgYXJyaXbDqSA/CgpNYWludGVuYW50IHZvdXMgY3JldXNlei4gUXVlbHF1ZSBjaG9zZSBhIGNoYW5nw6ksIGV0IHZvdXMgdm91bGV6IGxhIGNhdXNlLiBWb3VzCmTDqWNvdXBleiwgY29tcGFyZXogZXQgY3JvaXNleiBsZXMgcsOpZsOpcmVuY2VzIGp1c3F1J8OgIGNlIHF1ZSBsYSByYWlzb24gcmVtb250ZSDDoCBsYQpzdXJmYWNlLgoKPiDCqyBEaWFnbm9zdGlxdWUgOiBxdWVsbGUgY2F0w6lnb3JpZSByYXBwb3J0ZSBsZSBwbHVzID8gwrsKCiFbRGlhZ25vc3RpcXVlIHBhciBjYXTDqWdvcmllXSguLi8uLi9hc3NldHMvZXhhbXBsZXMvZTAzMi5wbmcpCgo+IMKrIENvbXBhcmUgbGVzIHZlbnRlcyBkdSBOb3JkIGV0IGR1IENlbnRyZS4gwrsKCiFbTm9yZCBjb250cmUgQ2VudHJlXSguLi8uLi9hc3NldHMvZXhhbXBsZXMvZTAzMy5wbmcpCgpMZSB0cmF2YWlsIGRpYWdub3N0aXF1ZSBlc3QgbMOgIG/DuSBsJ2FuYWx5c3RlIGdhZ25lIHNvbiBwYWluLiBMZSBkZXNjcmlwdGlmIHZvdXMgZGl0CnF1ZSBsZSBwYXRpZW50IGEgZGUgbGEgZmnDqHZyZSA7IGxlIGRpYWdub3N0aXF1ZSB0cm91dmUgbCdpbmZlY3Rpb24uCgpMZSBtw6ptZSDFk2lsIGRpYWdub3N0aXF1ZSBwb3PDqSBzdXIgbGVzIG1hZ2FzaW5zIDoKCiFbVmVudGVzIHBhciBtYWdhc2luIOKAlCBoaXN0b2dyYW1tZV0oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2NoYXJ0LXN0b3JlLnBuZykKCiMjIDMuIFByw6lkaWN0aWYg4oCUIHF1ZSB2YS10LWlsIHNlIHBhc3NlciA/CgpWb3VzIHV0aWxpc2V6IGxlIHBhc3PDqSBwb3VyIGRldmluZXIgbCdhdmVuaXIuIExhIGRlbWFuZGUgZHUgdHJpbWVzdHJlIHByb2NoYWluLApsJ2F0dHJpdGlvbiBkdSBtb2lzIHByb2NoYWluLCBsZXMgdmVudGVzIGQnaWNpIGxhIGZpbiBkZSBsJ2FubsOpZS4gQ2VsYSBkZW1hbmRlIGVuCmfDqW7DqXJhbCBkZXMgc3RhdGlzdGlxdWVzIG91IGRlIGwnYXBwcmVudGlzc2FnZSBhdXRvbWF0aXF1ZSwgZXQgw6dhIHZpZW50IGF2ZWMgdW5lCmZvdXJjaGV0dGUgZGUgY29uZmlhbmNlIOKAlCB1bmUgYm9ubmUgcHLDqWRpY3Rpb24gZGl0IMKrIMOgIHBldSBwcsOocyAxMSAwMDAsIMOgIHBldSBkZQpjaG9zZSBwcsOocyDCuy4KCj4gwqsgTGUgbWVpbGxldXIgbW9pcyBkYW5zIGwnZW5zZW1ibGUuIMK7CgohW01laWxsZXVyIG1vaXNdKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9lMDc2LnBuZykKClVuZSB2dWUgc3VyIHVuZSBzZXVsZSBww6lyaW9kZSBjb21tZSBjZWxsZS1jaSBlc3QgbGEgbWF0acOocmUgcHJlbWnDqHJlIGRlIGxhCnByw6lkaWN0aW9uIDogdm91cyB2b3lleiBsZSBtb3RpZiwgcHVpcyB2b3VzIGxlIHByb2pldGV6IGVuIGF2YW50LgoKIyMgNC4gUHJlc2NyaXB0aWYg4oCUIHF1ZSBkZXZyaW9ucy1ub3VzIGZhaXJlID8KCkxlIGhhdXQgZGUgbCfDqWNoZWxsZS4gw4l0YW50IGRvbm7DqWUgbGEgcHLDqWRpY3Rpb24gZXQgbGVzIGNvbnRyYWludGVzLCBxdWVsbGUgYWN0aW9uCm1heGltaXNlIGwnb2JqZWN0aWYgPyBRdWVsIHByaXgsIHF1ZWxsZSBwcm9tb3Rpb24sIHF1ZWwgbml2ZWF1IGRlIHN0b2NrLiBMJ2FuYWx5c2UKcHJlc2NyaXB0aXZlIGVzdCBsYSBwbHVzIHJhcmUgZXQgbGEgcGx1cyBkaWZmaWNpbGUsIGV0IGVsbGUgc2UgcG9zZSBnw6luw6lyYWxlbWVudCBzdXIKbGVzIHRyb2lzIGF1dHJlcy4KCiMjIEwnw6ljaGVsbGUgZW4gdW5lIGltYWdlCgp8IFR5cGUgfCBRdWVzdGlvbiB8IEVmZm9ydCB8IENvbmZpYW5jZSByZXF1aXNlIHwKfC0tLXwtLS18LS0tfC0tLXwKfCBEZXNjcmlwdGl2ZSB8IFF1ZSBzJ2VzdC1pbCBwYXNzw6kgPyB8IEZhaWJsZSB8IEhhdXRlIChjZSBuZSBzb250IHF1ZSBkZXMgZmFpdHMpIHwKfCBEaWFnbm9zdGlxdWUgfCBQb3VycXVvaSA/IHwgTW95ZW4gfCBNb3llbm5lIChhdHRlbnRpb24gYXV4IGZhdXNzZXMgY2F1c2VzKSB8CnwgUHLDqWRpY3RpZiB8IEV0IGVuc3VpdGUgPyB8IMOJbGV2w6kgfCBQbHVzIGZhaWJsZSAoYydlc3QgdW5lIGRldmluZXR0ZSBhdmVjIHVuZSBmb3VyY2hldHRlKSB8CnwgUHJlc2NyaXB0aWYgfCBRdWUgZmFpcmUgPyB8IExlIHBsdXMgw6lsZXbDqSB8IExhIHBsdXMgYmFzc2UgKGMnZXN0IHVuZSByZWNvbW1hbmRhdGlvbikgfAoKUmVtYXJxdWV6IGxlIG1vdGlmIDogcGx1cyB2b3VzIG1vbnRleiwgcGx1cyB2b3VzIGFqb3V0ZXogZGUgdmFsZXVyIOKAlCBldCBtb2lucyB2b3VzCsOqdGVzIGNlcnRhaW4uIFVuIGJvbiBhbmFseXN0ZSBlc3QgaG9ubsOqdGUgc3VyIGNldCBhcmJpdHJhZ2UuCgojIyBMZSBjbGFzc2VtZW50IDogbGUgY291cCBwcsOpZsOpcsOpIGRlIGwnYW5hbHlzdGUKCkNsYXNzZXIgdHJhbnNmb3JtZSB1bmUgbGlzdGUgcGxhdGUgZW4gdW5lIGhpc3RvaXJlLiBRdWkgZXN0IHByZW1pZXIsIHF1aSBlc3QKZGVybmllciwgcXVpIHMnYW3DqWxpb3JlLgoKPiDCqyBDbGFzc2UgbGVzIHByb2R1aXRzIHBhciB2ZW50ZXMuIMK7CgohW0NsYXNzZXIgbGVzIHByb2R1aXRzXSguLi8uLi9hc3NldHMvZXhhbXBsZXMvZTAzNC5wbmcpCgo+IMKrIFF1YW50aXTDqSBtb3llbm5lIHBhciB2ZW50ZS4gwrsKCiFbUXVhbnRpdMOpIG1veWVubmUgcGFyIHZlbnRlXSguLi8uLi9hc3NldHMvZXhhbXBsZXMvZTA1OS5wbmcpCgpMZSBjbGFzc2VtZW50IGVzdCBkZXNjcmlwdGlmLCBtYWlzIGlsIG9yaWVudGUgbGUgdHJhdmFpbCBkaWFnbm9zdGlxdWUgOiBsZSBiYXMgZGUgbGEKbGlzdGUgZXN0IGwnZW5kcm9pdCBvw7kgbCdvbiBjaGVyY2hlIGQnYWJvcmQgdW4gcHJvYmzDqG1lLgoKIyMgVW5lIGN1cmlvc2l0w6kgOiBsZSBteXRoZSBkZSBsYSBtYXR1cml0w6kgYW5hbHl0aXF1ZQoKTGVzIGNvbnN1bHRhbnRzIGFkb3JlbnQgdmVuZHJlIHVuIMKrIG1vZMOobGUgZGUgbWF0dXJpdMOpIMK7IG/DuSBpbCBmYXVkcmFpdCBncmltcGVyIGR1CmRlc2NyaXB0aWYgYXUgcHJlc2NyaXB0aWYgc291cyBwZWluZSBkJ8OqdHJlIMOgIGxhIHRyYcOubmUuIEVuIHLDqWFsaXTDqSwgKipsYSBwbHVwYXJ0CmRlcyBlbnRyZXByaXNlcyBzZXJhaWVudCB0cmFuc2Zvcm3DqWVzIGp1c3RlIGVuIGZhaXNhbnQgYmllbiBsZSBkZXNjcmlwdGlmIGV0IGxlCmRpYWdub3N0aXF1ZS4qKiBOJ2F5ZXogcGFzIGhvbnRlIGQndW4gYm9uIMKrIHF1ZSBzJ2VzdC1pbCBwYXNzw6kgZXQgcG91cnF1b2kgwrsg4oCUIGMnZXN0CmzDoCBxdWUgdml0IDkwICUgZGUgbGEgdmFsZXVyLiBMZXMgY291Y2hlcyBwcsOpZGljdGl2ZSBldCBwcmVzY3JpcHRpdmUgc29udCBsYSBjZXJpc2UKc3VyIGxlIGfDonRlYXUsIHBhcyBsZSBnw6J0ZWF1LgoKLS0tCgojIyBDZSBxdWUgdm91cyBnYXJkZXJleiBkZSBjZSBjaGFwaXRyZQoKLSBRdWF0cmUgdHlwZXMgOiBkZXNjcmlwdGlmLCBkaWFnbm9zdGlxdWUsIHByw6lkaWN0aWYsIHByZXNjcmlwdGlmLgotIExhIHZhbGV1ciBldCBsJ2luY2VydGl0dWRlIG1vbnRlbnQgdG91dGVzIGRldXggw6AgbWVzdXJlIHF1J29uIGdyaW1wZS4KLSBMJ2Vzc2VudGllbCBkZSBsYSB2YWxldXIgdml0IGRhbnMgbGUgZGVzY3JpcHRpZiArIGRpYWdub3N0aXF1ZS4KLSBMZSBjbGFzc2VtZW50IGVzdCBsZSBtb3llbiBsZSBwbHVzIHNpbXBsZSBkZSBzYXZvaXIgb8O5IHJlZ2FyZGVyLgotIFNveWV6IGhvbm7DqnRlIHN1ciBsYSBjb25maWFuY2Ugw6AgYWNjb3JkZXIgw6AgY2hhcXVlIHR5cGUuCgpTdWl0ZSA6IGxlIGNsaWVudCDigJQgbGUgc3VqZXQgZCdhbmFseXNlIGxlIHBsdXMgaW1wb3J0YW50IHF1aSBzb2l0Lgo=
+# 12. Quatre types d'analyse
+
+Toute analyse que vous ferez un jour tombe dans l'un de quatre types, classés selon
+la quantité qu'ils demandent aux données. Ils grimpent une échelle : regarder en
+arrière, expliquer pourquoi, deviner en avant, recommander quoi faire. Savoir de
+quel type vous êtes vous dit jusqu'où pousser et à quel point faire confiance à la
+réponse.
+
+## 1. Descriptive — que s'est-il passé ?
+
+Le plus simple et le plus courant. Vous décrivez le passé. « Les ventes étaient de
+22 023 €. Le Nord a fait 12 145 €. » Pas d'explication, pas de prédiction — rien
+que les faits, clairement.
+
+> « Descriptif : total des ventes par région. »
+
+![Descriptif par région](../../assets/examples/e031.png)
+
+La plupart des tableaux de bord sont descriptifs. Ils répondent à « comment allons-
+nous ? » et ils sont le socle sur lequel tout le reste repose.
+
+La répartition régionale, en graphique :
+
+![Ventes par région — histogramme](../../assets/examples/chart-region.png)
+
+## 2. Diagnostique — pourquoi est-ce arrivé ?
+
+Maintenant vous creusez. Quelque chose a changé, et vous voulez la cause. Vous
+découpez, comparez et croisez les références jusqu'à ce que la raison remonte à la
+surface.
+
+> « Diagnostique : quelle catégorie rapporte le plus ? »
+
+![Diagnostique par catégorie](../../assets/examples/e032.png)
+
+> « Compare les ventes du Nord et du Centre. »
+
+![Nord contre Centre](../../assets/examples/e033.png)
+
+Le travail diagnostique est là où l'analyste gagne son pain. Le descriptif vous dit
+que le patient a de la fièvre ; le diagnostique trouve l'infection.
+
+Le même œil diagnostique posé sur les magasins :
+
+![Ventes par magasin — histogramme](../../assets/examples/chart-store.png)
+
+## 3. Prédictif — que va-t-il se passer ?
+
+Vous utilisez le passé pour deviner l'avenir. La demande du trimestre prochain,
+l'attrition du mois prochain, les ventes d'ici la fin de l'année. Cela demande en
+général des statistiques ou de l'apprentissage automatique, et ça vient avec une
+fourchette de confiance — une bonne prédiction dit « à peu près 11 000, à peu de
+chose près ».
+
+> « Le meilleur mois dans l'ensemble. »
+
+![Meilleur mois](../../assets/examples/e076.png)
+
+Une vue sur une seule période comme celle-ci est la matière première de la
+prédiction : vous voyez le motif, puis vous le projetez en avant.
+
+## 4. Prescriptif — que devrions-nous faire ?
+
+Le haut de l'échelle. Étant donnée la prédiction et les contraintes, quelle action
+maximise l'objectif ? Quel prix, quelle promotion, quel niveau de stock. L'analyse
+prescriptive est la plus rare et la plus difficile, et elle se pose généralement sur
+les trois autres.
+
+## L'échelle en une image
+
+| Type | Question | Effort | Confiance requise |
+|---|---|---|---|
+| Descriptive | Que s'est-il passé ? | Faible | Haute (ce ne sont que des faits) |
+| Diagnostique | Pourquoi ? | Moyen | Moyenne (attention aux fausses causes) |
+| Prédictif | Et ensuite ? | Élevé | Plus faible (c'est une devinette avec une fourchette) |
+| Prescriptif | Que faire ? | Le plus élevé | La plus basse (c'est une recommandation) |
+
+Remarquez le motif : plus vous montez, plus vous ajoutez de valeur — et moins vous
+êtes certain. Un bon analyste est honnête sur cet arbitrage.
+
+## Le classement : le coup préféré de l'analyste
+
+Classer transforme une liste plate en une histoire. Qui est premier, qui est
+dernier, qui s'améliore.
+
+> « Classe les produits par ventes. »
+
+![Classer les produits](../../assets/examples/e034.png)
+
+> « Quantité moyenne par vente. »
+
+![Quantité moyenne par vente](../../assets/examples/e059.png)
+
+Le classement est descriptif, mais il oriente le travail diagnostique : le bas de la
+liste est l'endroit où l'on cherche d'abord un problème.
+
+## Une curiosité : le mythe de la maturité analytique
+
+Les consultants adorent vendre un « modèle de maturité » où il faudrait grimper du
+descriptif au prescriptif sous peine d'être à la traîne. En réalité, **la plupart
+des entreprises seraient transformées juste en faisant bien le descriptif et le
+diagnostique.** N'ayez pas honte d'un bon « que s'est-il passé et pourquoi » — c'est
+là que vit 90 % de la valeur. Les couches prédictive et prescriptive sont la cerise
+sur le gâteau, pas le gâteau.
+
+---
+
+## Ce que vous garderez de ce chapitre
+
+- Quatre types : descriptif, diagnostique, prédictif, prescriptif.
+- La valeur et l'incertitude montent toutes deux à mesure qu'on grimpe.
+- L'essentiel de la valeur vit dans le descriptif + diagnostique.
+- Le classement est le moyen le plus simple de savoir où regarder.
+- Soyez honnête sur la confiance à accorder à chaque type.
+
+Suite : le client — le sujet d'analyse le plus important qui soit.

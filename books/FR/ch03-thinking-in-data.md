@@ -1,1 +1,68 @@
-IyAzLiBQZW5zZXIgZW4gZG9ubsOpZXMKCklsIGV4aXN0ZSB1bmUgZmHDp29uIGRlIHBlbnNlciBxdWkgc8OpcGFyZSBsZSBib24gYW5hbHlzdGUgZGUgY2VsdWkgcXVpIHNlIGNvbnRlbnRlIGRlIGZhaXJlIGRlcyBncmFwaGlxdWVzLiBDZSBuJ2VzdCBwYXMgbGVzIG1hdGhzLiBDJ2VzdCBsJ2hhYml0dWRlIGRlIHNlIGRlbWFuZGVyIDogKsKrIENvbW1lbnQgbGUgc2Fpcy1qZSA/IEV0IHBhciByYXBwb3J0IMOgIHF1b2kgPyDCuyogQ29uc3RydWlzb25zIGNldHRlIGhhYml0dWRlIGVuc2VtYmxlLgoKIyMgTGEgcsOoZ2xlIGQnb3IgOiBwYXIgcmFwcG9ydCDDoCBxdW9pID8KClVuIG5vbWJyZSB0b3V0IHNldWwgbmUgdmV1dCBwcmVzcXVlIHJpZW4gZGlyZS4gwqsgTm91cyBhdm9ucyBmYWl0IDEgMDAwIHZlbnRlcyBjZSBtb2lzLWNpLiDCuyBFc3QtY2UgYmllbiA/IEltcG9zc2libGUgw6AgZGlyZS4gSWwgZmF1dCBjb21wYXJlciA6CgotICoqQXUgbW9pcyBkZXJuaWVyKiog4oCUIGF2b25zLW5vdXMgZ3JhbmRpIG91IHLDqWdyZXNzw6kgPwotICoqw4AgbCdhbm7DqWUgZGVybmnDqHJlKiog4oCUIGVzdC1jZSBub3JtYWwgcG91ciBsYSBzYWlzb24gPwotICoqw4AgbCdvYmplY3RpZioqIOKAlCBhdm9ucy1ub3VzIGF0dGVpbnQgbGUgYnV0ID8KLSAqKsOAIHF1ZWxxdWUgY2hvc2UgZGUgc2ltaWxhaXJlKiog4oCUIGNlIG1hZ2FzaW4gZXN0LWlsIG1laWxsZXVyIHF1ZSBsZXMgYXV0cmVzID8KCkTDqHMgcXVlIHF1ZWxxdSd1biBwcm9ub25jZSB1biBub21icmUsIHVuIGFuYWx5c3RlIGZvcm3DqSBkZW1hbmRlICrCqyBwYXIgcmFwcG9ydCDDoCBxdW9pID8gwrsqLiBDZXR0ZSBzZXVsZSBxdWVzdGlvbiB0dWUgcGx1cyBkZSBtYXV2YWlzZXMgZMOpY2lzaW9ucyBxdWUgbidpbXBvcnRlIHF1ZWwgbG9naWNpZWwgbmUgbGUgZmVyYSBqYW1haXMuCgojIyBMZSBwacOoZ2UgZGVzIGltcGFjdHMgbWFucXVhbnRzCgpQZW5kYW50IGxhIFNlY29uZGUgR3VlcnJlIG1vbmRpYWxlLCBsJ2FybcOpZSBhbcOpcmljYWluZSBhIMOpdHVkacOpIHF1ZWxsZXMgcGFydGllcyBkZXMgYm9tYmFyZGV1cnMgcXVpIHJldmVuYWllbnQgcHLDqXNlbnRhaWVudCBsZSBwbHVzIGQnaW1wYWN0cyBkZSBiYWxsZXMsIGRhbnMgbCdpZMOpZSBkZSBibGluZGVycyBjZXMgZW5kcm9pdHMtbMOgLiBVbiBzdGF0aXN0aWNpZW4gbm9tbcOpICoqQWJyYWhhbSBXYWxkKiogbGVzIGEgYXJyw6p0w6lzLiBJbCBhIGRpdCA6ICp2b3VzIG5lIHJlZ2FyZGV6IHF1ZSBsZXMgYXZpb25zIHF1aSBzb250IHJlbnRyw6lzLiBDZXV4IHRvdWNow6lzIGF1eCBwb2ludHMgY3JpdGlxdWVzIOKAlCBsZSBjb2NrcGl0LCBsZXMgbW90ZXVycyDigJQgbmUgc29udCBqYW1haXMgcmV2ZW51cywgYWxvcnMgdm91cyBuJ3kgdm95ZXogYXVjdW4gdHJvdS4qIExlIGJsaW5kYWdlIGRldmFpdCBzZSBtZXR0cmUgZXhhY3RlbWVudCBsw6Agb8O5IGxlcyB0cm91cyAqKm1hbnF1YWllbnQqKi4KCkMnZXN0IGNlIHF1J29uIGFwcGVsbGUgbGUgKipiaWFpcyBkdSBzdXJ2aXZhbnQqKiwgZXQgaWwgZXN0IHBhcnRvdXQuIFZvdXMgw6l0dWRpZXogbGVzIGVudHJlcHJpc2VzIHF1aSBvbnQgcsOpdXNzaSBldCBjb3BpZXogY2UgcXUnZWxsZXMgb250IGZhaXQsIGVuIGlnbm9yYW50IGNldXggcXVpIG9udCBmYWl0IGxhIG3Dqm1lIGNob3NlIGV0IG9udCBmYWl0IGZhaWxsaXRlLiBWb3VzIHJlZ2FyZGV6IGxlcyBjbGllbnRzIHF1aSBzb250IHJlc3TDqXMgZXQgcmF0ZXogbGEgcmFpc29uIGR1IGTDqXBhcnQgZGVzIGF1dHJlcy4gTGEgbGXDp29uIDogZGVtYW5kZXogdG91am91cnMgY2UgcXVpICpuJ2VzdCBwYXMqIGRhbnMgdm9zIGRvbm7DqWVzLgoKIyMgTGVzIHByZXV2ZXMgcGx1dMO0dCBxdWUgbGVzIG9waW5pb25zCgpEYW5zIGxhIHBsdXBhcnQgZGVzIHLDqXVuaW9ucywgYydlc3QgbGEgdm9peCBsYSBwbHVzIGZvcnRlIHF1aSBsJ2VtcG9ydGUuIERhbnMgdW5lIMOpcXVpcGUgcGlsb3TDqWUgcGFyIGxlcyBkb25uw6llcywgYydlc3QgbGEgbWVpbGxldXJlIHByZXV2ZSBxdWkgZ2FnbmUuIENlbGEgbmUgdmV1dCBwYXMgZGlyZSBxdWUgbGVzIGNoaWZmcmVzIHJlbXBsYWNlbnQgbGUganVnZW1lbnQg4oCUIGNlbGEgdmV1dCBkaXJlIHF1ZSBsZXMgb3BpbmlvbnMgc29udCBjb25mcm9udMOpZXMgYXV4IGZhaXRzLiDCqyBKJ2FpIGwnaW1wcmVzc2lvbiBxdWUgbGUgbm91dmVhdSBzaXRlIGVzdCBtZWlsbGV1ciDCuyBkZXZpZW50IMKrIGxlIG5vdXZlYXUgc2l0ZSBjb252ZXJ0aXQgw6AgMywxICUgY29udHJlIDIsNCAlLCBldCBsYSBkaWZmw6lyZW5jZSBlc3QgcsOpZWxsZSDCuy4gTGVzIHNlbnRpbWVudHMgcGFzc2VudCBhdSB0ZXN0LgoKIyMgTGVzIEtQSSA6IGxlcyByYXJlcyBjaGlmZnJlcyBxdWkgY29tcHRlbnQKClVuICoqS1BJKiog4oCUIGluZGljYXRldXIgY2zDqSBkZSBwZXJmb3JtYW5jZSDigJQgZXN0IHVuIG5vbWJyZSBxdWUgdm91cyBzdXJ2ZWlsbGV6IHBhcmNlIHF1J2lsIHZvdXMgZGl0IHNpIHZvdXMgw6p0ZXMgZW4gdHJhaW4gZGUgZ2FnbmVyLiBUb3V0IGwnYXJ0IGNvbnNpc3RlIMOgIGNob2lzaXIgbGVzICpyYXJlcyogcXVpIGNvbXB0ZW50IGV0IMOgIGlnbm9yZXIgbGVzIGNlbnRhaW5lcyBxdWkgbmUgY29tcHRlbnQgcGFzLgoKVW4gYm9uIEtQSSBlc3QgOgotICoqQ2xhaXIqKiDigJQgdG91dCBsZSBtb25kZSBzJ2FjY29yZGUgc3VyIGNlIHF1J2lsIHNpZ25pZmllLgotICoqTWVzdXJhYmxlKiog4oCUIHZvdXMgcG91dmV6IHLDqWVsbGVtZW50IGxlIGNhbGN1bGVyLgotICoqTGnDqSDDoCB1biBvYmplY3RpZioqIOKAlCBpbCBib3VnZSBxdWFuZCBsJ2VudHJlcHJpc2UgYm91Z2UuCi0gKipBY3Rpb25uYWJsZSoqIOKAlCBzJ2lsIGVzdCBtYXV2YWlzLCB2b3VzIHBvdXZleiBmYWlyZSBxdWVscXVlIGNob3NlLgoKVW4gbWF1dmFpcyBLUEkgZXN0IHVuIG5vbWJyZSBxdWkgYSBsJ2FpciBpbXByZXNzaW9ubmFudCBtYWlzIG5lIGNoYW5nZSByaWVuLiBMZXMgbcOpdHJpcXVlcyBkZSB2YW5pdMOpIOKAlCDCqyB0b3RhbCBkZXMgdmlzaXRlcyBkdSBzaXRlIGRlcHVpcyB0b3Vqb3VycyDCuyDigJQgZm9udCBwbGFpc2lyIGV0IG5lIGTDqWNpZGVudCBkZSByaWVuLgoKIyMgRGVzIG9iamVjdGlmcyBxdWkgdmFsZW50IGxhIHBlaW5lIDogbCdpZMOpZSBTTUFSVAoKVW4gb2JqZWN0aWYgdmFndWUgKMKrIHZlbmRyZSBwbHVzIMK7KSBwcm9kdWl0IHVuIHRyYXZhaWwgdmFndWUuIFVuIG9iamVjdGlmICoqU01BUlQqKiBkb25uZSDDoCBsJ2FuYWx5c3RlIHF1ZWxxdWUgY2hvc2Ugw6AgbWVzdXJlciA6CgotICoqUyoqcMOpY2lmaXF1ZSDigJQgwqsgYXVnbWVudGVyIGxlcyB2ZW50ZXMgZW4gbGlnbmUgwrsKLSAqKk0qKmVzdXJhYmxlIOKAlCDCqyBkZSAxMCAlIMK7Ci0gKipBKip0dGVpZ25hYmxlIOKAlCByw6lhbGlzdGUsIHBhcyB1biB2xZN1IHBpZXV4Ci0gKipSKirDqWFsaXN0ZSDigJQgY2VsYSBjb21wdGUgcG91ciBsJ2VudHJlcHJpc2UKLSAqKlQqKmVtcG9yZWxsZW1lbnQgZMOpZmluaSDigJQgwqsgZCdpY2kgbGEgZmluIGR1IHRyaW1lc3RyZSDCuwoKTWFpbnRlbmFudCBsJ2FuYWx5c3RlIHBldXQgcsOpcG9uZHJlIDogeSBzb21tZXMtbm91cyA/IERlIGNvbWJpZW4gPyBTdXIgbGEgYm9ubmUgdm9pZSA/IFVuIGJvbiBvYmplY3RpZiBlc3QgdW5lIHF1ZXN0aW9uIGFzc29ydGllIGQndW5lIMOpY2jDqWFuY2UuCgojIyBMZSB0YWJsZWF1IGRlIGJvcmQgZXN0IHVuIGNvY2twaXQKClZveWV6IHVuIHRhYmxlYXUgZGUgYm9yZCBjb21tZSBsZSBjb2NrcGl0IGQndW4gYXZpb24uIExlIHBpbG90ZSBuZSB2ZXV0IHBhcyA1MDAgY2FkcmFucy4gSWwgdmV1dCBsYSBwb2lnbsOpZSBxdWkgbHVpIGluZGlxdWUgOiBhbHRpdHVkZSwgdml0ZXNzZSwgY2FyYnVyYW50LCBjYXAuIFVuIGJvbiB0YWJsZWF1IGRlIGJvcmQsIGMnZXN0IHBhcmVpbCDigJQgcXVlbHF1ZXMgY2hpZmZyZXMgaG9ubsOqdGVzLCB2aXNpYmxlcyBkJ3VuIGNvdXAgZCfFk2lsLCBxdWkgdm91cyBwZXJtZXR0ZW50IGQnYWdpciBhdmFudCBxdWUgcXVlbHF1ZSBjaG9zZSBuZSB0b3VybmUgbWFsLiBTaSB1biB0YWJsZWF1IGRlIGJvcmQgYSBiZXNvaW4gZCd1biBtb2RlIGQnZW1wbG9pIHBvdXIgw6p0cmUgbHUsIGNlIG4nZXN0IHBhcyB1biB0YWJsZWF1IGRlIGJvcmQgOyBjJ2VzdCB1biByYXBwb3J0LgoKIyMgVW5lIGN1cmlvc2l0w6kgOiBsYSBmcsOpcXVlbmNlIGRlIGJhc2UKCkltYWdpbmV6IHF1J3VuZSBtYWxhZGllIHRvdWNoZSAxIHBlcnNvbm5lIHN1ciAxIDAwMC4gVW4gdGVzdCBlc3QgZmlhYmxlIMOgIDk5ICUuIFZvdXMgw6p0ZXMgcG9zaXRpZi4gUXVlbGxlIGVzdCBsYSBwcm9iYWJpbGl0w6kgcXVlIHZvdXMgYXlleiByw6llbGxlbWVudCBsYSBtYWxhZGllID8gTGEgcGx1cGFydCBkZXMgZ2VucyByw6lwb25kZW50IDk5ICUuIExhIHZyYWllIHLDqXBvbnNlIGVzdCBwbHVzIHByb2NoZSBkZSAqKjkgJSoqLiBDb21tZSBsYSBtYWxhZGllIGVzdCB0csOocyByYXJlLCBsYSBwb2lnbsOpZSBkZSBmYXV4IHBvc2l0aWZzIHBhcm1pIGxlcyA5OTkgcGVyc29ubmVzIGVuIGJvbm5lIHNhbnTDqSDDqXF1aXZhdXQgw6AgcGV1IHByw6hzIGF1IHNldWwgdnJhaSBwb3NpdGlmLiBDJ2VzdCBsYSAqKmZyw6lxdWVuY2UgZGUgYmFzZSoqLCBldCBsJ2lnbm9yZXIgdHJvbXBlIGF1c3NpIGJpZW4gbGVzIG3DqWRlY2lucyBxdWUgbGVzIGF2b2NhdHMgZXQgbGVzIGRpcmlnZWFudHMuIFBlbnNlciBlbiBkb25uw6llcywgYydlc3QgdG91am91cnMgZGVtYW5kZXIgOiAqw6AgcXVlbCBwb2ludCBlc3QtY2UgY291cmFudCwgZMOpasOgID8qCgotLS0KCiMjIENlIHF1ZSB2b3VzIGdhcmRlcmV6IGRlIGNlIGNoYXBpdHJlCgotIERlbWFuZGV6IHRvdWpvdXJzICrCqyBwYXIgcmFwcG9ydCDDoCBxdW9pID8gwrsqCi0gTcOpZmllei12b3VzIGRlIGNlIHF1aSBtYW5xdWUgKGxlIGJpYWlzIGR1IHN1cnZpdmFudCkuCi0gTGFpc3NleiBsZXMgcHJldXZlcywgcGFzIGxlIHZvbHVtZSwgZ2FnbmVyIGxlcyBkw6liYXRzLgotIENob2lzaXNzZXogcXVlbHF1ZXMgS1BJIGFjdGlvbm5hYmxlcyA7IGZpeGV6IGRlcyBvYmplY3RpZnMgU01BUlQuCi0gVW4gdGFibGVhdSBkZSBib3JkIGVzdCB1biBjb2NrcGl0LCBwYXMgdW4gY2xhc3NldXIuCgpTdWl0ZSA6IGxlIHBldGl0IHBldSBkZSBzdGF0aXN0aXF1ZXMgZG9udCB2b3VzIGF2ZXogdnJhaW1lbnQgYmVzb2luIOKAlCBldCBsJ3VuaXF1ZSBlcnJldXIgc3VyIGxhIGNvcnLDqWxhdGlvbiBxdWkgcGnDqGdlIHRvdXQgbGUgbW9uZGUuCg==
+# 3. Penser en données
+
+Il existe une façon de penser qui sépare le bon analyste de celui qui se contente de faire des graphiques. Ce n'est pas les maths. C'est l'habitude de se demander : *« Comment le sais-je ? Et par rapport à quoi ? »* Construisons cette habitude ensemble.
+
+## La règle d'or : par rapport à quoi ?
+
+Un nombre tout seul ne veut presque rien dire. « Nous avons fait 1 000 ventes ce mois-ci. » Est-ce bien ? Impossible à dire. Il faut comparer :
+
+- **Au mois dernier** — avons-nous grandi ou régressé ?
+- **À l'année dernière** — est-ce normal pour la saison ?
+- **À l'objectif** — avons-nous atteint le but ?
+- **À quelque chose de similaire** — ce magasin est-il meilleur que les autres ?
+
+Dès que quelqu'un prononce un nombre, un analyste formé demande *« par rapport à quoi ? »*. Cette seule question tue plus de mauvaises décisions que n'importe quel logiciel ne le fera jamais.
+
+## Le piège des impacts manquants
+
+Pendant la Seconde Guerre mondiale, l'armée américaine a étudié quelles parties des bombardeurs qui revenaient présentaient le plus d'impacts de balles, dans l'idée de blinders ces endroits-là. Un statisticien nommé **Abraham Wald** les a arrêtés. Il a dit : *vous ne regardez que les avions qui sont rentrés. Ceux touchés aux points critiques — le cockpit, les moteurs — ne sont jamais revenus, alors vous n'y voyez aucun trou.* Le blindage devait se mettre exactement là où les trous **manquaient**.
+
+C'est ce qu'on appelle le **biais du survivant**, et il est partout. Vous étudiez les entreprises qui ont réussi et copiez ce qu'elles ont fait, en ignorant ceux qui ont fait la même chose et ont fait faillite. Vous regardez les clients qui sont restés et ratez la raison du départ des autres. La leçon : demandez toujours ce qui *n'est pas* dans vos données.
+
+## Les preuves plutôt que les opinions
+
+Dans la plupart des réunions, c'est la voix la plus forte qui l'emporte. Dans une équipe pilotée par les données, c'est la meilleure preuve qui gagne. Cela ne veut pas dire que les chiffres remplacent le jugement — cela veut dire que les opinions sont confrontées aux faits. « J'ai l'impression que le nouveau site est meilleur » devient « le nouveau site convertit à 3,1 % contre 2,4 %, et la différence est réelle ». Les sentiments passent au test.
+
+## Les KPI : les rares chiffres qui comptent
+
+Un **KPI** — indicateur clé de performance — est un nombre que vous surveillez parce qu'il vous dit si vous êtes en train de gagner. Tout l'art consiste à choisir les *rares* qui comptent et à ignorer les centaines qui ne comptent pas.
+
+Un bon KPI est :
+- **Clair** — tout le monde s'accorde sur ce qu'il signifie.
+- **Mesurable** — vous pouvez réellement le calculer.
+- **Lié à un objectif** — il bouge quand l'entreprise bouge.
+- **Actionnable** — s'il est mauvais, vous pouvez faire quelque chose.
+
+Un mauvais KPI est un nombre qui a l'air impressionnant mais ne change rien. Les métriques de vanité — « total des visites du site depuis toujours » — font plaisir et ne décident de rien.
+
+## Des objectifs qui valent la peine : l'idée SMART
+
+Un objectif vague (« vendre plus ») produit un travail vague. Un objectif **SMART** donne à l'analyste quelque chose à mesurer :
+
+- **S**pécifique — « augmenter les ventes en ligne »
+- **M**esurable — « de 10 % »
+- **A**tteignable — réaliste, pas un vœu pieux
+- **R**éaliste — cela compte pour l'entreprise
+- **T**emporellement défini — « d'ici la fin du trimestre »
+
+Maintenant l'analyste peut répondre : y sommes-nous ? De combien ? Sur la bonne voie ? Un bon objectif est une question assortie d'une échéance.
+
+## Le tableau de bord est un cockpit
+
+Voyez un tableau de bord comme le cockpit d'un avion. Le pilote ne veut pas 500 cadrans. Il veut la poignée qui lui indique : altitude, vitesse, carburant, cap. Un bon tableau de bord, c'est pareil — quelques chiffres honnêtes, visibles d'un coup d'œil, qui vous permettent d'agir avant que quelque chose ne tourne mal. Si un tableau de bord a besoin d'un mode d'emploi pour être lu, ce n'est pas un tableau de bord ; c'est un rapport.
+
+## Une curiosité : la fréquence de base
+
+Imaginez qu'une maladie touche 1 personne sur 1 000. Un test est fiable à 99 %. Vous êtes positif. Quelle est la probabilité que vous ayez réellement la maladie ? La plupart des gens répondent 99 %. La vraie réponse est plus proche de **9 %**. Comme la maladie est très rare, la poignée de faux positifs parmi les 999 personnes en bonne santé équivaut à peu près au seul vrai positif. C'est la **fréquence de base**, et l'ignorer trompe aussi bien les médecins que les avocats et les dirigeants. Penser en données, c'est toujours demander : *à quel point est-ce courant, déjà ?*
+
+---
+
+## Ce que vous garderez de ce chapitre
+
+- Demandez toujours *« par rapport à quoi ? »*
+- Méfiez-vous de ce qui manque (le biais du survivant).
+- Laissez les preuves, pas le volume, gagner les débats.
+- Choisissez quelques KPI actionnables ; fixez des objectifs SMART.
+- Un tableau de bord est un cockpit, pas un classeur.
+
+Suite : le petit peu de statistiques dont vous avez vraiment besoin — et l'unique erreur sur la corrélation qui piège tout le monde.

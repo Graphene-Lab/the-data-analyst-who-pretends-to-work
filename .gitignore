@@ -1,1 +1,8 @@
-IyBCdWlsZCBvdXRwdXRzCmJpbi8Kb2JqLwoqLnVzZXIKCiMgT1MgY3J1ZnQKVGh1bWJzLmRiCi5EU19TdG9yZQo=
+# Build outputs
+bin/
+obj/
+*.user
+
+# OS cruft
+Thumbs.db
+.DS_Store

@@ -1,1 +1,88 @@
-IyBBcHBlbmRpeCBBIOKAlCBHbG9zc2FyeSBvZiBUZXJtcwoKUGxhaW4tRW5nbGlzaCBkZWZpbml0aW9ucyBvZiB0aGUgdGVybXMgdXNlZCBpbiB0aGlzIGJvb2suCgoqKkFnZW50IC8gYWdlbnRpYy4qKiBTb2Z0d2FyZSB0aGF0IHRha2VzICphY3Rpb25zKiB0b3dhcmQgYSBnb2FsLCBub3QganVzdCBhbnN3ZXJzCnF1ZXN0aW9ucy4gQW4gYWdlbnQgY2xvc2VzIHRoZSBsb29wIGZyb20gaW50ZW50IHRvIHJlc3VsdC4KCioqQWdlbnRCcmlkZ2UuKiogVGhlIGxvY2FsLCBwbGFpbi1sYW5ndWFnZSBBSSBhc3Npc3RhbnQgdGhhdCBwbGFucyBhbmQgYWN0cyBhY3Jvc3MKdG9vbHMuIFRoZSAiYnJhaW4iIGluIHRoaXMgYm9vay4KCioqUG93ZXJCSVRvb2wuKiogVGhlIEFnZW50QnJpZGdlIHBsdWdpbiB0aGF0IG9wZXJhdGVzIE1pY3Jvc29mdCBQb3dlciBCSSBEZXNrdG9wLgpUaGUgImhhbmRzIiBpbiB0aGlzIGJvb2suCgoqKlBvd2VyIEJJIERlc2t0b3AuKiogTWljcm9zb2Z0J3MgdG9vbCBmb3IgYnVpbGRpbmcgZGF0YSBtb2RlbHMgYW5kIHJlcG9ydHMuCgoqKk1vZGVsLioqIFRoZSBzZXQgb2YgdGFibGVzLCBjb2x1bW5zLCBtZWFzdXJlcywgYW5kIHJlbGF0aW9uc2hpcHMgdGhhdCBQb3dlciBCSQp1c2VzIHRvIGFuc3dlciBxdWVzdGlvbnMuCgoqKlRhYmxlLioqIEEgc2V0IG9mIHJvd3MgYW5kIGNvbHVtbnMuIFRoZSBiYXNpYyBjb250YWluZXIgZm9yIGRhdGEuCgoqKkNvbHVtbi4qKiBBIHNpbmdsZSBmaWVsZCBpbiBhIHRhYmxlLCB3aXRoIGEgZGF0YSB0eXBlICh0ZXh0LCBudW1iZXIsIGRhdGUpLgoKKipNZWFzdXJlLioqIEEgY2FsY3VsYXRlZCB2YWx1ZSAodXN1YWxseSBhbiBhZ2dyZWdhdGUgbGlrZSBhIHN1bSBvciBhdmVyYWdlKSB0aGF0CnJlc3BvbmRzIHRvIGZpbHRlcnMgaW4gYSByZXBvcnQuCgoqKkNhbGN1bGF0ZWQgY29sdW1uLioqIEEgbmV3IGNvbHVtbiBhZGRlZCB0byBhIHRhYmxlLCBjb21wdXRlZCB3aXRoIGEgZm9ybXVsYSBmb3IKZXZlcnkgcm93LgoKKipDYWxjdWxhdGVkIHRhYmxlLioqIEEgbmV3IHRhYmxlIGNyZWF0ZWQgZnJvbSBhIGZvcm11bGEsIGNvbXB1dGVkIG9uIHRoZSBmbHkuCgoqKlJlbGF0aW9uc2hpcC4qKiBBIGxpbmsgYmV0d2VlbiB0d28gdGFibGVzIChlLmcuIFNhbGVzIOKGkiBQcm9kdWN0cykgc28gZGF0YSBmbG93cwpiZXR3ZWVuIHRoZW0uCgoqKkNhcmRpbmFsaXR5LioqIFRoZSAib25lLXRvLW1hbnkiIG9yICJtYW55LXRvLW9uZSIgbmF0dXJlIG9mIGEgcmVsYXRpb25zaGlwLgoKKipEQVguKiogRGF0YSBBbmFseXNpcyBFeHByZXNzaW9ucyDigJQgdGhlIGZvcm11bGEgbGFuZ3VhZ2Ugb2YgUG93ZXIgQkkuCgoqKlNRTC4qKiBTdHJ1Y3R1cmVkIFF1ZXJ5IExhbmd1YWdlIOKAlCB0aGUgc3RhbmRhcmQgbGFuZ3VhZ2UgZm9yIHF1ZXJ5aW5nIGRhdGFiYXNlcy4KCioqU1VNIC8gQVZFUkFHRSAvIENPVU5ULioqIEJhc2ljIGFnZ3JlZ2F0ZXM6IHRvdGFsLCBtZWFuLCBhbmQgY291bnQuCgoqKkRJU1RJTkNUQ09VTlQuKiogQ291bnQgb2YgdW5pcXVlIHZhbHVlcy4KCioqQ0FMQ1VMQVRFLioqIEEgREFYIGZ1bmN0aW9uIHRoYXQgY2hhbmdlcyB0aGUgZmlsdGVyIGNvbnRleHQgb2YgYSBtZWFzdXJlLgoKKipGSUxURVIuKiogQSBEQVggZnVuY3Rpb24gdGhhdCBrZWVwcyByb3dzIG1hdGNoaW5nIGEgY29uZGl0aW9uLgoKKipSRUxBVEVELioqIEEgREFYIGZ1bmN0aW9uIHRoYXQgcHVsbHMgYSB2YWx1ZSBmcm9tIGEgcmVsYXRlZCB0YWJsZS4KCioqRElWSURFLioqIEEgc2FmZSBkaXZpc2lvbiBmdW5jdGlvbiB0aGF0IGhhbmRsZXMgZGl2aWRlLWJ5LXplcm8uCgoqKkFMTC4qKiBBIERBWCBmdW5jdGlvbiB0aGF0IHJlbW92ZXMgZmlsdGVycyAob2Z0ZW4gdXNlZCBmb3IgIiUgb2YgdG90YWwiKS4KCioqUkFOS1guKiogQSBEQVggZnVuY3Rpb24gdGhhdCByYW5rcyByb3dzIGJ5IGEgdmFsdWUuCgoqKlRPUE4uKiogQSBEQVggZnVuY3Rpb24gdGhhdCByZXR1cm5zIHRoZSB0b3AgTiByb3dzLgoKKipGaWx0ZXIgY29udGV4dC4qKiBUaGUgc2V0IG9mIGZpbHRlcnMgY3VycmVudGx5IGFwcGxpZWQgd2hlbiBhIG1lYXN1cmUgY29tcHV0ZXMuCgoqKlJvdyBjb250ZXh0LioqIFRoZSAiY3VycmVudCByb3ciIHdoZW4gYSBjYWxjdWxhdGVkIGNvbHVtbiBvciBpdGVyYXRvciBjb21wdXRlcy4KCioqSXRlcmF0b3IuKiogQSBEQVggZnVuY3Rpb24gKFNVTVgsIEFWRVJBR0VYKSB0aGF0IGV2YWx1YXRlcyByb3cgYnkgcm93LgoKKipEYXRhIGRpY3Rpb25hcnkuKiogRG9jdW1lbnRhdGlvbiBvZiBldmVyeSB0YWJsZSwgY29sdW1uLCBhbmQgbWVhc3VyZSBpbiBhIG1vZGVsLgoKKipQcm9maWxpbmcuKiogSW5zcGVjdGluZyBhIHRhYmxlJ3MgZGlzdGluY3QgdmFsdWVzLCBibGFua3MsIG1pbi9tYXgsIGFuZCBzYW1wbGVzLgoKKipMaW50aW5nLioqIFN0YXRpYyBjaGVja3MgdGhhdCBmbGFnIHJpc2t5IHBhdHRlcm5zIChlLmcuIGAvYCBpbnN0ZWFkIG9mIGBESVZJREVgKS4KCioqQmVzdCBwcmFjdGljZXMuKiogQSBoZWFsdGggY2hlY2sgb2YgdGhlIG1vZGVsIGFnYWluc3Qga25vd24gZ29vZCBwYXR0ZXJucy4KCioqRmFpbC1jbG9zZWQgZ3VhcmQuKiogQSBzYWZldHkgcnVsZSB0aGF0IGJsb2NrcyBhbnl0aGluZyBub3QgY2xlYXJseSBhbGxvd2VkLgoKKipEYXRhIHF1YWxpdHkuKiogSG93IGNsZWFuLCBjb21wbGV0ZSwgYW5kIHRydXN0d29ydGh5IHRoZSBkYXRhIGlzLgoKKipTZWdtZW50YXRpb24uKiogU3BsaXR0aW5nIGN1c3RvbWVycyBvciBkYXRhIGludG8gZ3JvdXBzIGZvciBhbmFseXNpcy4KCioqU2Vhc29uYWxpdHkuKiogUmVndWxhciwgcmVwZWF0aW5nIHBhdHRlcm5zIG92ZXIgdGltZS4KCioqS1BJLioqIEtleSBQZXJmb3JtYW5jZSBJbmRpY2F0b3Ig4oCUIGEgbWV0cmljIHRoYXQgbWF0dGVycyB0byB0aGUgYnVzaW5lc3MuCgoqKkRhc2hib2FyZC4qKiBBIHZpZXcgb2Yga2V5IEtQSXMsIHVzdWFsbHkgb24gb25lIHNjcmVlbi4KCioqUmVwb3J0LioqIEEgZGV0YWlsZWQsIGludGVyYWN0aXZlIHNldCBvZiB2aXN1YWxzIGJ1aWx0IG9uIGEgbW9kZWwuCgoqKkRhdGEgZ292ZXJuYW5jZS4qKiBUaGUgcnVsZXMsIG93bmVyc2hpcCwgYW5kIGNvbnRyb2xzIGFyb3VuZCBhIGRhdGEgYXNzZXQuCgoqKkpldm9ucyBwYXJhZG94LioqIFdoZW4gc29tZXRoaW5nIGdldHMgY2hlYXBlciwgd2UgdXNlIG1vcmUgb2YgaXQsIG5vdCBsZXNzLgo=
+# Appendix A — Glossary of Terms
+
+Plain-English definitions of the terms used in this book.
+
+**Agent / agentic.** Software that takes *actions* toward a goal, not just answers
+questions. An agent closes the loop from intent to result.
+
+**AgentBridge.** The local, plain-language AI assistant that plans and acts across
+tools. The "brain" in this book.
+
+**PowerBITool.** The AgentBridge plugin that operates Microsoft Power BI Desktop.
+The "hands" in this book.
+
+**Power BI Desktop.** Microsoft's tool for building data models and reports.
+
+**Model.** The set of tables, columns, measures, and relationships that Power BI
+uses to answer questions.
+
+**Table.** A set of rows and columns. The basic container for data.
+
+**Column.** A single field in a table, with a data type (text, number, date).
+
+**Measure.** A calculated value (usually an aggregate like a sum or average) that
+responds to filters in a report.
+
+**Calculated column.** A new column added to a table, computed with a formula for
+every row.
+
+**Calculated table.** A new table created from a formula, computed on the fly.
+
+**Relationship.** A link between two tables (e.g. Sales → Products) so data flows
+between them.
+
+**Cardinality.** The "one-to-many" or "many-to-one" nature of a relationship.
+
+**DAX.** Data Analysis Expressions — the formula language of Power BI.
+
+**SQL.** Structured Query Language — the standard language for querying databases.
+
+**SUM / AVERAGE / COUNT.** Basic aggregates: total, mean, and count.
+
+**DISTINCTCOUNT.** Count of unique values.
+
+**CALCULATE.** A DAX function that changes the filter context of a measure.
+
+**FILTER.** A DAX function that keeps rows matching a condition.
+
+**RELATED.** A DAX function that pulls a value from a related table.
+
+**DIVIDE.** A safe division function that handles divide-by-zero.
+
+**ALL.** A DAX function that removes filters (often used for "% of total").
+
+**RANKX.** A DAX function that ranks rows by a value.
+
+**TOPN.** A DAX function that returns the top N rows.
+
+**Filter context.** The set of filters currently applied when a measure computes.
+
+**Row context.** The "current row" when a calculated column or iterator computes.
+
+**Iterator.** A DAX function (SUMX, AVERAGEX) that evaluates row by row.
+
+**Data dictionary.** Documentation of every table, column, and measure in a model.
+
+**Profiling.** Inspecting a table's distinct values, blanks, min/max, and samples.
+
+**Linting.** Static checks that flag risky patterns (e.g. `/` instead of `DIVIDE`).
+
+**Best practices.** A health check of the model against known good patterns.
+
+**Fail-closed guard.** A safety rule that blocks anything not clearly allowed.
+
+**Data quality.** How clean, complete, and trustworthy the data is.
+
+**Segmentation.** Splitting customers or data into groups for analysis.
+
+**Seasonality.** Regular, repeating patterns over time.
+
+**KPI.** Key Performance Indicator — a metric that matters to the business.
+
+**Dashboard.** A view of key KPIs, usually on one screen.
+
+**Report.** A detailed, interactive set of visuals built on a model.
+
+**Data governance.** The rules, ownership, and controls around a data asset.
+
+**Jevons paradox.** When something gets cheaper, we use more of it, not less.

@@ -1,1 +1,78 @@
-IyBBbm5leGUgRyDigJQgVW4gbW9kw6hsZSBkZSBwcm9qZXQgcG91ciBsZSBwb3J0Zm9saW8KClVuIHBvcnRmb2xpbyBwcm91dmUgcXVlIHZvdXMgc2F2ZXogZmFpcmUgbGUgbcOpdGllci4gQ2UgbW9kw6hsZSB2b3VzIHByb3Bvc2UgdW4KcHJvamV0IMOgIGNvbnN0cnVpcmUsIGRvY3VtZW50ZXIgZXQgbW9udHJlci4gRmFpdGVzLWVuIHVuIG91IGRldXgsIGV0IHZvdXMgYXVyZXoKcXVlbHF1ZSBjaG9zZSDDoCBtb250cmVyIGVuIGVudHJldGllbi4KCiMjIExlIHByb2pldCA6IHVuIHRhYmxlYXUgZGUgYm9yZCBkJ2FuYWx5c2UgZGVzIHZlbnRlcwoKUsOpYWxpc2V6IHVuZSBwZXRpdGUgYW5hbHlzZSBkZSBib3V0IGVuIGJvdXQgc3VyIHVuIGpldSBkZSBkb25uw6llcyBkZSB2ZW50ZXMKZCdleGVtcGxlIChsYSBtw6ptZSBzdHJ1Y3R1cmUgcXVlIGNlbGxlIHV0aWxpc8OpZSB0b3V0IGF1IGxvbmcgZHUgbGl2cmUgOiBTYWxlcywKUHJvZHVjdHMsIEN1c3RvbWVycywgU3RvcmVzKS4KCiMjIyDDiXRhcGUgMSDigJQgQ29tcHJlbmRyZSBsZXMgZG9ubsOpZXMKCi0gUHJvZmlsZXIgY2hhcXVlIHRhYmxlLgotIE5vdGVyIGxlcyB2YWxldXJzIGRpc3RpbmN0ZXMsIGxlcyB2YWxldXJzIHZpZGVzIGV0IGxlcyBwbGFnZXMuCi0gw4ljcmlyZSB1bmUgcGhyYXNlIHBhciB0YWJsZSA6IGNlIHF1J2VsbGUgY29udGllbnQuCgojIyMgw4l0YXBlIDIg4oCUIE5ldHRveWVyIGV0IG1vZMOpbGlzZXIKCi0gU3RhbmRhcmRpc2VyIGxlIHRleHRlIGTDqXNvcmRvbm7DqSAoY29sb25uZXMgVVBQRVIvTE9XRVIpLgotIFJlZ3JvdXBlciBsZXMgbm9tYnJlcyBlbiB0cmFuY2hlcyAodHJhbmNoZXMgZGUgcHJpeCkuCi0gw4l0YWJsaXIgbGVzIHJlbGF0aW9ucyAoU2FsZXMg4oaSIFByb2R1Y3RzLCBDdXN0b21lcnMsIFN0b3JlcykuCgojIyMgw4l0YXBlIDMg4oCUIENvbnN0cnVpcmUgbGVzIGluZGljYXRldXJzCgotIFZlbnRlcyB0b3RhbGVzLCBxdWFudGl0w6kgdG90YWxlLCBjb21tYW5kZXMuCi0gUGFuaWVyIG1veWVuLCB2ZW50ZXMgcGFyIGNsaWVudC4KLSBVbmUgbWVzdXJlIGRlIG1hcmdlIChjaGlmZnJlIGQnYWZmYWlyZXMgbW9pbnMgY2/Du3RzKS4KLSBVbmUgbWVzdXJlIGRlIHBhcnQgZHUgdG90YWwuCgojIyMgw4l0YXBlIDQg4oCUIFNlZ21lbnRlcgoKLSBMZXMgbWVpbGxldXJzIGNsaWVudHMgcGFyIGTDqXBlbnNlLgotIFZlbnRlcyBwYXIgc2VnbWVudCAoRMOpdGFpbCAvIEVudHJlcHJpc2VzIC8gRW4gbGlnbmUpLgotIFZlbnRlcyBwYXIgcsOpZ2lvbiBldCBwYXIgbW9pcy4KCiMjIyDDiXRhcGUgNSDigJQgVmFsaWRlciBldCBkb2N1bWVudGVyCgotIFZhbGlkZXIgY2hhcXVlIG1lc3VyZSBhdmFudCBkZSBsJ2VucmVnaXN0cmVyLgotIExpbnRlciBsZSBEQVggcG91ciByZXDDqXJlciBsZXMgYW50aS1tb2TDqGxlcy4KLSBHw6luw6lyZXIgbGUgZGljdGlvbm5haXJlIGRlIGRvbm7DqWVzLgotIExhbmNlciBsZSByYXBwb3J0IGRlIGJvbm5lcyBwcmF0aXF1ZXMuCgojIyMgw4l0YXBlIDYg4oCUIFZpc3VhbGlzZXIKCi0gVW5lIHJhbmfDqWUgZGUgY2FydGVzIEtQSSAodmVudGVzIHRvdGFsZXMsIGNvbW1hbmRlcywgcGFuaWVyIG1veWVuKS4KLSBVbiBncmFwaGlxdWUgZW4gYmFycmVzIGRlcyB2ZW50ZXMgcGFyIGNhdMOpZ29yaWUuCi0gVW4gZ3JhcGhpcXVlIGVuIGNvdXJiZXMgZGUgbGEgdGVuZGFuY2UgbWVuc3VlbGxlLgotIFVuIGNsYXNzZW1lbnQgZGVzIG1laWxsZXVycyBwcm9kdWl0cy4KCiMjIFF1ZSBtb250cmVyIGRhbnMgbGUgcG9ydGZvbGlvCgpQb3VyIGNoYXF1ZSBwcm9qZXQsIHByw6lzZW50ZXogOgoKMS4gKipMYSBxdWVzdGlvbi4qKiBMZSBwcm9ibMOobWUgbcOpdGllciBxdWUgdm91cyByw6lzb2x2aWV6LgoyLiAqKkxlIG1vZMOobGUuKiogVW5lIGNhcHR1cmUgZCfDqWNyYW4gZGVzIHRhYmxlcyBldCBkZXMgcmVsYXRpb25zLgozLiAqKkxlcyBpbmRpY2F0ZXVycy4qKiBMZXMgbWVzdXJlcyBxdWUgdm91cyBhdmV6IGNyw6nDqWVzLCBhdmVjIGxldXIgREFYLgo0LiAqKkxlIHRhYmxlYXUgZGUgYm9yZC4qKiBMZXMgdmlzdWVscyBmaW5hdXguCjUuICoqTCdoaXN0b2lyZS4qKiBDZSBxdWUgdm91cyBhdmV6IGTDqWNvdXZlcnQgZXQgY2UgcXUnaWwgZmF1ZHJhaXQgZW4gZmFpcmUuCjYuICoqTGVzIG91dGlscy4qKiBVbmUgbm90ZSBwcsOpY2lzYW50IHF1ZSB2b3VzIGwnYXZleiBjb25zdHJ1aXQgYXZlYyBBZ2VudEJyaWRnZSArCiAgIFBvd2VyQklUb29sLCBldCBjb21tZW50IGwnYXNzaXN0YW50IGEgYWlkw6kgKHZhbGlkYXRpb24sIGRvY3VtZW50YXRpb24sIGJvbm5lcwogICBwcmF0aXF1ZXMpLgoKIyMgUG91cnF1b2kgw6dhIG1hcmNoZQoKVW4gcmVjcnV0ZXVyIHNlIGZpY2hlIHF1ZSBsJ291dGlsIGFpdCDDqXTDqSByYXBpZGUuIENlIHF1aSBsJ2ludMOpcmVzc2UsIGMnZXN0IHF1ZQp2b3VzIHNhY2hpZXogOiBjYWRyZXIgdW4gcHJvYmzDqG1lLCBjb25zdHJ1aXJlIHVuIG1vZMOobGUgcHJvcHJlLCB2YWxpZGVyIHZvdHJlCnRyYXZhaWwsIGxlIGRvY3VtZW50ZXIgZXQgcmFjb250ZXIgdW5lIGhpc3RvaXJlLiBDZSBwcm9qZXQgZmFpdCB0cmF2YWlsbGVyIGxlcyBzaXgKw6AgbGEgZm9pcy4gTCdvdXRpbCBlc3QgdW4gYm9udXMgcXVpIG1vbnRyZSBxdWUgdm91cyDDqnRlcyDDoCBsYSBwYWdlIOKAlCBwYXMgdW4KcmFjY291cmNpIHF1aSByZW1wbGFjZSBsYSByw6lmbGV4aW9uLgoKIyMgQXBwcm9wcmllei12b3VzIGxlIHByb2pldAoKUmVtcGxhY2V6IGxlcyBkb25uw6llcyBkJ2V4ZW1wbGUgcGFyIHVuIGpldSBkZSBkb25uw6llcyBxdWkgdm91cyB0aWVudCDDoCBjxZN1ciDigJQgdW4KbG9pc2lyLCB1biBqZXUgZGUgZG9ubsOpZXMgcHVibGljLCB1biBwcm9qZXQgcGVyc28uIFBsdXMgbGUgc3VqZXQgdm91cyBwYXNzaW9ubmUsCm1laWxsZXVyZXMgc2Vyb250IGxlcyBxdWVzdGlvbnMgcXVlIHZvdXMgcG9zZXJleiwgZXQgcGx1cyBsZSBwb3J0Zm9saW8gc2VyYSBiZWF1LgpMZSBzY2jDqW1hIHJlc3RlIGxlIG3Dqm1lIDsgbGUgY2hvaXggZGVzIGRvbm7DqWVzIHZvdXMgYXBwYXJ0aWVudC4K
+# Annexe G — Un modèle de projet pour le portfolio
+
+Un portfolio prouve que vous savez faire le métier. Ce modèle vous propose un
+projet à construire, documenter et montrer. Faites-en un ou deux, et vous aurez
+quelque chose à montrer en entretien.
+
+## Le projet : un tableau de bord d'analyse des ventes
+
+Réalisez une petite analyse de bout en bout sur un jeu de données de ventes
+d'exemple (la même structure que celle utilisée tout au long du livre : Sales,
+Products, Customers, Stores).
+
+### Étape 1 — Comprendre les données
+
+- Profiler chaque table.
+- Noter les valeurs distinctes, les valeurs vides et les plages.
+- Écrire une phrase par table : ce qu'elle contient.
+
+### Étape 2 — Nettoyer et modéliser
+
+- Standardiser le texte désordonné (colonnes UPPER/LOWER).
+- Regrouper les nombres en tranches (tranches de prix).
+- Établir les relations (Sales → Products, Customers, Stores).
+
+### Étape 3 — Construire les indicateurs
+
+- Ventes totales, quantité totale, commandes.
+- Panier moyen, ventes par client.
+- Une mesure de marge (chiffre d'affaires moins coûts).
+- Une mesure de part du total.
+
+### Étape 4 — Segmenter
+
+- Les meilleurs clients par dépense.
+- Ventes par segment (Détail / Entreprises / En ligne).
+- Ventes par région et par mois.
+
+### Étape 5 — Valider et documenter
+
+- Valider chaque mesure avant de l'enregistrer.
+- Linter le DAX pour repérer les anti-modèles.
+- Générer le dictionnaire de données.
+- Lancer le rapport de bonnes pratiques.
+
+### Étape 6 — Visualiser
+
+- Une rangée de cartes KPI (ventes totales, commandes, panier moyen).
+- Un graphique en barres des ventes par catégorie.
+- Un graphique en courbes de la tendance mensuelle.
+- Un classement des meilleurs produits.
+
+## Que montrer dans le portfolio
+
+Pour chaque projet, présentez :
+
+1. **La question.** Le problème métier que vous résolviez.
+2. **Le modèle.** Une capture d'écran des tables et des relations.
+3. **Les indicateurs.** Les mesures que vous avez créées, avec leur DAX.
+4. **Le tableau de bord.** Les visuels finaux.
+5. **L'histoire.** Ce que vous avez découvert et ce qu'il faudrait en faire.
+6. **Les outils.** Une note précisant que vous l'avez construit avec AgentBridge +
+   PowerBITool, et comment l'assistant a aidé (validation, documentation, bonnes
+   pratiques).
+
+## Pourquoi ça marche
+
+Un recruteur se fiche que l'outil ait été rapide. Ce qui l'intéresse, c'est que
+vous sachiez : cadrer un problème, construire un modèle propre, valider votre
+travail, le documenter et raconter une histoire. Ce projet fait travailler les six
+à la fois. L'outil est un bonus qui montre que vous êtes à la page — pas un
+raccourci qui remplace la réflexion.
+
+## Appropriez-vous le projet
+
+Remplacez les données d'exemple par un jeu de données qui vous tient à cœur — un
+loisir, un jeu de données public, un projet perso. Plus le sujet vous passionne,
+meilleures seront les questions que vous poserez, et plus le portfolio sera beau.
+Le schéma reste le même ; le choix des données vous appartient.

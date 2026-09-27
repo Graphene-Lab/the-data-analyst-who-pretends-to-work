@@ -1,1 +1,86 @@
-WwogIHsKICAgICJvdXQiOiAiYXNzZXRzL2V4YW1wbGVzL2NoYXJ0LWNhdGVnb3J5LnBuZyIsCiAgICAidGl0bGUiOiAiVG90YWwgc2FsZXMgYnkgY2F0ZWdvcnkiLAogICAgInR5cGUiOiAiYmFyIiwKICAgICJsYWJlbHMiOiBbIkZ1cm5pdHVyZSIsICJLaXRjaGVuIiwgIlN0YXRpb25lcnkiXSwKICAgICJ2YWx1ZXMiOiBbMTI2ODQsIDkxNDcsIDE5Ml0KICB9LAogIHsKICAgICJvdXQiOiAiYXNzZXRzL2V4YW1wbGVzL2NoYXJ0LXJlZ2lvbi5wbmciLAogICAgInRpdGxlIjogIlRvdGFsIHNhbGVzIGJ5IHJlZ2lvbiIsCiAgICAidHlwZSI6ICJiYXIiLAogICAgImxhYmVscyI6IFsiTm9ydGgiLCAiQ2VudGVyIiwgIlNvdXRoIl0sCiAgICAidmFsdWVzIjogWzEyMTQ1LCA0OTM5LCA0OTM5XQogIH0sCiAgewogICAgIm91dCI6ICJhc3NldHMvZXhhbXBsZXMvY2hhcnQtcHJvZHVjdHMucG5nIiwKICAgICJ0aXRsZSI6ICJUb3AgcHJvZHVjdHMgYnkgdG90YWwgc2FsZXMiLAogICAgInR5cGUiOiAiYmFyIiwKICAgICJsYWJlbHMiOiBbIk9mZmljZSBDaGFpciIsICJFc3ByZXNzbyBNYWNoaW5lIiwgIlN0YW5kaW5nIERlc2siLCAiQ29mZmVlIEdyaW5kZXIiLCAiV2lyZWxlc3MgS2V0dGxlIiwgIkRlc2sgTGFtcCIsICJDZXJhbWljIE11ZyBTZXQiLCAiTm90ZWJvb2sgUGFjayJdLAogICAgInZhbHVlcyI6IFs3NTYwLCA1NzI3LCA0MTg4LCAxNzgwLCA5NDQsIDkzNiwgNjk2LCAxOTJdCiAgfSwKICB7CiAgICAib3V0IjogImFzc2V0cy9leGFtcGxlcy9jaGFydC1jdXN0b21lcnMucG5nIiwKICAgICJ0aXRsZSI6ICJUb3AgY3VzdG9tZXJzIGJ5IHRvdGFsIHNwZW5kIiwKICAgICJ0eXBlIjogImJhciIsCiAgICAibGFiZWxzIjogWyJEYXZpdG8gQ29zdGEiLCAiU2ltb25lIExlb25lIiwgIkFubmEgUmljY2kiLCAiTHVjYSBCaWFuY2hpIiwgIkFuZHJlYSBNYXJpbmkiLCAiTWFydGluYSBSaXp6byIsICJDaGlhcmEgRm9udGFuYSIsICJTYXJhIEdyZWNvIiwgIlBhb2xvIEVzcG9zaXRvIiwgIk1hcmNvIFJvc3NpIiwgIkdpdWxpYSBDb250aSIsICJFbGVuYSBHYWxsbyJdLAogICAgInZhbHVlcyI6IFs0MzMxLCAzMTc4LCAyNjE4LCAyMTM4LCAxOTA4LCAxNTI5LCAxNDAxLCAxMzU0LCAxMjI0LCA5MjQsIDc0NCwgNjc0XQogIH0sCiAgewogICAgIm91dCI6ICJhc3NldHMvZXhhbXBsZXMvY2hhcnQtc2VnbWVudC5wbmciLAogICAgInRpdGxlIjogIlNhbGVzIGJ5IGN1c3RvbWVyIHNlZ21lbnQiLAogICAgInR5cGUiOiAiZG9udXQiLAogICAgImxhYmVscyI6IFsiUmV0YWlsIiwgIkJ1c2luZXNzIiwgIk9ubGluZSJdLAogICAgInZhbHVlcyI6IFs4NzQyLCA2ODUxLCA2NDMwXQogIH0sCiAgewogICAgIm91dCI6ICJhc3NldHMvZXhhbXBsZXMvY2hhcnQtY2l0eS5wbmciLAogICAgInRpdGxlIjogIlNhbGVzIGJ5IGN1c3RvbWVyIGNpdHkiLAogICAgInR5cGUiOiAiYmFyIiwKICAgICJsYWJlbHMiOiBbIlJvbWUiLCAiTWlsYW4iLCAiTmFwbGVzIiwgIlR1cmluIl0sCiAgICAidmFsdWVzIjogWzk3ODcsIDY5NTksIDMxMzIsIDIxNDVdCiAgfSwKICB7CiAgICAib3V0IjogImFzc2V0cy9leGFtcGxlcy9jaGFydC1zdG9yZS5wbmciLAogICAgInRpdGxlIjogIlNhbGVzIGJ5IHN0b3JlIiwKICAgICJ0eXBlIjogImJhciIsCiAgICAibGFiZWxzIjogWyJNaWxhbiBDZW50cmFsIiwgIlJvbWUgRG93bnRvd24iLCAiTmFwbGVzIEJheSIsICJUdXJpbiBXZXN0Il0sCiAgICAidmFsdWVzIjogWzgwOTUsIDQ5MzksIDQ5MzksIDQwNTBdCiAgfSwKICB7CiAgICAib3V0IjogImFzc2V0cy9leGFtcGxlcy9jaGFydC15ZWFybHkucG5nIiwKICAgICJ0aXRsZSI6ICJUb3RhbCBzYWxlcyBwZXIgeWVhciIsCiAgICAidHlwZSI6ICJiYXIiLAogICAgImxhYmVscyI6IFsiMjAyNCIsICIyMDI1Il0sCiAgICAidmFsdWVzIjogWzExMDk1LCAxMDkyOF0KICB9LAogIHsKICAgICJvdXQiOiAiYXNzZXRzL2V4YW1wbGVzL2NoYXJ0LW1vbnRobHkucG5nIiwKICAgICJ0aXRsZSI6ICJUb3RhbCBzYWxlcyBwZXIgbW9udGgiLAogICAgInR5cGUiOiAibGluZSIsCiAgICAibGFiZWxzIjogWyJKYW4iLCAiRmViIiwgIk1hciIsICJBcHIiLCAiTWF5IiwgIkp1biIsICJKdWwiLCAiQXVnIiwgIlNlcCIsICJPY3QiLCAiTm92IiwgIkRlYyJdLAogICAgInZhbHVlcyI6IFszMjc2LCAxMDEyLCAzNjY3LCAyOTc5LCAyMDM3LCAyMjc0LCAxMzMxLCAxNjA4LCA1NjcsIDU1NCwgNTY3LCAyMTUxXQogIH0sCiAgewogICAgIm91dCI6ICJhc3NldHMvZXhhbXBsZXMvY2hhcnQtcHJpY2ViYW5kLnBuZyIsCiAgICAidGl0bGUiOiAiU2FsZXMgYnkgcHJpY2UgYmFuZCIsCiAgICAidHlwZSI6ICJiYXIiLAogICAgImxhYmVscyI6IFsiTWlkIiwgIkhpZ2giLCAiTG93Il0sCiAgICAidmFsdWVzIjogWzEwMjg0LCA5OTE1LCAxODI0XQogIH0sCiAgewogICAgIm91dCI6ICJhc3NldHMvZXhhbXBsZXMvY2hhcnQtc2hhcmUucG5nIiwKICAgICJ0aXRsZSI6ICJDYXRlZ29yeSBzaGFyZSBvZiB0b3RhbCBzYWxlcyIsCiAgICAidHlwZSI6ICJkb251dCIsCiAgICAibGFiZWxzIjogWyJGdXJuaXR1cmUiLCAiS2l0Y2hlbiIsICJTdGF0aW9uZXJ5Il0sCiAgICAidmFsdWVzIjogWzEyNjg0LCA5MTQ3LCAxOTJdCiAgfSwKICB7CiAgICAib3V0IjogImFzc2V0cy9leGFtcGxlcy9jaGFydC1rcGkucG5nIiwKICAgICJ0aXRsZSI6ICJIZWFkbGluZSBLUElzIiwKICAgICJ0eXBlIjogImJhciIsCiAgICAibGFiZWxzIjogWyJUb3RhbCBzYWxlcyIsICJBdmcgb3JkZXIgdmFsdWUiLCAiT3JkZXJzIl0sCiAgICAidmFsdWVzIjogWzIyMDIzLCAzNjcsIDYwXQogIH0KXQo=
+[
+  {
+    "out": "assets/examples/chart-category.png",
+    "title": "Total sales by category",
+    "type": "bar",
+    "labels": ["Furniture", "Kitchen", "Stationery"],
+    "values": [12684, 9147, 192]
+  },
+  {
+    "out": "assets/examples/chart-region.png",
+    "title": "Total sales by region",
+    "type": "bar",
+    "labels": ["North", "Center", "South"],
+    "values": [12145, 4939, 4939]
+  },
+  {
+    "out": "assets/examples/chart-products.png",
+    "title": "Top products by total sales",
+    "type": "bar",
+    "labels": ["Office Chair", "Espresso Machine", "Standing Desk", "Coffee Grinder", "Wireless Kettle", "Desk Lamp", "Ceramic Mug Set", "Notebook Pack"],
+    "values": [7560, 5727, 4188, 1780, 944, 936, 696, 192]
+  },
+  {
+    "out": "assets/examples/chart-customers.png",
+    "title": "Top customers by total spend",
+    "type": "bar",
+    "labels": ["Davito Costa", "Simone Leone", "Anna Ricci", "Luca Bianchi", "Andrea Marini", "Martina Rizzo", "Chiara Fontana", "Sara Greco", "Paolo Esposito", "Marco Rossi", "Giulia Conti", "Elena Gallo"],
+    "values": [4331, 3178, 2618, 2138, 1908, 1529, 1401, 1354, 1224, 924, 744, 674]
+  },
+  {
+    "out": "assets/examples/chart-segment.png",
+    "title": "Sales by customer segment",
+    "type": "donut",
+    "labels": ["Retail", "Business", "Online"],
+    "values": [8742, 6851, 6430]
+  },
+  {
+    "out": "assets/examples/chart-city.png",
+    "title": "Sales by customer city",
+    "type": "bar",
+    "labels": ["Rome", "Milan", "Naples", "Turin"],
+    "values": [9787, 6959, 3132, 2145]
+  },
+  {
+    "out": "assets/examples/chart-store.png",
+    "title": "Sales by store",
+    "type": "bar",
+    "labels": ["Milan Central", "Rome Downtown", "Naples Bay", "Turin West"],
+    "values": [8095, 4939, 4939, 4050]
+  },
+  {
+    "out": "assets/examples/chart-yearly.png",
+    "title": "Total sales per year",
+    "type": "bar",
+    "labels": ["2024", "2025"],
+    "values": [11095, 10928]
+  },
+  {
+    "out": "assets/examples/chart-monthly.png",
+    "title": "Total sales per month",
+    "type": "line",
+    "labels": ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"],
+    "values": [3276, 1012, 3667, 2979, 2037, 2274, 1331, 1608, 567, 554, 567, 2151]
+  },
+  {
+    "out": "assets/examples/chart-priceband.png",
+    "title": "Sales by price band",
+    "type": "bar",
+    "labels": ["Mid", "High", "Low"],
+    "values": [10284, 9915, 1824]
+  },
+  {
+    "out": "assets/examples/chart-share.png",
+    "title": "Category share of total sales",
+    "type": "donut",
+    "labels": ["Furniture", "Kitchen", "Stationery"],
+    "values": [12684, 9147, 192]
+  },
+  {
+    "out": "assets/examples/chart-kpi.png",
+    "title": "Headline KPIs",
+    "type": "bar",
+    "labels": ["Total sales", "Avg order value", "Orders"],
+    "values": [22023, 367, 60]
+  }
+]

@@ -1,1 +1,67 @@
-IyBBbmhhbmcgRCDigJQgUmVhbGUgRsOkbGxlIG5hY2ggQnJhbmNoZQoKV2llIHNpY2ggZGFzc2VsYmUgYWdlbnRpc2NoZSBNdXN0ZXIg4oCTIGZyYWcgaW4gbm9ybWFsZXIgU3ByYWNoZSwga3JpZWcgZWluZSBlY2h0ZQpNb2RlbGzDpG5kZXJ1bmcg4oCTIMO8YmVyIHZlcnNjaGllZGVuZSBHZXNjaMOkZnRzYXJ0ZW4gaGlud2VnIHplaWd0LiBKZWRlciBGYWxsIGlzdCBlaW5lCmtsZWluZSBHZXNjaGljaHRlIGVpbmVyIEZyYWdlIHVuZCB3aWUgZGVyIEFzc2lzdGVudCBzaWUgYmVhbnR3b3J0ZXQuCgojIyBFaW56ZWxoYW5kZWwKCioqRGllIEZyYWdlOioqIOKAnldlbGNoZSBQcm9kdWt0ZSBmcmVzc2VuIHVuc2VyZSBNYXJnZT8iCioqRGVyIEF1ZnRyYWc6KiogZWluIE1hcmdlLU1hw58gZXJzdGVsbGVuIHVuZCBQcm9kdWt0ZSBkYW5hY2ggcmFuZ2llcmVuLgoqKkRhcyBFcmdlYm5pczoqKiBlaW5lIFJhbmdsaXN0ZSwgZGllIHplaWd0LCBkYXNzIGVpbiBwYWFyIGhvY2ggcmFiYXR0aWVydGUgU0tVcwpzaWNoIGd1dCB2ZXJrYXVmZW4sIGFiZXIgR2VsZCB2ZXJsaWVyZW4uIERlciBFaW5rw6R1ZmVyIGvDvHJ6dCBkZW4gUmFiYXR0IGJlaW0Kc2NobGVjaHRlc3Rlbi4gRGllIE1hcmdlIGVyaG9sdCBzaWNoIGlubmVyaGFsYiBlaW5lcyBRdWFydGFscy4KCioqRGllIEZyYWdlOioqIOKAnldlbGNoZSBGaWxpYWxlbiBoaW5rZW4gaGludGVyaGVyPyIKKipEZXIgQXVmdHJhZzoqKiBHZXNhbXR1bXNhdHogbmFjaCBGaWxpYWxlLCBkYW5uIG5hY2ggUmVnaW9uLgoqKkRhcyBFcmdlYm5pczoqKiB6d2VpIEZpbGlhbGVuIGhpbmtlbiBoaW50ZXJoZXIuIEVpbiBCZXN1Y2ggZmluZGV0IGVpbgpBdXNsYWdlci1Qcm9ibGVtLCBrZWluIE5hY2hmcmFnZS1Qcm9ibGVtLgoKIyMgRS1Db21tZXJjZQoKKipEaWUgRnJhZ2U6Kiog4oCeV2VyIHNpbmQgdW5zZXJlIEt1bmRlbiBtaXQgaG9oZW0gV2VydD8iCioqRGVyIEF1ZnRyYWc6KiogZWluIEhpZ2gtVmFsdWUtRmxhZy1NYcOfIMO8YmVyIGVpbmVyIEF1c2dhYmVuc2Nod2VsbGUuCioqRGFzIEVyZ2VibmlzOioqIGVpbiBTZWdtZW50IHZvbiA4ICUgZGVyIEt1bmRlbiwgZGFzIDQwICUgZGVzIFVtc2F0emVzIHRyZWlidC4KRWluZSBnZXppZWx0ZSBFLU1haWwtS2FtcGFnbmUgaGVidCBXaWVkZXJrw6R1ZmUuCgoqKkRpZSBGcmFnZToqKiDigJ5XZWxjaGUgS2F0ZWdvcmllIHfDpGNoc3QgYW0gc2NobmVsbHN0ZW4/IgoqKkRlciBBdWZ0cmFnOioqIFVtc2F0eiBuYWNoIEthdGVnb3JpZSBwcm8gTW9uYXQuCioqRGFzIEVyZ2VibmlzOioqIGVpbmUgS2F0ZWdvcmllIHN0ZWlndCwgd8OkaHJlbmQgYW5kZXJlIHN0YWduaWVyZW4uIE1hcmtldGluZwp2ZXJsYWdlcnQgQnVkZ2V0LCB1bSBhdWYgZGVuIFRyZW5kIGF1Znp1c2l0emVuLgoKIyMgUHJvZHVrdGlvbgoKKipEaWUgRnJhZ2U6Kiog4oCeV2VsY2hlIExpbmllIGhhdCBkaWUgbWVpc3RlbiBEZWZla3RlPyIKKipEZXIgQXVmdHJhZzoqKiBEZWZla3RhbnphaGwgbmFjaCBQcm9kdWt0aW9uc2xpbmllLCByYW5naWVydC4KKipEYXMgRXJnZWJuaXM6KiogZWluZSBMaW5pZSBzdGljaHQgaGVyYXVzLiBEaWUgV2FydHVuZyBmaW5kZXQgZWluIHZlcnNjaGxpc3NlbmVzClRlaWwsIGJldm9yIGVzIGF1c2bDpGxsdC4KCioqRGllIEZyYWdlOioqIOKAnkVycmVpY2hlbiB3aXIgdW5zZXIgQXVzc3Rvw596aWVsPyIKKipEZXIgQXVmdHJhZzoqKiBJc3QtV2VydCB2cy4gWmllbCBhbHMgUHJvemVudC1NYcOfLgoqKkRhcyBFcmdlYm5pczoqKiBlaW5lIEtQSS1LYXJ0ZSwgZGllIHJvdCB3aXJkLCB3ZW5uIGRlciBBdXNzdG/DnyBuYWNobMOkc3N0LgoKIyMgRmluYW56ZW4KCioqRGllIEZyYWdlOioqIOKAnldvIGtvbnplbnRyaWVyZW4gc2ljaCBkaWUgQXVzZ2FiZW4/IgoqKkRlciBBdWZ0cmFnOioqIEF1c2dhYmVuIG5hY2ggQWJ0ZWlsdW5nLCBBbnRlaWwgYW0gR2FuemVuLgoqKkRhcyBFcmdlYm5pczoqKiBlaW5lIEFidGVpbHVuZyBpc3QgMzUgJSBkZXIgQXVzZ2FiZW4uIEVpbmUgQnVkZ2V0cHLDvGZ1bmcgZm9sZ3QuCgoqKkRpZSBGcmFnZToqKiDigJ5XZWxjaGUgS29udGVuIHNpbmQgw7xiZXJmw6RsbGlnPyIKKipEZXIgQXVmdHJhZzoqKiBlaW4gRmxhZyBmw7xyIMO8YmVyZsOkbGxpZ2UgUmVjaG51bmdlbi4KKipEYXMgRXJnZWJuaXM6KiogZWluZSBNYWhubGlzdGUsIGRpZSBDYXNoIHNjaG5lbGxlciBmcmVpc2V0enQuCgojIyBHZXN1bmRoZWl0c3dlc2VuCgoqKkRpZSBGcmFnZToqKiDigJ5XZWxjaGUgUGF0aWVudGVuIHNpbmQgZ2Vmw6RocmRldCwgd2llZGVyYXVmZ2Vub21tZW4genUgd2VyZGVuPyIKKipEZXIgQXVmdHJhZzoqKiBlaW4gUmlzaWtvLUZsYWcgYmFzaWVyZW5kIGF1ZiBmcsO8aGVyZW4gQmVzdWNoZW4uCioqRGFzIEVyZ2VibmlzOioqIGVpbmUgTmFjaHZlcmZvbGd1bmdzbGlzdGUgZsO8ciBkYXMgUGZsZWdldGVhbS4KCioqRGllIEZyYWdlOioqIOKAnldpZSBlbnR3aWNrZWx0IHNpY2ggZGllIEJldHRlbmJlbGVndW5nPyIKKipEZXIgQXVmdHJhZzoqKiBCZWxlZ3VuZyBwcm8gV29jaGUuCioqRGFzIEVyZ2VibmlzOioqIGVpbiBMaW5pZW5kaWFncmFtbSwgZGFzIHZvciBlaW5lbSBiZXZvcnN0ZWhlbmRlbiBBbnN0aWVnIHdhcm50LgoKIyMgRGVyIGdlbWVpbnNhbWUgRmFkZW4KCkplZGUgQnJhbmNoZSBzdGVsbHQgZGllc2VsYmUgRm9ybSB2b24gRnJhZ2U6ICp2ZXJnbGVpY2hlbiwgcmFuZ2llcmVuLCBmbGFnZ2VuLAp0cmVuZGVuLiogRGVyIEFzc2lzdGVudCBiZWFudHdvcnRldCBkaWVzZSBGb3JtIHNvZm9ydCwgZWdhbCB3aWUgZGllIERhdGVuIHNpbmQuIERpZQpEb23DpG5lIHdlY2hzZWx0OyBkYXMgTXVzdGVyIG5pY2h0LiBEZXNoYWxiIHJlaXN0IGVpbiBXZXJremV1ZyBzbyB3ZWl0Lgo=
+# Anhang D — Reale Fälle nach Branche
+
+Wie sich dasselbe agentische Muster – frag in normaler Sprache, krieg eine echte
+Modelländerung – über verschiedene Geschäftsarten hinweg zeigt. Jeder Fall ist eine
+kleine Geschichte einer Frage und wie der Assistent sie beantwortet.
+
+## Einzelhandel
+
+**Die Frage:** „Welche Produkte fressen unsere Marge?"
+**Der Auftrag:** ein Marge-Maß erstellen und Produkte danach rangieren.
+**Das Ergebnis:** eine Rangliste, die zeigt, dass ein paar hoch rabattierte SKUs
+sich gut verkaufen, aber Geld verlieren. Der Einkäufer kürzt den Rabatt beim
+schlechtesten. Die Marge erholt sich innerhalb eines Quartals.
+
+**Die Frage:** „Welche Filialen hinken hinterher?"
+**Der Auftrag:** Gesamtumsatz nach Filiale, dann nach Region.
+**Das Ergebnis:** zwei Filialen hinken hinterher. Ein Besuch findet ein
+Auslager-Problem, kein Nachfrage-Problem.
+
+## E-Commerce
+
+**Die Frage:** „Wer sind unsere Kunden mit hohem Wert?"
+**Der Auftrag:** ein High-Value-Flag-Maß über einer Ausgabenschwelle.
+**Das Ergebnis:** ein Segment von 8 % der Kunden, das 40 % des Umsatzes treibt.
+Eine gezielte E-Mail-Kampagne hebt Wiederkäufe.
+
+**Die Frage:** „Welche Kategorie wächst am schnellsten?"
+**Der Auftrag:** Umsatz nach Kategorie pro Monat.
+**Das Ergebnis:** eine Kategorie steigt, während andere stagnieren. Marketing
+verlagert Budget, um auf den Trend aufzusitzen.
+
+## Produktion
+
+**Die Frage:** „Welche Linie hat die meisten Defekte?"
+**Der Auftrag:** Defektanzahl nach Produktionslinie, rangiert.
+**Das Ergebnis:** eine Linie sticht heraus. Die Wartung findet ein verschlissenes
+Teil, bevor es ausfällt.
+
+**Die Frage:** „Erreichen wir unser Ausstoßziel?"
+**Der Auftrag:** Ist-Wert vs. Ziel als Prozent-Maß.
+**Das Ergebnis:** eine KPI-Karte, die rot wird, wenn der Ausstoß nachlässt.
+
+## Finanzen
+
+**Die Frage:** „Wo konzentrieren sich die Ausgaben?"
+**Der Auftrag:** Ausgaben nach Abteilung, Anteil am Ganzen.
+**Das Ergebnis:** eine Abteilung ist 35 % der Ausgaben. Eine Budgetprüfung folgt.
+
+**Die Frage:** „Welche Konten sind überfällig?"
+**Der Auftrag:** ein Flag für überfällige Rechnungen.
+**Das Ergebnis:** eine Mahnliste, die Cash schneller freisetzt.
+
+## Gesundheitswesen
+
+**Die Frage:** „Welche Patienten sind gefährdet, wiederaufgenommen zu werden?"
+**Der Auftrag:** ein Risiko-Flag basierend auf früheren Besuchen.
+**Das Ergebnis:** eine Nachverfolgungsliste für das Pflegeteam.
+
+**Die Frage:** „Wie entwickelt sich die Bettenbelegung?"
+**Der Auftrag:** Belegung pro Woche.
+**Das Ergebnis:** ein Liniendiagramm, das vor einem bevorstehenden Anstieg warnt.
+
+## Der gemeinsame Faden
+
+Jede Branche stellt dieselbe Form von Frage: *vergleichen, rangieren, flaggen,
+trenden.* Der Assistent beantwortet diese Form sofort, egal wie die Daten sind. Die
+Domäne wechselt; das Muster nicht. Deshalb reist ein Werkzeug so weit.

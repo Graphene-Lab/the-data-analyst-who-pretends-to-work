@@ -1,1 +1,111 @@
-IyAxLiBDZSBxdWUgZmFpdCB2cmFpbWVudCB1biBhbmFseXN0ZSBkZSBkb25uw6llcwoKRGVtYW5kZXogw6AgZGl4IHBlcnNvbm5lcyBjZSBxdWUgZmFpdCB1biBhbmFseXN0ZSBkZSBkb25uw6llcyBldCB2b3VzIG9idGllbmRyZXogZGl4CnLDqXBvbnNlcyBkaWZmw6lyZW50ZXMuIENlcnRhaW5zIHMnaW1hZ2luZW50IHVuZSBwZXJzb25uZSBkYW5zIHVuZSBwacOoY2Ugc29tYnJlIHRhcGFudApkdSBjb2RlIHZlcnQuIEQnYXV0cmVzIHMnaW1hZ2luZW50IHF1ZWxxdSd1biBxdWkgZmFpdCBkZSBqb2xpcyBncmFwaGlxdWVzIGVuCnNlY3RldXJzLiBMZXMgZGV1eCBzZSB0cm9tcGVudCwgZXQgYXVjdW4gbmUgc2UgdHJvbXBlLiDDiWNsYWlyY2lzc29ucyDDp2EuCgpVbiBhbmFseXN0ZSBkZSBkb25uw6llcyBlc3QgdW5lIHBlcnNvbm5lIHF1aSByw6lwb25kIMOgIGRlcyBxdWVzdGlvbnMgYXZlYyBkZXMKY2hpZmZyZXMuIEMnZXN0IHRvdXQgbGUgbcOpdGllci4gTGVzIHF1ZXN0aW9ucyB2aWVubmVudCBkZSBsYSB2cmFpZSB2aWUgOiAqUG91cnF1b2kKbGVzIHZlbnRlcyBvbnQtZWxsZXMgYmFpc3PDqSBsZSBtb2lzIGRlcm5pZXIgPyBRdWVsIHByb2R1aXQgZGV2cmFpdC1vbiBwb3Vzc2VyID8KUXVlbHMgY2xpZW50cyBzb250IHN1ciBsZSBwb2ludCBkZSBwYXJ0aXIgPyogTGVzIHLDqXBvbnNlcyB2aWVubmVudCBkZXMgZG9ubsOpZXMgOgpsZXMgdHJhY2VzIHF1J3VuZSBlbnRyZXByaXNlIGxhaXNzZSBkZXJyacOocmUgZWxsZSBjaGFxdWUgam91ciDigJQgdmVudGVzLCBjbGljcywKZmFjdHVyZXMsIHRpY2tldHMgZCdhc3Npc3RhbmNlLCBkw6lsYWlzIGRlIGxpdnJhaXNvbi4KCkxhIGNvbXDDqXRlbmNlIGRlIGwnYW5hbHlzdGUgbidlc3QgcGFzIGxlcyBtYXRocy4gQydlc3QgbGEgKip0cmFkdWN0aW9uKiouIElsCnRyYW5zZm9ybWUgdW5lIHF1ZXN0aW9uIGh1bWFpbmUgZmxvdWUgZW4gdW5lIHF1ZXN0aW9uIHByw6ljaXNlIHN1ciBsZXMgZG9ubsOpZXMsIHRyb3V2ZQpsYSByw6lwb25zZSwgZXQgbGEgcmV0cmFuc2Zvcm1lIGVuIHVuZSBwaHJhc2UgcXUndW4gbWFuYWdlciBvY2N1cMOpIHBldXQgZXhwbG9pdGVyLgoKIyMgTGUgbcOpdGllciBlbiB1bmUgbGlnbmUKCj4gVW4gYW5hbHlzdGUgZGUgZG9ubsOpZXMgdHJhbnNmb3JtZSB1bmUgcXVlc3Rpb24gZMOpc29yZG9ubsOpZSBkdSBtb25kZSByw6llbCBlbiB1bmUKPiByw6lwb25zZSBjbGFpcmUgZXQgaG9ubsOqdGUsIGFwcHV5w6llIHBhciBkZXMgY2hpZmZyZXMuCgpUb3V0IGxlIHJlc3RlIOKAlCBsZXMgb3V0aWxzLCBsZXMgZ3JhcGhpcXVlcywgbGUgY29kZSDigJQgbidlc3QgcXVlIGxhIGZhw6dvbiBkJ3kgYXJyaXZlci4KCiMjIFVuZSBqb3VybsOpZSB0eXBlCgpJbWFnaW5leiB1biBtYXJkaS4gw4AgOWgwMCwgbGUgcmVzcG9uc2FibGUgZGVzIHZlbnRlcyBkw6lwb3NlIHVuZSBxdWVzdGlvbiBkYW5zIGxhCmJvw650ZSBkZSByw6ljZXB0aW9uIGRlIGwnYW5hbHlzdGUgOiAqwqsgUG91cnF1b2kgbm90cmUgbWFnYXNpbiBkZSBNaWxhbiBlc3QtaWwgZW4KYmFpc3NlIGRlIDEyICUgY2UgbW9pcy1jaSA/IMK7KgoKQ2V0dGUgc2V1bGUgcGhyYXNlIGVzdCBlbiBmYWl0IGNpbnEgcXVlc3Rpb25zIDoKCi0gTGVzIDEyICUgc29udC1pbHMgcsOpZWxzLCBvdSB1biBhY2NpZGVudCBkZSBsYSBmYcOnb24gZG9udCBsZXMgY2hpZmZyZXMgb250IMOpdMOpIGNvbXB0w6lzID8KLSBFc3QtY2Ugc2V1bGVtZW50IE1pbGFuLCBvdSBkJ2F1dHJlcyBtYWdhc2lucyBzb250LWlscyBlbiBiYWlzc2UgYXVzc2kgPwotIFF1J2VzdC1jZSBxdWkgYSBjaGFuZ8OpIGNlIG1vaXMtY2kg4oCUIHByaXgsIHN0b2NrLCBtw6l0w6lvLCB1biBjb25jdXJyZW50IHF1aSBvdXZyZSDDoCBjw7R0w6kgPwotIExhIGJhaXNzZSB2aWVudC1lbGxlIGR1IG5vbWJyZSBkZSBjbGllbnRzLCBvdSBkZSBjZSBxdWUgY2hhcXVlIGNsaWVudCBkw6lwZW5zZSA/Ci0gUXVlIHBvdXJyYWl0LW9uIHZyYWltZW50IHkgZmFpcmUgPwoKTCdhbmFseXN0ZSBmb3VpbGxlIGxlcyByZWdpc3RyZXMgZGUgdmVudGVzLCBsZXMgZG9ubsOpZXMgY2xpZW50cyBldCB0b3V0IGNlIHF1aQpwb3VycmFpdCBsJ2V4cGxpcXVlci4gVmVycyBsJ2FwcsOocy1taWRpLCBpbCBhIHVuZSByw6lwb25zZSA6ICpsZSBwYXNzYWdlIGRlIGNsaWVudHMgYQpjaHV0w6kgcGFyY2UgcXUndW5lIHJvdXRlIGEgw6l0w6kgZmVybcOpZSBwb3VyIHRyYXZhdXggcGVuZGFudCBkZXV4IHNlbWFpbmVzIDsgbGVzCmNsaWVudHMgcXVpIHNvbnQgdmVudXMgb250IGTDqXBlbnPDqSBjb21tZSB0b3Vqb3Vycy4qIFBhcyB1biBteXN0w6hyZS4gVW5lIHJvdXRlLgoKVm9pbMOgIGxlIG3DqXRpZXIuIERlIGxhIGN1cmlvc2l0w6ksIHVuIHBldSBkZSBtw6l0aG9kZSwgZXQgbGVzIGRvbm7DqWVzLgoKIyMgTGVzIHF1YXRyZSBjb3VzaW5zIChldCBlbiBxdW9pIGlscyBkaWZmw6hyZW50KQoKTGVzIGdlbnMgY29uZm9uZGVudCBxdWF0cmUgbcOpdGllcnMgdm9pc2lucy4gVm9pY2kgbGEgdmVyc2lvbiBzaW1wbGUuCgp8IFLDtGxlIHwgQ2UgcXUnaWxzIGZvbnQgc3VydG91dCB8IExhIHF1ZXN0aW9uIMOgIGxhcXVlbGxlIGlscyByw6lwb25kZW50IHwKfC0tLXwtLS18LS0tfAp8ICoqQW5hbHlzdGUgZGUgZG9ubsOpZXMqKiB8IFJlZ2FyZGUgY2UgcXVpIHMnZXN0IGTDqWrDoCBwYXNzw6ksIGwnZXhwbGlxdWUgfCDCqyBRdWUgcydlc3QtaWwgcGFzc8OpIGV0IHBvdXJxdW9pID8gwrsgfAp8ICoqRGF0YSBzY2llbnRpc3QqKiB8IENvbnN0cnVpdCBkZXMgbW9kw6hsZXMgcG91ciBwcsOpZGlyZSBvdSBkZXZpbmVyIHwgwqsgUXVlIHZhLXQtaWwgc2UgcGFzc2VyIGVuc3VpdGUgPyDCuyB8CnwgKipEYXRhIGVuZ2luZWVyKiogfCBDb25zdHJ1aXQgbGVzIHR1eWF1eCBxdWkgZMOpcGxhY2VudCBldCBzdG9ja2VudCBsZXMgZG9ubsOpZXMgfCDCqyBDb21tZW50IG9idGVuaXIgZGVzIGRvbm7DqWVzIHByb3ByZXMgaWNpID8gwrsgfAp8ICoqQW5hbHlzdGUgQkkqKiB8IENvbnN0cnVpdCBkZXMgdGFibGVhdXggZGUgYm9yZCBldCBkZXMgcmFwcG9ydHMgcXUnb24gY29uc3VsdGUgfCDCqyBDb21tZW50IGxlIHZvaXIgY2hhcXVlIGpvdXIgPyDCuyB8CgpJbCB5IGEgYmVhdWNvdXAgZGUgY2hldmF1Y2hlbWVudC4gRGFucyB1bmUgcGV0aXRlIGVudHJlcHJpc2UsIHVuZSBzZXVsZSBwZXJzb25uZSBmYWl0CmxlcyBxdWF0cmUuIE1haXMgbGUgdGVycmFpbiBkZSBsJ2FuYWx5c3RlIGRlIGRvbm7DqWVzLCBjJ2VzdCBsYSBwcmVtacOocmUgY29sb25uZSA6CmNvbXByZW5kcmUgbGUgcHLDqXNlbnQgZXQgbGUgcGFzc8OpIHLDqWNlbnQuCgojIyBPw7kgdHJhdmFpbGxlIGwnYW5hbHlzdGUKClBhcnRvdXQuIFF1ZWxxdWVzIGZvcm1lcyByw6llbGxlcyBkdSBtw6l0aWVyIDoKCi0gKipDb21tZXJjZSBkZSBkw6l0YWlsKiog4oCUIHBvdXJxdW9pIGxlcyB2ZW50ZXMgZCd1biBtYWdhc2luIG9udCBjaHV0w6kgOyBxdWVscyBwcm9kdWl0cyBzZSB2ZW5kZW50IGVuc2VtYmxlLgotICoqQmFucXVlKiog4oCUIHN1cnZlaWxsZXIgbGVzIHRyYW5zYWN0aW9ucyBwb3VyIHJlcMOpcmVyIGRlcyBtb3RpZnMgcXVpIHJlc3NlbWJsZW50IMOgIGRlIGxhIGZyYXVkZS4KLSAqKkUtY29tbWVyY2UqKiDigJQgb8O5IGxlcyBhY2hldGV1cnMgYWJhbmRvbm5lbnQgbGV1ciBwYW5pZXIsIGV0IHBvdXJxdW9pLgotICoqSW5kdXN0cmllKiog4oCUIHF1ZWxsZSDDqXF1aXBlIG91IHF1ZWxsZSBsaWduZSBwcm9kdWl0IHBsdXMgZGUgcGnDqGNlcyBkw6lmZWN0dWV1c2VzLgotICoqTG9naWNpZWwgKFNhYVMpKiog4oCUIGNvbWJpZW4gZCdhYm9ubsOpcyByZXN0ZW50LCBldCBjZSBxdWkgbGVzIGZhaXQgcGFydGlyLgoKRGVzIGLDonRpbWVudHMgZGlmZsOpcmVudHMsIGxlIG3Dqm1lIG3DqXRpZXIgOiBwb3NlciB1bmUgcXVlc3Rpb24sIHRyb3V2ZXIgbGVzIGNoaWZmcmVzLApkaXJlIGxhIHbDqXJpdMOpLgoKIyMgVW5lIGN1cmlvc2l0w6kgOiBsZSBwbHVzIGFuY2llbiBkZXMgYW5hbHlzdGVzCgpMJ2FuYWx5c2UgZGUgZG9ubsOpZXMgZXN0IHBsdXMgYW5jaWVubmUgcXVlIGxlcyBvcmRpbmF0ZXVycyBkZSBwbHVzaWV1cnMgbWlsbGllcnMKZCdhbm7DqWVzLiBMZXMgYW5jaWVucyDDiWd5cHRpZW5zIGVudm95YWllbnQgZGVzIHNjcmliZXMgY29tcHRlciBsYSByw6ljb2x0ZSBldCBsZQpiw6l0YWlsIHBvdXIgcG91dm9pciBwbGFuaWZpZXIgbGVzIGltcMO0dHMgZXQgbGVzIHLDqXNlcnZlcyBkZSBncmFpbiBhdmFudCB1bmUgZmFtaW5lLgpDZXMgc2NyaWJlcyDDqXRhaWVudCBkZXMgYW5hbHlzdGVzIGRlIGRvbm7DqWVzLiBMZSB0YWJsZXVyIGVzdCBub3V2ZWF1IDsgbGUgbcOpdGllciBlc3QKYW5jaWVuLgoKLS0tCgojIyBFc3NheWV6IDogdm9pciB1biBtb2TDqGxlIGVuIHVuZSBwaHJhc2UKCkFzc2V6IGRlIHRow6lvcmllLiBWb2ljaSB2b3RyZSBwcmVtacOocmUgbWlzZSBlbiBib3VjaGUgZGUgbCdvdXRpbCBzdXIgbGVxdWVsIGNlIGxpdnJlCmVzdCBjb25zdHJ1aXQuIERhbnMgQWdlbnRCcmlkZ2UsIGF2ZWMgUG93ZXJCSVRvb2wsIHVuZSBwZXJzb25uZSBhIHRhcMOpIHVuZSBwaHJhc2UgYXUKc3VqZXQgZCd1biByYXBwb3J0IFBvd2VyIEJJIGTDqWrDoCBvdXZlcnQgw6Agc29uIMOpY3JhbiA6Cgo+IMKrIENvbm5lY3RlLXRvaSDDoCBQb3dlciBCSSBEZXNrdG9wIGV0IGxpc3RlIGxlcyB0YWJsZXMgZGUgbW9uIG1vZMOobGUuIMK7CgpWb2ljaSBjZSBxdWkgZXN0IHJldmVudSA6CgohW0Nvbm5lY3RlciBldCBsaXN0ZXIgbGVzIHRhYmxlc10oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2Nvbm5lY3QtbGlzdC10YWJsZXMucG5nKQoKRW4gdW5lIGxpZ25lLCBsJ2Fzc2lzdGFudCBhIGx1IGxlIG1vZMOobGUgZW4gZGlyZWN0IGV0IGEgcmFwcG9ydMOpIGNoYXF1ZSB0YWJsZSwKY29tYmllbiBkZSBsaWduZXMgZWxsZSBjb250aWVudCBldCBjb21iaWVuIGRlIG1lc3VyZXMgZWxsZSBhLiBBdWN1biBtZW51IGNsaXF1w6ksIGF1Y3VuCmNvZGUgw6ljcml0LiBDJ2VzdCBsYSBmb3JtZSBkZSB0b3V0IGNlIGxpdnJlIDogdW5lIHBocmFzZSBvcmRpbmFpcmUgZW50cmUsIHVuIHZyYWkKcsOpc3VsdGF0IGRlaG9ycy4KCi0tLQoKIyMgQ2UgcXVlIHZvdXMgZ2FyZGVyZXogZGUgY2UgY2hhcGl0cmUKCi0gVW4gYW5hbHlzdGUgZGUgZG9ubsOpZXMgcsOpcG9uZCDDoCBkZSB2cmFpZXMgcXVlc3Rpb25zIGF2ZWMgZGVzIGNoaWZmcmVzLgotIExhIGNvbXDDqXRlbmNlIGNlbnRyYWxlIGVzdCBsYSB0cmFkdWN0aW9uLCBwYXMgbGVzIG1hdGhzLgotIExlIG3DqXRpZXIgZXN0IGFuY2llbiA7IGxlcyBvdXRpbHMgc29udCBub3V2ZWF1eCDigJQgZXQgZGV2aWVubmVudCBwbHVzIHJhcGlkZXMuCgpBdSBjaGFwaXRyZSBzdWl2YW50LCBub3VzIHJlbW9udG9ucyBsZSB0ZW1wcyBwb3VyIHZvaXIgY29tbWVudCBjb21wdGVyIGVzdCBkZXZlbnUgdW5lCmNhcnJpw6hyZS4K
+# 1. Ce que fait vraiment un analyste de données
+
+Demandez à dix personnes ce que fait un analyste de données et vous obtiendrez dix
+réponses différentes. Certains s'imaginent une personne dans une pièce sombre tapant
+du code vert. D'autres s'imaginent quelqu'un qui fait de jolis graphiques en
+secteurs. Les deux se trompent, et aucun ne se trompe. Éclaircissons ça.
+
+Un analyste de données est une personne qui répond à des questions avec des
+chiffres. C'est tout le métier. Les questions viennent de la vraie vie : *Pourquoi
+les ventes ont-elles baissé le mois dernier ? Quel produit devrait-on pousser ?
+Quels clients sont sur le point de partir ?* Les réponses viennent des données :
+les traces qu'une entreprise laisse derrière elle chaque jour — ventes, clics,
+factures, tickets d'assistance, délais de livraison.
+
+La compétence de l'analyste n'est pas les maths. C'est la **traduction**. Il
+transforme une question humaine floue en une question précise sur les données, trouve
+la réponse, et la retransforme en une phrase qu'un manager occupé peut exploiter.
+
+## Le métier en une ligne
+
+> Un analyste de données transforme une question désordonnée du monde réel en une
+> réponse claire et honnête, appuyée par des chiffres.
+
+Tout le reste — les outils, les graphiques, le code — n'est que la façon d'y arriver.
+
+## Une journée type
+
+Imaginez un mardi. À 9h00, le responsable des ventes dépose une question dans la
+boîte de réception de l'analyste : *« Pourquoi notre magasin de Milan est-il en
+baisse de 12 % ce mois-ci ? »*
+
+Cette seule phrase est en fait cinq questions :
+
+- Les 12 % sont-ils réels, ou un accident de la façon dont les chiffres ont été comptés ?
+- Est-ce seulement Milan, ou d'autres magasins sont-ils en baisse aussi ?
+- Qu'est-ce qui a changé ce mois-ci — prix, stock, météo, un concurrent qui ouvre à côté ?
+- La baisse vient-elle du nombre de clients, ou de ce que chaque client dépense ?
+- Que pourrait-on vraiment y faire ?
+
+L'analyste fouille les registres de ventes, les données clients et tout ce qui
+pourrait l'expliquer. Vers l'après-midi, il a une réponse : *le passage de clients a
+chuté parce qu'une route a été fermée pour travaux pendant deux semaines ; les
+clients qui sont venus ont dépensé comme toujours.* Pas un mystère. Une route.
+
+Voilà le métier. De la curiosité, un peu de méthode, et les données.
+
+## Les quatre cousins (et en quoi ils diffèrent)
+
+Les gens confondent quatre métiers voisins. Voici la version simple.
+
+| Rôle | Ce qu'ils font surtout | La question à laquelle ils répondent |
+|---|---|---|
+| **Analyste de données** | Regarde ce qui s'est déjà passé, l'explique | « Que s'est-il passé et pourquoi ? » |
+| **Data scientist** | Construit des modèles pour prédire ou deviner | « Que va-t-il se passer ensuite ? » |
+| **Data engineer** | Construit les tuyaux qui déplacent et stockent les données | « Comment obtenir des données propres ici ? » |
+| **Analyste BI** | Construit des tableaux de bord et des rapports qu'on consulte | « Comment le voir chaque jour ? » |
+
+Il y a beaucoup de chevauchement. Dans une petite entreprise, une seule personne fait
+les quatre. Mais le terrain de l'analyste de données, c'est la première colonne :
+comprendre le présent et le passé récent.
+
+## Où travaille l'analyste
+
+Partout. Quelques formes réelles du métier :
+
+- **Commerce de détail** — pourquoi les ventes d'un magasin ont chuté ; quels produits se vendent ensemble.
+- **Banque** — surveiller les transactions pour repérer des motifs qui ressemblent à de la fraude.
+- **E-commerce** — où les acheteurs abandonnent leur panier, et pourquoi.
+- **Industrie** — quelle équipe ou quelle ligne produit plus de pièces défectueuses.
+- **Logiciel (SaaS)** — combien d'abonnés restent, et ce qui les fait partir.
+
+Des bâtiments différents, le même métier : poser une question, trouver les chiffres,
+dire la vérité.
+
+## Une curiosité : le plus ancien des analystes
+
+L'analyse de données est plus ancienne que les ordinateurs de plusieurs milliers
+d'années. Les anciens Égyptiens envoyaient des scribes compter la récolte et le
+bétail pour pouvoir planifier les impôts et les réserves de grain avant une famine.
+Ces scribes étaient des analystes de données. Le tableur est nouveau ; le métier est
+ancien.
+
+---
+
+## Essayez : voir un modèle en une phrase
+
+Assez de théorie. Voici votre première mise en bouche de l'outil sur lequel ce livre
+est construit. Dans AgentBridge, avec PowerBITool, une personne a tapé une phrase au
+sujet d'un rapport Power BI déjà ouvert à son écran :
+
+> « Connecte-toi à Power BI Desktop et liste les tables de mon modèle. »
+
+Voici ce qui est revenu :
+
+![Connecter et lister les tables](../../assets/examples/connect-list-tables.png)
+
+En une ligne, l'assistant a lu le modèle en direct et a rapporté chaque table,
+combien de lignes elle contient et combien de mesures elle a. Aucun menu cliqué, aucun
+code écrit. C'est la forme de tout ce livre : une phrase ordinaire entre, un vrai
+résultat dehors.
+
+---
+
+## Ce que vous garderez de ce chapitre
+
+- Un analyste de données répond à de vraies questions avec des chiffres.
+- La compétence centrale est la traduction, pas les maths.
+- Le métier est ancien ; les outils sont nouveaux — et deviennent plus rapides.
+
+Au chapitre suivant, nous remontons le temps pour voir comment compter est devenu une
+carrière.

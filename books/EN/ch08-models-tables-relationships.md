@@ -1,1 +1,110 @@
-IyA4LiBNb2RlbHMsIFRhYmxlcywgYW5kIFJlbGF0aW9uc2hpcHMKCkEgcGlsZSBvZiB0YWJsZXMgaXMgbm90IGEgbW9kZWwuIEEgKiptb2RlbCoqIGlzIHdoYXQgeW91IGdldCB3aGVuIHlvdSB0ZWxsIHRoZQpjb21wdXRlciBob3cgdGhlIHRhYmxlcyAqcmVsYXRlKiB0byBlYWNoIG90aGVyLiBUaG9zZSBjb25uZWN0aW9ucyDigJQgdGhlIHdpcmluZyDigJQKYXJlIHdoYXQgbGV0IHlvdSBhc2sgYSBxdWVzdGlvbiBpbiBvbmUgcGxhY2UgYW5kIGdldCBhbiBhbnN3ZXIgdGhhdCBzcGFucyBtYW55CnRhYmxlcy4gVGhpcyBjaGFwdGVyIGlzIGFib3V0IHRoYXQgd2lyaW5nLgoKIyMgVGFibGVzLCByb3dzLCBhbmQga2V5cwoKRXZlcnkgdGFibGUgaGFzICoqcm93cyoqIChvbmUgcmVjb3JkIGVhY2gpIGFuZCAqKmNvbHVtbnMqKiAob25lIGF0dHJpYnV0ZSBlYWNoKS4gVGhlCm1hZ2ljIGlzIGluIHRoZSAqKmtleSoqIOKAlCBhIGNvbHVtbiB0aGF0IHVuaXF1ZWx5IGlkZW50aWZpZXMgZWFjaCByb3cuIEEgY3VzdG9tZXIgSUQsCmEgcHJvZHVjdCBjb2RlLCBhbiBvcmRlciBudW1iZXIuIEtleXMgYXJlIGhvdyB0YWJsZXMgcmVjb2duaXNlIGVhY2ggb3RoZXIuCgotIEEgKipwcmltYXJ5IGtleSoqIGlzIHRoZSB1bmlxdWUgSUQgaW4gYSB0YWJsZSAob25lIHJvdyBwZXIgY3VzdG9tZXIpLgotIEEgKipmb3JlaWduIGtleSoqIGlzIGEgY29sdW1uIGluIGFub3RoZXIgdGFibGUgdGhhdCBwb2ludHMgdG8gdGhhdCBJRCAoZWFjaCBzYWxlCiAgc3RvcmVzIHRoZSBjdXN0b21lcidzIElEKS4KCiMjIFRoZSByZWxhdGlvbnNoaXA6IGhvdyB0d28gdGFibGVzIHRhbGsKCkEgKipyZWxhdGlvbnNoaXAqKiBjb25uZWN0cyBhIGZvcmVpZ24ga2V5IHRvIGEgcHJpbWFyeSBrZXkuIE9uY2UgY29ubmVjdGVkLCB0aGUKY29tcHV0ZXIgY2FuIGFuc3dlciBxdWVzdGlvbnMgdGhhdCBjcm9zcyB0YWJsZXM6ICJ3aGljaCBwcm9kdWN0IHdhcyBpbiB0aGlzIHNhbGU/Igoid2hpY2ggY2l0eSBkaWQgdGhpcyBjdXN0b21lciBsaXZlIGluPyIg4oCUIHdpdGhvdXQgeW91IGV2ZXIgbWVyZ2luZyBmaWxlcyBieSBoYW5kLgoKVGhlIG1vc3QgY29tbW9uIGtpbmQgaXMgKiptYW55LXRvLW9uZSoqOiBtYW55IHNhbGVzIHBvaW50IHRvIG9uZSBwcm9kdWN0LiBFYWNoIHNhbGUKaGFzIGEgcHJvZHVjdCBJRDsgdGhlIHByb2R1Y3QgdGFibGUgaGFzIG9uZSByb3cgcGVyIHByb2R1Y3QuIE1hbnkgc2FsZXMsIG9uZQpwcm9kdWN0LiBUaGF0IGlzIHRoZSBiYWNrYm9uZSBvZiBhbG1vc3QgZXZlcnkgYnVzaW5lc3MgbW9kZWwuCgojIyBXaXJpbmcgaXQgdXAsIGxpdmUKCkhlcmUgaXMgdGhlIGFzc2lzdGFudCBjcmVhdGluZyBhIHJlbGF0aW9uc2hpcCBmcm9tIGEgcGxhaW4gcmVxdWVzdDoKCj4gIkNvbm5lY3QgU2FsZXMgdG8gUHJvZHVjdHMgb24gUHJvZHVjdElELiIKCiFbU2FsZXMgdG8gUHJvZHVjdHMgcmVsYXRpb25zaGlwXSguLi8uLi9hc3NldHMvZXhhbXBsZXMvZTAxNS5wbmcpCgpUaGUgdG9vbCByZXBvcnRzIHRoZSBkaXJlY3Rpb24gKE1hbnnihpJPbmUpIGFuZCBjb25maXJtcyBpdCdzIGxpdmUgaW4gUG93ZXIgQkkKRGVza3RvcC4gVGhlbiB0aGUgY3VzdG9tZXIgbGluazoKCj4gIkNvbm5lY3QgU2FsZXMgdG8gQ3VzdG9tZXJzIG9uIEN1c3RvbWVySUQuIgoKIVtTYWxlcyB0byBDdXN0b21lcnMgcmVsYXRpb25zaGlwXSguLi8uLi9hc3NldHMvZXhhbXBsZXMvZTAxNi5wbmcpCgpBbmQgdGhlIHN0b3JlIGxpbms6Cgo+ICJDb25uZWN0IFNhbGVzIHRvIFN0b3JlcyBvbiBTdG9yZUlELiIKCiFbU2FsZXMgdG8gU3RvcmVzIHJlbGF0aW9uc2hpcF0oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2UwMTcucG5nKQoKVGhyZWUgc2VudGVuY2VzLCBhbmQgdGhlIG1vZGVsIG5vdyBoYXMgYSBzcGluZS4gRXZlcnkgbGF0ZXIgcXVlc3Rpb24gYWJvdXQgInNhbGVzCmJ5IHByb2R1Y3QiLCAic2FsZXMgYnkgY3VzdG9tZXIiLCAic2FsZXMgYnkgc3RvcmUiIHdvcmtzIGJlY2F1c2Ugb2YgdGhlc2UgdGhyZWUKbGluZXMuCgojIyBTZWVpbmcgdGhlIHdob2xlIHdpcmluZwoKPiAiU2hvdyBhbGwgdGhlIHJlbGF0aW9uc2hpcHMgaW4gdGhlIG1vZGVsLiIKCiFbQWxsIHJlbGF0aW9uc2hpcHNdKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9lMDE4LnBuZykKClRocmVlIGNsZWFuIE1hbnnihpJPbmUgcmVsYXRpb25zaGlwcywgYWxsIGFjdGl2ZS4gVGhpcyBpcyB0aGUgd2lyaW5nIGRpYWdyYW0g4oCUIHRoZQp0aGluZyB5b3UgY2hlY2sgZmlyc3Qgd2hlbiBhIG51bWJlciBsb29rcyB3cm9uZy4KCiMjIFRoZSBzdGFyIHNjaGVtYTogdGhlIHNoYXBlIHlvdSB3YW50CgpQdWxsIGl0IHRvZ2V0aGVyIGFuZCB5b3UgZ2V0IHRoZSBtb3N0IGZhbW91cyBzaGFwZSBpbiBidXNpbmVzcyBkYXRhOiB0aGUgKipzdGFyCnNjaGVtYSoqLiBBIGZhY3QgdGFibGUgaW4gdGhlIG1pZGRsZSAoU2FsZXMpLCBzdXJyb3VuZGVkIGJ5IGRpbWVuc2lvbiB0YWJsZXMKKFByb2R1Y3RzLCBDdXN0b21lcnMsIFN0b3JlcywgRGF0ZSkuIFRoZSBmYWN0IHRhYmxlIGhvbGRzIHRoZSBudW1iZXJzOyB0aGUKZGltZW5zaW9ucyBob2xkIHRoZSBkZXNjcmlwdGl2ZSBkZXRhaWwuIERyYXduIG91dCwgaXQgbG9va3MgbGlrZSBhIHN0YXIuCgpXaHkgaXMgaXQgc28gbG92ZWQ/IEJlY2F1c2UgaXQgaXMgc2ltcGxlLCBmYXN0LCBhbmQgbWF0Y2hlcyBob3cgcGVvcGxlIGFzawpxdWVzdGlvbnMuICJTYWxlcyBieSBjYXRlZ29yeSIgaXMganVzdCB0aGUgZmFjdCB0YWJsZSByZWFjaGluZyBvdmVyIHRvIHRoZSBwcm9kdWN0CmRpbWVuc2lvbi4gQWxtb3N0IGV2ZXJ5IGdvb2QgQkkgbW9kZWwgaXMgYSBzdGFyLCBvciBhIGZpZWxkIG9mIHN0YXJzLgoKIyMgQSBjYWxjdWxhdGVkIHRhYmxlOiBzdW1tYXJpc2luZyBvbiB0aGUgZmx5CgpTb21ldGltZXMgeW91IHdhbnQgYSBzbWFsbCBzdW1tYXJ5IHRhYmxlIGJ1aWx0IGZyb20gdGhlIG1vZGVsIGl0c2VsZjoKCj4gIkJ1aWxkIGEgc21hbGwgdGFibGUgb2YgdG90YWwgc2FsZXMgcGVyIGNhdGVnb3J5LiIKCiFbU2FsZXMgYnkgY2F0ZWdvcnkgdGFibGVdKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9lMDE5LnBuZykKCkEgbmV3IHRhYmxlLCBjb21wdXRlZCBsaXZlLCB0aGF0IHJvbGxzIHRoZSBkZXRhaWwgdXAgaW50byBhIHRpZHkgc3VtbWFyeS4gSGFuZHkgZm9yCmEgcXVpY2sgcmVwb3J0IG9yIGEgc25hcHNob3QuCgojIyBBIGN1cmlvc2l0eTogdGhlIG1hbnktdG8tbWFueSB0cmFwCgpUaGUgbW9zdCBkYW5nZXJvdXMgcmVsYXRpb25zaGlwIGlzICoqbWFueS10by1tYW55Kiogd2l0aG91dCBjYXJlIOKAlCBtYW55IHByb2R1Y3RzIGluCm1hbnkgcHJvbW90aW9ucywgbWFueSBzdHVkZW50cyBpbiBtYW55IGNsYXNzZXMuIEdldCBpdCB3cm9uZyBhbmQgeW91ciB0b3RhbHMKZG91YmxlLWNvdW50IG9yIHZhbmlzaC4gVGhlIGZpeCBpcyBhICJicmlkZ2UiIHRhYmxlIGluIHRoZSBtaWRkbGUuIElmIHlvdXIgbnVtYmVycwpzdWRkZW5seSBsb29rIGluZmxhdGVkLCBhIHNsb3BweSBtYW55LXRvLW1hbnkgaXMgdGhlIGZpcnN0IHN1c3BlY3QuCgotLS0KCiMjIFRyeSBpdCB5b3Vyc2VsZgoKPiAiSG93IG1hbnkgcmVsYXRpb25zaGlwcyBub3c/IgoKIVtDb3VudCByZWxhdGlvbnNoaXBzXSguLi8uLi9hc3NldHMvZXhhbXBsZXMvZTA3My5wbmcpCgpBIHF1aWNrIGNoZWNrIHRoYXQgdGhlIHdpcmluZyBpcyBhbGwgdGhlcmUuCgojIyBXaGF0IHlvdSdsbCBjYXJyeSBmcm9tIHRoaXMgY2hhcHRlcgoKLSBBIG1vZGVsIGlzIHRhYmxlcyBwbHVzIHRoZSByZWxhdGlvbnNoaXBzIGJldHdlZW4gdGhlbS4KLSBLZXlzIChwcmltYXJ5IGFuZCBmb3JlaWduKSBhcmUgaG93IHRhYmxlcyByZWNvZ25pc2UgZWFjaCBvdGhlci4KLSBNYW55LXRvLW9uZSBpcyB0aGUgYmFja2JvbmUgb2YgYnVzaW5lc3MgZGF0YS4KLSBUaGUgc3RhciBzY2hlbWEgaXMgdGhlIHNoYXBlIHlvdSB1c3VhbGx5IHdhbnQuCi0gQmV3YXJlIHNsb3BweSBtYW55LXRvLW1hbnkg4oCUIGl0IGluZmxhdGVzIHRvdGFscy4KCk5leHQ6IGFza2luZyB0aGUgZGF0YSBxdWVzdGlvbnMgZGlyZWN0bHkg4oCUIFNRTCBhbmQgREFYLCB0aGUgdHdvIGxhbmd1YWdlcyBvZgpnZXR0aW5nIGFuc3dlcnMuCg==
+# 8. Models, Tables, and Relationships
+
+A pile of tables is not a model. A **model** is what you get when you tell the
+computer how the tables *relate* to each other. Those connections — the wiring —
+are what let you ask a question in one place and get an answer that spans many
+tables. This chapter is about that wiring.
+
+## Tables, rows, and keys
+
+Every table has **rows** (one record each) and **columns** (one attribute each). The
+magic is in the **key** — a column that uniquely identifies each row. A customer ID,
+a product code, an order number. Keys are how tables recognise each other.
+
+- A **primary key** is the unique ID in a table (one row per customer).
+- A **foreign key** is a column in another table that points to that ID (each sale
+  stores the customer's ID).
+
+## The relationship: how two tables talk
+
+A **relationship** connects a foreign key to a primary key. Once connected, the
+computer can answer questions that cross tables: "which product was in this sale?"
+"which city did this customer live in?" — without you ever merging files by hand.
+
+The most common kind is **many-to-one**: many sales point to one product. Each sale
+has a product ID; the product table has one row per product. Many sales, one
+product. That is the backbone of almost every business model.
+
+## Wiring it up, live
+
+Here is the assistant creating a relationship from a plain request:
+
+> "Connect Sales to Products on ProductID."
+
+![Sales to Products relationship](../../assets/examples/e015.png)
+
+The tool reports the direction (Many→One) and confirms it's live in Power BI
+Desktop. Then the customer link:
+
+> "Connect Sales to Customers on CustomerID."
+
+![Sales to Customers relationship](../../assets/examples/e016.png)
+
+And the store link:
+
+> "Connect Sales to Stores on StoreID."
+
+![Sales to Stores relationship](../../assets/examples/e017.png)
+
+Three sentences, and the model now has a spine. Every later question about "sales
+by product", "sales by customer", "sales by store" works because of these three
+lines.
+
+## Seeing the whole wiring
+
+> "Show all the relationships in the model."
+
+![All relationships](../../assets/examples/e018.png)
+
+Three clean Many→One relationships, all active. This is the wiring diagram — the
+thing you check first when a number looks wrong.
+
+## The star schema: the shape you want
+
+Pull it together and you get the most famous shape in business data: the **star
+schema**. A fact table in the middle (Sales), surrounded by dimension tables
+(Products, Customers, Stores, Date). The fact table holds the numbers; the
+dimensions hold the descriptive detail. Drawn out, it looks like a star.
+
+Why is it so loved? Because it is simple, fast, and matches how people ask
+questions. "Sales by category" is just the fact table reaching over to the product
+dimension. Almost every good BI model is a star, or a field of stars.
+
+## A calculated table: summarising on the fly
+
+Sometimes you want a small summary table built from the model itself:
+
+> "Build a small table of total sales per category."
+
+![Sales by category table](../../assets/examples/e019.png)
+
+A new table, computed live, that rolls the detail up into a tidy summary. Handy for
+a quick report or a snapshot.
+
+## A curiosity: the many-to-many trap
+
+The most dangerous relationship is **many-to-many** without care — many products in
+many promotions, many students in many classes. Get it wrong and your totals
+double-count or vanish. The fix is a "bridge" table in the middle. If your numbers
+suddenly look inflated, a sloppy many-to-many is the first suspect.
+
+---
+
+## Try it yourself
+
+> "How many relationships now?"
+
+![Count relationships](../../assets/examples/e073.png)
+
+A quick check that the wiring is all there.
+
+## What you'll carry from this chapter
+
+- A model is tables plus the relationships between them.
+- Keys (primary and foreign) are how tables recognise each other.
+- Many-to-one is the backbone of business data.
+- The star schema is the shape you usually want.
+- Beware sloppy many-to-many — it inflates totals.
+
+Next: asking the data questions directly — SQL and DAX, the two languages of
+getting answers.

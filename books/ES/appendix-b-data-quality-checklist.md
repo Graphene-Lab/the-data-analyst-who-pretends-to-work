@@ -1,1 +1,58 @@
-IyBBcMOpbmRpY2UgQiDigJQgTGlzdGEgZGUgY29tcHJvYmFjacOzbiBkZSBjYWxpZGFkIGRlIGRhdG9zCgpVc2EgZXN0byBhbnRlcyBkZSBmaWFydGUgZGUgY3VhbHF1aWVyIGFuw6FsaXNpcy4gQ2FkYSDDrXRlbSBwdWVkZSBjb21wcm9iYXJzZSBjb24gZWwKYXNpc3RlbnRlLgoKIyMgQ29tcGxldGl0dWQKCi0gWyBdIFNpbiB2YWxvcmVzIGVuIGJsYW5jbyBpbmVzcGVyYWRvcyBlbiBjb2x1bW5hcyBjbGF2ZS4gKihQZXJmaWxhZG8gZGUgbGEgdGFibGE7IG1pcmEKICAgICAgbGEgY29sdW1uYSBCbGFua3MuKSoKLSBbIF0gQ2FkYSBmaWxhIGVzcGVyYWRhIGVzdMOhIHByZXNlbnRlIChzaW4gcGVyaW9kb3MsIHJlZ2lvbmVzIG8gcHJvZHVjdG9zIGZhbHRhbnRlcykuCi0gWyBdIExvcyByZWN1ZW50b3MgZGUgZmlsYXMgY29pbmNpZGVuIGNvbiBlbCBzaXN0ZW1hIGRlIG9yaWdlbi4KCiMjIEV4YWN0aXR1ZAoKLSBbIF0gTG9zIHRvdGFsZXMgY29uY2lsaWFuIGNvbiBsYSBmdWVudGUgZGUgdmVyZGFkLgotIFsgXSBMb3MgbsO6bWVyb3MgZXN0w6FuIGVuIGxhIHVuaWRhZCBjb3JyZWN0YSAoZXVyb3MgY29udHJhIGPDqW50aW1vcywgdW5pZGFkZXMgY29udHJhCiAgICAgIGNhamFzKS4KLSBbIF0gU2luIHZhbG9yZXMgb2J2aWFtZW50ZSBlcnLDs25lb3MgKGNhbnRpZGFkZXMgbmVnYXRpdmFzLCBmZWNoYXMgZW4gZWwgZnV0dXJvKS4KCiMjIENvbnNpc3RlbmNpYQoKLSBbIF0gRWwgdGV4dG8gZXN0w6EgZXN0YW5kYXJpemFkbyAoc2luICJNaWxhbiIgY29udHJhICJtaWxhbiIgY29udHJhICJNSUxBTiIpLiAqKEHDsWFkZQogICAgICB1bmEgY29sdW1uYSBVUFBFUi9MT1dFUiBwYXJhIGNvbXByb2JhcmxvLikqCi0gWyBdIExhIG1pc21hIGVudGlkYWQgdGllbmUgZWwgbWlzbW8gbm9tYnJlIGVuIHRvZGFzIHBhcnRlcy4KLSBbIF0gTG9zIGPDs2RpZ29zIGNvaW5jaWRlbiBlbnRyZSB0YWJsYXMgKGNhZGEgUHJvZHVjdElEIGVuIFNhbGVzIGV4aXN0ZSBlbiBQcm9kdWN0cykuCgojIyBVbmljaWRhZAoKLSBbIF0gTGFzIGNvbHVtbmFzIGNsYXZlIHNvbiDDum5pY2FzIGRvbmRlIGRlYmVuIHNlcmxvICh1bmEgZmlsYSBwb3IgU2FsZUlkKS4KLSBbIF0gU2luIGNsaWVudGVzLCBwcm9kdWN0b3MgbyB0aWVuZGFzIGR1cGxpY2Fkb3MuCgojIyBWYWxpZGV6CgotIFsgXSBMb3MgdmFsb3JlcyBjYWVuIGRlbnRybyBkZSBsb3MgcmFuZ29zIGVzcGVyYWRvcyAocHJlY2lvID4gMCwgZmVjaGFzIHbDoWxpZGFzKS4KLSBbIF0gTGFzIGNhdGVnb3LDrWFzIHZpZW5lbiBkZSB1bmEgbGlzdGEgcGVybWl0aWRhLgotIFsgXSBMb3MgZm9ybWF0b3Mgc29uIGNvcnJlY3RvcyAobGFzIGZlY2hhcyBzb24gZmVjaGFzLCBubyB0ZXh0bykuCgojIyBPcG9ydHVuaWRhZAoKLSBbIF0gTG9zIGRhdG9zIGVzdMOhbiBsbyBiYXN0YW50ZSBhbCBkw61hIHBhcmEgbGEgZGVjaXNpw7NuLgotIFsgXSBFbCByZWZyZXNjbyBvY3VycmnDsyBjdWFuZG8gZGViw61hLgoKIyMgSW50ZWdyaWRhZAoKLSBbIF0gTGFzIHJlbGFjaW9uZXMgZXN0w6FuIGNhYmxlYWRhcyBjb3JyZWN0YW1lbnRlIChtdWNob3MtYS11bm8sIGFjdGl2YXMpLgotIFsgXSBTaW4gZmlsYXMgaHXDqXJmYW5hcyAodmVudGFzIGFwdW50YW5kbyBhIHVuIHByb2R1Y3RvIHF1ZSBmYWx0YSkuCi0gWyBdIEVsIG1vZGVsbyBwYXNhIGxhIGNvbXByb2JhY2nDs24gZGUgYnVlbmFzIHByw6FjdGljYXMuCgojIyBDw7NtbyBheXVkYSBlbCBhc2lzdGVudGUKCi0gKipQZXJmaWxhZG8qKiBkZSBjYWRhIHRhYmxhIHBhcmEgdmVyIHZhbG9yZXMgZGlzdGludG9zLCBodWVjb3MsIG3DrW5pbW8vbcOheGltbywKICBtdWVzdHJhcy4KLSAqKlZhbGlkYWNpw7NuKiogZGUgZsOzcm11bGFzIGFudGVzIGRlIGd1YXJkYXJsYXMuCi0gKipMaW50aW5nKiogZGVsIERBWCBwYXJhIGNhemFyIHBhdHJvbmVzIGFycmllc2dhZG9zLgotICoqSW5mb3JtZSBkZSBidWVuYXMgcHLDoWN0aWNhcyoqIHBhcmEgY29tcHJvYmFyIHRvZG8gZWwgbW9kZWxvIGRlIHVuYSB2ZXouCgpVbiBtb2RlbG8gbGltcGlvIG5vIGVzIHVuIGNhcHJpY2hvLiBDYWRhIG7Dum1lcm8gYWd1YXMgYWJham8gaGVyZWRhIGxhIGNhbGlkYWQgZGUgbG9zCmRhdG9zIGFndWFzIGFycmliYS4gQ29tcHJ1w6liYWxvIHVuYSB2ZXosIGbDrWF0ZSBlbiB0b2RhcyBwYXJ0ZXMuCg==
+# Apéndice B — Lista de comprobación de calidad de datos
+
+Usa esto antes de fiarte de cualquier análisis. Cada ítem puede comprobarse con el
+asistente.
+
+## Completitud
+
+- [ ] Sin valores en blanco inesperados en columnas clave. *(Perfilado de la tabla; mira
+      la columna Blanks.)*
+- [ ] Cada fila esperada está presente (sin periodos, regiones o productos faltantes).
+- [ ] Los recuentos de filas coinciden con el sistema de origen.
+
+## Exactitud
+
+- [ ] Los totales concilian con la fuente de verdad.
+- [ ] Los números están en la unidad correcta (euros contra céntimos, unidades contra
+      cajas).
+- [ ] Sin valores obviamente erróneos (cantidades negativas, fechas en el futuro).
+
+## Consistencia
+
+- [ ] El texto está estandarizado (sin "Milan" contra "milan" contra "MILAN"). *(Añade
+      una columna UPPER/LOWER para comprobarlo.)*
+- [ ] La misma entidad tiene el mismo nombre en todas partes.
+- [ ] Los códigos coinciden entre tablas (cada ProductID en Sales existe en Products).
+
+## Unicidad
+
+- [ ] Las columnas clave son únicas donde deben serlo (una fila por SaleId).
+- [ ] Sin clientes, productos o tiendas duplicados.
+
+## Validez
+
+- [ ] Los valores caen dentro de los rangos esperados (precio > 0, fechas válidas).
+- [ ] Las categorías vienen de una lista permitida.
+- [ ] Los formatos son correctos (las fechas son fechas, no texto).
+
+## Oportunidad
+
+- [ ] Los datos están lo bastante al día para la decisión.
+- [ ] El refresco ocurrió cuando debía.
+
+## Integridad
+
+- [ ] Las relaciones están cableadas correctamente (muchos-a-uno, activas).
+- [ ] Sin filas huérfanas (ventas apuntando a un producto que falta).
+- [ ] El modelo pasa la comprobación de buenas prácticas.
+
+## Cómo ayuda el asistente
+
+- **Perfilado** de cada tabla para ver valores distintos, huecos, mínimo/máximo,
+  muestras.
+- **Validación** de fórmulas antes de guardarlas.
+- **Linting** del DAX para cazar patrones arriesgados.
+- **Informe de buenas prácticas** para comprobar todo el modelo de una vez.
+
+Un modelo limpio no es un capricho. Cada número aguas abajo hereda la calidad de los
+datos aguas arriba. Compruébalo una vez, fíate en todas partes.

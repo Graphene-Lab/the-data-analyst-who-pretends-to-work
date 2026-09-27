@@ -1,1 +1,99 @@
-IyA2LiBXaGVyZSBEYXRhIENvbWVzIEZyb20KCkJlZm9yZSB5b3UgY2FuIGFuYWx5c2UgYW55dGhpbmcsIHlvdSBuZWVkIGRhdGEg4oCUIGFuZCB5b3UgbmVlZCB0byBrbm93IHdoYXQgc2hhcGUKaXQgaXMgaW4uIFRoaXMgY2hhcHRlciBpcyBhYm91dCB0aGUgcmF3IG1hdGVyaWFsOiB3aGVyZSBpdCBjb21lcyBmcm9tLCB0aGUgZm9ybXMgaXQKdGFrZXMsIGFuZCBob3cgdG8gdGFrZSBpdHMgdGVtcGVyYXR1cmUgYmVmb3JlIHlvdSBidWlsZCBhbnl0aGluZy4KCiMjIFRocmVlIGtpbmRzIG9mIGRhdGEKCkV2ZXJ5dGhpbmcgeW91IHdpbGwgZXZlciBhbmFseXNlIGZhbGxzIGludG8gdGhyZWUgYnVja2V0czoKCi0gKipTdHJ1Y3R1cmVkKiog4oCUIHRpZHkgcm93cyBhbmQgY29sdW1ucy4gQSBzYWxlcyB0YWJsZSwgYSBjdXN0b21lciBsaXN0LCBhIGJhbmsKICBzdGF0ZW1lbnQuIEVhc3kgZm9yIGNvbXB1dGVycyB0byByZWFkLiBUaGlzIGlzIHlvdXIgYnJlYWQgYW5kIGJ1dHRlci4KLSAqKlNlbWktc3RydWN0dXJlZCoqIOKAlCBoYXMgc29tZSBvcmRlciBidXQgbm90IGEgbmVhdCBncmlkLiBBIHdlYiBsb2csIGEgSlNPTiBmaWxlCiAgZnJvbSBhbiBhcHAsIGFuIGVtYWlsIHdpdGggZmllbGRzLiBOZWVkcyBhIGxpdHRsZSBzaGFwaW5nLgotICoqVW5zdHJ1Y3R1cmVkKiog4oCUIG5vIGJ1aWx0LWluIG9yZGVyLiBUZXh0IGRvY3VtZW50cywgaW1hZ2VzLCB2aWRlb3MsIGEgY3VzdG9tZXIncwogIGZyZWUtdGV4dCBjb21wbGFpbnQuIFRoZSBoYXJkZXN0IHRvIGFuYWx5c2UsIGFuZCB3aGVyZSBBSSBpcyBnZXR0aW5nIHN1cnByaXNpbmdseQogIGdvb2QuCgpNb3N0IGJ1c2luZXNzIGFuYWx5c2lzIGxpdmVzIGluIHRoZSBzdHJ1Y3R1cmVkIHdvcmxkLiBUaGF0IGlzIHRoZSBnb29kIG5ld3M6IGl0IGlzCnRoZSBraW5kIHlvdSBjYW4gcG9pbnQgYSB0b29sIGF0IGFuZCBnZXQgYW5zd2VycyBmYXN0LgoKIyMgVGhlIHVzdWFsIHN1c3BlY3RzOiB3aGVyZSBidXNpbmVzcyBkYXRhIGhpZGVzCgotICoqVGhlIEVSUCAvIG1hbmFnZW1lbnQgc3lzdGVtKiog4oCUIG9yZGVycywgaW52b2ljZXMsIHN0b2NrLCBjdXN0b21lcnMuCi0gKipUaGUgQ1JNKiog4oCUIGxlYWRzLCBvcHBvcnR1bml0aWVzLCBjb250YWN0cywgc2FsZXMgcGlwZWxpbmUuCi0gKipTcHJlYWRzaGVldHMqKiDigJQgdGhlIHVuaXZlcnNhbCBmYWxsYmFjaywgZm9yIGJldHRlciBhbmQgd29yc2UuCi0gKipEYXRhYmFzZXMqKiDigJQgU1FMIHNlcnZlcnMgaG9sZGluZyB0aGUgY29tcGFueSdzIHJlY29yZHMuCi0gKipXZWIgYW5kIGFwcCBsb2dzKiog4oCUIGV2ZXJ5IGNsaWNrLCBwYWdlIHZpZXcsIGFuZCBldmVudC4KLSAqKkNTViAvIEV4Y2VsIGV4cG9ydHMqKiDigJQgZGF0YSBwdWxsZWQgZnJvbSBhbnkgc3lzdGVtIGludG8gYSBmaWxlLgotICoqQVBJcyoqIOKAlCBsaXZlIGRhdGEgc3RyZWFtZWQgZnJvbSBhIHNlcnZpY2UgKHdlYXRoZXIsIHNoaXBwaW5nLCBwYXltZW50cykuCi0gKipJb1Qgc2Vuc29ycyoqIOKAlCB0ZW1wZXJhdHVyZSwgbWFjaGluZSBzdGF0dXMsIGZvb3RmYWxsIGNvdW50ZXJzLgoKQSByZWFsIGFuYWx5c2lzIG9mdGVuIHN0aXRjaGVzIHNldmVyYWwgb2YgdGhlc2UgdG9nZXRoZXIuIFRoZSBhbmFseXN0J3MgZmlyc3QgbW92ZQppcyB0byBmaW5kIHRoZSBkYXRhIGFuZCB1bmRlcnN0YW5kIGl0cyBzaGFwZS4KCiMjIFRha2luZyB0aGUgdGVtcGVyYXR1cmU6IHByb2ZpbGluZwoKQmVmb3JlIHlvdSB0cnVzdCBhIHRhYmxlLCB5b3UgKipwcm9maWxlKiogaXQ6IGhvdyBtYW55IHJvd3MsIHdoYXQgY29sdW1ucywgaG93IG1hbnkKZGlzdGluY3QgdmFsdWVzLCBob3cgbWFueSBibGFua3MsIHRoZSBtaW5pbXVtIGFuZCBtYXhpbXVtLCB0aGUgbW9zdCBjb21tb24gdmFsdWVzLgpQcm9maWxpbmcgaXMgYSBoZWFsdGggY2hlY2sgdGhhdCB0ZWxscyB5b3Ugd2hhdCB5b3UgYXJlIGRlYWxpbmcgd2l0aCBiZWZvcmUgeW91CmJ1aWxkIGEgc2luZ2xlIGNoYXJ0LgoKSGVyZSBpcyBhIHJlYWwgb25lLiBBIHBlcnNvbiBhc2tlZCB0aGUgYXNzaXN0YW50IHRvIHByb2ZpbGUgdGhlIHByb2R1Y3RzIHRhYmxlOgoKPiAiUHJvZmlsZSB0aGUgUHJvZHVjdHMgdGFibGUuIgoKIVtQcm9maWxlIHRoZSBQcm9kdWN0cyB0YWJsZV0oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2UwMDYucG5nKQoKSW4gb25lIHNob3QgeW91IGNhbiBzZWU6IDggcHJvZHVjdHMsIDMgY2F0ZWdvcmllcyAoS2l0Y2hlbiA0LCBGdXJuaXR1cmUgMywKU3RhdGlvbmVyeSAxKSwgcHJpY2VzIGZyb20g4oKsMTIgdG8g4oKsMzQ5LCBhbmQgYSBmZXcgc2FtcGxlIHJvd3MuIE5vIGd1ZXNzaW5nLiBUaGUKc2hhcGUgb2YgdGhlIGRhdGEgaXMgbm93IG9idmlvdXMuCgpUaGUgc2FtZSB3b3JrcyBmb3IgY3VzdG9tZXJzOgoKPiAiUHJvZmlsZSB0aGUgQ3VzdG9tZXJzIHRhYmxlLiIKCiFbUHJvZmlsZSB0aGUgQ3VzdG9tZXJzIHRhYmxlXSguLi8uLi9hc3NldHMvZXhhbXBsZXMvZTAwNy5wbmcpCgpUd2VsdmUgY3VzdG9tZXJzIGFjcm9zcyBmb3VyIGNpdGllcyBhbmQgdGhyZWUgc2VnbWVudHMuIFlvdSBjYW4gYWxyZWFkeSBzZWUgdGhlCnN0b3J5IGZvcm1pbmcg4oCUIE1pbGFuIGFuZCBSb21lIGFyZSB0aGUgYmlnZ2VzdCwgdGhlIHNlZ21lbnRzIGFyZSBiYWxhbmNlZC4KCiMjIFNlZWluZyB0aGUgY29sdW1ucyBjbGVhcmx5CgpTb21ldGltZXMgeW91IGp1c3Qgd2FudCB0aGUgc3RydWN0dXJlIOKAlCB0aGUgY29sdW1ucyBhbmQgdGhlaXIgdHlwZXMuIFRoZSBhc3Npc3RhbnQKcmVhZHMgdGhlIHNjaGVtYSBkaXJlY3RseToKCj4gIlNob3cgbWUgdGhlIHNjaGVtYSBvZiB0aGUgU2FsZXMgdGFibGUuIgoKIVtTY2hlbWEgb2YgdGhlIFNhbGVzIHRhYmxlXSguLi8uLi9hc3NldHMvZXhhbXBsZXMvZTAwOC5wbmcpCgpFdmVyeSBjb2x1bW4sIGl0cyB0eXBlLCBhbmQgdGhlIG1lYXN1cmVzIGFscmVhZHkgYXR0YWNoZWQuIFRoaXMgaXMgdGhlIG1hcCB5b3UKY2FycnkgaW50byBldmVyeSBsYXRlciBxdWVzdGlvbi4KCiMjIEEgY3VyaW9zaXR5OiB0aGUgImZpZnRoIGtpbmQiIG9mIGRhdGEKClRoZXJlIGlzIGEgam9rZSBhbW9uZyBhbmFseXN0cyB0aGF0IHRoZSBmaWZ0aCBraW5kIG9mIGRhdGEgaXMgKipkYXRhIHlvdSBkaWQgbm90Cmtub3cgeW91IGhhZCoqIOKAlCB0aGUgbWV0YWRhdGEuIFdoZW4gZGlkIGVhY2ggcmVjb3JkIGNoYW5nZT8gV2hvIHRvdWNoZWQgaXQ/IEhvdwptYW55IHRpbWVzIHdhcyBhIHBhZ2Ugdmlld2VkPyBNZXRhZGF0YSBpcyB0aGUgZGF0YSAqYWJvdXQqIHlvdXIgZGF0YSwgYW5kIGl0IG9mdGVuCmhvbGRzIHRoZSBtb3N0IGludGVyZXN0aW5nIGFuc3dlcnMgb2YgYWxsLgoKLS0tCgojIyBUcnkgaXQgeW91cnNlbGYKCj4gIkhvdyBtYW55IGRpc3RpbmN0IGNhdGVnb3JpZXMgYXJlIHRoZXJlPyIKCiFbQ291bnQgZGlzdGluY3QgY2F0ZWdvcmllc10oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2UwNzEucG5nKQoKQSBvbmUtbGluZSBxdWVzdGlvbiwgYSBvbmUtbGluZSBhbnN3ZXIsIHN0cmFpZ2h0IGZyb20gdGhlIGxpdmUgbW9kZWwuCgojIyBXaGF0IHlvdSdsbCBjYXJyeSBmcm9tIHRoaXMgY2hhcHRlcgoKLSBEYXRhIGNvbWVzIGluIHRocmVlIHNoYXBlczogc3RydWN0dXJlZCwgc2VtaS1zdHJ1Y3R1cmVkLCB1bnN0cnVjdHVyZWQuCi0gQnVzaW5lc3MgZGF0YSBoaWRlcyBpbiBFUlAsIENSTSwgZGF0YWJhc2VzLCBzcHJlYWRzaGVldHMsIGxvZ3MsIGFuZCBBUElzLgotIEFsd2F5cyAqKnByb2ZpbGUqKiBiZWZvcmUgeW91IGJ1aWxkIOKAlCBrbm93IHRoZSBzaGFwZSBhbmQgdGhlIGdhcHMuCi0gRG9uJ3QgZm9yZ2V0IHRoZSBtZXRhZGF0YTogdGhlIGRhdGEgYWJvdXQgeW91ciBkYXRhLgoKTmV4dDogdGhlIHVuZ2xhbW9yb3VzLCBlc3NlbnRpYWwgd29yayBvZiBjbGVhbmluZyBkaXJ0eSBkYXRhIOKAlCBhbmQgaG93IGEgZmV3CmNhbGN1bGF0ZWQgY29sdW1ucyBmaXggYSBtZXNzIGluIHNlY29uZHMuCg==
+# 6. Where Data Comes From
+
+Before you can analyse anything, you need data — and you need to know what shape
+it is in. This chapter is about the raw material: where it comes from, the forms it
+takes, and how to take its temperature before you build anything.
+
+## Three kinds of data
+
+Everything you will ever analyse falls into three buckets:
+
+- **Structured** — tidy rows and columns. A sales table, a customer list, a bank
+  statement. Easy for computers to read. This is your bread and butter.
+- **Semi-structured** — has some order but not a neat grid. A web log, a JSON file
+  from an app, an email with fields. Needs a little shaping.
+- **Unstructured** — no built-in order. Text documents, images, videos, a customer's
+  free-text complaint. The hardest to analyse, and where AI is getting surprisingly
+  good.
+
+Most business analysis lives in the structured world. That is the good news: it is
+the kind you can point a tool at and get answers fast.
+
+## The usual suspects: where business data hides
+
+- **The ERP / management system** — orders, invoices, stock, customers.
+- **The CRM** — leads, opportunities, contacts, sales pipeline.
+- **Spreadsheets** — the universal fallback, for better and worse.
+- **Databases** — SQL servers holding the company's records.
+- **Web and app logs** — every click, page view, and event.
+- **CSV / Excel exports** — data pulled from any system into a file.
+- **APIs** — live data streamed from a service (weather, shipping, payments).
+- **IoT sensors** — temperature, machine status, footfall counters.
+
+A real analysis often stitches several of these together. The analyst's first move
+is to find the data and understand its shape.
+
+## Taking the temperature: profiling
+
+Before you trust a table, you **profile** it: how many rows, what columns, how many
+distinct values, how many blanks, the minimum and maximum, the most common values.
+Profiling is a health check that tells you what you are dealing with before you
+build a single chart.
+
+Here is a real one. A person asked the assistant to profile the products table:
+
+> "Profile the Products table."
+
+![Profile the Products table](../../assets/examples/e006.png)
+
+In one shot you can see: 8 products, 3 categories (Kitchen 4, Furniture 3,
+Stationery 1), prices from €12 to €349, and a few sample rows. No guessing. The
+shape of the data is now obvious.
+
+The same works for customers:
+
+> "Profile the Customers table."
+
+![Profile the Customers table](../../assets/examples/e007.png)
+
+Twelve customers across four cities and three segments. You can already see the
+story forming — Milan and Rome are the biggest, the segments are balanced.
+
+## Seeing the columns clearly
+
+Sometimes you just want the structure — the columns and their types. The assistant
+reads the schema directly:
+
+> "Show me the schema of the Sales table."
+
+![Schema of the Sales table](../../assets/examples/e008.png)
+
+Every column, its type, and the measures already attached. This is the map you
+carry into every later question.
+
+## A curiosity: the "fifth kind" of data
+
+There is a joke among analysts that the fifth kind of data is **data you did not
+know you had** — the metadata. When did each record change? Who touched it? How
+many times was a page viewed? Metadata is the data *about* your data, and it often
+holds the most interesting answers of all.
+
+---
+
+## Try it yourself
+
+> "How many distinct categories are there?"
+
+![Count distinct categories](../../assets/examples/e071.png)
+
+A one-line question, a one-line answer, straight from the live model.
+
+## What you'll carry from this chapter
+
+- Data comes in three shapes: structured, semi-structured, unstructured.
+- Business data hides in ERP, CRM, databases, spreadsheets, logs, and APIs.
+- Always **profile** before you build — know the shape and the gaps.
+- Don't forget the metadata: the data about your data.
+
+Next: the unglamorous, essential work of cleaning dirty data — and how a few
+calculated columns fix a mess in seconds.

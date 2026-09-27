@@ -1,1 +1,55 @@
-IyBBcHBlbmRpeCBCIOKAlCBEYXRhIFF1YWxpdHkgQ2hlY2tsaXN0CgpVc2UgdGhpcyBiZWZvcmUgdHJ1c3RpbmcgYW55IGFuYWx5c2lzLiBFYWNoIGl0ZW0gY2FuIGJlIGNoZWNrZWQgd2l0aCB0aGUgYXNzaXN0YW50LgoKIyMgQ29tcGxldGVuZXNzCgotIFsgXSBObyB1bmV4cGVjdGVkIGJsYW5rIHZhbHVlcyBpbiBrZXkgY29sdW1ucy4gKihQcm9maWxlIHRoZSB0YWJsZTsgbG9vayBhdCB0aGUKICAgICAgQmxhbmtzIGNvbHVtbi4pKgotIFsgXSBFdmVyeSBleHBlY3RlZCByb3cgaXMgcHJlc2VudCAobm8gbWlzc2luZyBwZXJpb2RzLCByZWdpb25zLCBvciBwcm9kdWN0cykuCi0gWyBdIFJvdyBjb3VudHMgbWF0Y2ggdGhlIHNvdXJjZSBzeXN0ZW0uCgojIyBBY2N1cmFjeQoKLSBbIF0gVG90YWxzIHJlY29uY2lsZSB3aXRoIHRoZSBzb3VyY2Ugb2YgdHJ1dGguCi0gWyBdIE51bWJlcnMgYXJlIGluIHRoZSByaWdodCB1bml0IChldXJvcyB2cyBjZW50cywgdW5pdHMgdnMgY2FzZXMpLgotIFsgXSBObyBvYnZpb3VzbHkgd3JvbmcgdmFsdWVzIChuZWdhdGl2ZSBxdWFudGl0aWVzLCBkYXRlcyBpbiB0aGUgZnV0dXJlKS4KCiMjIENvbnNpc3RlbmN5CgotIFsgXSBUZXh0IGlzIHN0YW5kYXJkaXNlZCAobm8gIk1pbGFuIiB2cyAibWlsYW4iIHZzICJNSUxBTiIpLiAqKEFkZCBhbgogICAgICBVUFBFUi9MT1dFUiBjb2x1bW4gdG8gY2hlY2suKSoKLSBbIF0gU2FtZSBlbnRpdHkgaGFzIHRoZSBzYW1lIG5hbWUgZXZlcnl3aGVyZS4KLSBbIF0gQ29kZXMgbWF0Y2ggYWNyb3NzIHRhYmxlcyAoZXZlcnkgUHJvZHVjdElEIGluIFNhbGVzIGV4aXN0cyBpbiBQcm9kdWN0cykuCgojIyBVbmlxdWVuZXNzCgotIFsgXSBLZXkgY29sdW1ucyBhcmUgdW5pcXVlIHdoZXJlIHRoZXkgc2hvdWxkIGJlIChvbmUgcm93IHBlciBTYWxlSWQpLgotIFsgXSBObyBkdXBsaWNhdGUgY3VzdG9tZXJzLCBwcm9kdWN0cywgb3Igc3RvcmVzLgoKIyMgVmFsaWRpdHkKCi0gWyBdIFZhbHVlcyBmYWxsIHdpdGhpbiBleHBlY3RlZCByYW5nZXMgKHByaWNlID4gMCwgZGF0ZXMgdmFsaWQpLgotIFsgXSBDYXRlZ29yaWVzIGNvbWUgZnJvbSBhbiBhbGxvd2VkIGxpc3QuCi0gWyBdIEZvcm1hdHMgYXJlIGNvcnJlY3QgKGRhdGVzIGFyZSBkYXRlcywgbm90IHRleHQpLgoKIyMgVGltZWxpbmVzcwoKLSBbIF0gRGF0YSBpcyBjdXJyZW50IGVub3VnaCBmb3IgdGhlIGRlY2lzaW9uLgotIFsgXSBUaGUgcmVmcmVzaCBoYXBwZW5lZCB3aGVuIGl0IHdhcyBzdXBwb3NlZCB0by4KCiMjIEludGVncml0eQoKLSBbIF0gUmVsYXRpb25zaGlwcyBhcmUgd2lyZWQgY29ycmVjdGx5IChtYW55LXRvLW9uZSwgYWN0aXZlKS4KLSBbIF0gTm8gb3JwaGFuIHJvd3MgKHNhbGVzIHBvaW50aW5nIHRvIGEgbWlzc2luZyBwcm9kdWN0KS4KLSBbIF0gVGhlIG1vZGVsIHBhc3NlcyB0aGUgYmVzdC1wcmFjdGljZXMgY2hlY2suCgojIyBIb3cgdGhlIGFzc2lzdGFudCBoZWxwcwoKLSAqKlByb2ZpbGUqKiBlYWNoIHRhYmxlIHRvIHNlZSBkaXN0aW5jdCB2YWx1ZXMsIGJsYW5rcywgbWluL21heCwgc2FtcGxlcy4KLSAqKlZhbGlkYXRlKiogZm9ybXVsYXMgYmVmb3JlIHlvdSBzYXZlIHRoZW0uCi0gKipMaW50KiogREFYIHRvIGNhdGNoIHJpc2t5IHBhdHRlcm5zLgotICoqQmVzdC1wcmFjdGljZXMgcmVwb3J0KiogdG8gY2hlY2sgdGhlIHdob2xlIG1vZGVsIGF0IG9uY2UuCgpBIGNsZWFuIG1vZGVsIGlzIG5vdCBhIG5pY2UtdG8taGF2ZS4gRXZlcnkgbnVtYmVyIGRvd25zdHJlYW0gaW5oZXJpdHMgdGhlIHF1YWxpdHkKb2YgdGhlIGRhdGEgdXBzdHJlYW0uIENoZWNrIGl0IG9uY2UsIHRydXN0IGl0IGV2ZXJ5d2hlcmUuCg==
+# Appendix B — Data Quality Checklist
+
+Use this before trusting any analysis. Each item can be checked with the assistant.
+
+## Completeness
+
+- [ ] No unexpected blank values in key columns. *(Profile the table; look at the
+      Blanks column.)*
+- [ ] Every expected row is present (no missing periods, regions, or products).
+- [ ] Row counts match the source system.
+
+## Accuracy
+
+- [ ] Totals reconcile with the source of truth.
+- [ ] Numbers are in the right unit (euros vs cents, units vs cases).
+- [ ] No obviously wrong values (negative quantities, dates in the future).
+
+## Consistency
+
+- [ ] Text is standardised (no "Milan" vs "milan" vs "MILAN"). *(Add an
+      UPPER/LOWER column to check.)*
+- [ ] Same entity has the same name everywhere.
+- [ ] Codes match across tables (every ProductID in Sales exists in Products).
+
+## Uniqueness
+
+- [ ] Key columns are unique where they should be (one row per SaleId).
+- [ ] No duplicate customers, products, or stores.
+
+## Validity
+
+- [ ] Values fall within expected ranges (price > 0, dates valid).
+- [ ] Categories come from an allowed list.
+- [ ] Formats are correct (dates are dates, not text).
+
+## Timeliness
+
+- [ ] Data is current enough for the decision.
+- [ ] The refresh happened when it was supposed to.
+
+## Integrity
+
+- [ ] Relationships are wired correctly (many-to-one, active).
+- [ ] No orphan rows (sales pointing to a missing product).
+- [ ] The model passes the best-practices check.
+
+## How the assistant helps
+
+- **Profile** each table to see distinct values, blanks, min/max, samples.
+- **Validate** formulas before you save them.
+- **Lint** DAX to catch risky patterns.
+- **Best-practices report** to check the whole model at once.
+
+A clean model is not a nice-to-have. Every number downstream inherits the quality
+of the data upstream. Check it once, trust it everywhere.

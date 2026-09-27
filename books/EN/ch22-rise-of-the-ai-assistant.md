@@ -1,1 +1,88 @@
-IyAyMi4gVGhlIFJpc2Ugb2YgdGhlIEFJIEFzc2lzdGFudAoKRXZlcnl0aGluZyBpbiB0aGlzIGJvb2sgaGFzIGJlZW4gYnVpbGRpbmcgdG8gdGhpcyBtb21lbnQ6IGEgdG9vbCB0aGF0IGxpc3RlbnMgdG8gYQpwbGFpbi1FbmdsaXNoIHF1ZXN0aW9uIGFuZCBkb2VzIHRoZSB3aG9sZSBjaGFpbiBvZiBhbmFseXRpY2FsIHdvcmsgZm9yIHlvdS4gVGhpcwpjaGFwdGVyIGlzIGFib3V0IHdoYXQgY2hhbmdlZCwgYW5kIHdoeSBpdCBtYXR0ZXJzIG1vcmUgdGhhbiBpdCBmaXJzdCBzb3VuZHMuCgojIyBUaGUgb2xkIHdheTogYSBjaGFpbiBvZiBtYW51YWwgc3RlcHMKCkZvciBkZWNhZGVzLCBhbnN3ZXJpbmcgYSBidXNpbmVzcyBxdWVzdGlvbiBpbiBQb3dlciBCSSBtZWFudCBhIGNoYWluIG9mIG1hbnVhbApzdGVwczogb3BlbiB0aGUgdG9vbCwgZmluZCB0aGUgdGFibGUsIHdyaXRlIHRoZSBEQVgsIGNoZWNrIGZvciBlcnJvcnMsIGNyZWF0ZSB0aGUKbWVhc3VyZSwgZm9ybWF0IGl0LCBhZGQgaXQgdG8gYSB2aXN1YWwsIHJlcGVhdC4gRWFjaCBzdGVwIG5lZWRlZCBhIHNraWxsLCBhbmQgdGhlCmNoYWluIG5lZWRlZCB0aW1lLiBUaGUgYm90dGxlbmVjayB3YXMgbmV2ZXIgdGhlIHF1ZXN0aW9uIOKAlCBpdCB3YXMgdGhlIGRvaW5nLgoKIyMgVGhlIG5ldyB3YXk6IGRlc2NyaWJlIHRoZSBhbnN3ZXIKCk5vdyB5b3UgZGVzY3JpYmUgdGhlIGFuc3dlciB5b3Ugd2FudCwgYW5kIHRoZSBhc3Npc3RhbnQgZG9lcyB0aGUgY2hhaW46Cgo+ICJBc2sgaW4gcGxhaW4gRW5nbGlzaCwgZ2V0IGEgcmVhbCBtb2RlbCBjaGFuZ2UuIgoKIVtQbGFpbiBFbmdsaXNoIHRvIGEgcmVhbCBjaGFuZ2VdKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9lMDY5LnBuZykKCj4gIlR1cm4gYSBxdWVzdGlvbiBpbnRvIGEgbWVhc3VyZSBhdXRvbWF0aWNhbGx5LiIKCiFbUXVlc3Rpb24gdG8gbWVhc3VyZV0oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2UwODYucG5nKQoKVGhlIGNoYWluIHRoYXQgdXNlZCB0byB0YWtlIGEgc2tpbGxlZCBhbmFseXN0IGEgd2hpbGUgbm93IGhhcHBlbnMgaW4gYSBzZW50ZW5jZS4KVGhlIHNraWxsIG1vdmVzIGZyb20gKmRvaW5nIHRoZSBzdGVwcyogdG8gKmFza2luZyB0aGUgcmlnaHQgcXVlc3Rpb24qLgoKIyMgV2h5IHRoaXMgaXMgYSBiaWdnZXIgZGVhbCB0aGFuICJhdXRvY29tcGxldGUiCgpUaGlzIGlzIG5vdCBhdXRvY29tcGxldGUuIEF1dG9jb21wbGV0ZSBoZWxwcyB5b3UgdHlwZSBmYXN0ZXIuIFRoZSBhc3Npc3RhbnQgaGVyZQoqKnVuZGVyc3RhbmRzIHRoZSBpbnRlbnQgYW5kIG9wZXJhdGVzIHRoZSB0b29sKiog4oCUIGl0IGNvbm5lY3RzIHRvIHRoZSBtb2RlbCwgd3JpdGVzCmNvcnJlY3QgREFYLCBhcHBsaWVzIHRoZSBjaGFuZ2UgbGl2ZSwgYW5kIHJlcG9ydHMgd2hhdCBpdCBkaWQuIFRoYXQgaXMgdGhlCmRpZmZlcmVuY2UgYmV0d2VlbiBhIGZhc3RlciBrZXlib2FyZCBhbmQgYSBjYXBhYmxlIGNvbGxlYWd1ZS4KCj4gIkFzayBmb3IgYSBuZXcgY29sdW1uLCBnZXQgaXQgbGl2ZS4iCgohW05ldyBjb2x1bW4gbGl2ZV0oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2UwOTYucG5nKQoKPiAiT25lIHNlbnRlbmNlLCBvbmUgcmVhbCBjaGFuZ2UsIHZpc2libGUgaW5zdGFudGx5LiIKCiFbT25lIHNlbnRlbmNlLCBvbmUgY2hhbmdlXSguLi8uLi9hc3NldHMvZXhhbXBsZXMvZTEwMS5wbmcpCgojIyBUaGUgYWdlbnRpYyBzaGlmdAoKVGhlIHdvcmQgZm9yIHRoaXMgaXMgKiphZ2VudGljKio6IHRoZSBzb2Z0d2FyZSB0YWtlcyAqYWN0aW9ucyogdG93YXJkIGEgZ29hbCwgbm90Cmp1c3QgYW5zd2VycyBxdWVzdGlvbnMuIFlvdSBnaXZlIGl0IGEgZ29hbCAoImFkZCBhIGtpdGNoZW4tc2FsZXMgbWVhc3VyZSIpLCBhbmQgaXQKYWN0cyDigJQgY29ubmVjdGluZywgY2FsY3VsYXRpbmcsIGFwcGx5aW5nLCBjb25maXJtaW5nLiBBbiBhZ2VudCBjbG9zZXMgdGhlIGxvb3AKYmV0d2VlbiBpbnRlbnQgYW5kIHJlc3VsdC4KClRoaXMgaXMgd2h5IHRoZSBleGFtcGxlcyBpbiB0aGlzIGJvb2sgZmVlbCBkaWZmZXJlbnQgZnJvbSBhIHR1dG9yaWFsLiBFYWNoIG9uZSBpcwphIHJlYWwgYWN0aW9uIG9uIGEgcmVhbCBtb2RlbCwgZG9uZSBieSBhbiBhZ2VudCwgdmlzaWJsZSBvbiBhIHJlYWwgc2NyZWVuLgoKIyMgV2hhdCBpdCBtZWFucyBmb3IgdGhlIGFuYWx5c3QKClRoZSBmZWFyIGlzIHRoYXQgdGhlIGFzc2lzdGFudCByZXBsYWNlcyB0aGUgYW5hbHlzdC4gVGhlIHJlYWxpdHkgaXMgbW9yZQppbnRlcmVzdGluZzogaXQgKipyZW1vdmVzIHRoZSBkcnVkZ2VyeSBhbmQgZWxldmF0ZXMgdGhlIGp1ZGdlbWVudC4qKiBUaGUgYW5hbHlzdApzdG9wcyBzcGVuZGluZyBob3VycyBvbiBzeW50YXggYW5kIHN0YXJ0cyBzcGVuZGluZyB0aW1lIG9uIHRoZSBxdWVzdGlvbnMgdGhhdAptYXR0ZXIg4oCUIHdoaWNoIHF1ZXN0aW9ucyB0byBhc2ssIHdoaWNoIGFuc3dlcnMgdG8gdHJ1c3QsIHdoYXQgdG8gZG8gbmV4dC4gVGhlCmFzc2lzdGFudCBpcyBhIGZvcmNlIG11bHRpcGxpZXIgZm9yIGEgZ29vZCBhbmFseXN0LCBhbmQgYSBkb29yd2F5IGZvciBhIGN1cmlvdXMKbm9uLWFuYWx5c3QuCgojIyBBIGN1cmlvc2l0eTogdGhlIEpldm9ucyBwYXJhZG94IG9mIGFuYWx5c2lzCgpXaGVuIHNvbWV0aGluZyBnZXRzIGNoZWFwZXIsIHdlIHVzZSBtb3JlIG9mIGl0LCBub3QgbGVzcy4gRWNvbm9taXN0cyBjYWxsIHRoaXMgdGhlCioqSmV2b25zIHBhcmFkb3gqKi4gV2hlbiBhbmFseXNpcyBiZWNvbWVzIHRoaXMgZWFzeSwgd2Ugd29uJ3QgZG8gbGVzcyBhbmFseXNpcyDigJQKd2UnbGwgZG8gdmFzdGx5IG1vcmUuIFF1ZXN0aW9ucyB0aGF0IHdlcmUgIm5vdCB3b3J0aCB0aGUgZWZmb3J0IiBiZWNvbWUgZnJlZS4gVGhlCndvcmxkIHdvbid0IG5lZWQgZmV3ZXIgYW5hbHlzdHM7IGl0IHdpbGwgbmVlZCBhbmFseXN0cyB3aG8gY2FuIGFzayBiZXR0ZXIgcXVlc3Rpb25zCm9mIGEgdG9vbCB0aGF0IGFuc3dlcnMgaW5zdGFudGx5LgoKIyMgVGhlIGhvbmVzdCBjYXZlYXQKCkFuIGFzc2lzdGFudCBpcyBvbmx5IGFzIGdvb2QgYXMgaXRzIGNoZWNrcy4gVGhpcyBvbmUgdmFsaWRhdGVzIERBWCwgZ3VhcmRzIGFnYWluc3QKZGFuZ2Vyb3VzIG9wZXJhdGlvbnMsIGFuZCByZXBvcnRzIGV4YWN0bHkgd2hhdCBpdCBjaGFuZ2VkIOKAlCBiZWNhdXNlIGFuIGFnZW50IHRoYXQKYWN0cyB3aXRob3V0IGNoZWNraW5nIGlzIGEgbGlhYmlsaXR5LCBub3QgYSBoZWxwZXIuIFRydXN0IHRoZSBhc3Npc3RhbnQgdGhlIHdheSB5b3UKdHJ1c3QgYSBjYXJlZnVsIGNvbGxlYWd1ZTogY29tcGxldGVseSwgYnV0IHdpdGggdGhlIHJlY2VpcHRzIGFsd2F5cyB2aXNpYmxlLgoKLS0tCgojIyBXaGF0IHlvdSdsbCBjYXJyeSBmcm9tIHRoaXMgY2hhcHRlcgoKLSBUaGUgb2xkIHdheSB3YXMgYSBsb25nIG1hbnVhbCBjaGFpbjsgdGhlIG5ldyB3YXkgaXMgb25lIGRlc2NyaWJlZCBhbnN3ZXIuCi0gVGhpcyBpcyBhY3Rpb24sIG5vdCBhdXRvY29tcGxldGUg4oCUIHRoZSBhZ2VudCBvcGVyYXRlcyB0aGUgdG9vbC4KLSAiQWdlbnRpYyIgbWVhbnMgaXQgY2xvc2VzIHRoZSBsb29wIGZyb20gaW50ZW50IHRvIHJlc3VsdC4KLSBJdCByZW1vdmVzIGRydWRnZXJ5IGFuZCBlbGV2YXRlcyBqdWRnZW1lbnQuCi0gQ2hlYXBlciBhbmFseXNpcyBtZWFucyBtb3JlIGFuYWx5c2lzLCBub3QgbGVzcyAoSmV2b25zKS4KCk5leHQ6IG1lZXQgdGhlIHR3byB0b29scyBiZWhpbmQgZXZlcnkgZXhhbXBsZSBpbiB0aGlzIGJvb2suCg==
+# 22. The Rise of the AI Assistant
+
+Everything in this book has been building to this moment: a tool that listens to a
+plain-English question and does the whole chain of analytical work for you. This
+chapter is about what changed, and why it matters more than it first sounds.
+
+## The old way: a chain of manual steps
+
+For decades, answering a business question in Power BI meant a chain of manual
+steps: open the tool, find the table, write the DAX, check for errors, create the
+measure, format it, add it to a visual, repeat. Each step needed a skill, and the
+chain needed time. The bottleneck was never the question — it was the doing.
+
+## The new way: describe the answer
+
+Now you describe the answer you want, and the assistant does the chain:
+
+> "Ask in plain English, get a real model change."
+
+![Plain English to a real change](../../assets/examples/e069.png)
+
+> "Turn a question into a measure automatically."
+
+![Question to measure](../../assets/examples/e086.png)
+
+The chain that used to take a skilled analyst a while now happens in a sentence.
+The skill moves from *doing the steps* to *asking the right question*.
+
+## Why this is a bigger deal than "autocomplete"
+
+This is not autocomplete. Autocomplete helps you type faster. The assistant here
+**understands the intent and operates the tool** — it connects to the model, writes
+correct DAX, applies the change live, and reports what it did. That is the
+difference between a faster keyboard and a capable colleague.
+
+> "Ask for a new column, get it live."
+
+![New column live](../../assets/examples/e096.png)
+
+> "One sentence, one real change, visible instantly."
+
+![One sentence, one change](../../assets/examples/e101.png)
+
+## The agentic shift
+
+The word for this is **agentic**: the software takes *actions* toward a goal, not
+just answers questions. You give it a goal ("add a kitchen-sales measure"), and it
+acts — connecting, calculating, applying, confirming. An agent closes the loop
+between intent and result.
+
+This is why the examples in this book feel different from a tutorial. Each one is
+a real action on a real model, done by an agent, visible on a real screen.
+
+## What it means for the analyst
+
+The fear is that the assistant replaces the analyst. The reality is more
+interesting: it **removes the drudgery and elevates the judgement.** The analyst
+stops spending hours on syntax and starts spending time on the questions that
+matter — which questions to ask, which answers to trust, what to do next. The
+assistant is a force multiplier for a good analyst, and a doorway for a curious
+non-analyst.
+
+## A curiosity: the Jevons paradox of analysis
+
+When something gets cheaper, we use more of it, not less. Economists call this the
+**Jevons paradox**. When analysis becomes this easy, we won't do less analysis —
+we'll do vastly more. Questions that were "not worth the effort" become free. The
+world won't need fewer analysts; it will need analysts who can ask better questions
+of a tool that answers instantly.
+
+## The honest caveat
+
+An assistant is only as good as its checks. This one validates DAX, guards against
+dangerous operations, and reports exactly what it changed — because an agent that
+acts without checking is a liability, not a helper. Trust the assistant the way you
+trust a careful colleague: completely, but with the receipts always visible.
+
+---
+
+## What you'll carry from this chapter
+
+- The old way was a long manual chain; the new way is one described answer.
+- This is action, not autocomplete — the agent operates the tool.
+- "Agentic" means it closes the loop from intent to result.
+- It removes drudgery and elevates judgement.
+- Cheaper analysis means more analysis, not less (Jevons).
+
+Next: meet the two tools behind every example in this book.

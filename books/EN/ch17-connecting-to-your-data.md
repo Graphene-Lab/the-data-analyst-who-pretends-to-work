@@ -1,1 +1,82 @@
-IyAxNy4gQ29ubmVjdGluZyB0byBZb3VyIERhdGEKCkJlZm9yZSB0aGUgYXNzaXN0YW50IGNhbiBkbyBhbnl0aGluZyB3aXRoIFBvd2VyIEJJLCBpdCBoYXMgdG8gY29ubmVjdCB0byBpdC4gVGhpcwpjaGFwdGVyIGlzIGFib3V0IHRoYXQgaGFuZHNoYWtlIOKAlCBob3cgdGhlIGFzc2lzdGFudCBmaW5kcyB5b3VyIG9wZW4gcmVwb3J0LCBjb25uZWN0cwp0byB0aGUgbGl2ZSBtb2RlbCwgYW5kIGtub3dzIGV4YWN0bHkgd2hhdCBpdCdzIHRhbGtpbmcgdG8uCgojIyBUaGUgbG9jYWwgY29ubmVjdGlvbgoKSGVyZSBpcyB0aGUga2V5IHRoaW5nIHRvIHVuZGVyc3RhbmQ6IFBvd2VyIEJJIERlc2t0b3AsIHdoZW4geW91IG9wZW4gYSByZXBvcnQsCnN0YXJ0cyBhIHNtYWxsICoqYW5hbHlzaXMgZW5naW5lKiogb24geW91ciBvd24gbWFjaGluZSAoYSBwcm9ncmFtIGNhbGxlZApgbXNtZHNydmApLiBUaGUgYXNzaXN0YW50IGNvbm5lY3RzIHRvICp0aGF0KiBlbmdpbmUsIG9uICp5b3VyKiBtYWNoaW5lLgoKYGBgCllvdSAg4oaSICBBZ2VudEJyaWRnZSAg4oaSICBQb3dlckJJVG9vbCAg4oaSICB0aGUgZW5naW5lIGluc2lkZSB5b3VyIFBvd2VyIEJJIERlc2t0b3AKYGBgCgpObyBjbG91ZC4gTm8gdXBsb2FkLiBUaGUgZGF0YSBuZXZlciBsZWF2ZXMgeW91ciBjb21wdXRlci4gVGhlIGFzc2lzdGFudCBpcyBzaW1wbHkKdGFsa2luZyB0byB0aGUgc2FtZSBlbmdpbmUgdGhhdCBQb3dlciBCSSBpdHNlbGYgdXNlcywgdGhyb3VnaCBhIGxvY2FsIGRvb3IuCgojIyBGaW5kaW5nIHdoYXQncyBvcGVuCgpUaGUgYXNzaXN0YW50IGNhbiBzZWUgZXZlcnkgUG93ZXIgQkkgcmVwb3J0IHlvdSBoYXZlIG9wZW4sIGVhY2ggd2l0aCBpdHMgb3duIGVuZ2luZQphbmQgcG9ydDoKCj4gIldoaWNoIFBvd2VyIEJJIHJlcG9ydHMgYXJlIG9wZW4gcmlnaHQgbm93PyIKCiFbT3BlbiByZXBvcnRzXSguLi8uLi9hc3NldHMvZXhhbXBsZXMvZTAwMy5wbmcpCgpJZiB5b3UgaGF2ZSBvbmUgcmVwb3J0IG9wZW4sIGl0IGNvbm5lY3RzIHRvIGl0IGRpcmVjdGx5LiBJZiB5b3UgaGF2ZSBzZXZlcmFsLCB5b3UKdGVsbCBpdCB3aGljaCBvbmUgYnkgbmFtZS4gVGhpcyBpcyBob3cgaXQgc3RheXMgcG9pbnRlZCBhdCB0aGUgcmlnaHQgdGhpbmcuCgojIyBDb25maXJtaW5nIHRoZSBjb25uZWN0aW9uCgpPbmNlIGNvbm5lY3RlZCwgeW91IGNhbiBhbHdheXMgY2hlY2sgdGhlIHN0YXR1czoKCj4gIldoYXQgaXMgdGhlIGNvbm5lY3Rpb24gc3RhdHVzPyIKCiFbQ29ubmVjdGlvbiBzdGF0dXNdKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9lMDA0LnBuZykKCkl0IHRlbGxzIHlvdSB3aGljaCBtb2RlbCBpdCdzIG9uIGFuZCB3aGljaCBsb2NhbCBwb3J0LiBUaGlzIG1hdHRlcnMgYmVjYXVzZSBldmVyeQpsYXRlciBjaGFuZ2UgZ29lcyB0byAqdGhpcyogbGl2ZSBtb2RlbC4gS25vd2luZyBleGFjdGx5IHdoYXQgeW91J3JlIGNvbm5lY3RlZCB0byBpcwp0aGUgZmlyc3QgcnVsZSBvZiBzYWZlIGVkaXRpbmcuCgojIyBXaGF0ICJsaXZlIiByZWFsbHkgbWVhbnMKCldoZW4gdGhlIGFzc2lzdGFudCBjaGFuZ2VzIHRoZSBtb2RlbCwgdGhlIGNoYW5nZSBoYXBwZW5zIGluIHRoZSAqKmxpdmUsIGluLW1lbW9yeQptb2RlbCoqIGluc2lkZSBQb3dlciBCSSBEZXNrdG9wLiBZb3Ugc2VlIGl0IGltbWVkaWF0ZWx5IOKAlCB0aGF0J3MgdGhlIHZpc3VhbApmZWVkYmFjayBsb29wLiBCdXQgdGhlcmUgaXMgb25lIGltcG9ydGFudCBjYXRjaCB0aGUgdG9vbCBhbHdheXMgcmVtaW5kcyB5b3Ugb2Y6Cgo+IFRoZSBjaGFuZ2UgaXMgbGl2ZSBidXQgKipub3Qgc2F2ZWQgdG8gdGhlIGZpbGUqKi4gVG8ga2VlcCBpdCwgeW91IHByZXNzICoqQ3RybCtTKioKPiBpbiBQb3dlciBCSSBEZXNrdG9wLgoKVGhpcyBpcyBhIHNhZmV0eSBmZWF0dXJlLCBub3QgYSBidWcuIEl0IG1lYW5zIGV2ZXJ5IGNoYW5nZSBpcyByZXZlcnNpYmxlIHVudGlsIHlvdQpjaG9vc2UgdG8gc2F2ZS4gWW91IGNhbiBleHBlcmltZW50IGZyZWVseTsgbm90aGluZyBpcyBwZXJtYW5lbnQgdW50aWwgeW91IGRlY2lkZS4KCiMjIEEgY3VyaW9zaXR5OiB0aGUgcG9ydCBpcyBhIHNlY3JldCBkb29yCgpFYWNoIFBvd2VyIEJJIERlc2t0b3AgaW5zdGFuY2UgcGlja3MgYSByYW5kb20gbG9jYWwgbmV0d29yayBwb3J0IGZvciBpdHMgZW5naW5lIOKAlAp0aGF0IG51bWJlciBpbiB0aGUgY29ubmVjdGlvbiBzdHJpbmcgKGxpa2UgYGxvY2FsaG9zdDo2NDQzMWApLiBUaGUgYXNzaXN0YW50CmRpc2NvdmVycyB0aGlzIHBvcnQgYXV0b21hdGljYWxseSBieSBmaW5kaW5nIHRoZSBydW5uaW5nIFBvd2VyIEJJIHByb2Nlc3MgYW5kIGl0cwpjaGlsZCBlbmdpbmUuIFlvdSBuZXZlciBoYXZlIHRvIGtub3cgdGhlIG51bWJlcjsgdGhlIHRvb2wgZmlndXJlcyBpdCBvdXQuIEl0J3MgdGhlCnNhbWUgZG9vciBQb3dlciBCSSB1c2VzIGludGVybmFsbHkg4oCUIHRoZSBhc3Npc3RhbnQganVzdCBsZWFybmVkIGhvdyB0byBrbm9jay4KCiMjIFJlY29ubmVjdGluZyBhbmQgc2FmZXR5CgpJZiB5b3UgY2xvc2UgdGhlIHJlcG9ydCBhbmQgb3BlbiBhbm90aGVyLCB0aGUgYXNzaXN0YW50IG5vdGljZXMgdGhlIGVuZ2luZSBjaGFuZ2VkCmFuZCBhc2tzIHlvdSB0byByZWNvbm5lY3Qg4oCUIGl0IHdvbid0IGJsaW5kbHkgd3JpdGUgdG8gdGhlIHdyb25nIG1vZGVsLiBUaGlzCnNlc3Npb24tc2FmZXR5IGlzIHdoYXQgbWFrZXMgbGl2ZSBlZGl0aW5nIHRydXN0d29ydGh5OiB0aGUgdG9vbCBjaGVja3MgdGhhdCB0aGUKZW5naW5lIGJlaGluZCB0aGUgY29ubmVjdGlvbiBpcyBzdGlsbCB0aGUgb25lIGl0IGNvbm5lY3RlZCB0byBiZWZvcmUgaXQgbGV0cyBhCmNoYW5nZSB0aHJvdWdoLgoKLS0tCgojIyBXaGF0IHlvdSdsbCBjYXJyeSBmcm9tIHRoaXMgY2hhcHRlcgoKLSBUaGUgYXNzaXN0YW50IGNvbm5lY3RzIHRvIHRoZSBsb2NhbCBlbmdpbmUgaW5zaWRlIHlvdXIgUG93ZXIgQkkgRGVza3RvcC4KLSBObyBjbG91ZCwgbm8gdXBsb2FkIOKAlCBldmVyeXRoaW5nIHN0YXlzIG9uIHlvdXIgbWFjaGluZS4KLSBJdCBkaXNjb3ZlcnMgb3BlbiByZXBvcnRzIGFuZCB0aGVpciBwb3J0cyBhdXRvbWF0aWNhbGx5LgotIENoYW5nZXMgYXJlIGxpdmUgYnV0IG5vdCBzYXZlZCB1bnRpbCB5b3UgcHJlc3MgQ3RybCtTLgotIFRoZSB0b29sIGd1YXJkcyBhZ2FpbnN0IHdyaXRpbmcgdG8gdGhlIHdyb25nIG1vZGVsLgoKTmV4dDogbW9kZWxsaW5nIGluIFBvd2VyIEJJIOKAlCB0aGUgYXNzaXN0YW50IGFzIGEgY2FyZWZ1bCwgd2VsbC1kb2N1bWVudGVkIG1vZGVsZXIuCg==
+# 17. Connecting to Your Data
+
+Before the assistant can do anything with Power BI, it has to connect to it. This
+chapter is about that handshake — how the assistant finds your open report, connects
+to the live model, and knows exactly what it's talking to.
+
+## The local connection
+
+Here is the key thing to understand: Power BI Desktop, when you open a report,
+starts a small **analysis engine** on your own machine (a program called
+`msmdsrv`). The assistant connects to *that* engine, on *your* machine.
+
+```
+You  →  AgentBridge  →  PowerBITool  →  the engine inside your Power BI Desktop
+```
+
+No cloud. No upload. The data never leaves your computer. The assistant is simply
+talking to the same engine that Power BI itself uses, through a local door.
+
+## Finding what's open
+
+The assistant can see every Power BI report you have open, each with its own engine
+and port:
+
+> "Which Power BI reports are open right now?"
+
+![Open reports](../../assets/examples/e003.png)
+
+If you have one report open, it connects to it directly. If you have several, you
+tell it which one by name. This is how it stays pointed at the right thing.
+
+## Confirming the connection
+
+Once connected, you can always check the status:
+
+> "What is the connection status?"
+
+![Connection status](../../assets/examples/e004.png)
+
+It tells you which model it's on and which local port. This matters because every
+later change goes to *this* live model. Knowing exactly what you're connected to is
+the first rule of safe editing.
+
+## What "live" really means
+
+When the assistant changes the model, the change happens in the **live, in-memory
+model** inside Power BI Desktop. You see it immediately — that's the visual
+feedback loop. But there is one important catch the tool always reminds you of:
+
+> The change is live but **not saved to the file**. To keep it, you press **Ctrl+S**
+> in Power BI Desktop.
+
+This is a safety feature, not a bug. It means every change is reversible until you
+choose to save. You can experiment freely; nothing is permanent until you decide.
+
+## A curiosity: the port is a secret door
+
+Each Power BI Desktop instance picks a random local network port for its engine —
+that number in the connection string (like `localhost:64431`). The assistant
+discovers this port automatically by finding the running Power BI process and its
+child engine. You never have to know the number; the tool figures it out. It's the
+same door Power BI uses internally — the assistant just learned how to knock.
+
+## Reconnecting and safety
+
+If you close the report and open another, the assistant notices the engine changed
+and asks you to reconnect — it won't blindly write to the wrong model. This
+session-safety is what makes live editing trustworthy: the tool checks that the
+engine behind the connection is still the one it connected to before it lets a
+change through.
+
+---
+
+## What you'll carry from this chapter
+
+- The assistant connects to the local engine inside your Power BI Desktop.
+- No cloud, no upload — everything stays on your machine.
+- It discovers open reports and their ports automatically.
+- Changes are live but not saved until you press Ctrl+S.
+- The tool guards against writing to the wrong model.
+
+Next: modelling in Power BI — the assistant as a careful, well-documented modeler.

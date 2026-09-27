@@ -1,1 +1,116 @@
-IyAyMC4gRWxlZ2lyIGVsIGdyw6FmaWNvIGFkZWN1YWRvCgpVbiBncsOhZmljbyBubyBlcyBkZWNvcmFjacOzbi4gRXMgdW5hIGhlcnJhbWllbnRhIHBhcmEgaGFjZXIgdmlzaWJsZSB1bmEgdmVyZGFkLiBFbApncsOhZmljbyBjb3JyZWN0byBoYWNlIHVuYSBpZGVhIG9idmlhIGVuIHVuIHNlZ3VuZG87IGVsIGdyw6FmaWNvIGVxdWl2b2NhZG8gbGEgZXNjb25kZQpvLCBwZW9yLCBtaWVudGUuIEVzdGUgY2Fww610dWxvIHRyYXRhIGRlIGVsZWdpciBsYSBpbWFnZW4gY29ycmVjdGEgcGFyYSBsYSB2ZXJkYWQgcXVlCnF1aWVyZXMgbW9zdHJhci4KCiMjIExhIMO6bmljYSByZWdsYQoKSGF5IHVuYSByZWdsYSBxdWUgY3VicmUgbGEgbWF5b3IgcGFydGU6Cgo+ICoqQWp1c3RhIGVsIGdyw6FmaWNvIGEgbGEgcHJlZ3VudGEsIG5vIGEgbG8gcXVlIHF1ZWRhIGd1YXBvLioqCgrCv0NvbXBhcmFyIGNhdGVnb3LDrWFzPyBCYXJyYXMuIMK/Q2FtYmlvIGVuIGVsIHRpZW1wbz8gVW5hIGzDrW5lYS4gwr9QYXJ0ZSBkZSB1biB0b2RvPwpVbmEgdGFydGEgKHVuYSBwZXF1ZcOxYSkuIMK/UmVsYWNpw7NuIGVudHJlIGRvcyBuw7ptZXJvcz8gVW4gZGlzcGVyc2nDs24uIEVsaWdlIGVsCmdyw6FmaWNvIHF1ZSByZXNwb25kZSBsYSBwcmVndW50YSwgeSBsYSByZXNwdWVzdGEgc2UgbXVlc3RyYSBzb2xhLgoKIyMgQ29tcGFyYXIgY2F0ZWdvcsOtYXM6IHVzYSBiYXJyYXMKCkN1YW5kbyBxdWllcmVzIGNvbXBhcmFyIMKrY3XDoW50byBwYXJhIGNhZGEgY29zYcK7OiB2ZW50YXMgcG9yIGNhdGVnb3LDrWEsIHBvciByZWdpw7NuLApwb3IgcHJvZHVjdG8sIHVzYSB1biAqKmdyw6FmaWNvIGRlIGJhcnJhcyoqIChvIGRlIGNvbHVtbmFzKS4gTGFzIGJhcnJhcyBzb24gZsOhY2lsZXMKZGUgY2xhc2lmaWNhciBwYXJhIGVsIG9qby4gRWwgYXNpc3RlbnRlIHB1ZWRlIGRhcnRlIGxvcyBkYXRvcyBjb24gbGEgZm9ybWEgZXhhY3RhCnBhcmEgZXN0bzoKCj4gwqtEYW1lIHZlbnRhcyBwb3IgY2F0ZWdvcsOtYSBwYXJhIHVuIGdyw6FmaWNvIGRlIGJhcnJhcy7CuwoKIVtWZW50YXMgcG9yIGNhdGVnb3LDrWEgcGFyYSB1biBncsOhZmljbyBkZSBiYXJyYXNdKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9lMDYwLnBuZykKClRyZXMgY2F0ZWdvcsOtYXMsIHN1cyB0b3RhbGVzLCBsaXN0b3MgcGFyYSBjb252ZXJ0aXJzZSBlbiB1biBncsOhZmljbyBkZSBiYXJyYXMuIEVsIG9qbwp2ZSBhbCBpbnN0YW50ZSBGdXJuaXR1cmUgYXJyaWJhLCBTdGF0aW9uZXJ5IGFiYWpvLgoKWSBhcXXDrSBlc3TDoSBlc2UgbWlzbW8gZGF0byByZWFsIHJlbmRlcml6YWRvIGNvbW8gZWwgZ3LDoWZpY286CgohW1ZlbnRhcyBwb3IgY2F0ZWdvcsOtYSDigJQgZ3LDoWZpY28gZGUgYmFycmFzXSguLi8uLi9hc3NldHMvZXhhbXBsZXMvY2hhcnQtY2F0ZWdvcnkucG5nKQoKPiDCq1ZlbnRhcyBwb3IgcmVnacOzbiBwYXJhIHVuIG1hcGEgbyBncsOhZmljbyBkZSBjb2x1bW5hcy7CuwoKIVtWZW50YXMgcG9yIHJlZ2nDs25dKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9lMDYxLnBuZykKClRvdGFsZXMgcmVnaW9uYWxlcywgbGlzdG9zIHBhcmEgdW4gZ3LDoWZpY28gZGUgY29sdW1uYXMgbyB1biBtYXBhLgoKIyMgQ2FtYmlvIGVuIGVsIHRpZW1wbzogdXNhIHVuYSBsw61uZWEKCkN1YW5kbyBsYSBwcmVndW50YSBlcyDCq8K/Y8OzbW8gc2UgbW92acOzIGVzdG8gZW4gZWwgdGllbXBvP8K7LCB1biAqKmdyw6FmaWNvIGRlIGzDrW5lYXMqKgptdWVzdHJhIGxhIGZvcm1hIGRlIGxhIHRlbmRlbmNpYTogbGFzIHN1YmlkYXMsIGxvcyBodW5kaW1pZW50b3MsIGxhIHRlbXBvcmFkYSwKbWVqb3IgcXVlIGN1YWxxdWllciB0YWJsYS4KCiFbVmVudGFzIHRvdGFsZXMgcG9yIG1lcyDigJQgZ3LDoWZpY28gZGUgbMOtbmVhc10oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2NoYXJ0LW1vbnRobHkucG5nKQoKRG9jZSBtZXNlcyBkZSB2ZW50YXMgcmVhbGVzLCB1bmEgbMOtbmVhLiBQdWVkZXMgdmVyIGVsIHBpY28gZGUgbWFyem8geSBlbCB2YWxsZSBkZQpvdG/DsW8gZGUgdW4gdmlzdGF6bzogZWwgdGlwbyBkZSBwYXRyw7NuIHF1ZSB1bmEgdGFibGEgZGUgbsO6bWVyb3MgZXNjb25kZS4KCiMjIFBhcnRlIGRlIHVuIHRvZG86IHVzYSB1bmEgdGFydGEgKGNvbiBjdWlkYWRvKQoKVW4gZ3LDoWZpY28gZGUgdGFydGEgbXVlc3RyYSBjw7NtbyB1biB0b3RhbCBzZSBkaXZpZGUgZW4gcGFydGVzLiBGdW5jaW9uYSBjb24gKip0cmVzIG8KY3VhdHJvIHBvcmNpb25lcyoqLiBGcmFjYXNhIGVzdHJlcGl0b3NhbWVudGUgY29uIGRpZXouCgo+IMKrUGFydGljaXBhY2nDs24gcG9yIGNhdGVnb3LDrWEgcGFyYSB1biBncsOhZmljbyBkZSB0YXJ0YS7CuwoKIVtQYXJ0aWNpcGFjacOzbiBwb3IgY2F0ZWdvcsOtYV0oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2UwODMucG5nKQoKS2l0Y2hlbiwgRnVybml0dXJlLCBTdGF0aW9uZXJ5IGNvbW8gcG9yY2lvbmVzIGRlbCB0b2RvOiB1bmEgdGFydGEgbGltcGlhLiBBw7FhZGUgdW5hCmRvY2VuYSBkZSBjYXRlZ29yw61hcyB5IGVsIG1pc21vIGdyw6FmaWNvIHNlIHZ1ZWx2ZSBjb25mZXRpIGlsZWdpYmxlLgoKTGEgbWlzbWEgcGFydGljaXBhY2nDs24sIHJlbmRlcml6YWRhIGNvbW8gdW4gZG9udXQgY29uIGxvcyB2YWxvcmVzIHkgcG9yY2VudGFqZXM6CgohW1BhcnRpY2lwYWNpw7NuIHBvciBjYXRlZ29yw61hIOKAlCBncsOhZmljbyBkZSBkb251dF0oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2NoYXJ0LXNoYXJlLnBuZykKCiMjIExvcyBncsOhZmljb3MgcXVlIGhheSBxdWUgZXZpdGFyCgotICoqR3LDoWZpY29zIDNEKiog4oCUIGRpc3RvcnNpb25hbiBsb3MgZGF0b3MuIFVuYSB0YXJ0YSAzRCBpbmNsaW5hIGxhcyBwb3JjaW9uZXMgeQogIG1pZW50ZSBzb2JyZSBzdSB0YW1hw7FvLiBOdW5jYS4KLSAqKkdyw6FmaWNvcyBkZSBkb2JsZSBlamUqKiDigJQgZG9zIGVqZXMgeSBwdWVkZW4gaGFjZXIgcXVlIGNvc2FzIG5vIHJlbGFjaW9uYWRhcwogIHBhcmV6Y2FuIHJlbGFjaW9uYWRhcy4gw5pzYWxvIGNvbiBleHRyZW1vIGN1aWRhZG8sIG8gbmFkYS4KLSAqKlRhcnRhcyBjb24gbXVjaGFzIHBvcmNpb25lcyoqIOKAlCBpbGVnaWJsZXMuIFVzYSB1biBncsOhZmljbyBkZSBiYXJyYXMgZW4gc3UgbHVnYXIuCi0gKipFamVzIHRydW5jYWRvcyoqIOKAlCB1biBncsOhZmljbyBkZSBiYXJyYXMgY3V5byBlamUgZW1waWV6YSBlbiA5MCUgZW4gdmV6IGRlIDAgaGFjZQogIHF1ZSB1bmEgZGlmZXJlbmNpYSBkaW1pbnV0YSBwYXJlemNhIGVub3JtZS4gRW1waWV6YSBlbCBlamUgZW4gY2VybyBzYWx2byBxdWUgdGVuZ2FzCiAgdW5hIHJhesOzbiBmdWVydGUuCgojIyBVbmEgY3VyaW9zaWRhZDogZWwgZ3LDoWZpY28gcXVlIG1pbnRpw7MgYSB1bmEgbmFjacOzbgoKRW4gbGFzIGVsZWNjaW9uZXMgZGUgRUUuIFVVLiBkZSAyMDEyLCB1biBncsOhZmljbyBtdXkgY29tcGFydGlkbyBtb3N0cmFiYSBhbApwcmVzaWRlbnRlIE9iYW1hIGdhbmFuZG8gwqtlbCA5OCUgZGVsIHZvdG/CuywgcG9ycXVlIGVyYSB1biBtYXBhIGRlIHZpY3RvcmlhcyBwb3IKKmNvbmRhZG8qLCB5IGxvcyBjb25kYWRvcyBydXJhbGVzIHNvbiBlbm9ybWVzIGVuIMOhcmVhIHBlcm8gZGltaW51dG9zIGVuIHBvYmxhY2nDs24uIEVsCm1hcGEgbW9zdHJhYmEgdGllcnJhLCBubyBnZW50ZSwgeSBlbmdhw7HDsyBhIG1pbGxvbmVzLiBMYSBsZWNjacOzbjogdW4gZ3LDoWZpY28gcHVlZGUKc2VyIHTDqWNuaWNhbWVudGUgZXhhY3RvIHkgY29tcGxldGFtZW50ZSBlbmdhw7Fvc28uIEVsIHRyYWJham8gZGVsIGFuYWxpc3RhIGVzIGVsZWdpcgpsYSB2aXN0YSBxdWUgbXVlc3RyYSBsYSAqdmVyZGFkKiwgbm8gc29sbyAqdW5hKiB2ZXJkYWQuCgojIyBDb2xvciBjb24gcHJvcMOzc2l0bwoKRWwgY29sb3IgZXMgcG9kZXJvc28geSBmw6FjaWwgZGUgZGVzcGVyZGljaWFyOgoKLSBVc2EgZWwgY29sb3IgcGFyYSAqKnJlc2FsdGFyKiosIG5vIHBhcmEgZGVjb3Jhci4KLSBSZXNlcnZhIGVsIHJvam8gcGFyYSDCq21hbG8gLyBwb3IgZGViYWpvIGRlbCBvYmpldGl2b8K7LCBlbCB2ZXJkZSBwYXJhIMKrYnVlbm/CuywgeSBubwogIGFidXNlcyBkZSBuaW5ndW5vLgotIERpc2XDsWEgcGFyYSBsZWN0b3JlcyBjb24gKipkYWx0b25pc21vKio6IG5vIGRlcGVuZGFzIHNvbG8gZGUgcm9qby92ZXJkZTsgYcOxYWRlCiAgZXRpcXVldGFzIG8gZm9ybWFzLgotIE1lbm9zIGNvbG9yZXMgPSBtZW5zYWplIG3DoXMgY2xhcm8uCgojIyBVbiBwYW5lbCBlcyB1bmEgaGlzdG9yaWEsIG5vIHVuYSBwYWxldGEgZGUgcGludHVyYQoKQ2FkYSB2aXN1YWwgZW4gdW5hIHDDoWdpbmEgZGViZXLDrWEgZ2FuYXJzZSBzdSBzaXRpbyBhdmFuemFuZG8gbGEgaGlzdG9yaWEuIFNpIHVuCmdyw6FmaWNvIG5vIGF5dWRhIGFsIGxlY3RvciBhIGVudGVuZGVyIG8gZGVjaWRpciwgY8OzcnRhbG8uIFVuYSBww6FnaW5hIGxpbXBpYSBjb24gdHJlcwpidWVub3MgZ3LDoWZpY29zIGxlIGdhbmEgYSB1bmEgcMOhZ2luYSBhdGVzdGFkYSBjb24gZG9jZSBib25pdG9zLgoKLS0tCgojIyBMbyBxdWUgdGUgbGxldmFyw6FzIGRlIGVzdGUgY2Fww610dWxvCgotIEFqdXN0YSBlbCBncsOhZmljbyBhIGxhIHByZWd1bnRhLCBubyBhIGxvIHF1ZSBxdWVkYSBndWFwby4KLSBCYXJyYXMgcGFyYSBjb21wYXJhcjsgbMOtbmVhcyBwYXJhIGVsIHRpZW1wbzsgdGFydGFzIHBlcXVlw7FhcyBwYXJhIHBhcnRlcyBkZSB1biB0b2RvLgotIEV2aXRhIDNELCB0cnVjb3MgZGUgZG9ibGUgZWplLCB0YXJ0YXMgZGUgbXVjaGFzIHBvcmNpb25lcyB5IGVqZXMgdHJ1bmNhZG9zLgotIFVuIGdyw6FmaWNvIHB1ZWRlIHNlciBleGFjdG8geSBhdW4gYXPDrSBlbmdhw7Fvc286IGVsaWdlIGxhIHZpc3RhIGhvbmVzdGEuCi0gVXNhIGVsIGNvbG9yIHBhcmEgcmVzYWx0YXIsIHkgZGlzZcOxYSBwYXJhIGxlY3RvcmVzIGRhbHTDs25pY29zLgoKU2lndWllbnRlOiBqdW50YXJsbyB0b2RvOiBpbmZvcm1lcyB5IHBhbmVsZXMgcXVlIGxhIGdlbnRlIHJlYWxtZW50ZSB1c2EuCg==
+# 20. Elegir el gráfico adecuado
+
+Un gráfico no es decoración. Es una herramienta para hacer visible una verdad. El
+gráfico correcto hace una idea obvia en un segundo; el gráfico equivocado la esconde
+o, peor, miente. Este capítulo trata de elegir la imagen correcta para la verdad que
+quieres mostrar.
+
+## La única regla
+
+Hay una regla que cubre la mayor parte:
+
+> **Ajusta el gráfico a la pregunta, no a lo que queda guapo.**
+
+¿Comparar categorías? Barras. ¿Cambio en el tiempo? Una línea. ¿Parte de un todo?
+Una tarta (una pequeña). ¿Relación entre dos números? Un dispersión. Elige el
+gráfico que responde la pregunta, y la respuesta se muestra sola.
+
+## Comparar categorías: usa barras
+
+Cuando quieres comparar «cuánto para cada cosa»: ventas por categoría, por región,
+por producto, usa un **gráfico de barras** (o de columnas). Las barras son fáciles
+de clasificar para el ojo. El asistente puede darte los datos con la forma exacta
+para esto:
+
+> «Dame ventas por categoría para un gráfico de barras.»
+
+![Ventas por categoría para un gráfico de barras](../../assets/examples/e060.png)
+
+Tres categorías, sus totales, listos para convertirse en un gráfico de barras. El ojo
+ve al instante Furniture arriba, Stationery abajo.
+
+Y aquí está ese mismo dato real renderizado como el gráfico:
+
+![Ventas por categoría — gráfico de barras](../../assets/examples/chart-category.png)
+
+> «Ventas por región para un mapa o gráfico de columnas.»
+
+![Ventas por región](../../assets/examples/e061.png)
+
+Totales regionales, listos para un gráfico de columnas o un mapa.
+
+## Cambio en el tiempo: usa una línea
+
+Cuando la pregunta es «¿cómo se movió esto en el tiempo?», un **gráfico de líneas**
+muestra la forma de la tendencia: las subidas, los hundimientos, la temporada,
+mejor que cualquier tabla.
+
+![Ventas totales por mes — gráfico de líneas](../../assets/examples/chart-monthly.png)
+
+Doce meses de ventas reales, una línea. Puedes ver el pico de marzo y el valle de
+otoño de un vistazo: el tipo de patrón que una tabla de números esconde.
+
+## Parte de un todo: usa una tarta (con cuidado)
+
+Un gráfico de tarta muestra cómo un total se divide en partes. Funciona con **tres o
+cuatro porciones**. Fracasa estrepitosamente con diez.
+
+> «Participación por categoría para un gráfico de tarta.»
+
+![Participación por categoría](../../assets/examples/e083.png)
+
+Kitchen, Furniture, Stationery como porciones del todo: una tarta limpia. Añade una
+docena de categorías y el mismo gráfico se vuelve confeti ilegible.
+
+La misma participación, renderizada como un donut con los valores y porcentajes:
+
+![Participación por categoría — gráfico de donut](../../assets/examples/chart-share.png)
+
+## Los gráficos que hay que evitar
+
+- **Gráficos 3D** — distorsionan los datos. Una tarta 3D inclina las porciones y
+  miente sobre su tamaño. Nunca.
+- **Gráficos de doble eje** — dos ejes y pueden hacer que cosas no relacionadas
+  parezcan relacionadas. Úsalo con extremo cuidado, o nada.
+- **Tartas con muchas porciones** — ilegibles. Usa un gráfico de barras en su lugar.
+- **Ejes truncados** — un gráfico de barras cuyo eje empieza en 90% en vez de 0 hace
+  que una diferencia diminuta parezca enorme. Empieza el eje en cero salvo que tengas
+  una razón fuerte.
+
+## Una curiosidad: el gráfico que mintió a una nación
+
+En las elecciones de EE. UU. de 2012, un gráfico muy compartido mostraba al
+presidente Obama ganando «el 98% del voto», porque era un mapa de victorias por
+*condado*, y los condados rurales son enormes en área pero diminutos en población. El
+mapa mostraba tierra, no gente, y engañó a millones. La lección: un gráfico puede
+ser técnicamente exacto y completamente engañoso. El trabajo del analista es elegir
+la vista que muestra la *verdad*, no solo *una* verdad.
+
+## Color con propósito
+
+El color es poderoso y fácil de desperdiciar:
+
+- Usa el color para **resaltar**, no para decorar.
+- Reserva el rojo para «malo / por debajo del objetivo», el verde para «bueno», y no
+  abuses de ninguno.
+- Diseña para lectores con **daltonismo**: no dependas solo de rojo/verde; añade
+  etiquetas o formas.
+- Menos colores = mensaje más claro.
+
+## Un panel es una historia, no una paleta de pintura
+
+Cada visual en una página debería ganarse su sitio avanzando la historia. Si un
+gráfico no ayuda al lector a entender o decidir, córtalo. Una página limpia con tres
+buenos gráficos le gana a una página atestada con doce bonitos.
+
+---
+
+## Lo que te llevarás de este capítulo
+
+- Ajusta el gráfico a la pregunta, no a lo que queda guapo.
+- Barras para comparar; líneas para el tiempo; tartas pequeñas para partes de un todo.
+- Evita 3D, trucos de doble eje, tartas de muchas porciones y ejes truncados.
+- Un gráfico puede ser exacto y aun así engañoso: elige la vista honesta.
+- Usa el color para resaltar, y diseña para lectores daltónicos.
+
+Siguiente: juntarlo todo: informes y paneles que la gente realmente usa.

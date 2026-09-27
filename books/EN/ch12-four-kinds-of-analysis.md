@@ -1,1 +1,108 @@
-IyAxMi4gRm91ciBLaW5kcyBvZiBBbmFseXNpcwoKRXZlcnkgYW5hbHlzaXMgeW91IHdpbGwgZXZlciBkbyBmYWxscyBpbnRvIG9uZSBvZiBmb3VyIGtpbmRzLCBhcnJhbmdlZCBieSBob3cgbXVjaAp0aGV5IGFzayBvZiB0aGUgZGF0YS4gVGhleSBjbGltYiBhIGxhZGRlcjogZnJvbSBsb29raW5nIGJhY2ssIHRvIGV4cGxhaW5pbmcgd2h5LCB0bwpndWVzc2luZyBmb3J3YXJkLCB0byByZWNvbW1lbmRpbmcgd2hhdCB0byBkby4gS25vd2luZyB3aGljaCBraW5kIHlvdSBhcmUgZG9pbmcKdGVsbHMgeW91IGhvdyBoYXJkIHRvIHB1c2ggYW5kIGhvdyBtdWNoIHRvIHRydXN0IHRoZSBhbnN3ZXIuCgojIyAxLiBEZXNjcmlwdGl2ZSDigJQgd2hhdCBoYXBwZW5lZD8KClRoZSBzaW1wbGVzdCBhbmQgbW9zdCBjb21tb24uIFlvdSBkZXNjcmliZSB0aGUgcGFzdC4gIlNhbGVzIHdlcmUg4oKsMjIsMDIzLiBUaGUgTm9ydGgKZGlkIOKCrDEyLDE0NS4iIE5vIGV4cGxhbmF0aW9uLCBubyBwcmVkaWN0aW9uIOKAlCBqdXN0IHRoZSBmYWN0cywgY2xlYXJseS4KCj4gIkRlc2NyaXB0aXZlOiB0b3RhbCBzYWxlcyBieSByZWdpb24uIgoKIVtEZXNjcmlwdGl2ZSBieSByZWdpb25dKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9lMDMxLnBuZykKCk1vc3QgZGFzaGJvYXJkcyBhcmUgZGVzY3JpcHRpdmUuIFRoZXkgYW5zd2VyICJob3cgYXJlIHdlIGRvaW5nPyIgYW5kIHRoZXkgYXJlIHRoZQpmb3VuZGF0aW9uIGV2ZXJ5dGhpbmcgZWxzZSBzdGFuZHMgb24uCgpUaGUgcmVnaW9uYWwgYnJlYWtkb3duLCBhcyBhIGNoYXJ0OgoKIVtTYWxlcyBieSByZWdpb24g4oCUIGJhciBjaGFydF0oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2NoYXJ0LXJlZ2lvbi5wbmcpCgojIyAyLiBEaWFnbm9zdGljIOKAlCB3aHkgZGlkIGl0IGhhcHBlbj8KCk5vdyB5b3UgZGlnLiBTb21ldGhpbmcgY2hhbmdlZCwgYW5kIHlvdSB3YW50IHRoZSBjYXVzZS4gWW91IHNsaWNlLCBjb21wYXJlLCBhbmQKY3Jvc3MtcmVmZXJlbmNlIHVudGlsIHRoZSByZWFzb24gc3VyZmFjZXMuCgo+ICJEaWFnbm9zdGljOiB3aGljaCBjYXRlZ29yeSBlYXJucyB0aGUgbW9zdD8iCgohW0RpYWdub3N0aWMgYnkgY2F0ZWdvcnldKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9lMDMyLnBuZykKCj4gIkNvbXBhcmUgTm9ydGggdnMgQ2VudGVyIHNhbGVzLiIKCiFbTm9ydGggdnMgQ2VudGVyXSguLi8uLi9hc3NldHMvZXhhbXBsZXMvZTAzMy5wbmcpCgpEaWFnbm9zdGljIHdvcmsgaXMgd2hlcmUgdGhlIGFuYWx5c3QgZWFybnMgdGhlaXIga2VlcC4gRGVzY3JpcHRpdmUgdGVsbHMgeW91IHRoZQpwYXRpZW50IGhhcyBhIGZldmVyOyBkaWFnbm9zdGljIGZpbmRzIHRoZSBpbmZlY3Rpb24uCgpUaGUgc2FtZSBkaWFnbm9zdGljIGV5ZSB0dXJuZWQgb24gc3RvcmVzOgoKIVtTYWxlcyBieSBzdG9yZSDigJQgYmFyIGNoYXJ0XSguLi8uLi9hc3NldHMvZXhhbXBsZXMvY2hhcnQtc3RvcmUucG5nKQoKIyMgMy4gUHJlZGljdGl2ZSDigJQgd2hhdCB3aWxsIGhhcHBlbj8KCllvdSB1c2UgdGhlIHBhc3QgdG8gZ3Vlc3MgdGhlIGZ1dHVyZS4gRGVtYW5kIG5leHQgcXVhcnRlciwgY2h1cm4gbmV4dCBtb250aCwgc2FsZXMKYnkgeWVhci1lbmQuIFRoaXMgdXN1YWxseSBuZWVkcyBzdGF0aXN0aWNzIG9yIG1hY2hpbmUgbGVhcm5pbmcsIGFuZCBpdCBjb21lcyB3aXRoIGEKY29uZmlkZW5jZSByYW5nZSDigJQgYSBnb29kIHByZWRpY3Rpb24gc2F5cyAiYWJvdXQgMTEsMDAwLCBnaXZlIG9yIHRha2UuIgoKPiAiQmVzdCBtb250aCBvdmVyYWxsLiIKCiFbQmVzdCBtb250aF0oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2UwNzYucG5nKQoKQSBzaW5nbGUtcGVyaW9kIHZpZXcgbGlrZSB0aGlzIGlzIHRoZSByYXcgbWF0ZXJpYWwgZm9yIHByZWRpY3Rpb246IHlvdSBzZWUgdGhlCnBhdHRlcm4sIHRoZW4geW91IHByb2plY3QgaXQgZm9yd2FyZC4KCiMjIDQuIFByZXNjcmlwdGl2ZSDigJQgd2hhdCBzaG91bGQgd2UgZG8/CgpUaGUgdG9wIG9mIHRoZSBsYWRkZXIuIEdpdmVuIHRoZSBwcmVkaWN0aW9uIGFuZCB0aGUgY29uc3RyYWludHMsIHdoYXQgYWN0aW9uCm1heGltaXNlcyB0aGUgZ29hbD8gV2hpY2ggcHJpY2UsIHdoaWNoIHByb21vdGlvbiwgd2hpY2ggc3RvY2sgbGV2ZWwuIFByZXNjcmlwdGl2ZQphbmFseXNpcyBpcyB0aGUgcmFyZXN0IGFuZCBoYXJkZXN0LCBhbmQgaXQgdXN1YWxseSBzaXRzIG9uIHRvcCBvZiB0aGUgb3RoZXIgdGhyZWUuCgojIyBUaGUgbGFkZGVyIGluIG9uZSBwaWN0dXJlCgp8IEtpbmQgfCBRdWVzdGlvbiB8IEVmZm9ydCB8IFRydXN0IG5lZWRlZCB8CnwtLS18LS0tfC0tLXwtLS18CnwgRGVzY3JpcHRpdmUgfCBXaGF0IGhhcHBlbmVkPyB8IExvdyB8IEhpZ2ggKGl0J3MganVzdCBmYWN0cykgfAp8IERpYWdub3N0aWMgfCBXaHk/IHwgTWVkaXVtIHwgTWVkaXVtICh3YXRjaCBmb3IgZmFsc2UgY2F1c2VzKSB8CnwgUHJlZGljdGl2ZSB8IFdoYXQgbmV4dD8gfCBIaWdoIHwgTG93ZXIgKGl0J3MgYSBndWVzcyB3aXRoIGEgcmFuZ2UpIHwKfCBQcmVzY3JpcHRpdmUgfCBXaGF0IHRvIGRvPyB8IEhpZ2hlc3QgfCBMb3dlc3QgKGl0J3MgYSByZWNvbW1lbmRhdGlvbikgfAoKTm90aWNlIHRoZSBwYXR0ZXJuOiB0aGUgaGlnaGVyIHlvdSBjbGltYiwgdGhlIG1vcmUgdmFsdWUgeW91IGFkZCDigJQgYW5kIHRoZSBsZXNzCmNlcnRhaW4geW91IGFyZS4gQSBnb29kIGFuYWx5c3QgaXMgaG9uZXN0IGFib3V0IHRoYXQgdHJhZGUtb2ZmLgoKIyMgUmFua2luZzogdGhlIGFuYWx5c3QncyBmYXZvdXJpdGUgbW92ZQoKUmFua2luZyB0dXJucyBhIGZsYXQgbGlzdCBpbnRvIGEgc3RvcnkuIFdobydzIGZpcnN0LCB3aG8ncyBsYXN0LCB3aG8ncyBpbXByb3ZpbmcuCgo+ICJSYW5rIHByb2R1Y3RzIGJ5IHNhbGVzLiIKCiFbUmFuayBwcm9kdWN0c10oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2UwMzQucG5nKQoKPiAiQXZlcmFnZSBxdWFudGl0eSBwZXIgc2FsZS4iCgohW0F2ZXJhZ2UgcXVhbnRpdHkgcGVyIHNhbGVdKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9lMDU5LnBuZykKClJhbmtpbmcgaXMgZGVzY3JpcHRpdmUsIGJ1dCBpdCBwb2ludHMgdGhlIGRpYWdub3N0aWMgd29yazogdGhlIGJvdHRvbSBvZiB0aGUgbGlzdAppcyB3aGVyZSB5b3UgbG9vayBmaXJzdCBmb3IgYSBwcm9ibGVtLgoKIyMgQSBjdXJpb3NpdHk6IHRoZSBhbmFseXRpY3MgbWF0dXJpdHkgbXl0aAoKQ29uc3VsdGFudHMgbG92ZSB0byBzZWxsIGEgIm1hdHVyaXR5IG1vZGVsIiB3aGVyZSB5b3UgbXVzdCBjbGltYiBmcm9tIGRlc2NyaXB0aXZlCnRvIHByZXNjcmlwdGl2ZSBvciB5b3UncmUgYSBsYWdnYXJkLiBJbiByZWFsaXR5LCAqKm1vc3QgYnVzaW5lc3NlcyB3b3VsZCBiZQp0cmFuc2Zvcm1lZCBqdXN0IGJ5IGdldHRpbmcgZGVzY3JpcHRpdmUgYW5kIGRpYWdub3N0aWMgcmlnaHQuKiogRG9uJ3QgYmUgYXNoYW1lZApvZiBhIGdvb2QgIndoYXQgaGFwcGVuZWQgYW5kIHdoeSIg4oCUIGl0IGlzIHdoZXJlIDkwJSBvZiB0aGUgdmFsdWUgbGl2ZXMuIFRoZQpwcmVkaWN0aXZlIGFuZCBwcmVzY3JpcHRpdmUgbGF5ZXJzIGFyZSB0aGUgY2hlcnJ5IG9uIHRvcCwgbm90IHRoZSBjYWtlLgoKLS0tCgojIyBXaGF0IHlvdSdsbCBjYXJyeSBmcm9tIHRoaXMgY2hhcHRlcgoKLSBGb3VyIGtpbmRzOiBkZXNjcmlwdGl2ZSwgZGlhZ25vc3RpYywgcHJlZGljdGl2ZSwgcHJlc2NyaXB0aXZlLgotIFZhbHVlIGFuZCB1bmNlcnRhaW50eSBib3RoIHJpc2UgYXMgeW91IGNsaW1iLgotIE1vc3QgdmFsdWUgbGl2ZXMgaW4gZGVzY3JpcHRpdmUgKyBkaWFnbm9zdGljLgotIFJhbmtpbmcgaXMgdGhlIHNpbXBsZXN0IHdheSB0byBmaW5kIHdoZXJlIHRvIGxvb2suCi0gQmUgaG9uZXN0IGFib3V0IGhvdyBtdWNoIHRvIHRydXN0IGVhY2gga2luZC4KCk5leHQ6IHRoZSBjdXN0b21lciDigJQgdGhlIG1vc3QgaW1wb3J0YW50IHN1YmplY3Qgb2YgYW5hbHlzaXMgdGhlcmUgaXMuCg==
+# 12. Four Kinds of Analysis
+
+Every analysis you will ever do falls into one of four kinds, arranged by how much
+they ask of the data. They climb a ladder: from looking back, to explaining why, to
+guessing forward, to recommending what to do. Knowing which kind you are doing
+tells you how hard to push and how much to trust the answer.
+
+## 1. Descriptive — what happened?
+
+The simplest and most common. You describe the past. "Sales were €22,023. The North
+did €12,145." No explanation, no prediction — just the facts, clearly.
+
+> "Descriptive: total sales by region."
+
+![Descriptive by region](../../assets/examples/e031.png)
+
+Most dashboards are descriptive. They answer "how are we doing?" and they are the
+foundation everything else stands on.
+
+The regional breakdown, as a chart:
+
+![Sales by region — bar chart](../../assets/examples/chart-region.png)
+
+## 2. Diagnostic — why did it happen?
+
+Now you dig. Something changed, and you want the cause. You slice, compare, and
+cross-reference until the reason surfaces.
+
+> "Diagnostic: which category earns the most?"
+
+![Diagnostic by category](../../assets/examples/e032.png)
+
+> "Compare North vs Center sales."
+
+![North vs Center](../../assets/examples/e033.png)
+
+Diagnostic work is where the analyst earns their keep. Descriptive tells you the
+patient has a fever; diagnostic finds the infection.
+
+The same diagnostic eye turned on stores:
+
+![Sales by store — bar chart](../../assets/examples/chart-store.png)
+
+## 3. Predictive — what will happen?
+
+You use the past to guess the future. Demand next quarter, churn next month, sales
+by year-end. This usually needs statistics or machine learning, and it comes with a
+confidence range — a good prediction says "about 11,000, give or take."
+
+> "Best month overall."
+
+![Best month](../../assets/examples/e076.png)
+
+A single-period view like this is the raw material for prediction: you see the
+pattern, then you project it forward.
+
+## 4. Prescriptive — what should we do?
+
+The top of the ladder. Given the prediction and the constraints, what action
+maximises the goal? Which price, which promotion, which stock level. Prescriptive
+analysis is the rarest and hardest, and it usually sits on top of the other three.
+
+## The ladder in one picture
+
+| Kind | Question | Effort | Trust needed |
+|---|---|---|---|
+| Descriptive | What happened? | Low | High (it's just facts) |
+| Diagnostic | Why? | Medium | Medium (watch for false causes) |
+| Predictive | What next? | High | Lower (it's a guess with a range) |
+| Prescriptive | What to do? | Highest | Lowest (it's a recommendation) |
+
+Notice the pattern: the higher you climb, the more value you add — and the less
+certain you are. A good analyst is honest about that trade-off.
+
+## Ranking: the analyst's favourite move
+
+Ranking turns a flat list into a story. Who's first, who's last, who's improving.
+
+> "Rank products by sales."
+
+![Rank products](../../assets/examples/e034.png)
+
+> "Average quantity per sale."
+
+![Average quantity per sale](../../assets/examples/e059.png)
+
+Ranking is descriptive, but it points the diagnostic work: the bottom of the list
+is where you look first for a problem.
+
+## A curiosity: the analytics maturity myth
+
+Consultants love to sell a "maturity model" where you must climb from descriptive
+to prescriptive or you're a laggard. In reality, **most businesses would be
+transformed just by getting descriptive and diagnostic right.** Don't be ashamed
+of a good "what happened and why" — it is where 90% of the value lives. The
+predictive and prescriptive layers are the cherry on top, not the cake.
+
+---
+
+## What you'll carry from this chapter
+
+- Four kinds: descriptive, diagnostic, predictive, prescriptive.
+- Value and uncertainty both rise as you climb.
+- Most value lives in descriptive + diagnostic.
+- Ranking is the simplest way to find where to look.
+- Be honest about how much to trust each kind.
+
+Next: the customer — the most important subject of analysis there is.

@@ -1,1 +1,52 @@
-IyBBcMOpbmRpY2UgQyDigJQgTGlzdGEgZGUgY29tcHJvYmFjacOzbiBkZWwgcGFuZWwKCkFudGVzIGRlIGVudHJlZ2FyIHVuIHBhbmVsLCByZWNvcnJlIGVzdGEgbGlzdGEuCgojIyBQcm9ww7NzaXRvCgotIFsgXSBFbCBwYW5lbCByZXNwb25kZSB1bmEgcHJlZ3VudGEgY2xhcmEgKG8gY29uanVudG8gZGUgcHJlZ3VudGFzKS4KLSBbIF0gTGEgYXVkaWVuY2lhIGVzIGNvbm9jaWRhIChlamVjdXRpdm8sIG9wZXJhY2lvbmVzLCBhbmFsaXN0YSkuCi0gWyBdIExhIGRlY2lzacOzbiBxdWUgYXBveWEgZXMgY29ub2NpZGEuCgojIyBEaXNlw7FvCgotIFsgXSBFbCBuw7ptZXJvIG3DoXMgaW1wb3J0YW50ZSBlcyBlbCBtw6FzIGdyYW5kZSB5IGFycmliYSBhIGxhIGl6cXVpZXJkYS4KLSBbIF0gTGFzIG3DqXRyaWNhcyByZWxhY2lvbmFkYXMgdmFuIGp1bnRhcy4KLSBbIF0gTmFkYSBjb21waXRlIHBvciBsYSBhdGVuY2nDs24uCi0gWyBdIENhYmUgZW4gdW5hIHBhbnRhbGxhIHNpbiBkZXNwbGF6YXJzZSAocGFyYSBsYSB2aXN0YSBwcmluY2lwYWwpLgoKIyMgTcOpdHJpY2FzCgotIFsgXSBDYWRhIEtQSSBlc3TDoSBkZWZpbmlkbyB5IGVudGVuZGlkby4KLSBbIF0gTG9zIEtQSSBzb24gbG9zICpjb3JyZWN0b3MqLCBubyBzb2xvIGxvcyBmw6FjaWxlcy4KLSBbIF0gTGFzIHVuaWRhZGVzIHkgZm9ybWF0b3MgZXN0w6FuIGNsYXJvcyAo4oKsLCAlLCByZWN1ZW50b3MpLgotIFsgXSBDYWRhIG7Dum1lcm8gcHVlZGUgcmFzdHJlYXJzZSBoYXN0YSBlbCBtb2RlbG8uCgojIyBWaXN1YWxlcwoKLSBbIF0gRWwgdGlwbyBkZSBncsOhZmljbyBlbmNhamEgY29uIGxvcyBkYXRvcyAoYmFycmFzIHBhcmEgY29tcGFyYXIsIGzDrW5lYSBwYXJhCiAgdGVuZGVuY2lhLCBldGMuKS4KLSBbIF0gU2luIGVqZSBlbmdhw7Fvc28sIHNpbiB2ZW50YW5hIGVsZWdpZGEgYSBkZWRvLgotIFsgXSBMb3MgY29sb3JlcyBzaWduaWZpY2FuIGFsZ28gKG5vIGRlY29yYWNpw7NuKS4KLSBbIF0gTGFzIGV0aXF1ZXRhcyBzZSBsZWVuIGRlIHVuIHZpc3Rhem8uCgojIyBJbnRlcmFjdGl2aWRhZAoKLSBbIF0gTG9zIGZpbHRyb3MgZnVuY2lvbmFuIHkgdGllbmVuIHNlbnRpZG8uCi0gWyBdIExhIHByb2Z1bmRpemFjacOzbiB2YSBkb25kZSBlbCB1c3VhcmlvIGVzcGVyYS4KLSBbIF0gRWwgcmVzYWx0YWRvIGNydXphZG8gc2UgY29tcG9ydGEgY29ycmVjdGFtZW50ZS4KCiMjIENvbmZpYW56YQoKLSBbIF0gTG9zIG7Dum1lcm9zIGNvbmNpbGlhbiBjb24gbGEgZnVlbnRlLgotIFsgXSBFbCBtb2RlbG8gcGFzw7MgbGEgY29tcHJvYmFjacOzbiBkZSBidWVuYXMgcHLDoWN0aWNhcy4KLSBbIF0gRWwgcGFuZWwgZXN0w6EgZG9jdW1lbnRhZG8gKHF1w6kgc2lnbmlmaWNhIGNhZGEgS1BJKS4KLSBbIF0gQWxndWllbiBsbyBwb3NlZSB5IGxvIG1hbnRpZW5lIGZyZXNjby4KCiMjIEhvbmVzdGlkYWQKCi0gWyBdIExhIGhpc3RvcmlhIHF1ZSBjdWVudGEgZWwgcGFuZWwgZXMgbGEgaG9uZXN0YS4KLSBbIF0gVW5hIHByZWd1bnRhIGRpZsOtY2lsIHNvYnJlIHVuIG7Dum1lcm8gcHVlZGUgcmVzcG9uZGVyc2Ugc2luIHZlcmfDvGVuemEuCgpVbiBidWVuIHBhbmVsIG5vIGVzIGVsIG3DoXMgYm9uaXRvLiBFcyBhcXVlbCBlbiBlbCBxdWUgbGEgZ2VudGUgY29uZsOtYSBsbyBiYXN0YW50ZSBjb21vCnBhcmEgYWN0dWFyLiBDb25zdHJ1eWUgcGFyYSBsYSBjb25maWFuemEgcHJpbWVybywgbGEgYmVsbGV6YSBkZXNwdcOpcy4K
+# Apéndice C — Lista de comprobación del panel
+
+Antes de entregar un panel, recorre esta lista.
+
+## Propósito
+
+- [ ] El panel responde una pregunta clara (o conjunto de preguntas).
+- [ ] La audiencia es conocida (ejecutivo, operaciones, analista).
+- [ ] La decisión que apoya es conocida.
+
+## Diseño
+
+- [ ] El número más importante es el más grande y arriba a la izquierda.
+- [ ] Las métricas relacionadas van juntas.
+- [ ] Nada compite por la atención.
+- [ ] Cabe en una pantalla sin desplazarse (para la vista principal).
+
+## Métricas
+
+- [ ] Cada KPI está definido y entendido.
+- [ ] Los KPI son los *correctos*, no solo los fáciles.
+- [ ] Las unidades y formatos están claros (€, %, recuentos).
+- [ ] Cada número puede rastrearse hasta el modelo.
+
+## Visuales
+
+- [ ] El tipo de gráfico encaja con los datos (barras para comparar, línea para
+  tendencia, etc.).
+- [ ] Sin eje engañoso, sin ventana elegida a dedo.
+- [ ] Los colores significan algo (no decoración).
+- [ ] Las etiquetas se leen de un vistazo.
+
+## Interactividad
+
+- [ ] Los filtros funcionan y tienen sentido.
+- [ ] La profundización va donde el usuario espera.
+- [ ] El resaltado cruzado se comporta correctamente.
+
+## Confianza
+
+- [ ] Los números concilian con la fuente.
+- [ ] El modelo pasó la comprobación de buenas prácticas.
+- [ ] El panel está documentado (qué significa cada KPI).
+- [ ] Alguien lo posee y lo mantiene fresco.
+
+## Honestidad
+
+- [ ] La historia que cuenta el panel es la honesta.
+- [ ] Una pregunta difícil sobre un número puede responderse sin vergüenza.
+
+Un buen panel no es el más bonito. Es aquel en el que la gente confía lo bastante como
+para actuar. Construye para la confianza primero, la belleza después.

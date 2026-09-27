@@ -1,1 +1,91 @@
-IyBBbmhhbmcgRiDigJQgTMO2c3VuZ2VuIGRlciDDnGJ1bmdlbgoKTMO2c3VuZ2VuIGRlciBnZWbDvGhydGVuIMOcYnVuZ2VuIGluIEFuaGFuZyBFLiBKZWRlIHplaWd0IGRlbiBBdWZ0cmFnIGluIG5vcm1hbGVyClNwcmFjaGUgdW5kIGRhcyBEQVgsIGRhcyBkZXIgQXNzaXN0ZW50IHByb2R1emllcnQuCgojIyDDnGJ1bmcgMSDigJQgRGFzIE1vZGVsbCBsZXNlbgoKKipBdWZ0cmFnOioqIOKAnkxpc3RlIGplZGUgVGFiZWxsZSBtaXQgaWhyZXIgWmVpbGVuemFobC4iCioqV2FzIHBhc3NpZXJ0OioqIERlciBBc3Npc3RlbnQgbGllc3QgZGFzIExpdmUtTW9kZWxsIHVuZCBnaWJ0IGplZGUgVGFiZWxsZSBtaXQKaWhyZW0gVHlwLCBpaHJlciBaZWlsZW56YWhsIHVuZCBpaHJlciBTcGFsdGVuemFobCB6dXLDvGNrLiBLZWluIERBWCBuw7Z0aWcg4oCTIGVzIGlzdAplaW4gRGlzY292ZXJ5LUNhbGwuCgojIyDDnGJ1bmcgMiDigJQgRWluZSBUYWJlbGxlIHByb2ZpbGllcmVuCgoqKkF1ZnRyYWc6Kiog4oCeRXJzdGVsbGUgZWluIFByb2ZpbCBkZXIgUHJvZHVjdHMtVGFiZWxsZS4iCioqV2FzIHBhc3NpZXJ0OioqIERlciBBc3Npc3RlbnQgZ2lidCBlaW5lIFByb2ZpbC1UYWJlbGxlIG1pdCBEaXN0aW5jdCwgQmxhbmtzLCBNaW4sCk1heCB1bmQgVG9wLVdlcnRlbiBwcm8gU3BhbHRlIHp1csO8Y2suIERpZSBBbnphaGwgdmVyc2NoaWVkZW5lciBXZXJ0ZSB2b24gQ2F0ZWdvcnkKaXN0IDM7IExlZXJzdGVsbGVuIHplaWdlbiBwcm8gU3BhbHRlLgoKIyMgw5xidW5nIDMg4oCUIFRleHQgc8OkdWJlcm4KCioqQXVmdHJhZzoqKiDigJ5Gw7xnZSBlaW5lIFNwYWx0ZSBoaW56dSBtaXQgZGVyIEthdGVnb3JpZSBpbiBHcm/Dn2J1Y2hzdGFiZW4uIgoqKkRBWDoqKiBgVVBQRVIoUHJvZHVjdHNbQ2F0ZWdvcnldKWAKKipFcmdlYm5pczoqKiBlaW5lIG5ldWUgYmVyZWNobmV0ZSBTcGFsdGUgYFByb2R1Y3RzW0NhdGVnb3J5VXBwZXJdYC4KCiMjIMOcYnVuZyA0IOKAlCBFaW5lIFphaGwgaW4gQsOkbmRlciBlaW50ZWlsZW4KCioqQXVmdHJhZzoqKiDigJ5Tb3J0aWVyZSBkaWUgUHJvZHVrdGUgbmFjaCBQcmVpcyBpbiBIaWdoIC8gTWlkIC8gTG93LiIKKipEQVg6KioKYGBgClNXSVRDSChUUlVFKCksCiAgUHJvZHVjdHNbUHJpY2VdID49IDIwMCwgIkhpZ2giLAogIFByb2R1Y3RzW1ByaWNlXSA+PSA1MCwgIk1pZCIsCiAgIkxvdyIpCmBgYAoqKkVyZ2VibmlzOioqIGVpbmUgbmV1ZSBiZXJlY2huZXRlIFNwYWx0ZSBgUHJvZHVjdHNbUHJpY2VCYW5kXWAuCgojIyDDnGJ1bmcgNSDigJQgRWluZSBCZXppZWh1bmcgdmVyZHJhaHRlbgoKKipBdWZ0cmFnOioqIOKAnlZlcmJpbmRlIFNhbGVzIG1pdCBQcm9kdWN0cyDDvGJlciBQcm9kdWN0SUQuIgoqKkVyZ2VibmlzOioqIGVpbmUgdmllbGUtYXVmLWVpbnMtLCBnZXJpY2h0ZXRlLCBha3RpdmUgQmV6aWVodW5nCmBTYWxlc1tQcm9kdWN0SURdIOKGkiBQcm9kdWN0c1tQcm9kdWN0SURdYC4KCiMjIMOcYnVuZyA2IOKAlCBFaW4gTWHDnyBiYXVlbgoKKipBdWZ0cmFnOioqIOKAnkVyc3RlbGxlIGVpbiBNYcOfIEdlc2FtdHVtc2F0eiBtaXQgRXVyby1Gb3JtYXQuIgoqKkRBWDoqKiBgU1VNKFNhbGVzW0Ftb3VudF0pYCBtaXQgRm9ybWF0IGAjLCMjMC4wMCDigqxgLgoqKkVyZ2VibmlzOioqIGVpbiBuZXVlcyBNYcOfIGBTYWxlc1tUb3RhbCBTYWxlc11gLgoKIyMgw5xidW5nIDcg4oCUIEVpbiBNYcOfIGZpbHRlcm4KCioqQXVmdHJhZzoqKiDigJ5aw6RobGUgbnVyIFZlcmvDpHVmZSDDvGJlciAzMDAuIgoqKkRBWDoqKiBgQ09VTlRST1dTKEZJTFRFUihTYWxlcywgU2FsZXNbQW1vdW50XSA+IDMwMCkpYAoqKkVyZ2VibmlzOioqIGVpbiBuZXVlcyBNYcOfIGBTYWxlc1tCaWcgU2FsZXMgQ291bnRdYC4KCiMjIMOcYnVuZyA4IOKAlCBBbnRlaWwgYW0gR2FuemVuCgoqKkF1ZnRyYWc6Kiog4oCeRGVyIEFudGVpbCBqZWRlciBLYXRlZ29yaWUgYW0gR2VzYW10dW1zYXR6LiIKKipEQVg6KiogYERJVklERShbVG90YWwgU2FsZXNdLCBDQUxDVUxBVEUoW1RvdGFsIFNhbGVzXSwgQUxMKFNhbGVzKSkpYAoqKkVyZ2VibmlzOioqIGVpbiBuZXVlcyBNYcOfIGBTYWxlc1tQY3QgT2YgVG90YWxdYCBtaXQgUHJvemVudGZvcm1hdC4KCiMjIMOcYnVuZyA5IOKAlCBSYW5naWVyZW4KCioqQXVmdHJhZzoqKiDigJ5SYW5naWVyZSBQcm9kdWt0ZSBuYWNoIFVtc2F0ei4iCioqREFYOioqIGBSQU5LWChBTEwoUHJvZHVjdHMpLCBbVG90YWwgU2FsZXNdKWAKKipFcmdlYm5pczoqKiBlaW5lIFJhbmdsaXN0ZSBtaXQgZGVtIFJhbmcgamVkZXMgUHJvZHVrdHMuCgojIyDDnGJ1bmcgMTAg4oCUIFZhbGlkaWVyZW4sIGJldm9yIGR1IHNwZWljaGVyc3QKCioqQXVmdHJhZzoqKiDigJ5Jc3QgZGFzIGVpbiBnw7xsdGlnZXMgTWHDnz8gU1VNKFNhbGVzW0Ftb3VudF0pIgoqKldhcyBwYXNzaWVydDoqKiBEZXIgQXNzaXN0ZW50IHZhbGlkaWVydCB1bmQgZ2lidCDigJ5WYWxpZCIgbWl0IGVpbmVtIEJlaXNwaWVsd2VydAp6dXLDvGNrICgyMjAyMykuIEVyc3QgZGFubiBlcnN0ZWxsc3QgZHUgZGFzIE1hw58uCgojIyDDnGJ1bmcgMTEg4oCUIExpbnRlbgoKKipBdWZ0cmFnOioqIOKAnkxpbnQgZGllc2VzIERBWDogU1VNKGEpL1NVTShiKSIKKipXYXMgcGFzc2llcnQ6KiogRGVyIExpbnRlciBmbGFnZ3QgZGVuIGAvYCB1bmQgc2NobMOkZ3QgYERJVklERSgpYCB2b3IsIHVtCkRpdmlzaW9uIGR1cmNoIG51bGwgc2ljaGVyIHp1IGJlaGFuZGVsbi4KCiMjIMOcYnVuZyAxMiDigJQgRG9rdW1lbnRpZXJlbgoKKipBdWZ0cmFnOioqIOKAnkVyemV1Z2UgZWluIERhdGVud8O2cnRlcmJ1Y2ggZsO8ciBkYXMgZ2FuemUgTW9kZWxsLiIKKipXYXMgcGFzc2llcnQ6KiogRGVyIEFzc2lzdGVudCBnaWJ0IGVpbiBNYXJrZG93bi1Xw7ZydGVyYnVjaCB6dXLDvGNrLCBkYXMgamVkZQpUYWJlbGxlLCBpaHJlbiBUeXAgdW5kIGlocmUgWmVpbGVuemFobCBzb3dpZSBqZWRlcyBNYcOfIG1pdCBzZWluZW0gRm9ybWF0IHVuZApBdXNkcnVjayBhdWZsaXN0ZXQuCgojIyBEYXMgTXVzdGVyIGluIGplZGVyIEzDtnN1bmcKClNjaGxpY2h0IGZyYWdlbiDihpIgZGVyIEFzc2lzdGVudCBzY2hyZWlidCBrb3JyZWt0ZXMgREFYIOKGkiBlciB3ZW5kZXQgZGllIMOEbmRlcnVuZwpsaXZlIGFuIOKGkiBlciBtZWxkZXQgZ2VuYXUsIHdhcyBlciB0YXQuIERpZXNlIFNjaGxlaWZlIGlzdCBkaWUgZ2FuemUgRsOkaGlna2VpdC4KV2VubiBzaWUgc2ljaCBuYXTDvHJsaWNoIGFuZsO8aGx0LCBoYXN0IGR1IGRhcyBCdWNoIHZlcmlubmVybGljaHQuCg==
+# Anhang F — Lösungen der Übungen
+
+Lösungen der geführten Übungen in Anhang E. Jede zeigt den Auftrag in normaler
+Sprache und das DAX, das der Assistent produziert.
+
+## Übung 1 — Das Modell lesen
+
+**Auftrag:** „Liste jede Tabelle mit ihrer Zeilenzahl."
+**Was passiert:** Der Assistent liest das Live-Modell und gibt jede Tabelle mit
+ihrem Typ, ihrer Zeilenzahl und ihrer Spaltenzahl zurück. Kein DAX nötig – es ist
+ein Discovery-Call.
+
+## Übung 2 — Eine Tabelle profilieren
+
+**Auftrag:** „Erstelle ein Profil der Products-Tabelle."
+**Was passiert:** Der Assistent gibt eine Profil-Tabelle mit Distinct, Blanks, Min,
+Max und Top-Werten pro Spalte zurück. Die Anzahl verschiedener Werte von Category
+ist 3; Leerstellen zeigen pro Spalte.
+
+## Übung 3 — Text säubern
+
+**Auftrag:** „Füge eine Spalte hinzu mit der Kategorie in Großbuchstaben."
+**DAX:** `UPPER(Products[Category])`
+**Ergebnis:** eine neue berechnete Spalte `Products[CategoryUpper]`.
+
+## Übung 4 — Eine Zahl in Bänder einteilen
+
+**Auftrag:** „Sortiere die Produkte nach Preis in High / Mid / Low."
+**DAX:**
+```
+SWITCH(TRUE(),
+  Products[Price] >= 200, "High",
+  Products[Price] >= 50, "Mid",
+  "Low")
+```
+**Ergebnis:** eine neue berechnete Spalte `Products[PriceBand]`.
+
+## Übung 5 — Eine Beziehung verdrahten
+
+**Auftrag:** „Verbinde Sales mit Products über ProductID."
+**Ergebnis:** eine viele-auf-eins-, gerichtete, aktive Beziehung
+`Sales[ProductID] → Products[ProductID]`.
+
+## Übung 6 — Ein Maß bauen
+
+**Auftrag:** „Erstelle ein Maß Gesamtumsatz mit Euro-Format."
+**DAX:** `SUM(Sales[Amount])` mit Format `#,##0.00 €`.
+**Ergebnis:** ein neues Maß `Sales[Total Sales]`.
+
+## Übung 7 — Ein Maß filtern
+
+**Auftrag:** „Zähle nur Verkäufe über 300."
+**DAX:** `COUNTROWS(FILTER(Sales, Sales[Amount] > 300))`
+**Ergebnis:** ein neues Maß `Sales[Big Sales Count]`.
+
+## Übung 8 — Anteil am Ganzen
+
+**Auftrag:** „Der Anteil jeder Kategorie am Gesamtumsatz."
+**DAX:** `DIVIDE([Total Sales], CALCULATE([Total Sales], ALL(Sales)))`
+**Ergebnis:** ein neues Maß `Sales[Pct Of Total]` mit Prozentformat.
+
+## Übung 9 — Rangieren
+
+**Auftrag:** „Rangiere Produkte nach Umsatz."
+**DAX:** `RANKX(ALL(Products), [Total Sales])`
+**Ergebnis:** eine Rangliste mit dem Rang jedes Produkts.
+
+## Übung 10 — Validieren, bevor du speicherst
+
+**Auftrag:** „Ist das ein gültiges Maß? SUM(Sales[Amount])"
+**Was passiert:** Der Assistent validiert und gibt „Valid" mit einem Beispielwert
+zurück (22023). Erst dann erstellst du das Maß.
+
+## Übung 11 — Linten
+
+**Auftrag:** „Lint dieses DAX: SUM(a)/SUM(b)"
+**Was passiert:** Der Linter flaggt den `/` und schlägt `DIVIDE()` vor, um
+Division durch null sicher zu behandeln.
+
+## Übung 12 — Dokumentieren
+
+**Auftrag:** „Erzeuge ein Datenwörterbuch für das ganze Modell."
+**Was passiert:** Der Assistent gibt ein Markdown-Wörterbuch zurück, das jede
+Tabelle, ihren Typ und ihre Zeilenzahl sowie jedes Maß mit seinem Format und
+Ausdruck auflistet.
+
+## Das Muster in jeder Lösung
+
+Schlicht fragen → der Assistent schreibt korrektes DAX → er wendet die Änderung
+live an → er meldet genau, was er tat. Diese Schleife ist die ganze Fähigkeit.
+Wenn sie sich natürlich anfühlt, hast du das Buch verinnerlicht.

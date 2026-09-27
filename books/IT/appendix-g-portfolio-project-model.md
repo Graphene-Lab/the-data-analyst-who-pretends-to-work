@@ -1,1 +1,77 @@
-IyBBcHBlbmRpY2UgRyDigJQgVW4gbW9kZWxsbyBkaSBwcm9nZXR0byBwZXIgaWwgcG9ydGZvbGlvCgpVbiBwb3J0Zm9saW8gcHJvdmEgY2hlIHNhaSBmYXJlIGlsIGxhdm9yby4gUXVlc3RvIG1vZGVsbG8gdGkgZMOgIHVuIHByb2dldHRvIGRhCmNvc3RydWlyZSwgZG9jdW1lbnRhcmUgZSBtb3N0cmFyZS4gRmFubmUgdW5vIG8gZHVlIGUgYXZyYWkgcXVhbGNvc2EgZGEgaW5kaWNhcmUgaW4KdW4gY29sbG9xdWlvLgoKIyMgSWwgcHJvZ2V0dG86IHVuYSBkYXNoYm9hcmQgZGkgYW5hbGlzaSB2ZW5kaXRlCgpDb3N0cnVpc2NpIHVuYSBwaWNjb2xhIGFuYWxpc2kgZW5kLXRvLWVuZCBzdSB1biBkYXRhc2V0IGRpIHZlbmRpdGUgZGkgZXNlbXBpbyAobGEKc3Rlc3NhIGZvcm1hIHVzYXRhIGluIHR1dHRvIHF1ZXN0byBsaWJybzogU2FsZXMsIFByb2R1Y3RzLCBDdXN0b21lcnMsIFN0b3JlcykuCgojIyMgUGFzc28gMSDigJQgQ2FwaXNjaSBpIGRhdGkKCi0gUHJvZmlsYSBvZ25pIHRhYmVsbGEuCi0gQW5ub3RhIHZhbG9yaSBkaXN0aW50aSwgdnVvdGkgZSBpbnRlcnZhbGxpLgotIFNjcml2aSB1bmEgZnJhc2UgcGVyIHRhYmVsbGE6IGNvc2EgY29udGllbmUuCgojIyMgUGFzc28gMiDigJQgUHVsaXNjaSBlIG1vZGVsbGEKCi0gU3RhbmRhcmRpenphIGlsIHRlc3RvIGRpc29yZGluYXRvIChjb2xvbm5lIFVQUEVSL0xPV0VSKS4KLSBNZXR0aSBpbiBmYXNjaWEgaSBudW1lcmkgKGZhc2NlIGRpIHByZXp6bykuCi0gQ2FibGEgbGUgcmVsYXppb25pIChTYWxlcyDihpIgUHJvZHVjdHMsIEN1c3RvbWVycywgU3RvcmVzKS4KCiMjIyBQYXNzbyAzIOKAlCBDb3N0cnVpc2NpIGxlIG1ldHJpY2hlCgotIFZlbmRpdGUgVG90YWxpLCBRdWFudGl0w6AgVG90YWxlLCBPcmRpbmkuCi0gVmFsb3JlIE1lZGlvIGRlbGwnT3JkaW5lLCBWZW5kaXRlIHBlciBDbGllbnRlLgotIFVuYSBtaXN1cmEgZGkgbWFyZ2luZSAocmljYXZpIG1lbm8gY29zdG8pLgotIFVuYSBtaXN1cmEgcXVvdGEtZGVsLXRvdGFsZS4KCiMjIyBQYXNzbyA0IOKAlCBTZWdtZW50YQoKLSBUb3AgY2xpZW50aSBwZXIgc3Blc2EuCi0gVmVuZGl0ZSBwZXIgc2VnbWVudG8gKFJldGFpbCAvIEJ1c2luZXNzIC8gT25saW5lKS4KLSBWZW5kaXRlIHBlciByZWdpb25lIGUgcGVyIG1lc2UuCgojIyMgUGFzc28gNSDigJQgVmFsaWRhIGUgZG9jdW1lbnRhCgotIFZhbGlkYSBvZ25pIG1pc3VyYSBwcmltYSBkaSBzYWx2YXJlLgotIEZhaSBpbCBsaW50IGRlbCBEQVggcGVyIGdsaSBhbnRpLXBhdHRlcm4uCi0gR2VuZXJhIGlsIGRpemlvbmFyaW8gZGVpIGRhdGkuCi0gRXNlZ3VpIGlsIHJlcG9ydCBiZXN0IHByYWN0aWNlLgoKIyMjIFBhc3NvIDYg4oCUIFZpc3VhbGl6emEKCi0gVW5hIHJpZ2EgZGkgY2FyZCBLUEkgKHZlbmRpdGUgdG90YWxpLCBvcmRpbmksIG9yZGluZSBtZWRpbykuCi0gVW4gZ3JhZmljbyBhIGJhcnJlIGRlbGxlIHZlbmRpdGUgcGVyIGNhdGVnb3JpYS4KLSBVbiBncmFmaWNvIGEgbGluZWUgZGVsbCdhbmRhbWVudG8gbWVuc2lsZS4KLSBVbmEgY2xhc3NpZmljYSBkZWkgdG9wIHByb2RvdHRpLgoKIyMgQ29zYSBtb3N0cmFyZSBuZWwgcG9ydGZvbGlvCgpQZXIgb2duaSBwcm9nZXR0bywgcHJlc2VudGE6CgoxLiAqKkxhIGRvbWFuZGEuKiogUXVhbGUgcHJvYmxlbWEgZGkgYnVzaW5lc3Mgc3Rhdmkgcmlzb2x2ZW5kby4KMi4gKipJbCBtb2RlbGxvLioqIFVubyBzY3JlZW5zaG90IGRlbGxlIHRhYmVsbGUgZSBkZWxsZSByZWxhemlvbmkuCjMuICoqTGUgbWV0cmljaGUuKiogTGUgbWlzdXJlIGNoZSBoYWkgY29zdHJ1aXRvLCBjb24gaWwgbG9ybyBEQVguCjQuICoqTGEgZGFzaGJvYXJkLioqIExlIHZpc3VhbCBmaW5hbGkuCjUuICoqTGEgc3RvcmlhLioqIENvc2EgaGFpIHRyb3ZhdG8gZSBjb3NhIG5lIGZhcmVzdGkuCjYuICoqR2xpIHN0cnVtZW50aS4qKiBVbmEgbm90YSBjaGUgbCdoYWkgY29zdHJ1aXRvIGNvbiBBZ2VudEJyaWRnZSArIFBvd2VyQklUb29sLAogICBlIGNvbWUgbCdhc3Npc3RlbnRlIGhhIGFpdXRhdG8gKHZhbGlkYXppb25lLCBkb2N1bWVudGF6aW9uZSwgYmVzdAogICBwcmFjdGljZSkuCgojIyBQZXJjaMOpIGZ1bnppb25hCgpBIHVuIGludGVydmlzdGF0b3JlIG5vbiBpbXBvcnRhIGNoZSBsbyBzdHJ1bWVudG8gbCdhYmJpYSBmYXR0byBpbiBmcmV0dGEuIEdsaQppbXBvcnRhIGNoZSB0dSBzYXBwaWE6IGlucXVhZHJhcmUgdW4gcHJvYmxlbWEsIGNvc3RydWlyZSB1biBtb2RlbGxvIHB1bGl0bywKdmFsaWRhcmUgaWwgdHVvIGxhdm9ybywgZG9jdW1lbnRhcmxvIGUgcmFjY29udGFyZSB1bmEgc3RvcmlhLiBRdWVzdG8gcHJvZ2V0dG8KZXNlcmNpdGEgdHV0dGkgZSBzZWkuIExvIHN0cnVtZW50byDDqCB1biBib251cyBjaGUgbW9zdHJhIGNoZSBzZWkgYWwgcGFzc28sIG5vbiB1bmEKc2NvcmNpYXRvaWEgY2hlIHNvc3RpdHVpc2NlIGlsIHBlbnNpZXJvLgoKIyMgUmVuZGlsbyB0dW8KClNvc3RpdHVpc2NpIGkgZGF0aSBkaSBlc2VtcGlvIGNvbiB1biBkYXRhc2V0IGEgY3VpIHRpZW5pOiB1biBob2JieSwgdW4gZGF0YXNldApwdWJibGljbywgdW4gcHJvZ2V0dG8gcGFyYWxsZWxvLiBQacO5IHRpZW5pIGFsbCdhcmdvbWVudG8sIG1pZ2xpb3JpIHNhcmFubm8gbGUKZG9tYW5kZSBjaGUgZmFyYWksIGUgbWVnbGlvIHNlbWJyZXLDoCBpbCBwb3J0Zm9saW8uIExvIHNjaGVtYSDDqCBsbyBzdGVzc287IGkgZGF0aQpzb25vIHR1b2kgZGEgc2NlZ2xpZXJlLgo=
+# Appendice G — Un modello di progetto per il portfolio
+
+Un portfolio prova che sai fare il lavoro. Questo modello ti dà un progetto da
+costruire, documentare e mostrare. Fanne uno o due e avrai qualcosa da indicare in
+un colloquio.
+
+## Il progetto: una dashboard di analisi vendite
+
+Costruisci una piccola analisi end-to-end su un dataset di vendite di esempio (la
+stessa forma usata in tutto questo libro: Sales, Products, Customers, Stores).
+
+### Passo 1 — Capisci i dati
+
+- Profila ogni tabella.
+- Annota valori distinti, vuoti e intervalli.
+- Scrivi una frase per tabella: cosa contiene.
+
+### Passo 2 — Pulisci e modella
+
+- Standardizza il testo disordinato (colonne UPPER/LOWER).
+- Metti in fascia i numeri (fasce di prezzo).
+- Cabla le relazioni (Sales → Products, Customers, Stores).
+
+### Passo 3 — Costruisci le metriche
+
+- Vendite Totali, Quantità Totale, Ordini.
+- Valore Medio dell'Ordine, Vendite per Cliente.
+- Una misura di margine (ricavi meno costo).
+- Una misura quota-del-totale.
+
+### Passo 4 — Segmenta
+
+- Top clienti per spesa.
+- Vendite per segmento (Retail / Business / Online).
+- Vendite per regione e per mese.
+
+### Passo 5 — Valida e documenta
+
+- Valida ogni misura prima di salvare.
+- Fai il lint del DAX per gli anti-pattern.
+- Genera il dizionario dei dati.
+- Esegui il report best practice.
+
+### Passo 6 — Visualizza
+
+- Una riga di card KPI (vendite totali, ordini, ordine medio).
+- Un grafico a barre delle vendite per categoria.
+- Un grafico a linee dell'andamento mensile.
+- Una classifica dei top prodotti.
+
+## Cosa mostrare nel portfolio
+
+Per ogni progetto, presenta:
+
+1. **La domanda.** Quale problema di business stavi risolvendo.
+2. **Il modello.** Uno screenshot delle tabelle e delle relazioni.
+3. **Le metriche.** Le misure che hai costruito, con il loro DAX.
+4. **La dashboard.** Le visual finali.
+5. **La storia.** Cosa hai trovato e cosa ne faresti.
+6. **Gli strumenti.** Una nota che l'hai costruito con AgentBridge + PowerBITool,
+   e come l'assistente ha aiutato (validazione, documentazione, best
+   practice).
+
+## Perché funziona
+
+A un intervistatore non importa che lo strumento l'abbia fatto in fretta. Gli
+importa che tu sappia: inquadrare un problema, costruire un modello pulito,
+validare il tuo lavoro, documentarlo e raccontare una storia. Questo progetto
+esercita tutti e sei. Lo strumento è un bonus che mostra che sei al passo, non una
+scorciatoia che sostituisce il pensiero.
+
+## Rendilo tuo
+
+Sostituisci i dati di esempio con un dataset a cui tieni: un hobby, un dataset
+pubblico, un progetto parallelo. Più tieni all'argomento, migliori saranno le
+domande che farai, e meglio sembrerà il portfolio. Lo schema è lo stesso; i dati
+sono tuoi da scegliere.

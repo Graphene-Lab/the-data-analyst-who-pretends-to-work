@@ -1,1 +1,79 @@
-IyA2LiBEJ2/DuSB2aWVubmVudCBsZXMgZG9ubsOpZXMKCkF2YW50IGRlIHBvdXZvaXIgYW5hbHlzZXIgcXVvaSBxdWUgY2Ugc29pdCwgaWwgdm91cyBmYXV0IGRlcyBkb25uw6llcyDigJQgZXQgaWwgZmF1dCBzYXZvaXIgZGFucyBxdWVsIMOpdGF0IGVsbGVzIHNvbnQuIENlIGNoYXBpdHJlIHBhcmxlIGRlIGxhIG1hdGnDqHJlIHByZW1pw6hyZSA6IGQnb8O5IGVsbGUgdmllbnQsIGxlcyBmb3JtZXMgcXUnZWxsZSBwcmVuZCwgZXQgY29tbWVudCBwcmVuZHJlIHNhIHRlbXDDqXJhdHVyZSBhdmFudCBkZSBjb25zdHJ1aXJlIHF1b2kgcXVlIGNlIHNvaXQuCgojIyBUcm9pcyBzb3J0ZXMgZGUgZG9ubsOpZXMKClRvdXQgY2UgcXVlIHZvdXMgYW5hbHlzZXJleiB1biBqb3VyIHRvbWJlIGRhbnMgdHJvaXMgY2FzZXMgOgoKLSAqKlN0cnVjdHVyw6llcyoqIOKAlCBkZXMgbGlnbmVzIGV0IGRlcyBjb2xvbm5lcyBiaWVuIHJhbmfDqWVzLiBVbiB0YWJsZWF1IGRlIHZlbnRlcywgdW5lIGxpc3RlIGRlIGNsaWVudHMsIHVuIHJlbGV2w6kgYmFuY2FpcmUuIEZhY2lsZSDDoCBsaXJlIHBvdXIgdW4gb3JkaW5hdGV1ci4gQydlc3Qgdm90cmUgcGFpbiBxdW90aWRpZW4uCi0gKipTZW1pLXN0cnVjdHVyw6llcyoqIOKAlCB1biBjZXJ0YWluIG9yZHJlLCBtYWlzIHBhcyB1bmUgZ3JpbGxlIG5ldHRlLiBVbiBqb3VybmFsIHdlYiwgdW4gZmljaGllciBKU09OIGQndW5lIGFwcGxpLCB1biBlLW1haWwgYXZlYyBkZXMgY2hhbXBzLiBEZW1hbmRlIHVuIHBldSBkZSBtaXNlIGVuIGZvcm1lLgotICoqTm9uIHN0cnVjdHVyw6llcyoqIOKAlCBhdWN1biBvcmRyZSBpbnTDqWdyw6kuIERvY3VtZW50cyB0ZXh0ZSwgaW1hZ2VzLCB2aWTDqW9zLCBsYSByw6ljbGFtYXRpb24gZW4gdGV4dGUgbGlicmUgZCd1biBjbGllbnQuIExlIHBsdXMgZHVyIMOgIGFuYWx5c2VyLCBldCBsw6Agb8O5IGwnSUEgZGV2aWVudCDDqXRvbm5hbW1lbnQgYm9ubmUuCgpMYSBwbHVwYXJ0IGRlcyBhbmFseXNlcyBkJ2VudHJlcHJpc2Ugdml2ZW50IGRhbnMgbGUgbW9uZGUgc3RydWN0dXLDqS4gQydlc3QgbGEgYm9ubmUgbm91dmVsbGUgOiBjJ2VzdCBsZSBnZW5yZSBzdXIgbGVxdWVsIG9uIHBldXQgcG9pbnRlciB1biBvdXRpbCBldCBvYnRlbmlyIGRlcyByw6lwb25zZXMgdml0ZS4KCiMjIExlcyBoYWJpdHXDqXMgOiBvw7kgc2UgY2FjaGUgbGEgZG9ubsOpZSBkJ2VudHJlcHJpc2UKCi0gKipMJ0VSUCAvIGxlIHN5c3TDqG1lIGRlIGdlc3Rpb24qKiDigJQgY29tbWFuZGVzLCBmYWN0dXJlcywgc3RvY2ssIGNsaWVudHMuCi0gKipMZSBDUk0qKiDigJQgcHJvc3BlY3RzLCBvcHBvcnR1bml0w6lzLCBjb250YWN0cywgcGlwZWxpbmUgZGUgdmVudGVzLgotICoqTGVzIHRhYmxldXJzKiog4oCUIGxlIHJlY291cnMgdW5pdmVyc2VsLCBwb3VyIGxlIG1laWxsZXVyIGV0IHBvdXIgbGUgcGlyZS4KLSAqKkxlcyBiYXNlcyBkZSBkb25uw6llcyoqIOKAlCBkZXMgc2VydmV1cnMgU1FMIHF1aSBnYXJkZW50IGxlcyBlbnJlZ2lzdHJlbWVudHMgZGUgbCdlbnRyZXByaXNlLgotICoqTGVzIGpvdXJuYXV4IHdlYiBldCBhcHBsaSoqIOKAlCBjaGFxdWUgY2xpYywgY2hhcXVlIHBhZ2UgdnVlLCBjaGFxdWUgw6l2w6luZW1lbnQuCi0gKipMZXMgZXhwb3J0cyBDU1YgLyBFeGNlbCoqIOKAlCBkZXMgZG9ubsOpZXMgdGlyw6llcyBkZSBuJ2ltcG9ydGUgcXVlbCBzeXN0w6htZSBkYW5zIHVuIGZpY2hpZXIuCi0gKipMZXMgQVBJKiog4oCUIGRlcyBkb25uw6llcyBlbiBkaXJlY3QgZGlmZnVzw6llcyBwYXIgdW4gc2VydmljZSAobcOpdMOpbywgbGl2cmFpc29uLCBwYWllbWVudHMpLgotICoqTGVzIGNhcHRldXJzIElvVCoqIOKAlCB0ZW1ww6lyYXR1cmUsIMOpdGF0IGRlcyBtYWNoaW5lcywgY29tcHRldXJzIGRlIHBhc3NhZ2UuCgpVbmUgdnJhaWUgYW5hbHlzZSBhc3NlbWJsZSBzb3V2ZW50IHBsdXNpZXVycyBkZSBjZXMgc291cmNlcy4gTGUgcHJlbWllciBtb3V2ZW1lbnQgZGUgbCdhbmFseXN0ZSBlc3QgZGUgdHJvdXZlciBsZXMgZG9ubsOpZXMgZXQgZGUgY29tcHJlbmRyZSBsZXVyIGZvcm1lLgoKIyMgUHJlbmRyZSBsYSB0ZW1ww6lyYXR1cmUgOiBsZSBwcm9maWxhZ2UKCkF2YW50IGRlIGZhaXJlIGNvbmZpYW5jZSDDoCB1biB0YWJsZWF1LCB2b3VzIGxlICoqcHJvZmlsZXoqKiA6IGNvbWJpZW4gZGUgbGlnbmVzLCBxdWVsbGVzIGNvbG9ubmVzLCBjb21iaWVuIGRlIHZhbGV1cnMgZGlzdGluY3RlcywgY29tYmllbiBkZSB2aWRlcywgbGUgbWluaW11bSBldCBsZSBtYXhpbXVtLCBsZXMgdmFsZXVycyBsZXMgcGx1cyBmcsOpcXVlbnRlcy4gTGUgcHJvZmlsYWdlIGVzdCB1bmUgdmlzaXRlIGRlIHNhbnTDqSBxdWkgdm91cyBkaXQgw6AgcXVvaSB2b3VzIGF2ZXogYWZmYWlyZSBhdmFudCBkZSBjb25zdHJ1aXJlIGxlIG1vaW5kcmUgZ3JhcGhpcXVlLgoKRW4gdm9pY2kgdW4gdnJhaS4gUXVlbHF1J3VuIGEgZGVtYW5kw6kgw6AgbCdhc3Npc3RhbnQgZGUgcHJvZmlsZXIgbGEgdGFibGUgZGVzIHByb2R1aXRzIDoKCj4gwqsgUHJvZmlsZSBsYSB0YWJsZSBQcm9kdWN0cy4gwrsKCiFbUHJvZmlsZXIgbGEgdGFibGUgUHJvZHVjdHNdKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9lMDA2LnBuZykKCkQndW4gc2V1bCBjb3VwIHZvdXMgdm95ZXogOiA4IHByb2R1aXRzLCAzIGNhdMOpZ29yaWVzIChDdWlzaW5lIDQsIE1vYmlsaWVyIDMsIFBhcGV0ZXJpZSAxKSwgZGVzIHByaXggZGUgMTIg4oKsIMOgIDM0OSDigqwsIGV0IHF1ZWxxdWVzIGxpZ25lcyBkJ2V4ZW1wbGUuIFBhcyBkZSBkZXZpbmV0dGUuIExhIGZvcm1lIGRlcyBkb25uw6llcyBlc3QgbWFpbnRlbmFudCDDqXZpZGVudGUuCgpMYSBtw6ptZSBjaG9zZSBtYXJjaGUgcG91ciBsZXMgY2xpZW50cyA6Cgo+IMKrIFByb2ZpbGUgbGEgdGFibGUgQ3VzdG9tZXJzLiDCuwoKIVtQcm9maWxlciBsYSB0YWJsZSBDdXN0b21lcnNdKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9lMDA3LnBuZykKCkRvdXplIGNsaWVudHMgcsOpcGFydGlzIHN1ciBxdWF0cmUgdmlsbGVzIGV0IHRyb2lzIHNlZ21lbnRzLiBWb3VzIHZveWV6IGTDqWrDoCBsJ2hpc3RvaXJlIHNlIGRlc3NpbmVyIOKAlCBNaWxhbiBldCBSb21lIHNvbnQgbGVzIHBsdXMgZ3JvcywgbGVzIHNlZ21lbnRzIHNvbnQgw6lxdWlsaWJyw6lzLgoKIyMgVm9pciBsZXMgY29sb25uZXMgY2xhaXJlbWVudAoKUGFyZm9pcyB2b3VzIHZvdWxleiBqdXN0ZSBsYSBzdHJ1Y3R1cmUg4oCUIGxlcyBjb2xvbm5lcyBldCBsZXVycyB0eXBlcy4gTCdhc3Npc3RhbnQgbGl0IGxlIHNjaMOpbWEgZGlyZWN0ZW1lbnQgOgoKPiDCqyBNb250cmUtbW9pIGxlIHNjaMOpbWEgZGUgbGEgdGFibGUgU2FsZXMuIMK7CgohW1NjaMOpbWEgZGUgbGEgdGFibGUgU2FsZXNdKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9lMDA4LnBuZykKCkNoYXF1ZSBjb2xvbm5lLCBzb24gdHlwZSwgZXQgbGVzIG1lc3VyZXMgZMOpasOgIHJhdHRhY2jDqWVzLiBDJ2VzdCBsYSBjYXJ0ZSBxdWUgdm91cyBlbXBvcnRleiBkYW5zIGNoYXF1ZSBxdWVzdGlvbiB1bHTDqXJpZXVyZS4KCiMjIFVuZSBjdXJpb3NpdMOpIDogbGEgwqsgY2lucXVpw6htZSBzb3J0ZSDCuyBkZSBkb25uw6llCgpJbCBjaXJjdWxlIHVuZSBibGFndWUgY2hleiBsZXMgYW5hbHlzdGVzIDogbGEgY2lucXVpw6htZSBzb3J0ZSBkZSBkb25uw6llLCBjJ2VzdCAqKmxhIGRvbm7DqWUgZG9udCB2b3VzIG5lIHNhdmlleiBwYXMgcXVlIHZvdXMgbCdhdmlleioqIOKAlCBsZXMgbcOpdGFkb25uw6llcy4gUXVhbmQgY2hhcXVlIGVucmVnaXN0cmVtZW50IGEtdC1pbCBjaGFuZ8OpID8gUXVpIHkgYSB0b3VjaMOpID8gQ29tYmllbiBkZSBmb2lzIHVuZSBwYWdlIGEtdC1lbGxlIMOpdMOpIHZ1ZSA/IExlcyBtw6l0YWRvbm7DqWVzIHNvbnQgbGEgZG9ubsOpZSAqw6AgcHJvcG9zKiBkZSB2b3MgZG9ubsOpZXMsIGV0IGVsbGVzIHJlY8OobGVudCBzb3V2ZW50IGxlcyByw6lwb25zZXMgbGVzIHBsdXMgaW50w6lyZXNzYW50ZXMgZGUgdG91dGVzLgoKLS0tCgojIyBFc3NheWV6IDoKCj4gwqsgQ29tYmllbiB5IGEtdC1pbCBkZSBjYXTDqWdvcmllcyBkaXN0aW5jdGVzID8gwrsKCiFbQ29tcHRlciBsZXMgY2F0w6lnb3JpZXMgZGlzdGluY3Rlc10oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2UwNzEucG5nKQoKVW5lIHF1ZXN0aW9uIGVuIHVuZSBsaWduZSwgdW5lIHLDqXBvbnNlIGVuIHVuZSBsaWduZSwgZGlyZWN0ZW1lbnQgZGVwdWlzIGxlIG1vZMOobGUgZW4gZGlyZWN0LgoKIyMgQ2UgcXVlIHZvdXMgZ2FyZGVyZXogZGUgY2UgY2hhcGl0cmUKCi0gTGVzIGRvbm7DqWVzIHZpZW5uZW50IGVuIHRyb2lzIGZvcm1lcyA6IHN0cnVjdHVyw6llcywgc2VtaS1zdHJ1Y3R1csOpZXMsIG5vbiBzdHJ1Y3R1csOpZXMuCi0gTGEgZG9ubsOpZSBkJ2VudHJlcHJpc2Ugc2UgY2FjaGUgZGFucyBsJ0VSUCwgbGUgQ1JNLCBsZXMgYmFzZXMgZGUgZG9ubsOpZXMsIGxlcyB0YWJsZXVycywgbGVzIGpvdXJuYXV4IGV0IGxlcyBBUEkuCi0gVG91am91cnMgKipwcm9maWxlcioqIGF2YW50IGRlIGNvbnN0cnVpcmUg4oCUIGNvbm5haXNzZXogbGEgZm9ybWUgZXQgbGVzIG1hbnF1ZXMuCi0gTidvdWJsaWV6IHBhcyBsZXMgbcOpdGFkb25uw6llcyA6IGxhIGRvbm7DqWUgw6AgcHJvcG9zIGRlIHZvcyBkb25uw6llcy4KClN1aXRlIDogbGUgdHJhdmFpbCBpbmdyYXQgZXQgZXNzZW50aWVsIGR1IG5ldHRveWFnZSBkZXMgZG9ubsOpZXMgc2FsZXMg4oCUIGV0IGNvbW1lbnQgcXVlbHF1ZXMgY29sb25uZXMgY2FsY3Vsw6llcyByw6hnbGVudCB1biBkw6lzb3JkcmUgZW4gcXVlbHF1ZXMgc2Vjb25kZXMuCg==
+# 6. D'où viennent les données
+
+Avant de pouvoir analyser quoi que ce soit, il vous faut des données — et il faut savoir dans quel état elles sont. Ce chapitre parle de la matière première : d'où elle vient, les formes qu'elle prend, et comment prendre sa température avant de construire quoi que ce soit.
+
+## Trois sortes de données
+
+Tout ce que vous analyserez un jour tombe dans trois cases :
+
+- **Structurées** — des lignes et des colonnes bien rangées. Un tableau de ventes, une liste de clients, un relevé bancaire. Facile à lire pour un ordinateur. C'est votre pain quotidien.
+- **Semi-structurées** — un certain ordre, mais pas une grille nette. Un journal web, un fichier JSON d'une appli, un e-mail avec des champs. Demande un peu de mise en forme.
+- **Non structurées** — aucun ordre intégré. Documents texte, images, vidéos, la réclamation en texte libre d'un client. Le plus dur à analyser, et là où l'IA devient étonnamment bonne.
+
+La plupart des analyses d'entreprise vivent dans le monde structuré. C'est la bonne nouvelle : c'est le genre sur lequel on peut pointer un outil et obtenir des réponses vite.
+
+## Les habitués : où se cache la donnée d'entreprise
+
+- **L'ERP / le système de gestion** — commandes, factures, stock, clients.
+- **Le CRM** — prospects, opportunités, contacts, pipeline de ventes.
+- **Les tableurs** — le recours universel, pour le meilleur et pour le pire.
+- **Les bases de données** — des serveurs SQL qui gardent les enregistrements de l'entreprise.
+- **Les journaux web et appli** — chaque clic, chaque page vue, chaque événement.
+- **Les exports CSV / Excel** — des données tirées de n'importe quel système dans un fichier.
+- **Les API** — des données en direct diffusées par un service (météo, livraison, paiements).
+- **Les capteurs IoT** — température, état des machines, compteurs de passage.
+
+Une vraie analyse assemble souvent plusieurs de ces sources. Le premier mouvement de l'analyste est de trouver les données et de comprendre leur forme.
+
+## Prendre la température : le profilage
+
+Avant de faire confiance à un tableau, vous le **profilez** : combien de lignes, quelles colonnes, combien de valeurs distinctes, combien de vides, le minimum et le maximum, les valeurs les plus fréquentes. Le profilage est une visite de santé qui vous dit à quoi vous avez affaire avant de construire le moindre graphique.
+
+En voici un vrai. Quelqu'un a demandé à l'assistant de profiler la table des produits :
+
+> « Profile la table Products. »
+
+![Profiler la table Products](../../assets/examples/e006.png)
+
+D'un seul coup vous voyez : 8 produits, 3 catégories (Cuisine 4, Mobilier 3, Papeterie 1), des prix de 12 € à 349 €, et quelques lignes d'exemple. Pas de devinette. La forme des données est maintenant évidente.
+
+La même chose marche pour les clients :
+
+> « Profile la table Customers. »
+
+![Profiler la table Customers](../../assets/examples/e007.png)
+
+Douze clients répartis sur quatre villes et trois segments. Vous voyez déjà l'histoire se dessiner — Milan et Rome sont les plus gros, les segments sont équilibrés.
+
+## Voir les colonnes clairement
+
+Parfois vous voulez juste la structure — les colonnes et leurs types. L'assistant lit le schéma directement :
+
+> « Montre-moi le schéma de la table Sales. »
+
+![Schéma de la table Sales](../../assets/examples/e008.png)
+
+Chaque colonne, son type, et les mesures déjà rattachées. C'est la carte que vous emportez dans chaque question ultérieure.
+
+## Une curiosité : la « cinquième sorte » de donnée
+
+Il circule une blague chez les analystes : la cinquième sorte de donnée, c'est **la donnée dont vous ne saviez pas que vous l'aviez** — les métadonnées. Quand chaque enregistrement a-t-il changé ? Qui y a touché ? Combien de fois une page a-t-elle été vue ? Les métadonnées sont la donnée *à propos* de vos données, et elles recèlent souvent les réponses les plus intéressantes de toutes.
+
+---
+
+## Essayez :
+
+> « Combien y a-t-il de catégories distinctes ? »
+
+![Compter les catégories distinctes](../../assets/examples/e071.png)
+
+Une question en une ligne, une réponse en une ligne, directement depuis le modèle en direct.
+
+## Ce que vous garderez de ce chapitre
+
+- Les données viennent en trois formes : structurées, semi-structurées, non structurées.
+- La donnée d'entreprise se cache dans l'ERP, le CRM, les bases de données, les tableurs, les journaux et les API.
+- Toujours **profiler** avant de construire — connaissez la forme et les manques.
+- N'oubliez pas les métadonnées : la donnée à propos de vos données.
+
+Suite : le travail ingrat et essentiel du nettoyage des données sales — et comment quelques colonnes calculées règlent un désordre en quelques secondes.

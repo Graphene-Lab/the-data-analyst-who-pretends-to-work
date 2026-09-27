@@ -1,1 +1,118 @@
-IyAxMS4gTGFzIG3DqXRyaWNhcyBxdWUgaW1wb3J0YW4KClVuYSBtw6l0cmljYSBlcyB1biBuw7ptZXJvIHF1ZSB2aWdpbGFzIHBhcmEgc2FiZXIgY8OzbW8gbGUgdmEgYWwgbmVnb2Npby4gRWxpZ2UgbGFzCmNvcnJlY3RhcyB5IHB1ZWRlcyBnb2Jlcm5hciBlbCBydW1iby4gRWxpZ2UgbGFzIGVxdWl2b2NhZGFzIHkgcHVlZGVzIGVzdHJlbGxhcnRlCmNvbnRyYSB1biBhY2FudGlsYWRvIG1pZW50cmFzIGVsIHBhbmVsIGJyaWxsYSBlbiB2ZXJkZS4gRXN0ZSBjYXDDrXR1bG8gdHJhdGEgZGUKZWxlZ2lyIGxvcyBuw7ptZXJvcyBxdWUgZGUgdmVyZGFkIGltcG9ydGFuLCB5IGRlIGNvbnN0cnVpcmxvcyBjb24gZWwgYXNpc3RlbnRlLgoKIyMgUXXDqSBoYWNlIHF1ZSB1bmEgbcOpdHJpY2EgbWVyZXpjYSBsYSBwZW5hCgpVbmEgYnVlbmEgbcOpdHJpY2EgcGFzYSB0cmVzIHBydWViYXM6CgoxLiAqKlNlIG11ZXZlIGN1YW5kbyBlbCBuZWdvY2lvIHNlIG11ZXZlLioqIFNpIGVsIG5lZ29jaW8gZW1wZW9yYSwgZWwgbsO6bWVybyBkZWJlcsOtYQogICBlbXBlb3Jhci4KMi4gKipQdWVkZXMgYWN0dWFyIHNvYnJlIGVsbGEuKiogVW4gbsO6bWVybyBxdWUgc29sbyBwdWVkZXMgYWRtaXJhciBlcyBkZWNvcmFjacOzbi4KMy4gKipFcyBob25lc3RhLioqIE5vIHNlIHB1ZWRlIG1hbmlwdWxhciBwYXJhIHF1ZSBwYXJlemNhIGJpZW4gbWllbnRyYXMgbGFzIGNvc2FzIHNlCiAgIHB1ZHJlbi4KClVuYSAqKm3DqXRyaWNhIGRlIHZhbmlkYWQqKiBzdXNwZW5kZSBlc3Rhcy4gwqtVc3VhcmlvcyByZWdpc3RyYWRvcyB0b3RhbGVzIGRlc2RlIDIwMTDCuwpzb2xvIHN1YmUuIFNpZW50YSBkZSBtYXJhdmlsbGEgeSBubyBzaWduaWZpY2EgbmFkYS4gVmlnaWxhIHRhc2FzIHkgY2FtYmlvcywgbm8KdG90YWxlcyBxdWUgc2llbXByZSBjcmVjZW4uCgojIyBMYXMgbcOpdHJpY2FzIGNvcmUgZGUgdmVudGFzCgpUb2RvIG5lZ29jaW8gcXVlIHZlbmRlIGNvc2FzIHZpZ2lsYSB1biBjb25qdW50byBwYXJlY2lkbzoKCi0gKipWZW50YXMgdG90YWxlcyoqIOKAlCBlbCBpbmdyZXNvIHRpdHVsYXIuCi0gKipVbmlkYWRlcyB2ZW5kaWRhcyoqIOKAlCBjdcOhbnRvIG1hdGVyaWFsIHNlIG1vdmnDsy4KLSAqKlBlZGlkb3MqKiDigJQgY3XDoW50YXMgdHJhbnNhY2Npb25lcy4KLSAqKlZhbG9yIG1lZGlvIGRlbCBwZWRpZG8qKiDigJQgaW5ncmVzbyBwb3IgcGVkaWRvLgotICoqQ2xpZW50ZXMgYWN0aXZvcyoqIOKAlCBjdcOhbnRhIGdlbnRlIGNvbXByw7MgZGUgdmVyZGFkLgotICoqVmVudGEgbcOhcyBncmFuZGUqKiDigJQgbGEgbMOtbmVhIGluZGl2aWR1YWwgbcOhcyBncmFuZGUgKHBhcmEgZGV0ZWN0YXIgYmFsbGVuYXMpLgoKRWwgYXNpc3RlbnRlIGNvbnN0cnV5ZSBjYWRhIHVuYSBkZSBlc3RhcyBhIHBhcnRpciBkZSB1bmEgcGV0aWNpw7NuIG5vcm1hbC4gTWlyYQphcGFyZWNlciB1biBjb25qdW50bzoKCj4gwqtDcmVhIHVuYSBtZWRpZGEgZGUgVmVudGFzIFRvdGFsZXMgY29uIGZvcm1hdG8gZGUgZXVyby7CuwoKIVtNZWRpZGEgZGUgVmVudGFzIFRvdGFsZXNdKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9lMDI2LnBuZykKCj4gwqtDcmVhIHVuYSBtZWRpZGEgcGFyYSB1bmlkYWRlcyB2ZW5kaWRhcy7CuwoKIVtNZWRpZGEgZGUgVW5pZGFkZXMgVmVuZGlkYXNdKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9lMDI3LnBuZykKCj4gwqtDcmVhIHVuYSBtZWRpZGEgZGUgdmFsb3IgbWVkaW8gZGVsIHBlZGlkby7CuwoKIVtWYWxvciBtZWRpbyBkZWwgcGVkaWRvXSguLi8uLi9hc3NldHMvZXhhbXBsZXMvZTAyOC5wbmcpCgpGw61qYXRlIGVuIHF1ZSBlbCB2YWxvciBtZWRpbyBkZWwgcGVkaWRvIHVzYSBgRElWSURFYCwgbm8gdW5hIGJhcnJhLiBFcyBkZWxpYmVyYWRvOgpgRElWSURFYCBtYW5lamEgZWwgY2FzbyBlbiBxdWUgZWwgZGVub21pbmFkb3IgZXMgY2VybyBzaW4gcm9tcGVyc2UuIFVuIHBlcXVlw7FvCmjDoWJpdG8gZGUgc2VndXJpZGFkIHF1ZSB0ZSBzYWx2YSBkZSBlcnJvcmVzIGAjRElWLzAhYCBtw6FzIHRhcmRlLgoKPiDCq8K/Q3XDoW50b3MgY2xpZW50ZXMgYWN0aXZvcyB0ZW5lbW9zP8K7CgohW0NsaWVudGVzIGFjdGl2b3NdKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9lMDI5LnBuZykKCj4gwqvCv0N1w6FsIGVzIGxhIHZlbnRhIG3DoXMgZ3JhbmRlP8K7CgohW1ZlbnRhIG3DoXMgZ3JhbmRlXSguLi8uLi9hc3NldHMvZXhhbXBsZXMvZTAzMC5wbmcpCgpFbiB1biBwdcOxYWRvIGRlIGZyYXNlcywgdG9kbyBlbCBjb25qdW50byBjb3JlIGRlIEtQSSBleGlzdGUsIGVuIHZpdm8gZW4gZWwgbW9kZWxvLgoKIyMgTcOpdHJpY2FzIGRlIGRpbmVybzogbWFyZ2VuIHkgcGFydGljaXBhY2nDs24KCkVsIGluZ3Jlc28gZXMgdmFuaWRhZDsgZWwgYmVuZWZpY2lvIGVzIGNvcmR1cmEuIFBhcmEgc2FiZXIgbG8gcXVlICpjb25zZXJ2YXMqLApuZWNlc2l0YXMgZWwgY29zdGU6Cgo+IMKrQcOxYWRlIHVuYSBjb2x1bW5hIGRlIGNvc3RlIHkgdW5hIG1lZGlkYSBkZSBtYXJnZW4uwrsKCiFbQ29sdW1uYSBkZSBjb3N0ZV0oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2UwNTYucG5nKQoKPiDCq01hcmdlbiB0b3RhbCBkZSB0b2RhcyBsYXMgdmVudGFzLsK7CgohW01hcmdlbiB0b3RhbF0oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2UwNTcucG5nKQoKWSBwYXJhIHZlciBjw7NtbyBzZSBjb21wYXJhIHVuYSBwb3JjacOzbiBjb24gZWwgdG9kbzoKCj4gwqtQYXJ0aWNpcGFjacOzbiBkZSBsYXMgdmVudGFzIHRvdGFsZXMsIGNvbW8gcG9yY2VudGFqZS7CuwoKIVtQb3JjZW50YWplIGRlbCB0b3RhbF0oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2UwNTgucG5nKQoKVW4gcG9yY2VudGFqZS1kZWwtdG90YWwgZXMgdW5hIGRlIGxhcyBtw6l0cmljYXMgbcOhcyB1c2FkYXMgZW4gcmVwb3J0aW5nOiBjb252aWVydGUKY3VhbHF1aWVyIG7Dum1lcm8gZW4gwqvCv3F1w6kgdGFuIGdyYW5kZSBlcyBlc3RvIGNvbXBhcmFkbyBjb24gdG9kbz/Cuy4KCiMjIFVuYXMgY3VhbnRhcyByw6FwaWRhcyBtw6FzCgo+IMKrUHJlY2lvIHVuaXRhcmlvIG1lZGlvIHBhZ2Fkby7CuwoKIVtQcmVjaW8gdW5pdGFyaW8gbWVkaW9dKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9lMDc1LnBuZykKCj4gwqtWZW50YXMgdG90YWxlcyBleGNsdXllbmRvIHVuYSBjYXRlZ29yw61hLsK7CgohW1ZlbnRhcyBleGNsdXllbmRvIHVuYSBjYXRlZ29yw61hXSguLi8uLi9hc3NldHMvZXhhbXBsZXMvZTA4OS5wbmcpCgpDYWRhIHVuYSB1bmEgZnJhc2Ugbm9ybWFsLCBjYWRhIHVuYSB1bmEgbWVkaWRhIHJlYWwgZW4gZWwgbW9kZWxvIGVuIHZpdm8uCgojIyBVbmEgY3VyaW9zaWRhZDogbGEgbcOpdHJpY2EgcXVlIHNhbGnDsyBwb3IgZGV0csOhcwoKQ3VhbmRvIGxhIFVuacOzbiBTb3Zpw6l0aWNhIG1pZGnDsyBsYSBwcm9kdWNjacOzbiBkZSBjbGF2b3MgcG9yICoqY2FudGlkYWQqKiwgbGFzCmbDoWJyaWNhcyBoYWPDrWFuIGNsYXZvcyBkaW1pbnV0b3MgZSBpbsO6dGlsZXMgcG9yIG1pbGxvbmVzLiBDdWFuZG8gY2FtYmlhcm9uIGEgbWVkaXIKcG9yICoqcGVzbyoqLCBoaWNpZXJvbiB1bm9zIHBvY29zIGNsYXZvcyBlbm9ybWVzLiBNaXNtbyBvYmpldGl2bywgZGlzdGludGEgbcOpdHJpY2EsCmRpc3RpbnRvIGFic3VyZG8uIExhIGxlY2Npw7NuIHF1ZSB0b2RvIGFuYWxpc3RhIGRlYmUgYXByZW5kZXI6ICoqb2J0aWVuZXMgbG8gcXVlCm1pZGVzKiosIGFzw60gcXVlIG1pZGUgY29uIGN1aWRhZG86IGlkZWFsbWVudGUgdW5hIG3DqXRyaWNhIHF1ZSBzb2xvIHB1ZWRhIG1lam9yYXIgc2kKZWwgbmVnb2NpbyByZWFsbWVudGUgbWVqb3JhLgoKLS0tCgojIyBMbyBxdWUgdGUgbGxldmFyw6FzIGRlIGVzdGUgY2Fww610dWxvCgotIEVsaWdlIG3DqXRyaWNhcyBxdWUgc2UgbXVldmFuIGNvbiBlbCBuZWdvY2lvLCBlbiBsYXMgcXVlIHB1ZWRhcyBhY3R1YXIgeSBxdWUgbm8gc2UKICBwdWVkYW4gbWFuaXB1bGFyLgotIEV2aXRhIGxhcyBtw6l0cmljYXMgZGUgdmFuaWRhZCAodG90YWxlcyBxdWUgc2llbXByZSBjcmVjZW4pLgotIEVsIGNvbmp1bnRvIGNvcmUgZGUgdmVudGFzOiBpbmdyZXNvLCB1bmlkYWRlcywgcGVkaWRvcywgcGVkaWRvIG1lZGlvLCBjbGllbnRlcwogIGFjdGl2b3MuCi0gRWwgbWFyZ2VuIHkgbGEgcGFydGljaXBhY2nDs24tZGVsLXRvdGFsIGNvbnZpZXJ0ZW4gZWwgaW5ncmVzbyBlbiBzaWduaWZpY2Fkby4KLSBPYnRpZW5lcyBsbyBxdWUgbWlkZXM6IG1pZGUgY29uIHNhYmlkdXLDrWEuCgpTaWd1aWVudGU6IGxvcyBjdWF0cm8gdGlwb3MgZGUgYW7DoWxpc2lzLCBkZXNkZSDCq3F1w6kgcGFzw7PCuyBoYXN0YSDCq3F1w6kgZGViZXLDrWFtb3MKaGFjZXLCuy4K
+# 11. Las métricas que importan
+
+Una métrica es un número que vigilas para saber cómo le va al negocio. Elige las
+correctas y puedes gobernar el rumbo. Elige las equivocadas y puedes estrellarte
+contra un acantilado mientras el panel brilla en verde. Este capítulo trata de
+elegir los números que de verdad importan, y de construirlos con el asistente.
+
+## Qué hace que una métrica merezca la pena
+
+Una buena métrica pasa tres pruebas:
+
+1. **Se mueve cuando el negocio se mueve.** Si el negocio empeora, el número debería
+   empeorar.
+2. **Puedes actuar sobre ella.** Un número que solo puedes admirar es decoración.
+3. **Es honesta.** No se puede manipular para que parezca bien mientras las cosas se
+   pudren.
+
+Una **métrica de vanidad** suspende estas. «Usuarios registrados totales desde 2010»
+solo sube. Sienta de maravilla y no significa nada. Vigila tasas y cambios, no
+totales que siempre crecen.
+
+## Las métricas core de ventas
+
+Todo negocio que vende cosas vigila un conjunto parecido:
+
+- **Ventas totales** — el ingreso titular.
+- **Unidades vendidas** — cuánto material se movió.
+- **Pedidos** — cuántas transacciones.
+- **Valor medio del pedido** — ingreso por pedido.
+- **Clientes activos** — cuánta gente compró de verdad.
+- **Venta más grande** — la línea individual más grande (para detectar ballenas).
+
+El asistente construye cada una de estas a partir de una petición normal. Mira
+aparecer un conjunto:
+
+> «Crea una medida de Ventas Totales con formato de euro.»
+
+![Medida de Ventas Totales](../../assets/examples/e026.png)
+
+> «Crea una medida para unidades vendidas.»
+
+![Medida de Unidades Vendidas](../../assets/examples/e027.png)
+
+> «Crea una medida de valor medio del pedido.»
+
+![Valor medio del pedido](../../assets/examples/e028.png)
+
+Fíjate en que el valor medio del pedido usa `DIVIDE`, no una barra. Es deliberado:
+`DIVIDE` maneja el caso en que el denominador es cero sin romperse. Un pequeño
+hábito de seguridad que te salva de errores `#DIV/0!` más tarde.
+
+> «¿Cuántos clientes activos tenemos?»
+
+![Clientes activos](../../assets/examples/e029.png)
+
+> «¿Cuál es la venta más grande?»
+
+![Venta más grande](../../assets/examples/e030.png)
+
+En un puñado de frases, todo el conjunto core de KPI existe, en vivo en el modelo.
+
+## Métricas de dinero: margen y participación
+
+El ingreso es vanidad; el beneficio es cordura. Para saber lo que *conservas*,
+necesitas el coste:
+
+> «Añade una columna de coste y una medida de margen.»
+
+![Columna de coste](../../assets/examples/e056.png)
+
+> «Margen total de todas las ventas.»
+
+![Margen total](../../assets/examples/e057.png)
+
+Y para ver cómo se compara una porción con el todo:
+
+> «Participación de las ventas totales, como porcentaje.»
+
+![Porcentaje del total](../../assets/examples/e058.png)
+
+Un porcentaje-del-total es una de las métricas más usadas en reporting: convierte
+cualquier número en «¿qué tan grande es esto comparado con todo?».
+
+## Unas cuantas rápidas más
+
+> «Precio unitario medio pagado.»
+
+![Precio unitario medio](../../assets/examples/e075.png)
+
+> «Ventas totales excluyendo una categoría.»
+
+![Ventas excluyendo una categoría](../../assets/examples/e089.png)
+
+Cada una una frase normal, cada una una medida real en el modelo en vivo.
+
+## Una curiosidad: la métrica que salió por detrás
+
+Cuando la Unión Soviética midió la producción de clavos por **cantidad**, las
+fábricas hacían clavos diminutos e inútiles por millones. Cuando cambiaron a medir
+por **peso**, hicieron unos pocos clavos enormes. Mismo objetivo, distinta métrica,
+distinto absurdo. La lección que todo analista debe aprender: **obtienes lo que
+mides**, así que mide con cuidado: idealmente una métrica que solo pueda mejorar si
+el negocio realmente mejora.
+
+---
+
+## Lo que te llevarás de este capítulo
+
+- Elige métricas que se muevan con el negocio, en las que puedas actuar y que no se
+  puedan manipular.
+- Evita las métricas de vanidad (totales que siempre crecen).
+- El conjunto core de ventas: ingreso, unidades, pedidos, pedido medio, clientes
+  activos.
+- El margen y la participación-del-total convierten el ingreso en significado.
+- Obtienes lo que mides: mide con sabiduría.
+
+Siguiente: los cuatro tipos de análisis, desde «qué pasó» hasta «qué deberíamos
+hacer».

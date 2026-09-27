@@ -1,1 +1,108 @@
-IyAyMS4gUmVwb3J0cyBhbmQgRGFzaGJvYXJkcyBQZW9wbGUgQWN0dWFsbHkgVXNlCgpBIGRhc2hib2FyZCB0aGF0IG5vYm9keSBvcGVucyBpcyBhIGZhaWx1cmUsIG5vIG1hdHRlciBob3cgYmVhdXRpZnVsIGl0IGlzLiBUaGlzCmNoYXB0ZXIgaXMgYWJvdXQgYnVpbGRpbmcgcmVwb3J0cyB0aGF0IHBlb3BsZSBhY3R1YWxseSBsb29rIGF0LCB0cnVzdCwgYW5kIGFjdCBvbiDigJQKYW5kIGhvdyB0aGUgYXNzaXN0YW50IHByZXBhcmVzIHRoZSBudW1iZXJzIHRoYXQgZ28gb24gdGhlbS4KCiMjIERhc2hib2FyZCB2cy4gcmVwb3J0IOKAlCB0aGV5J3JlIG5vdCB0aGUgc2FtZQoKLSBBICoqZGFzaGJvYXJkKiogaXMgYSBzaW5nbGUgcGFnZSBvZiB0aGUgbW9zdCBpbXBvcnRhbnQgbnVtYmVycywgZGVzaWduZWQgdG8gYmUKICByZWFkIGF0IGEgZ2xhbmNlLiBUaGluazogYSBjYXIncyBzcGVlZG9tZXRlciBhbmQgZnVlbCBnYXVnZS4KLSBBICoqcmVwb3J0KiogaXMgYSBkZWVwZXIsIG11bHRpLXBhZ2UgZXhwbG9yYXRpb24geW91IGNhbiBkcmlsbCBpbnRvLiBUaGluazogdGhlCiAgb3duZXIncyBtYW51YWwgeW91IGNvbnN1bHQgd2hlbiBzb21ldGhpbmcncyB3cm9uZy4KCkJvdGggaGF2ZSBhIHBsYWNlLiBUaGUgZGFzaGJvYXJkIGFuc3dlcnMgImhvdyBhcmUgd2UgZG9pbmcgcmlnaHQgbm93PyI7IHRoZSByZXBvcnQKYW5zd2VycyAibGV0J3MgZGlnIGludG8gd2h5LiIKCiMjIFRoZSBLUEkgcm93OiB0aGUgdG9wIG9mIGV2ZXJ5IGdvb2QgZGFzaGJvYXJkCgpNb3N0IGdyZWF0IGRhc2hib2FyZHMgb3BlbiB3aXRoIGEgcm93IG9mIGJpZyBudW1iZXJzIOKAlCB0aGUgaGFuZGZ1bCBvZiBLUElzIHRoYXQKbWF0dGVyIG1vc3QuIFRoZSBhc3Npc3RhbnQgY2FuIGJ1aWxkIHRoYXQgcm93IGluIG9uZSBhc2s6Cgo+ICJBIEtQSSBzZXQ6IHRvdGFsIHNhbGVzLCBvcmRlcnMsIGF2ZyBvcmRlci4iCgohW0tQSSBzZXRdKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9lMDYyLnBuZykKClRocmVlIG51bWJlcnMsIHJlYWR5IGZvciB0aHJlZSBLUEkgY2FyZHMgYWNyb3NzIHRoZSB0b3AuIFRoaXMgaXMgdGhlIGZpcnN0IHRoaW5nIGEKYnVzeSBleGVjdXRpdmUgcmVhZHMsIHNvIGl0IG11c3QgYmUgdGhlIHJpZ2h0IHRocmVlIG51bWJlcnMuCgpUaGUgc2FtZSBLUElzLCBkcmF3biBhcyBhIGNvbXBhcmlzb24gY2hhcnQ6CgohW0hlYWRsaW5lIEtQSXMg4oCUIGNoYXJ0XSguLi8uLi9hc3NldHMvZXhhbXBsZXMvY2hhcnQta3BpLnBuZykKCj4gIkEgY29tcGFjdCBLUEkgcm93IGZvciB0aGUgdG9wIG9mIGEgcmVwb3J0LiIKCiFbQ29tcGFjdCBLUEkgcm93XSguLi8uLi9hc3NldHMvZXhhbXBsZXMvZTA5OC5wbmcpCgpTYW1lIGlkZWEsIGEgZGlmZmVyZW50IHNldCDigJQgd2hhdGV2ZXIgeW91ciB0b3AtbGluZSBtZXRyaWNzIGFyZS4KCiMjIFRoZSBzaW5nbGUgYmlnIG51bWJlcgoKU29tZXRpbWVzIG9uZSBudW1iZXIgaXMgdGhlIHdob2xlIHN0b3J5OgoKPiAiQSBzaW5nbGUgYmlnLW51bWJlciBLUEkuIgoKIVtCaWcgbnVtYmVyIEtQSV0oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2UwODQucG5nKQoKQSBiaWctbnVtYmVyIGNhcmQgaXMgdGhlIGRhc2hib2FyZCBlcXVpdmFsZW50IG9mIGEgaGVhZGxpbmUuIFVzZSBpdCBmb3IgdGhlIG9uZQptZXRyaWMgZXZlcnlvbmUgY2FyZXMgYWJvdXQuCgojIyBUaGUgbGVhZGVyYm9hcmQKClBlb3BsZSBsb3ZlIGEgcmFua2luZy4gQSB0b3AtTiBsaXN0IGRyaXZlcyBhY3Rpb24gYW5kIGEgbGl0dGxlIGZyaWVuZGx5CmNvbXBldGl0aW9uOgoKPiAiVG9wIHByb2R1Y3RzIGZvciBhIGxlYWRlcmJvYXJkIHZpc3VhbC4iCgohW1RvcCBwcm9kdWN0cyBsZWFkZXJib2FyZF0oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2UwNjMucG5nKQoKQSByYW5rZWQgbGlzdCwgcmVhZHkgZm9yIGEgbGVhZGVyYm9hcmQgdmlzdWFsLiBUaGUgYm90dG9tIG9mIHRoZSBsaXN0IGlzIHdoZXJlIHRoZQpwcm9ibGVtcyBhcmU7IHRoZSB0b3AgaXMgd2hlcmUgdG8gZG91YmxlIGRvd24uCgpUaGUgbGVhZGVyYm9hcmQsIGRyYXduIGFzIGEgY2hhcnQ6CgohW1RvcCBwcm9kdWN0cyDigJQgbGVhZGVyYm9hcmQgY2hhcnRdKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9jaGFydC1wcm9kdWN0cy5wbmcpCgojIyBXaGF0IG1ha2VzIGEgZGFzaGJvYXJkIHVzYWJsZQoKLSAqKkZldyBudW1iZXJzLCBiaWcgYW5kIGNsZWFyLioqIEEgZ2xhbmNlIHNob3VsZCB0ZWxsIHRoZSBzdG9yeS4KLSAqKlRoZSByaWdodCBudW1iZXJzLioqIFRoZSBvbmVzIHRoYXQgbW92ZSB3aXRoIHRoZSBidXNpbmVzcyAoQ2hhcHRlciAxMSkuCi0gKipDb25zaXN0ZW50LioqIFNhbWUgbWV0cmljcywgc2FtZSBjb2xvdXJzLCBzYW1lIGxheW91dCBldmVyeSB0aW1lIOKAlCBzbyBwZW9wbGUKICBsZWFybiB0byByZWFkIGl0LgotICoqTGl2ZS4qKiBVcGRhdGVkIGF1dG9tYXRpY2FsbHksIHNvIGl0J3MgYWx3YXlzIGN1cnJlbnQuCi0gKipIb25lc3QuKiogTm8gdHJ1bmNhdGVkIGF4ZXMsIG5vIHZhbml0eSBtZXRyaWNzLgoKIyMgVGhlIGRyaWxsLWRvd24gcHJpbmNpcGxlCgpBIGdvb2QgZGFzaGJvYXJkIHNob3dzIHRoZSBzdW1tYXJ5IGFuZCBsZXRzIHlvdSAqKmRyaWxsIGRvd24qKiB3aGVuIHlvdSBuZWVkIGRldGFpbC4KWW91IHNlZSAiTm9ydGggaXMgZG93biIgb24gdGhlIGRhc2hib2FyZCwgY2xpY2sgaXQsIGFuZCB0aGUgcmVwb3J0IHNob3dzIHlvdSB3aGljaApzdG9yZXMsIHdoaWNoIHByb2R1Y3RzLCB3aGljaCBkYXlzLiBTdW1tYXJ5IGZpcnN0LCBkZXRhaWwgb24gZGVtYW5kIOKAlCBuZXZlciBidXJ5CnRoZSByZWFkZXIgaW4gZGV0YWlsIHVwZnJvbnQuCgojIyBBIGN1cmlvc2l0eTogdGhlIGNvY2twaXQgcnVsZQoKUGlsb3RzIGRvbid0IHdhbnQgbW9yZSBpbnN0cnVtZW50czsgdGhleSB3YW50IHRoZSAqcmlnaHQqIGluc3RydW1lbnRzIGluIHRoZSAqcmlnaHQqCnBsYWNlLiBUaGUgc2FtZSBydWxlIGdvdmVybnMgZGFzaGJvYXJkcy4gQSBmYW1vdXMgZGVzaWduIHByaW5jaXBsZSBzYXlzIGEgZ29vZApkYXNoYm9hcmQgYW5zd2VycyB5b3VyIG1vc3QgaW1wb3J0YW50IHF1ZXN0aW9uICoqd2l0aG91dCB5b3UgaGF2aW5nIHRvIGFzayoqIOKAlCB0aGUKbnVtYmVyIHlvdSBuZWVkIGlzIGFscmVhZHkgdGhlcmUsIGJpZywgY3VycmVudCwgYW5kIGhvbmVzdC4gSWYgeW91IGhhdmUgdG8gaHVudCBvcgpjbGljayB0byBmaW5kIHRoZSB0aGluZyB5b3UgY2hlY2sgZXZlcnkgbW9ybmluZywgdGhlIGRhc2hib2FyZCBpc24ndCBkb25lLgoKIyMgVGhlIGFzc2lzdGFudCdzIHJvbGUgaW4gdGhlIGRhc2hib2FyZAoKVGhlIGFzc2lzdGFudCBidWlsZHMgdGhlICoqbnVtYmVycyoqIOKAlCB0aGUgbWVhc3VyZXMgYW5kIEtQSXMgdGhhdCBmZWVkIGV2ZXJ5IGNhcmQKYW5kIGNoYXJ0LiBZb3UgYXJyYW5nZSB0aGVtIG9uIHRoZSBjYW52YXMuIFRoaXMgZGl2aXNpb24gb2YgbGFib3VyIGlzIHRoZSBzd2VldApzcG90OiB0aGUgYXNzaXN0YW50IGhhbmRsZXMgdGhlIGNhbGN1bGF0aW9uIGFuZCB0aGUgY2hlY2tpbmc7IHlvdSBoYW5kbGUgdGhlIHN0b3J5CmFuZCB0aGUgbGF5b3V0LgoKLS0tCgojIyBXaGF0IHlvdSdsbCBjYXJyeSBmcm9tIHRoaXMgY2hhcHRlcgoKLSBBIGRhc2hib2FyZCBpcyBhIGdsYW5jZTsgYSByZXBvcnQgaXMgYSBkcmlsbC1kb3duLgotIE9wZW4gd2l0aCBhIEtQSSByb3cgb2YgdGhlIGZldyBudW1iZXJzIHRoYXQgbWF0dGVyLgotIFVzZSBiaWctbnVtYmVyIGNhcmRzIGFuZCBsZWFkZXJib2FyZHMgZm9yIGZvY3VzLgotIFVzYWJsZSA9IGZldywgcmlnaHQsIGNvbnNpc3RlbnQsIGxpdmUsIGhvbmVzdC4KLSBUaGUgYXNzaXN0YW50IGJ1aWxkcyB0aGUgbnVtYmVyczsgeW91IGJ1aWxkIHRoZSBzdG9yeS4KClBhcnQgSVYgaXMgZG9uZSDigJQgeW91IGNhbiBjb25uZWN0LCBtb2RlbCwgY2FsY3VsYXRlLCBhbmQgdmlzdWFsaXNlLiBOb3cgdGhlIGZpbmFsCmFjdDogdGhlIGFnZW50aWMgcmV2b2x1dGlvbiB0aGF0IHRpZXMgaXQgYWxsIHRvZ2V0aGVyLCBhbmQgeW91ciBwbGFjZSBpbiBpdC4K
+# 21. Reports and Dashboards People Actually Use
+
+A dashboard that nobody opens is a failure, no matter how beautiful it is. This
+chapter is about building reports that people actually look at, trust, and act on —
+and how the assistant prepares the numbers that go on them.
+
+## Dashboard vs. report — they're not the same
+
+- A **dashboard** is a single page of the most important numbers, designed to be
+  read at a glance. Think: a car's speedometer and fuel gauge.
+- A **report** is a deeper, multi-page exploration you can drill into. Think: the
+  owner's manual you consult when something's wrong.
+
+Both have a place. The dashboard answers "how are we doing right now?"; the report
+answers "let's dig into why."
+
+## The KPI row: the top of every good dashboard
+
+Most great dashboards open with a row of big numbers — the handful of KPIs that
+matter most. The assistant can build that row in one ask:
+
+> "A KPI set: total sales, orders, avg order."
+
+![KPI set](../../assets/examples/e062.png)
+
+Three numbers, ready for three KPI cards across the top. This is the first thing a
+busy executive reads, so it must be the right three numbers.
+
+The same KPIs, drawn as a comparison chart:
+
+![Headline KPIs — chart](../../assets/examples/chart-kpi.png)
+
+> "A compact KPI row for the top of a report."
+
+![Compact KPI row](../../assets/examples/e098.png)
+
+Same idea, a different set — whatever your top-line metrics are.
+
+## The single big number
+
+Sometimes one number is the whole story:
+
+> "A single big-number KPI."
+
+![Big number KPI](../../assets/examples/e084.png)
+
+A big-number card is the dashboard equivalent of a headline. Use it for the one
+metric everyone cares about.
+
+## The leaderboard
+
+People love a ranking. A top-N list drives action and a little friendly
+competition:
+
+> "Top products for a leaderboard visual."
+
+![Top products leaderboard](../../assets/examples/e063.png)
+
+A ranked list, ready for a leaderboard visual. The bottom of the list is where the
+problems are; the top is where to double down.
+
+The leaderboard, drawn as a chart:
+
+![Top products — leaderboard chart](../../assets/examples/chart-products.png)
+
+## What makes a dashboard usable
+
+- **Few numbers, big and clear.** A glance should tell the story.
+- **The right numbers.** The ones that move with the business (Chapter 11).
+- **Consistent.** Same metrics, same colours, same layout every time — so people
+  learn to read it.
+- **Live.** Updated automatically, so it's always current.
+- **Honest.** No truncated axes, no vanity metrics.
+
+## The drill-down principle
+
+A good dashboard shows the summary and lets you **drill down** when you need detail.
+You see "North is down" on the dashboard, click it, and the report shows you which
+stores, which products, which days. Summary first, detail on demand — never bury
+the reader in detail upfront.
+
+## A curiosity: the cockpit rule
+
+Pilots don't want more instruments; they want the *right* instruments in the *right*
+place. The same rule governs dashboards. A famous design principle says a good
+dashboard answers your most important question **without you having to ask** — the
+number you need is already there, big, current, and honest. If you have to hunt or
+click to find the thing you check every morning, the dashboard isn't done.
+
+## The assistant's role in the dashboard
+
+The assistant builds the **numbers** — the measures and KPIs that feed every card
+and chart. You arrange them on the canvas. This division of labour is the sweet
+spot: the assistant handles the calculation and the checking; you handle the story
+and the layout.
+
+---
+
+## What you'll carry from this chapter
+
+- A dashboard is a glance; a report is a drill-down.
+- Open with a KPI row of the few numbers that matter.
+- Use big-number cards and leaderboards for focus.
+- Usable = few, right, consistent, live, honest.
+- The assistant builds the numbers; you build the story.
+
+Part IV is done — you can connect, model, calculate, and visualise. Now the final
+act: the agentic revolution that ties it all together, and your place in it.

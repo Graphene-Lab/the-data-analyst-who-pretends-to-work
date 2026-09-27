@@ -1,1 +1,128 @@
-IyBDb25vc2NlcmUgaSBwcm9wcmkgY2xpZW50aQoKU2UgYW5hbGl6emkgdW5hIHNvbGEgY29zYSBuZWwgdHVvIGJ1c2luZXNzLCBhbmFsaXp6YSBpIGNsaWVudGkuIFNvbm8gZGEgZG92ZQphcnJpdmFubyBpIHNvbGRpIGUgZG92ZSBzZSBuZSBwZXJkb25vLiBVbmEgcGljY29sYSBhbmFsaXNpIHN1IGNoaSBjb21wcmEsIHF1YW50bywgZQpjaGkgc2UgbmUgc3RhIGFuZGFuZG8gdmFsZSBwacO5IGRpIG1pbGxlIGdyYWZpY2kgc3VpIHByb2RvdHRpLgoKIyMgTGUgZG9tYW5kZSBzdWkgY2xpZW50aQoKT2duaSBhemllbmRhIGluIHNlZ3JldG8gdnVvbGUgc2FwZXJlOgoKLSBDaGkgc29ubyBpIG1pZWkgY2xpZW50aSBtaWdsaW9yaT8KLSBRdWFsaSBjbGllbnRpIHN0YW5ubyBwZXIgYW5kYXJzZW5lPwotIFF1YWxpIHZhbGUgbGEgcGVuYSByaWNvbnF1aXN0YXJlPwotIFF1YW50byBzcGVuZGUgY2lhc2N1biB0aXBvIGRpIGNsaWVudGU/Ci0gRGEgZG92ZSB2ZW5nb25vIGkgbWllaSBjbGllbnRpPwoKUmlzcG9uZGkgYSBxdWVzdGUgZSBwdW9pIGNvbmNlbnRyYXJlIHNvbGRpIGVkIGVuZXJnaWEgZG92ZSByZW5kb25vLgoKIyMgVW5hIG1pc3VyYSBwZXIgY2xpZW50ZTogbGEgZm9uZGF6aW9uZQoKUGVyIGFuYWxpenphcmUgaSBjbGllbnRpLCB0aSBzZXJ2ZSB1bmEgbWlzdXJhIGNoZSBhcnJvdG9saSBsYSBzcGVzYSBkaSBvZ25pCmNsaWVudGU6Cgo+ICJBZ2dpdW5naSB1bmEgbWlzdXJhIGRpIHZlbmRpdGUgcGVyIGNsaWVudGUuIgoKIVtNaXN1cmEgdmVuZGl0ZSBwZXIgY2xpZW50ZV0oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2UwMzUucG5nKQoKT3JhIG9nbmkgY2xpZW50ZSBoYSB1biBudW1lcm8gIkN1c3RvbWVyIFNhbGVzIiwgZSBwdW9pIGNsYXNzaWZpY2FybGksIHNlZ21lbnRhcmxpIGUKY29uZnJvbnRhcmxpIHR1dHRvIGlsIGdpb3Juby4KCiMjIENoaSBzb25vIGkgY2xpZW50aSBtaWdsaW9yaT8KCj4gIlRvcCA1IGNsaWVudGkgcGVyIHNwZXNhLiIKCiFbVG9wIGNsaWVudGldKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9lMDM2LnBuZykKCkRpIGNvbHBvIHZlZGkgY2hpIGNvbnRhLiBJbiBxdWVzdGkgZGF0aSwgcG9jaGkgY2xpZW50aSBwb3J0YW5vIHVuYSBncmFuZGUgcXVvdGEgZGkKZmF0dHVyYXRvLCBpbCBjaGUgw6ggbm9ybWFsZSBlIGltcG9ydGFudGUuIFNpZ25pZmljYTogKipwcmVuZGl0aSBjdXJhIGRpIHF1ZXN0ZQpwZXJzb25lLioqIFBlcmRlcm5lIHVubyBmYSBtYWxlLgoKTGEgc3Rlc3NhIGNsYXNzaWZpY2EsIGRpc2VnbmF0YSBjb21lIGdyYWZpY286CgohW1RvcCBjbGllbnRpIHBlciBzcGVzYSDigJQgZ3JhZmljbyBhIGJhcnJlXSguLi8uLi9hc3NldHMvZXhhbXBsZXMvY2hhcnQtY3VzdG9tZXJzLnBuZykKCiMjIFNlZ21lbnRhcmU6IGFmZmV0dGFyZSBpIGNsaWVudGkgaW4gZ3J1cHBpCgpVbiAqKnNlZ21lbnRvKiogw6ggdW4gZ3J1cHBvIGRpIGNsaWVudGkgY2hlIHNpIGNvbXBvcnRhbm8gYWxsbyBzdGVzc28gbW9kby4gUHVvaQphZmZldHRhcmUgcGVyIHF1YWxzaWFzaSBjb3NhOgoKPiAiVmVuZGl0ZSBkaXZpc2UgcGVyIGNpdHTDoCBkZWwgY2xpZW50ZS4iCgohW1ZlbmRpdGUgcGVyIGNpdHTDoF0oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2UwMzcucG5nKQoKSSB0b3RhbGkgcGVyIGNpdHTDoCwgY29tZSBncmFmaWNvOgoKIVtWZW5kaXRlIHBlciBjaXR0w6Ag4oCUIGdyYWZpY28gYSBiYXJyZV0oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2NoYXJ0LWNpdHkucG5nKQoKPiAiVmVuZGl0ZSBwZXIgc2VnbWVudG8gZGkgY2xpZW50ZS4iCgohW1ZlbmRpdGUgcGVyIHNlZ21lbnRvXSguLi8uLi9hc3NldHMvZXhhbXBsZXMvZTAzOC5wbmcpCgpQZXIgY2l0dMOgLCBwZXIgc2VnbWVudG8gKFJldGFpbCAvIEJ1c2luZXNzIC8gT25saW5lKSwgcGVyIHF1YW50byBzcGVuZG9ubzogb2duaQpmZXR0YSByaXZlbGEgdW4nb3Bwb3J0dW5pdMOgIGRpdmVyc2EuIEZvcnNlIGlsIHNlZ21lbnRvIEJ1c2luZXNzIHNwZW5kZSBkaSBwacO5IHBybwpjYXBpdGUgZSBtZXJpdGEgdW4nb2ZmZXJ0YSBzcGVjaWFsZS4gRm9yc2UgdW5hIGNpdHTDoCDDqCBwb2NvIHNlcnZpdGEgZSBwb3RyZWJiZQpjcmVzY2VyZS4KCkxhIGRpdmlzaW9uZSBwZXIgc2VnbWVudG8sIGNvbWUgY2lhbWJlbGxhOgoKIVtWZW5kaXRlIHBlciBzZWdtZW50byDigJQgZ3JhZmljbyBhIGNpYW1iZWxsYV0oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2NoYXJ0LXNlZ21lbnQucG5nKQoKIyMgVW4gZnJhbWV3b3JrIHZlcm86IFJGTQoKSWwgbWV0b2RvIGRpIGFuYWxpc2kgZGVpIGNsaWVudGkgcGnDuSBmYW1vc28gw6ggKipSRk0qKjogdHJlIGxldHRlcmUuCgotICoqUmVjZW5jeSoqIOKAlCBxdWFudG8gZGkgcmVjZW50ZSBoYW5ubyBjb21wcmF0bz8KLSAqKkZyZXF1ZW5jeSoqIOKAlCBxdWFudG8gc3Blc3NvIGNvbXByYW5vPwotICoqTW9uZXRhcnkqKiDigJQgcXVhbnRvIHNwZW5kb25vPwoKQXNzZWduYSB1biBwdW50ZWdnaW8gYSBvZ25pIGNsaWVudGUgc3UgdHV0dGUgZSB0cmUsIGUgcHVvaSBzbWlzdGFybG8gaW4gZ3J1cHBpOiBpCmNhbXBpb25pIGZlZGVsaSwgZ2xpIGFjcXVpcmVudGkgb2NjYXNpb25hbGksIHF1ZWxsaSBjaGUgc2kgc3Rhbm5vIGFsbG9udGFuYW5kby4KUkZNIMOoIHBvdGVudGUgcGVyY2jDqSDDqCBzZW1wbGljZSBlIGZ1bnppb25hOiBpIGNsaWVudGkgY2hlIGhhbm5vIGNvbXByYXRvIGRpCnJlY2VudGUsIHNwZXNzbyBlIHRhbnRvIHNvbm8gaWwgdHVvIG9ybzsgaSBjbGllbnRpIGNoZSBub24gY29tcHJhbm8gZGEgdW4gcG8nIHNvbm8KcXVlbGxpIGRhIHJpY29ucXVpc3RhcmUgcHJpbWEgY2hlIHNpYW5vIHBlcnNpLgoKIyMgVHJvdmFyZSBxdWVsbGkgZGkgYWx0byB2YWxvcmUKCj4gIkNyZWEgdW5hIG1pc3VyYSBjbGllbnRlIGFkIGFsdG8gdmFsb3JlLiIKCiFbRmxhZyBhbHRvIHZhbG9yZV0oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2UwOTUucG5nKQoKVW4gZmxhZyBjaGUgY29udHJhc3NlZ25hIGkgY2xpZW50aSBzb3ByYSB1bmEgc29nbGlhIGRpIHNwZXNhOiBxdWVsbGkgZGEgcHJvdGVnZ2VyZSwKcHJlbWlhcmUgZSBub24gcGVyZGVyZSBtYWkuCgojIyBRdWFsY2hlIGFsdHJhIGZldHRhCgo+ICJDbGllbnRpIGEgTWlsYW5vIHNvbHRhbnRvLiIKCiFbQ2xpZW50aSBkaSBNaWxhbm9dKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9lMDc3LnBuZykKCj4gIlNwZXNhIG1lZGlhIHBlciBjbGllbnRlIGJ1c2luZXNzLiIKCiFbU3Blc2EgbWVkaWEgYnVzaW5lc3NdKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9lMDkwLnBuZykKCk9nbnVuYSDDqCB1bmEgZG9tYW5kYSBzZW1wbGljZSwgb2dudW5hIMOoIHVuYSByaXNwb3N0YSB2ZXJhIGRhbCBtb2RlbGxvIGluCmVzZWN1emlvbmUuCgojIyBVbmEgY3VyaW9zaXTDoDogbCdhYmJhbmRvbm8gY2hlIG5vbiB2ZWRpCgpJIGNsaWVudGkgcGnDuSBjb3N0b3NpIGRhIHBlcmRlcmUgc29ubyBxdWVsbGkgY2hlIHNlIG5lIHZhbm5vICoqaW4gc2lsZW56aW8qKjogbm9uIHNpCmxhbWVudGFubyBtYWksIHNtZXR0b25vIGUgYmFzdGEgZGkgY29tcHJhcmUuIFF1YW5kbyB0ZSBuZSBhY2NvcmdpLCBzb25vIGdpw6AgYW5kYXRpCmUgbm9uIGhhaSBtYWkgc2FwdXRvIHBlcmNow6kuIFVuIHNlbXBsaWNlIHJlcG9ydCAiY2xpZW50aSBjaGUgbm9uIGNvbXByYW5vIGRhIDkwCmdpb3JuaSIgbGkgcHJlbmRlIHBlciB0ZW1wbywgbWVudHJlIHNpIHBvc3Nvbm8gYW5jb3JhIHJpY29ucXVpc3RhcmUuIEwnYWJiYW5kb25vCnNpbGVuemlvc28gw6ggbGEgZmFsbGEgY2hlIG5vbiBwdW9pIHBlcm1ldHRlcnRpIGRpIHBlcmRlcmUuCgotLS0KCiMjIENvc2EgdGkgcG9ydGkgYSBjYXNhIGRhIHF1ZXN0byBjYXBpdG9sbwoKLSBJIGNsaWVudGkgc29ubyBsYSBjb3NhIGRpIHZhbG9yZSBwacO5IGFsdG8gZGEgYW5hbGl6emFyZS4KLSBVbmEgbWlzdXJhIHBlciBjbGllbnRlIHNibG9jY2EgY2xhc3NpZmljYSBlIHNlZ21lbnRhemlvbmUuCi0gUkZNIChSZWNlbmN5LCBGcmVxdWVuY3ksIE1vbmV0YXJ5KSDDqCBpbCBtZXRvZG8gY2xhc3NpY28sIGNoZSBmdW56aW9uYQogIG92dW5xdWUuCi0gU2VnbWVudGEgcGVyIHF1YWxzaWFzaSBjb3NhOiBjaXR0w6AsIHRpcG8sIHNwZXNhLgotIEZhaSBhdHRlbnppb25lIGFsbCdhYmJhbmRvbm8gc2lsZW56aW9zbzogY2xpZW50aSBjaGUgc2UgbmUgdmFubm8gc2VuemEKICBsYW1lbnRhcnNpLgoKUHJvc3NpbW86IGlsIHRlbXBvLCBsYSBkaW1lbnNpb25lIGNoZSB0cmFzZm9ybWEgdW4naXN0YW50YW5lYSBpbiB1bmEgc3RvcmlhIGRpCmNhbWJpYW1lbnRvLgo=
+# Conoscere i propri clienti
+
+Se analizzi una sola cosa nel tuo business, analizza i clienti. Sono da dove
+arrivano i soldi e dove se ne perdono. Una piccola analisi su chi compra, quanto, e
+chi se ne sta andando vale più di mille grafici sui prodotti.
+
+## Le domande sui clienti
+
+Ogni azienda in segreto vuole sapere:
+
+- Chi sono i miei clienti migliori?
+- Quali clienti stanno per andarsene?
+- Quali vale la pena riconquistare?
+- Quanto spende ciascun tipo di cliente?
+- Da dove vengono i miei clienti?
+
+Rispondi a queste e puoi concentrare soldi ed energia dove rendono.
+
+## Una misura per cliente: la fondazione
+
+Per analizzare i clienti, ti serve una misura che arrotoli la spesa di ogni
+cliente:
+
+> "Aggiungi una misura di vendite per cliente."
+
+![Misura vendite per cliente](../../assets/examples/e035.png)
+
+Ora ogni cliente ha un numero "Customer Sales", e puoi classificarli, segmentarli e
+confrontarli tutto il giorno.
+
+## Chi sono i clienti migliori?
+
+> "Top 5 clienti per spesa."
+
+![Top clienti](../../assets/examples/e036.png)
+
+Di colpo vedi chi conta. In questi dati, pochi clienti portano una grande quota di
+fatturato, il che è normale e importante. Significa: **prenditi cura di queste
+persone.** Perderne uno fa male.
+
+La stessa classifica, disegnata come grafico:
+
+![Top clienti per spesa — grafico a barre](../../assets/examples/chart-customers.png)
+
+## Segmentare: affettare i clienti in gruppi
+
+Un **segmento** è un gruppo di clienti che si comportano allo stesso modo. Puoi
+affettare per qualsiasi cosa:
+
+> "Vendite divise per città del cliente."
+
+![Vendite per città](../../assets/examples/e037.png)
+
+I totali per città, come grafico:
+
+![Vendite per città — grafico a barre](../../assets/examples/chart-city.png)
+
+> "Vendite per segmento di cliente."
+
+![Vendite per segmento](../../assets/examples/e038.png)
+
+Per città, per segmento (Retail / Business / Online), per quanto spendono: ogni
+fetta rivela un'opportunità diversa. Forse il segmento Business spende di più pro
+capite e merita un'offerta speciale. Forse una città è poco servita e potrebbe
+crescere.
+
+La divisione per segmento, come ciambella:
+
+![Vendite per segmento — grafico a ciambella](../../assets/examples/chart-segment.png)
+
+## Un framework vero: RFM
+
+Il metodo di analisi dei clienti più famoso è **RFM**: tre lettere.
+
+- **Recency** — quanto di recente hanno comprato?
+- **Frequency** — quanto spesso comprano?
+- **Monetary** — quanto spendono?
+
+Assegna un punteggio a ogni cliente su tutte e tre, e puoi smistarlo in gruppi: i
+campioni fedeli, gli acquirenti occasionali, quelli che si stanno allontanando.
+RFM è potente perché è semplice e funziona: i clienti che hanno comprato di
+recente, spesso e tanto sono il tuo oro; i clienti che non comprano da un po' sono
+quelli da riconquistare prima che siano persi.
+
+## Trovare quelli di alto valore
+
+> "Crea una misura cliente ad alto valore."
+
+![Flag alto valore](../../assets/examples/e095.png)
+
+Un flag che contrassegna i clienti sopra una soglia di spesa: quelli da proteggere,
+premiare e non perdere mai.
+
+## Qualche altra fetta
+
+> "Clienti a Milano soltanto."
+
+![Clienti di Milano](../../assets/examples/e077.png)
+
+> "Spesa media per cliente business."
+
+![Spesa media business](../../assets/examples/e090.png)
+
+Ognuna è una domanda semplice, ognuna è una risposta vera dal modello in
+esecuzione.
+
+## Una curiosità: l'abbandono che non vedi
+
+I clienti più costosi da perdere sono quelli che se ne vanno **in silenzio**: non si
+lamentano mai, smettono e basta di comprare. Quando te ne accorgi, sono già andati
+e non hai mai saputo perché. Un semplice report "clienti che non comprano da 90
+giorni" li prende per tempo, mentre si possono ancora riconquistare. L'abbandono
+silenzioso è la falla che non puoi permetterti di perdere.
+
+---
+
+## Cosa ti porti a casa da questo capitolo
+
+- I clienti sono la cosa di valore più alto da analizzare.
+- Una misura per cliente sblocca classifica e segmentazione.
+- RFM (Recency, Frequency, Monetary) è il metodo classico, che funziona
+  ovunque.
+- Segmenta per qualsiasi cosa: città, tipo, spesa.
+- Fai attenzione all'abbandono silenzioso: clienti che se ne vanno senza
+  lamentarsi.
+
+Prossimo: il tempo, la dimensione che trasforma un'istantanea in una storia di
+cambiamento.

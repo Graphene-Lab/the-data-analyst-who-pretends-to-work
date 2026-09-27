@@ -1,1 +1,107 @@
-IyAxNS4gVGVzdGVuLCBadWZhbGwgdW5kIFJlY2h0IGhhYmVuCgpEdSBoYXN0IGRpZSBXZWJzaXRlIGdlw6RuZGVydCwgdW5kIGRpZSBDb252ZXJzaW9ucyBzaW5kIHVtIDIgJSBnZXN0aWVnZW4uIEhhdCBkZWluZQrDhG5kZXJ1bmcgZ2V3aXJrdCwgb2RlciB3YXIgZXMgbnVyIEdsw7xjaz8gRGFzIGlzdCBkaWUgRnJhZ2UsIGRpZSBlY2h0ZSBBbmFseXNlIHZvbgpXdW5zY2hkZW5rZW4gdHJlbm50LCB1bmQgZGllIEFudHdvcnQgbGVidCBpbiBkZXIgdW5zcGVrdGFrdWzDpHJlbiBXZWx0IGRlcyBUZXN0ZW5zCnVuZCBadWZhbGxzLiBLZWluZSBTb3JnZSDigJMgd2lyIGhhbHRlbiBlcyBzY2htZXJ6ZnJlaS4KCiMjIERhcyBQcm9ibGVtOiBXYXIgZXMgZGllIMOEbmRlcnVuZyBvZGVyIGRhcyBHbMO8Y2s/CgpKZWRlIFphaGwga2FubiBkdXJjaCBadWZhbGwgdW1oZXJzcHJpbmdlbi4gV2VubiBkdSBlaW5lIE3DvG56ZSAxMCBNYWwgd2lyZnN0IHVuZCA3Ck1hbCBLb3BmIGJla29tbXN0LCBzY2hsaWXDn3QgZHUgbmljaHQsIGRhc3MgZGllIE3DvG56ZSBtYW5pcHVsaWVydCBpc3QuIEdlbmF1c28gaW0KR2VzY2jDpGZ0OiBXZW5uIGVpbmUgbmV1ZSBBbnplaWdlIGVpbiBwYWFyIEtsaWNrcyBtZWhyIGhvbHQsIGlzdCBzaWUgdmllbGxlaWNodApiZXNzZXIsIG9kZXIgZXMgaXN0IHZpZWxsZWljaHQgUmF1c2NoZW4uIERpZSBGcmFnZSBpc3Q6ICoqV2llIHNpY2hlciBrYW5uc3QgZHUgZGlyCnNlaW4sIGRhc3MgZGVyIFVudGVyc2NoaWVkIGVjaHQgaXN0PyoqCgojIyBEaWUgSWRlZSBkZXIgU3RpY2hwcm9iZQoKRGllIGdhbnplIEdydW5kZ2VzYW10aGVpdCBzaWVoc3QgZHUgZmFzdCBuaWUg4oCTIGR1IHNpZWhzdCBlaW5lICoqU3RpY2hwcm9iZSoqLgoxLjAwMCBCZXN1Y2hlciBkZWluZXIgU2VpdGUsIG5pY2h0IGFsbGUgTGV1dGUsIGRpZSBqZSBrb21tZW4ga8O2bm50ZW4uIEVpbmUKU3RpY2hwcm9iZSBpc3QgZWluIGtsZWluZXIgU2NobHVjayBhdXMgZWluZW0gdmllbCBncsO2w59lcmVuIFRvcGYuIERlciBUcmljayBpc3QsCmRhc3MgZWluIGtsZWluZXIgU2NobHVjayBldHdhcyDDvGJlciBkZW4gZ2FuemVuIFRvcGYgc2FnZW4ga2FubiDigJMgKndlbm4qIGVyIGdyb8OfCmdlbnVnIHVuZCB1bnZlcnplcnJ0IGlzdC4KCkdyb8OfZSBTdGljaHByb2JlICsgenVmw6RsbGlnZSBBdXN3YWhsID0gdmVydHJhdWVuc3fDvHJkaWcuIFdpbnppZ2UgU3RpY2hwcm9iZSBvZGVyCkNoZXJyeS1QaWNraW5nID0gZ2Vmw6RocmxpY2guIEEvQi1UZXN0cyBmdW5rdGlvbmllcmVuLCB3ZWlsIHNpZSBCZXN1Y2hlciB6dWbDpGxsaWcgaW4KendlaSBHcnVwcGVuIHRlaWxlbiB1bmQgdmVyZ2xlaWNoZW4uCgojIyBEZXIgQS9CLVRlc3Q6IGRhcyBlaHJsaWNoZSBFeHBlcmltZW50CgpEZXIgR29sZHN0YW5kYXJkIGbDvHIg4oCeRnVua3Rpb25pZXJ0IGRhcz8iOgoKMS4gVGVpbGUgZGVpbiBQdWJsaWt1bSAqKnp1ZsOkbGxpZyoqIGluIHp3ZWkgR3J1cHBlbi4KMi4gR3J1cHBlIEEgc2llaHQgZGllIGFsdGUgVmVyc2lvbjsgR3J1cHBlIEIgc2llaHQgZGllIG5ldWUgVmVyc2lvbi4KMy4gTWlzcyBkYXMgRXJnZWJuaXMgaW4gYmVpZGVuLgo0LiBWZXJnbGVpY2hlLiBXZW5uIEIgZGllIEEgdW0gbWVociBzY2hsw6RndCwgYWxzIGRlciBadWZhbGwgZXJrbMOkcnQsIGlzdCBkaWUKICAgw4RuZGVydW5nIGVjaHQuCgpadWbDpGxsaWdrZWl0IGlzdCBkZXIgZ2FuemUgVHJpY2suIFNpZSBtYWNodCBkaWUgendlaSBHcnVwcGVuIGlkZW50aXNjaCBhdcOfZXIgZGVtCmVpbmVuIERpbmcsIGRhcyBkdSBnZcOkbmRlcnQgaGFzdCwgYWxzbyBtdXNzIGplZGVyIFVudGVyc2NoaWVkIGRpZSDDhG5kZXJ1bmcgc2Vpbi4KCiMjIFNpZ25pZmlrYW56OiBJc3QgZGVyIFVudGVyc2NoaWVkIGVjaHQ/CgpTdGF0aXN0aWtlciBudXR6ZW4gZWluZW4gKipwLVdlcnQqKiwgdW0genUgYW50d29ydGVuIOKAnkvDtm5udGUgZGFzIFp1ZmFsbCBzZWluPyIuIEVpbgpwLVdlcnQgdW50ZXIgMCwwNSBpc3QgZGllIMO8YmxpY2hlIExhdHRlOiBFciBoZWnDn3Qg4oCed2VubiBlcyB3aXJrbGljaCBrZWluZW4KVW50ZXJzY2hpZWQgZ8OkYmUsIHfDvHJkZW4gd2lyIHNvIGV0d2FzIEV4dHJlbWVzIHdlbmlnZXIgYWxzIDUgJSBkZXIgWmVpdCBzZWhlbi4iClVudGVyIGRlciBMYXR0ZSBuZW5uc3QgZHUgZXMgKipzdGF0aXN0aXNjaCBzaWduaWZpa2FudCoqIOKAkyB3YWhyc2NoZWlubGljaCBlY2h0LgpEYXLDvGJlciB6dWNrc3QgZHUgbWl0IGRlbiBBY2hzZWxuIHVuZCBzYWdzdCDigJ5uaWNodCBnZW51ZyBFdmlkZW56LiIKCkR1IG11c3N0IHAtV2VydGUgbmljaHQgdm9uIEhhbmQgcmVjaG5lbi4gRHUgYnJhdWNoc3QgZGVuIEluc3Rpbmt0OiAqKmVpbiBrbGVpbmVyClVudGVyc2NoaWVkIGF1ZiBlaW5lciBrbGVpbmVuIFN0aWNocHJvYmUgaXN0IHdhaHJzY2hlaW5saWNoIFJhdXNjaGVuOyBlaW4ga2xhcmVyClVudGVyc2NoaWVkIGF1ZiBlaW5lciBncm/Dn2VuIFN0aWNocHJvYmUgaXN0IHdhaHJzY2hlaW5saWNoIGVjaHQuKioKCiMjIERpZSB6d2VpIEFydGVuLCBmYWxzY2ggenUgbGllZ2VuCgotICoqRmVobGVyIDEuIEFydCAoZmFsc2NoIFBvc2l0aXYpOioqIER1IHNhZ3N0LCBkaWUgw4RuZGVydW5nIGhhdCBnZXdpcmt0LCBhbHMgc2llCiAgZXMgbmljaHQgaGF0LiBEdSBsaWVmZXJzdCBlaW5lIG51dHpsb3NlIMOEbmRlcnVuZyBhdXMuIERpZSA1LSUtTGF0dGUga29udHJvbGxpZXJ0CiAgZGFzLgotICoqRmVobGVyIDIuIEFydCAoZmFsc2NoIE5lZ2F0aXYpOioqIER1IHNhZ3N0LCBkaWUgw4RuZGVydW5nIGhhdCBuaWNodCBnZXdpcmt0LCBhbHMKICBzaWUgZXMgaGF0LiBEdSB3aXJmc3QgZWluZSBndXRlIElkZWUgd2VnLiBNZWlzdCB2ZXJ1cnNhY2h0IGR1cmNoIGVpbmUgenUga2xlaW5lCiAgU3RpY2hwcm9iZS4KCkJlaWRlcyBwYXNzaWVydC4gR3V0ZXMgVGVzdGVuIGJhbGFuY2llcnQgc2llOiBnZW51ZyBEYXRlbiwgdW0gZWNodGUgRWZmZWt0ZSB6dQpmYW5nZW4sIGVpbmUgc3RyZW5nIGdlbnVnIExhdHRlLCB1bSBrZWluZSBHZWlzdGVyIHp1IGphZ2VuLgoKIyMgWndlaSBHcnVwcGVuIGxpdmUgdmVyZ2xlaWNoZW4KCkR1IGJyYXVjaHN0IGtlaW4gTGFib3IsIHVtIGRpZSBGb3JtIGVpbmVzIFZlcmdsZWljaHMgenUgc2VoZW4uIERlciBBc3Npc3RlbnQga2Fubgp6d2VpIEdydXBwZW4gaW4gZWluZXIgQWJmcmFnZSBTZWl0ZSBhbiBTZWl0ZSBzdGVsbGVuOgoKPiDigJ5WZXJnbGVpY2ggTm9yZCBnZWdlbiBNaXR0ZS4iCgohW1p3ZWkgR3J1cHBlbiB2ZXJnbGVpY2hlbl0oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2UwMzMucG5nKQoKU2thbGllciBkYXMgbWl0IHp1ZsOkbGxpZ2VyIFp1dGVpbHVuZyB1bmQgZWluZXIgZ3Jvw59lbiBTdGljaHByb2JlLCB1bmQgZHUgaGFzdCBlaW5lbgpBL0ItVGVzdC4gRGllIExvZ2lrIGlzdCBpZGVudGlzY2g6IHp3ZWkgR3J1cHBlbiwgZWluIFVudGVyc2NoaWVkLCBtZXNzZW4gdW5kCnZlcmdsZWljaGVuLgoKIyMgRWluZSBLdXJpb3NpdMOkdDogZGVyIENvb2tpZSwgZGVyIGFsbGUgaGVyZWlubGVndGUKCkVpbmUgRmlybWEgbWFjaHRlIGVpbmVuIEEvQi1UZXN0LCBzYWggZWluZW4gZ3Jvw59lbiBBbnN0aWVnIHVuZCBmZWllcnRlLiBEZXIgSGFrZW46CkRpZSB6d2VpIEdydXBwZW4gd2FyZW4gZ2FyIG5pY2h0IHp1ZsOkbGxpZyDigJMgZWluIEJ1ZyBzdGVja3RlIGFsbGUgTW9iaWxlLU51dHplciBpbgplaW5lIEdydXBwZS4gRGVyIOKAnlNpZWciIHdhciBpbiBXYWhyaGVpdCBudXIsIGRhc3MgTW9iaWxlLU51dHplciBzaWNoIGFuZGVycwp2ZXJoaWVsdGVuLiBEZXIgVGVzdCB3YXIgaW4gZGVyIFRoZW9yaWUgc29saWRlIHVuZCBpbiBkZXIgUHJheGlzIGthcHV0dC4KKipSYW5kb21pc2llcnVuZyBpc3QgYWxsZXMuKiogRWluIFRlc3QgaXN0IG51ciBzbyBndXQgd2llIGRpZSBBdWZ0ZWlsdW5nIGRhaGludGVyLgoKIyMgV2FubiBkdSBrZWluZW4gZm9ybWVsbGVuIFRlc3QgYnJhdWNoc3QKCk5pY2h0IGplZGUgRW50c2NoZWlkdW5nIGJyYXVjaHQgZWluZW4gcC1XZXJ0LiBXZW5uIGR1IGRlbiBQcmVpcyBlaW5lcyBBcnRpa2VscwrDpG5kZXJzdCB1bmQgZWluZSBXb2NoZSBVbXNhdHogYmVvYmFjaHRlc3QsIG1hY2hzdCBkdSBrZWluIEV4cGVyaW1lbnQg4oCTIGR1CmJlb2JhY2h0ZXN0LiBGb3JtZWxsZXMgVGVzdGVuIGlzdCBmw7xyIGRpZSBFbnRzY2hlaWR1bmdlbiwgZGllIHrDpGhsZW4gdW5kIHJpY2h0aWcKZHVyY2hmw7xocmJhciBzaW5kLiBGw7xyIGFsbGVzIGFuZGVyZSBzZWkgZWhybGljaCwgZGFzcyBkdSByw6R0c3QsIHVuZCBoYWx0ZSBkaWUKRW50c2NoZWlkdW5nIHVta2VocmJhci4KCi0tLQoKIyMgV2FzIGR1IGF1cyBkaWVzZW0gS2FwaXRlbCBtaXRuaW1tc3QKCi0gRWluIFVudGVyc2NoaWVkIGthbm4gR2zDvGNrIHNlaW47IGZyYWcsIHdpZSBzaWNoZXIgZHUgZGlyIGJpc3QuCi0gU3RpY2hwcm9iZW4gbGFzc2VuIGVpbmVuIGtsZWluZW4gU2NobHVjayBldHdhcyDDvGJlciBkZW4gZ2FuemVuIFRvcGYgc2FnZW4g4oCTIHdlbm4KICBzaWUgZ3Jvw58gdW5kIHp1ZsOkbGxpZyBzaW5kLgotIEEvQi1UZXN0ID0genVmw6RsbGlnZSBBdWZ0ZWlsdW5nLCBlaW4gRGluZyDDpG5kZXJuLCB2ZXJnbGVpY2hlbi4KLSDigJ5TaWduaWZpa2FudCIgaGVpw590IOKAnnVud2FocnNjaGVpbmxpY2gsIGRhc3MgZXMgcHVyZXIgWnVmYWxsIGlzdCIuCi0gUmFuZG9taXNpZXJ1bmcgaXN0IGFsbGVzOyBlaW5lIHNjaGxlY2h0ZSBBdWZ0ZWlsdW5nIGbDpGxzY2h0IGVpbmVuIFNpZWcuCgpUZWlsIElJSSBpc3QgZ2VzY2hhZmZ0IOKAkyBkdSBrYW5uc3QgS2VubnphaGxlbiBiYXVlbiwgZGllIEFuYWx5c2VhcnRlbiB1bnRlcnNjaGVpZGVuLApkZWluZSBLdW5kZW4ga2VubmVuLCBUcmVuZHMgbGVzZW4gdW5kIEVjaHQgdm9uIFJhdXNjaGVuIHRyZW5uZW4uIEFscyBOw6RjaHN0ZXMgbWFjaGVuCndpciBkYXMgYWxsZXMgc2ljaHRiYXI6IFBvd2VyIEJJIHVuZCBkaWUgS3Vuc3QsIGRlaW5lIERhdGVuIHp1IHplaWdlbi4K
+# 15. Testen, Zufall und Recht haben
+
+Du hast die Website geändert, und die Conversions sind um 2 % gestiegen. Hat deine
+Änderung gewirkt, oder war es nur Glück? Das ist die Frage, die echte Analyse von
+Wunschdenken trennt, und die Antwort lebt in der unspektakulären Welt des Testens
+und Zufalls. Keine Sorge – wir halten es schmerzfrei.
+
+## Das Problem: War es die Änderung oder das Glück?
+
+Jede Zahl kann durch Zufall umherspringen. Wenn du eine Münze 10 Mal wirfst und 7
+Mal Kopf bekommst, schließt du nicht, dass die Münze manipuliert ist. Genauso im
+Geschäft: Wenn eine neue Anzeige ein paar Klicks mehr holt, ist sie vielleicht
+besser, oder es ist vielleicht Rauschen. Die Frage ist: **Wie sicher kannst du dir
+sein, dass der Unterschied echt ist?**
+
+## Die Idee der Stichprobe
+
+Die ganze Grundgesamtheit siehst du fast nie – du siehst eine **Stichprobe**.
+1.000 Besucher deiner Seite, nicht alle Leute, die je kommen könnten. Eine
+Stichprobe ist ein kleiner Schluck aus einem viel größeren Topf. Der Trick ist,
+dass ein kleiner Schluck etwas über den ganzen Topf sagen kann – *wenn* er groß
+genug und unverzerrt ist.
+
+Große Stichprobe + zufällige Auswahl = vertrauenswürdig. Winzige Stichprobe oder
+Cherry-Picking = gefährlich. A/B-Tests funktionieren, weil sie Besucher zufällig in
+zwei Gruppen teilen und vergleichen.
+
+## Der A/B-Test: das ehrliche Experiment
+
+Der Goldstandard für „Funktioniert das?":
+
+1. Teile dein Publikum **zufällig** in zwei Gruppen.
+2. Gruppe A sieht die alte Version; Gruppe B sieht die neue Version.
+3. Miss das Ergebnis in beiden.
+4. Vergleiche. Wenn B die A um mehr schlägt, als der Zufall erklärt, ist die
+   Änderung echt.
+
+Zufälligkeit ist der ganze Trick. Sie macht die zwei Gruppen identisch außer dem
+einen Ding, das du geändert hast, also muss jeder Unterschied die Änderung sein.
+
+## Signifikanz: Ist der Unterschied echt?
+
+Statistiker nutzen einen **p-Wert**, um zu antworten „Könnte das Zufall sein?". Ein
+p-Wert unter 0,05 ist die übliche Latte: Er heißt „wenn es wirklich keinen
+Unterschied gäbe, würden wir so etwas Extremes weniger als 5 % der Zeit sehen."
+Unter der Latte nennst du es **statistisch signifikant** – wahrscheinlich echt.
+Darüber zuckst du mit den Achseln und sagst „nicht genug Evidenz."
+
+Du musst p-Werte nicht von Hand rechnen. Du brauchst den Instinkt: **ein kleiner
+Unterschied auf einer kleinen Stichprobe ist wahrscheinlich Rauschen; ein klarer
+Unterschied auf einer großen Stichprobe ist wahrscheinlich echt.**
+
+## Die zwei Arten, falsch zu liegen
+
+- **Fehler 1. Art (falsch Positiv):** Du sagst, die Änderung hat gewirkt, als sie
+  es nicht hat. Du lieferst eine nutzlose Änderung aus. Die 5-%-Latte kontrolliert
+  das.
+- **Fehler 2. Art (falsch Negativ):** Du sagst, die Änderung hat nicht gewirkt, als
+  sie es hat. Du wirfst eine gute Idee weg. Meist verursacht durch eine zu kleine
+  Stichprobe.
+
+Beides passiert. Gutes Testen balanciert sie: genug Daten, um echte Effekte zu
+fangen, eine streng genug Latte, um keine Geister zu jagen.
+
+## Zwei Gruppen live vergleichen
+
+Du brauchst kein Labor, um die Form eines Vergleichs zu sehen. Der Assistent kann
+zwei Gruppen in einer Abfrage Seite an Seite stellen:
+
+> „Vergleich Nord gegen Mitte."
+
+![Zwei Gruppen vergleichen](../../assets/examples/e033.png)
+
+Skalier das mit zufälliger Zuteilung und einer großen Stichprobe, und du hast einen
+A/B-Test. Die Logik ist identisch: zwei Gruppen, ein Unterschied, messen und
+vergleichen.
+
+## Eine Kuriosität: der Cookie, der alle hereinlegte
+
+Eine Firma machte einen A/B-Test, sah einen großen Anstieg und feierte. Der Haken:
+Die zwei Gruppen waren gar nicht zufällig – ein Bug steckte alle Mobile-Nutzer in
+eine Gruppe. Der „Sieg" war in Wahrheit nur, dass Mobile-Nutzer sich anders
+verhielten. Der Test war in der Theorie solide und in der Praxis kaputt.
+**Randomisierung ist alles.** Ein Test ist nur so gut wie die Aufteilung dahinter.
+
+## Wann du keinen formellen Test brauchst
+
+Nicht jede Entscheidung braucht einen p-Wert. Wenn du den Preis eines Artikels
+änderst und eine Woche Umsatz beobachtest, machst du kein Experiment – du
+beobachtest. Formelles Testen ist für die Entscheidungen, die zählen und richtig
+durchführbar sind. Für alles andere sei ehrlich, dass du rätst, und halte die
+Entscheidung umkehrbar.
+
+---
+
+## Was du aus diesem Kapitel mitnimmst
+
+- Ein Unterschied kann Glück sein; frag, wie sicher du dir bist.
+- Stichproben lassen einen kleinen Schluck etwas über den ganzen Topf sagen – wenn
+  sie groß und zufällig sind.
+- A/B-Test = zufällige Aufteilung, ein Ding ändern, vergleichen.
+- „Signifikant" heißt „unwahrscheinlich, dass es purer Zufall ist".
+- Randomisierung ist alles; eine schlechte Aufteilung fälscht einen Sieg.
+
+Teil III ist geschafft – du kannst Kennzahlen bauen, die Analysearten unterscheiden,
+deine Kunden kennen, Trends lesen und Echt von Rauschen trennen. Als Nächstes machen
+wir das alles sichtbar: Power BI und die Kunst, deine Daten zu zeigen.

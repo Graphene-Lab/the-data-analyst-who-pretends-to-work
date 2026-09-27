@@ -1,1 +1,54 @@
-IyBBcHBlbmRpY2UgQyDigJQgQ2hlY2tsaXN0IGRlbGxhIGRhc2hib2FyZAoKUHJpbWEgZGkgY29uc2VnbmFyZSB1bmEgZGFzaGJvYXJkLCBwZXJjb3JyaSBxdWVzdGEgbGlzdGEuCgojIyBTY29wbwoKLSBbIF0gTGEgZGFzaGJvYXJkIHJpc3BvbmRlIGEgdW5hIGRvbWFuZGEgY2hpYXJhIChvIGEgdW4gaW5zaWVtZSBkaQogICAgICBkb21hbmRlKS4KLSBbIF0gSWwgcHViYmxpY28gw6ggbm90byAoZGlyaWdlbnRpLCBvcGVyYXRpb25zLCBhbmFsaXN0YSkuCi0gWyBdIExhIGRlY2lzaW9uZSBjaGUgc3VwcG9ydGEgw6ggbm90YS4KCiMjIExheW91dAoKLSBbIF0gSWwgbnVtZXJvIHBpw7kgaW1wb3J0YW50ZSDDqCBpbCBwacO5IGdyYW5kZSBlIGluIGFsdG8gYSBzaW5pc3RyYS4KLSBbIF0gTGUgbWV0cmljaGUgY29ycmVsYXRlIHN0YW5ubyBpbnNpZW1lLgotIFsgXSBOaWVudGUgY29tcGV0ZSBwZXIgbCdhdHRlbnppb25lLgotIFsgXSBTdGEgaW4gdW5hIHNjaGVybWF0YSBzZW56YSBzY29ycmVyZSAocGVyIGxhIHZpc3RhIHByaW5jaXBhbGUpLgoKIyMgTWV0cmljaGUKCi0gWyBdIE9nbmkgS1BJIMOoIGRlZmluaXRvIGUgY29tcHJlc28uCi0gWyBdIEkgS1BJIHNvbm8gcXVlbGxpICpnaXVzdGkqLCBub24gc29sbyBxdWVsbGkgZmFjaWxpLgotIFsgXSBVbml0w6AgZSBmb3JtYXRpIHNvbm8gY2hpYXJpICjigqwsICUsIGNvbnRlZ2dpKS4KLSBbIF0gT2duaSBudW1lcm8gcHXDsiBlc3NlcmUgcmljb25kb3R0byBhbCBtb2RlbGxvLgoKIyMgVmlzdWFsCgotIFsgXSBJbCB0aXBvIGRpIGdyYWZpY28gY29tYmFjaWEgY29uIGkgZGF0aSAoYmFycmUgcGVyIGNvbmZyb250bywgbGluZWEgcGVyCiAgICAgIHRlbmRlbnphLCBlY2MuKS4KLSBbIF0gTmVzc3VuIGFzc2UgZnVvcnZpYW50ZSwgbmVzc3VuYSBmaW5lc3RyYSBzY2VsdGEgYSBwaXNvbGkuCi0gWyBdIEkgY29sb3JpIHNpZ25pZmljYW5vIHF1YWxjb3NhIChub24gZGVjb3JhemlvbmUpLgotIFsgXSBMZSBldGljaGV0dGUgc29ubyBsZWdnaWJpbGkgYSBjb2xwbyBkJ29jY2hpby4KCiMjIEludGVyYXR0aXZpdMOgCgotIFsgXSBJIGZpbHRyaSBmdW56aW9uYW5vIGUgaGFubm8gc2Vuc28uCi0gWyBdIElsIGRyaWxsLWRvd24gdmEgZG92ZSBsJ3V0ZW50ZSBzaSBhc3BldHRhLgotIFsgXSBMJ2V2aWRlbnppYXppb25lIGluY3JvY2lhdGEgc2kgY29tcG9ydGEgY29ycmV0dGFtZW50ZS4KCiMjIEZpZHVjaWEKCi0gWyBdIEkgbnVtZXJpIHNpIHJpY29uY2lsaWFubyBjb24gbGEgZm9udGUuCi0gWyBdIElsIG1vZGVsbG8gaGEgcGFzc2F0byBpbCBjb250cm9sbG8gYmVzdCBwcmFjdGljZS4KLSBbIF0gTGEgZGFzaGJvYXJkIMOoIGRvY3VtZW50YXRhIChjb3NhIHNpZ25pZmljYSBvZ25pIEtQSSkuCi0gWyBdIFF1YWxjdW5vIGxhIHBvc3NpZWRlIGUgbGEgdGllbmUgZnJlc2NhLgoKIyMgT25lc3TDoAoKLSBbIF0gTGEgc3RvcmlhIGNoZSBsYSBkYXNoYm9hcmQgcmFjY29udGEgw6ggcXVlbGxhIG9uZXN0YS4KLSBbIF0gVW5hIGRvbWFuZGEgZGlmZmljaWxlIHN1IHVuIG51bWVybyBwdcOyIGVzc2VyZSByaXNwb3N0YSBzZW56YQogICAgICBpbWJhcmF6em8uCgpVbmEgYnVvbmEgZGFzaGJvYXJkIG5vbiDDqCBsYSBwacO5IGJlbGxhLiDDiCBxdWVsbGEgc3UgY3VpIGxhIGdlbnRlIHNpIGZpZGEgYWJiYXN0YW56YQpkYSBhZ2lyZS4gQ29zdHJ1aXNjaSBwZXIgbGEgZmlkdWNpYSBwcmltYSwgcGVyIGxhIGJlbGxlenphIGRvcG8uCg==
+# Appendice C — Checklist della dashboard
+
+Prima di consegnare una dashboard, percorri questa lista.
+
+## Scopo
+
+- [ ] La dashboard risponde a una domanda chiara (o a un insieme di
+      domande).
+- [ ] Il pubblico è noto (dirigenti, operations, analista).
+- [ ] La decisione che supporta è nota.
+
+## Layout
+
+- [ ] Il numero più importante è il più grande e in alto a sinistra.
+- [ ] Le metriche correlate stanno insieme.
+- [ ] Niente compete per l'attenzione.
+- [ ] Sta in una schermata senza scorrere (per la vista principale).
+
+## Metriche
+
+- [ ] Ogni KPI è definito e compreso.
+- [ ] I KPI sono quelli *giusti*, non solo quelli facili.
+- [ ] Unità e formati sono chiari (€, %, conteggi).
+- [ ] Ogni numero può essere ricondotto al modello.
+
+## Visual
+
+- [ ] Il tipo di grafico combacia con i dati (barre per confronto, linea per
+      tendenza, ecc.).
+- [ ] Nessun asse fuorviante, nessuna finestra scelta a pisoli.
+- [ ] I colori significano qualcosa (non decorazione).
+- [ ] Le etichette sono leggibili a colpo d'occhio.
+
+## Interattività
+
+- [ ] I filtri funzionano e hanno senso.
+- [ ] Il drill-down va dove l'utente si aspetta.
+- [ ] L'evidenziazione incrociata si comporta correttamente.
+
+## Fiducia
+
+- [ ] I numeri si riconciliano con la fonte.
+- [ ] Il modello ha passato il controllo best practice.
+- [ ] La dashboard è documentata (cosa significa ogni KPI).
+- [ ] Qualcuno la possiede e la tiene fresca.
+
+## Onestà
+
+- [ ] La storia che la dashboard racconta è quella onesta.
+- [ ] Una domanda difficile su un numero può essere risposta senza
+      imbarazzo.
+
+Una buona dashboard non è la più bella. È quella su cui la gente si fida abbastanza
+da agire. Costruisci per la fiducia prima, per la bellezza dopo.

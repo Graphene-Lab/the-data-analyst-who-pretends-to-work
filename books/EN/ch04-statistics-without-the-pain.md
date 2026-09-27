@@ -1,1 +1,94 @@
-IyA0LiBTdGF0aXN0aWNzIFdpdGhvdXQgdGhlIFBhaW4KCllvdSBkbyBub3QgbmVlZCBhIGxvdCBvZiBzdGF0aXN0aWNzIHRvIGJlIGEgZ29vZCBhbmFseXN0LiBZb3UgbmVlZCBhIGhhbmRmdWwgb2YKaWRlYXMsIHVuZGVyc3Rvb2QgZGVlcGx5LCBhbmQgdGhlIHdpc2RvbSB0byBrbm93IHdoZW4gdGhleSBmb29sIHlvdS4gSGVyZSBpcyB0aGUKd2hvbGUga2l0LCBpbiBwbGFpbiB3b3Jkcy4KCiMjIFRoZSB0aHJlZSBhdmVyYWdlczogbWVhbiwgbWVkaWFuLCBtb2RlCgpQZW9wbGUgc2F5ICJhdmVyYWdlIiBhcyBpZiB0aGVyZSB3ZXJlIG9uZS4gVGhlcmUgYXJlIHRocmVlLCBhbmQgY2hvb3NpbmcgdGhlIHdyb25nCm9uZSBjYW4gbGllIHdpdGhvdXQgdGVjaG5pY2FsbHkgYmVpbmcgd3JvbmcuCgotICoqTWVhbioqIOKAlCBhZGQgZXZlcnl0aGluZywgZGl2aWRlIGJ5IHRoZSBjb3VudC4gVGhlIGNsYXNzaWMgYXZlcmFnZS4KLSAqKk1lZGlhbioqIOKAlCB0aGUgbWlkZGxlIHZhbHVlIHdoZW4geW91IGxpbmUgdGhlbSBhbGwgdXAuIEhhbGYgYXJlIGFib3ZlLCBoYWxmIGJlbG93LgotICoqTW9kZSoqIOKAlCB0aGUgbW9zdCBjb21tb24gdmFsdWUuCgpXaHkgZG9lcyBpdCBtYXR0ZXI/IFBpY3R1cmUgYSBzbWFsbCBjb21wYW55LiBUZW4gc3RhZmYgZWFybiDigqwzMCwwMDAsIGFuZCB0aGUgYm9zcwplYXJucyDigqw1MDAsMDAwLgoKLSBUaGUgKiptZWFuKiogc2FsYXJ5IGlzIOKCrDcyLDcyNyDigJQgIndlIHBheSB3ZWxsISIKLSBUaGUgKiptZWRpYW4qKiBzYWxhcnkgaXMg4oKsMzAsMDAwIOKAlCB0aGUgdHlwaWNhbCB3b3JrZXIncyByZWFsaXR5LgoKT25lIG51bWJlciBpcyAiY29ycmVjdCIgYW5kIHRoZSBvdGhlciBpcyAiY29ycmVjdCIsIGFuZCB0aGV5IHRlbGwgY29tcGxldGVseQpkaWZmZXJlbnQgc3Rvcmllcy4gV2hlbiBhIGZldyBleHRyZW1lIHZhbHVlcyAob3V0bGllcnMpIGFyZSBpbiB0aGUgbWl4LCB0aGUgKiptZWRpYW4qKgppcyB1c3VhbGx5IHRoZSBob25lc3Qgb25lLiBXaGVuIHNvbWVvbmUgcXVvdGVzIGFuIGF2ZXJhZ2UsIGFzazogKm1lYW4gb3IgbWVkaWFuPyoKCiMjIFNwcmVhZDogYXJlIHRoaW5ncyBzdGVhZHkgb3Igd2lsZD8KCkFuIGF2ZXJhZ2UgaGlkZXMgaG93IHNwcmVhZCBvdXQgdGhlIG51bWJlcnMgYXJlLiBUd28gZGVsaXZlcnkgc2VydmljZXMgYm90aCBhdmVyYWdlCjMgZGF5cy4gT25lIGFsd2F5cyB0YWtlcyAzIGRheXMuIFRoZSBvdGhlciB0YWtlcyAxIGRheSBvciA1IGRheXMgYXQgcmFuZG9tLiBTYW1lCmF2ZXJhZ2UsIHRvdGFsbHkgZGlmZmVyZW50IGV4cGVyaWVuY2UuCgpUaGUgbWVhc3VyZSBvZiBzcHJlYWQgeW91IHdpbGwgdXNlIG1vc3QgaXMgdGhlICoqc3RhbmRhcmQgZGV2aWF0aW9uKiog4oCUIHJvdWdobHksCiJob3cgZmFyIGZyb20gdGhlIGF2ZXJhZ2UgdGhpbmdzIHVzdWFsbHkgYXJlLiIgU21hbGwgc3RhbmRhcmQgZGV2aWF0aW9uID0gc3RlYWR5LApwcmVkaWN0YWJsZS4gTGFyZ2UgPSB3aWxkLCB1bnJlbGlhYmxlLiBBdmVyYWdlcyB0ZWxsIHlvdSB0aGUgY2VudHJlOyBzcHJlYWQgdGVsbHMKeW91IHRoZSByaXNrLgoKIyMgVGhlIGJlbGwgY3VydmUgKGFuZCB3aHkgaXQgc2hvd3MgdXAgZXZlcnl3aGVyZSkKCk1hbnkgcmVhbCB0aGluZ3Mg4oCUIGhlaWdodHMsIHRlc3Qgc2NvcmVzLCBtZWFzdXJlbWVudCBlcnJvcnMg4oCUIHBpbGUgdXAgYXJvdW5kIHRoZQptaWRkbGUgYW5kIHRoaW4gb3V0IGF0IHRoZSBlbmRzLCBmb3JtaW5nIGEgYmVsbCBzaGFwZS4gVGhpcyBpcyB0aGUgKipub3JtYWwKZGlzdHJpYnV0aW9uKiosIGFuZCBpdCBpcyBldmVyeXdoZXJlIGJlY2F1c2Ugb2YgYSBiZWF1dGlmdWwgZmFjdDogd2hlbiBtYW55IHNtYWxsCnJhbmRvbSBpbmZsdWVuY2VzIGFkZCB1cCwgdGhlIHJlc3VsdCB0ZW5kcyB0b3dhcmQgYSBiZWxsLiBZb3UgZG8gbm90IG5lZWQgdGhlIG1hdGguCllvdSBuZWVkIHRoZSBpbnN0aW5jdDogbW9zdCBjYXNlcyBhcmUgbmVhciB0aGUgbWlkZGxlLCBleHRyZW1lcyBhcmUgcmFyZSwgYW5kIGEKdmFsdWUgZmFyIG91dCBpbiB0aGUgdGFpbCBpcyB3b3J0aCBpbnZlc3RpZ2F0aW5nLgoKIyMgT3V0bGllcnM6IHRoZSBvbmUgd2VpcmQgbnVtYmVyCgpBbiAqKm91dGxpZXIqKiBpcyBhIHZhbHVlIGZhciBmcm9tIHRoZSByZXN0LiBPbmUgY3VzdG9tZXIgYnV5cyDigqw1MCwwMDAgd2hpbGUKZXZlcnlvbmUgZWxzZSBidXlzIOKCrDUwLiBPbmUgZGVsaXZlcnkgdGFrZXMgMzAgZGF5cyB3aGlsZSB0aGUgcmVzdCB0YWtlIDMuIE91dGxpZXJzCmNhbiBiZToKLSAqKkVycm9ycyoqIOKAlCBhIHR5cG8sIGEgdGVzdCByZWNvcmQsIGEgbWlzcGxhY2VkIGRlY2ltYWwuCi0gKipSZWFsIGJ1dCByYXJlKiog4oCUIGEgd2hhbGUgY3VzdG9tZXIsIGEgZ2VudWluZSBkaXNhc3Rlci4KCkFsd2F5cyBsb29rIGF0IG91dGxpZXJzIGJlZm9yZSB5b3UgdHJ1c3QgYW4gYXZlcmFnZS4gQSBzaW5nbGUgZmF0IGNsaWVudCBjYW4gbWFrZSBhCndob2xlIG1vbnRoIGxvb2sgZ3JlYXQgYW5kIGhpZGUgdGhhdCB0aGUgb3RoZXIgMjAwIGN1c3RvbWVycyBhcmUgbGVhdmluZy4KCiMjIFRoZSBiaWcgdHJhcDogY29ycmVsYXRpb24gaXMgbm90IGNhdXNhdGlvbgoKVGhpcyBpcyB0aGUgc2luZ2xlIG1vc3QgaW1wb3J0YW50IHNlbnRlbmNlIGluIHRoaXMgYm9vay4KCioqQ29ycmVsYXRpb24qKiBtZWFucyB0d28gdGhpbmdzIG1vdmUgdG9nZXRoZXIuICoqQ2F1c2F0aW9uKiogbWVhbnMgb25lIHRoaW5nCipjYXVzZXMqIHRoZSBvdGhlci4gVGhleSBhcmUgbm90IHRoZSBzYW1lLCBhbmQgY29uZnVzaW5nIHRoZW0gY2F1c2VzIGV4cGVuc2l2ZQpub25zZW5zZS4KCkNsYXNzaWMgZXhhbXBsZTogKippY2UgY3JlYW0gc2FsZXMgYW5kIGRyb3duaW5nIGRlYXRocyByaXNlIHRvZ2V0aGVyKiogZXZlcnkgc3VtbWVyLgpEb2VzIGljZSBjcmVhbSBjYXVzZSBkcm93bmluZz8gTm8uIEEgdGhpcmQgdGhpbmcg4oCUIGhvdCB3ZWF0aGVyIOKAlCBkcml2ZXMgYm90aC4gV2hlbgp5b3Ugc2VlIHR3byB0aGluZ3MgbW92ZSB0b2dldGhlciwgYWx3YXlzIGFzazoKLSBEb2VzIEEgY2F1c2UgQj8KLSBEb2VzIEIgY2F1c2UgQT8KLSBEb2VzIHNvbWUgaGlkZGVuIEMgY2F1c2UgYm90aD8KLSBJcyBpdCBqdXN0IGNvaW5jaWRlbmNlPwoKIkN1c3RvbWVycyB3aG8gdXNlIG91ciBhcHAgbW9yZSBhcmUgaGFwcGllciIgbWlnaHQgbWVhbiB0aGUgYXBwIG1ha2VzIHRoZW0gaGFwcHkg4oCUCm9yIHRoYXQgYWxyZWFkeS1oYXBweSBjdXN0b21lcnMgdXNlIGl0IG1vcmUuIENvcnJlbGF0aW9uIHBvaW50cyB5b3UgYXQgYSBjbHVlLiBJdApkb2VzIG5vdCBoYW5kIHlvdSB0aGUgYW5zd2VyLgoKIyMgQSBjdXJpb3NpdHk6IHRoZSBjb3JyZWxhdGlvbiBjb2VmZmljaWVudAoKU3RhdGlzdGljaWFucyBzcXVlZXplICJob3cgc3Ryb25nbHkgdHdvIHRoaW5ncyBtb3ZlIHRvZ2V0aGVyIiBpbnRvIG9uZSBudW1iZXIgZnJvbQoqKi0xIHRvICsxKiouICsxIG1lYW5zIHRoZXkgcmlzZSBpbiBwZXJmZWN0IGxvY2tzdGVwOyAtMSBtZWFucyBvbmUgcmlzZXMgYXMgdGhlCm90aGVyIGZhbGxzOyAwIG1lYW5zIG5vIHJlbGF0aW9uc2hpcC4gSXQgaXMgYSB1c2VmdWwgdGhlcm1vbWV0ZXIgZm9yIGEKcmVsYXRpb25zaGlwIOKAlCBidXQgcmVtZW1iZXIsIGV2ZW4gYSBwZXJmZWN0ICsxIGlzIHN0aWxsIG5vdCBwcm9vZiBvZiBjYXVzZS4KCi0tLQoKIyMgV2hhdCB5b3UnbGwgY2FycnkgZnJvbSB0aGlzIGNoYXB0ZXIKCi0gS25vdyB3aGljaCBhdmVyYWdlIHlvdSBhcmUgdXNpbmc7IHRoZSBtZWRpYW4gb2Z0ZW4gdGVsbHMgdGhlIHRydXRoLgotIEF2ZXJhZ2VzIGhpZGUgc3ByZWFkIOKAlCB3YXRjaCB0aGUgc3RhbmRhcmQgZGV2aWF0aW9uLgotIE91dGxpZXJzIGNhbiBmYWtlIGEgd2hvbGUgc3Rvcnk7IGxvb2sgYXQgdGhlbSBmaXJzdC4KLSBDb3JyZWxhdGlvbiBpcyBhIGNsdWUsIG5ldmVyIHByb29mLiBBbHdheXMgaHVudCBmb3IgdGhlIGhpZGRlbiB0aGlyZCB0aGluZy4KCk5leHQ6IGhvdyB0byB0dXJuIGEgZnV6enkgYnVzaW5lc3Mgd29ycnkgaW50byBhIHNoYXJwIHF1ZXN0aW9uIHlvdSBjYW4gYWN0dWFsbHkKYW5zd2VyIHdpdGggZGF0YS4K
+# 4. Statistics Without the Pain
+
+You do not need a lot of statistics to be a good analyst. You need a handful of
+ideas, understood deeply, and the wisdom to know when they fool you. Here is the
+whole kit, in plain words.
+
+## The three averages: mean, median, mode
+
+People say "average" as if there were one. There are three, and choosing the wrong
+one can lie without technically being wrong.
+
+- **Mean** — add everything, divide by the count. The classic average.
+- **Median** — the middle value when you line them all up. Half are above, half below.
+- **Mode** — the most common value.
+
+Why does it matter? Picture a small company. Ten staff earn €30,000, and the boss
+earns €500,000.
+
+- The **mean** salary is €72,727 — "we pay well!"
+- The **median** salary is €30,000 — the typical worker's reality.
+
+One number is "correct" and the other is "correct", and they tell completely
+different stories. When a few extreme values (outliers) are in the mix, the **median**
+is usually the honest one. When someone quotes an average, ask: *mean or median?*
+
+## Spread: are things steady or wild?
+
+An average hides how spread out the numbers are. Two delivery services both average
+3 days. One always takes 3 days. The other takes 1 day or 5 days at random. Same
+average, totally different experience.
+
+The measure of spread you will use most is the **standard deviation** — roughly,
+"how far from the average things usually are." Small standard deviation = steady,
+predictable. Large = wild, unreliable. Averages tell you the centre; spread tells
+you the risk.
+
+## The bell curve (and why it shows up everywhere)
+
+Many real things — heights, test scores, measurement errors — pile up around the
+middle and thin out at the ends, forming a bell shape. This is the **normal
+distribution**, and it is everywhere because of a beautiful fact: when many small
+random influences add up, the result tends toward a bell. You do not need the math.
+You need the instinct: most cases are near the middle, extremes are rare, and a
+value far out in the tail is worth investigating.
+
+## Outliers: the one weird number
+
+An **outlier** is a value far from the rest. One customer buys €50,000 while
+everyone else buys €50. One delivery takes 30 days while the rest take 3. Outliers
+can be:
+- **Errors** — a typo, a test record, a misplaced decimal.
+- **Real but rare** — a whale customer, a genuine disaster.
+
+Always look at outliers before you trust an average. A single fat client can make a
+whole month look great and hide that the other 200 customers are leaving.
+
+## The big trap: correlation is not causation
+
+This is the single most important sentence in this book.
+
+**Correlation** means two things move together. **Causation** means one thing
+*causes* the other. They are not the same, and confusing them causes expensive
+nonsense.
+
+Classic example: **ice cream sales and drowning deaths rise together** every summer.
+Does ice cream cause drowning? No. A third thing — hot weather — drives both. When
+you see two things move together, always ask:
+- Does A cause B?
+- Does B cause A?
+- Does some hidden C cause both?
+- Is it just coincidence?
+
+"Customers who use our app more are happier" might mean the app makes them happy —
+or that already-happy customers use it more. Correlation points you at a clue. It
+does not hand you the answer.
+
+## A curiosity: the correlation coefficient
+
+Statisticians squeeze "how strongly two things move together" into one number from
+**-1 to +1**. +1 means they rise in perfect lockstep; -1 means one rises as the
+other falls; 0 means no relationship. It is a useful thermometer for a
+relationship — but remember, even a perfect +1 is still not proof of cause.
+
+---
+
+## What you'll carry from this chapter
+
+- Know which average you are using; the median often tells the truth.
+- Averages hide spread — watch the standard deviation.
+- Outliers can fake a whole story; look at them first.
+- Correlation is a clue, never proof. Always hunt for the hidden third thing.
+
+Next: how to turn a fuzzy business worry into a sharp question you can actually
+answer with data.

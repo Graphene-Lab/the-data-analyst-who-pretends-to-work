@@ -1,1 +1,115 @@
-IyAxLiBXYXMgZWluIERhdGVuYW5hbHlzdCB3aXJrbGljaCB0dXQKCkZyYWcgemVobiBMZXV0ZSwgd2FzIGVpbiBEYXRlbmFuYWx5c3QgdHV0LCB1bmQgZHUgYmVrb21tc3QgemVobiB2ZXJzY2hpZWRlbmUKQW50d29ydGVuLiBEaWUgZWluZW4gc3RlbGxlbiBzaWNoIGplbWFuZGVuIGluIGVpbmVtIGR1bmtsZW4gUmF1bSB2b3IsIGRlciBncsO8bmVuCkNvZGUgdGlwcHQuIERpZSBhbmRlcmVuIHNlaGVuIGplbWFuZGVuLCBkZXIgaMO8YnNjaGUgS3JlaXNkaWFncmFtbWUgYmF1dC4gQmVpZGVzCmlzdCBmYWxzY2gg4oCTIHVuZCBiZWlkZXMgYXVjaCBuaWNodC4gS2zDpHJlbiB3aXIgZGFzLgoKRWluIERhdGVuYW5hbHlzdCBpc3QgamVtYW5kLCBkZXIgRnJhZ2VuIG1pdCBaYWhsZW4gYmVhbnR3b3J0ZXQuIERhcyBpc3QgZGVyIGdhbnplCkpvYi4gRGllIEZyYWdlbiBrb21tZW4gYXVzIGRlbSBlY2h0ZW4gTGViZW46ICpXYXJ1bSBzaW5kIGRpZSBVbXPDpHR6ZSBsZXR6dGVuIE1vbmF0CmdlZmFsbGVuPyBXZWxjaGVzIFByb2R1a3Qgc29sbHRlbiB3aXIgcHVzaGVuPyBXZWxjaGUgS3VuZGVuIHNpbmQga3VyeiBkYXZvcgphYnp1c3ByaW5nZW4/KiBEaWUgQW50d29ydGVuIGtvbW1lbiBhdXMgZGVuIERhdGVuOiBkZW4gU3B1cmVuLCBkaWUgZWluClVudGVybmVobWVuIGplZGVuIFRhZyBoaW50ZXJsw6Rzc3Qg4oCTIFZlcmvDpHVmZSwgS2xpY2tzLCBSZWNobnVuZ2VuLCBTdXBwb3J0LVRpY2tldHMsCkxpZWZlcnplaXRlbi4KCkRpZSBGw6RoaWdrZWl0IGRlcyBBbmFseXN0ZW4gaXN0IG5pY2h0IE1hdGhlLiBFcyBpc3QgKirDnGJlcnNldHp1bmcqKi4gRXIgbWFjaHQgYXVzCmVpbmVyIHZhZ2VuIG1lbnNjaGxpY2hlbiBGcmFnZSBlaW5lIHByw6R6aXNlIEZyYWdlIGFuIGRpZSBEYXRlbiwgZmluZGV0IGRpZSBBbnR3b3J0CnVuZCBtYWNodCBzaWUgenVyw7xjayBpbiBlaW5lbiBTYXR6LCBkZW4gZWluIGdlc3RyZXNzdGVyIENoZWYgaW4gZWluZSBIYW5kbHVuZwp1bW3DvG56ZW4ga2Fubi4KCiMjIERlciBKb2IgaW4gZWluZXIgWmVpbGUKCj4gRWluIERhdGVuYW5hbHlzdCBtYWNodCBhdXMgZWluZXIgY2hhb3Rpc2NoZW4gRnJhZ2UgYXVzIGRlciBlY2h0ZW4gV2VsdCBlaW5lCj4ga2xhcmUsIGVocmxpY2hlIEFudHdvcnQsIGdlc3TDvHR6dCBhdWYgWmFobGVuLgoKQWxsZXMgYW5kZXJlIOKAkyBkaWUgV2Vya3pldWdlLCBkaWUgRGlhZ3JhbW1lLCBkZXIgQ29kZSDigJMgaXN0IG51ciBkZXIgV2VnIGRvcnRoaW4uCgojIyBFaW4gVGFnIGltIExlYmVuCgpTdGVsbCBlaW5lbiBEaWVuc3RhZyB2b3IuIFVtIDk6MDAgbGVndCBkZXIgVmVydHJpZWJzbGVpdGVyIGVpbmUgRnJhZ2UgaW5zIFBvc3RmYWNoCmRlcyBBbmFseXN0ZW46ICrigJ5XYXJ1bSBsaWVndCB1bnNlciBNYWlsw6RuZGVyIExhZGVuIGRpZXNlbiBNb25hdCAxMiAlIGltIE1pbnVzPyIqCgpEaWVzZXIgZWluZSBTYXR6IGlzdCBlaWdlbnRsaWNoIGbDvG5mIEZyYWdlbjoKCi0gU3RpbW10IGRpZSBaYWhsIHZvbiAxMiAlIHdpcmtsaWNoLCBvZGVyIGlzdCBzaWUgZWluIFp1ZmFsbCBkdXJjaCBkaWUgQXJ0LCB3aWUKICBkaWUgWmFobGVuIGdlesOkaGx0IHd1cmRlbj8KLSBJc3QgZXMgbnVyIE1haWxhbmQsIG9kZXIgbGllZ2VuIGF1Y2ggYW5kZXJlIEZpbGlhbGVuIGltIE1pbnVzPwotIFdhcyBoYXQgc2ljaCBkaWVzZW4gTW9uYXQgZ2XDpG5kZXJ0IOKAkyBQcmVpcywgTGFnZXIsIFdldHRlciwgZWluIFdldHRiZXdlcmJlciwgZGVyCiAgbmViZW5hbiBhdWZnZW1hY2h0IGhhdD8KLSBLb21tdCBkZXIgUsO8Y2tnYW5nIHZvbiBkZXIgWmFobCBkZXIgS3VuZGVuIG9kZXIgZGF2b24sIHdhcyBqZWRlciBlaW56ZWxuZQogIGF1c2dpYnQ/Ci0gV2FzIGvDtm5udGVuIHdpciBrb25rcmV0IGRhZ2VnZW4gdHVuPwoKRGVyIEFuYWx5c3Qgd8O8aGx0IHNpY2ggZHVyY2ggVmVya2F1ZnNkYXRlbiwgS3VuZGVuZGF0ZW4gdW5kIGFsbGVzIGFuZGVyZSwgd2FzIGVzCmVya2zDpHJlbiBrw7ZubnRlLiBBbSBOYWNobWl0dGFnIGhhdCBlciBlaW5lIEFudHdvcnQ6ICpEZXIgS3VuZGVuc3Ryb20gaXN0CmVpbmdlYnJvY2hlbiwgd2VpbCB6d2VpIFdvY2hlbiBsYW5nIGVpbmUgU3RyYcOfZSB3ZWdlbiBCYXVhcmJlaXRlbiBnZXNwZXJydCB3YXI7CmRpZSBLdW5kZW4sIGRpZSB0cm90emRlbSBrYW1lbiwgZ2FiZW4gZ2VuYXVzbyB2aWVsIGF1cyB3aWUgaW1tZXIuKiBLZWluIFLDpHRzZWwuCkVpbmUgU3RyYcOfZS4KCkRhcyBpc3QgZGVyIEpvYi4gTmV1Z2llciwgZWluZSBNZXRob2RlIHVuZCBkaWUgRGF0ZW4uCgojIyBEaWUgdmllciBDb3VzaW5zICh1bmQgd2llIHNpZSBzaWNoIHVudGVyc2NoZWlkZW4pCgpEaWUgTGV1dGUgdmVyd2VjaHNlbG4gdmllciBiZW5hY2hiYXJ0ZSBCZXJ1ZmUuIEhpZXIgZGllIGVpbmZhY2hlIFZlcnNpb24uCgp8IFJvbGxlIHwgV2FzIHNpZSBoYXVwdHPDpGNobGljaCB0dXQgfCBXZWxjaGUgRnJhZ2Ugc2llIGJlYW50d29ydGV0IHwKfC0tLXwtLS18LS0tfAp8ICoqRGF0ZW5hbmFseXN0KiogfCBTY2hhdXQsIHdhcyBzY2hvbiBwYXNzaWVydCBpc3QsIHVuZCBlcmtsw6RydCBlcyB8IOKAnldhcyBpc3QgcGFzc2llcnQsIHVuZCB3YXJ1bT8iIHwKfCAqKkRhdGEgU2NpZW50aXN0KiogfCBCYXV0IE1vZGVsbGUsIGRpZSB2b3JoZXJzYWdlbiBvZGVyIHNjaMOkdHplbiB8IOKAnldhcyB3aXJkIGFscyBOw6RjaHN0ZXMgcGFzc2llcmVuPyIgfAp8ICoqRGF0YSBFbmdpbmVlcioqIHwgQmF1dCBkaWUgTGVpdHVuZ2VuLCBkaWUgRGF0ZW4gYmV3ZWdlbiB1bmQgc3BlaWNoZXJuIHwg4oCeV2llIGJla29tbWVuIHdpciBzYXViZXJlIERhdGVuIGhpZXJoZXI/IiB8CnwgKipCSS1BbmFseXN0KiogfCBCYXV0IERhc2hib2FyZHMgdW5kIEJlcmljaHRlLCBkaWUgTGV1dGUgYW5zZWhlbiB8IOKAnldpZSBzZWhlbiB3aXIgZGFzIGplZGVuIFRhZz8iIHwKCkVzIGdpYnQgZ3Jvw59lIMOcYmVyc2NobmVpZHVuZ2VuLiBJbiBlaW5lciBrbGVpbmVuIEZpcm1hIGlzdCBlaW5lIFBlcnNvbiBhbGxlIHZpZXIuCkFiZXIgZGllIEhlaW1hdCBkZXMgRGF0ZW5hbmFseXN0ZW4gaXN0IGRpZSBlcnN0ZSBTcGFsdGU6IGRpZSBHZWdlbndhcnQgdW5kIGRpZQpqw7xuZ2VyZSBWZXJnYW5nZW5oZWl0IHZlcnN0ZWhlbi4KCiMjIFdvIGRlciBBbmFseXN0IGFyYmVpdGV0CgrDnGJlcmFsbC4gRWluIHBhYXIgZWNodGUgRm9ybWVuIGRlcyBKb2JzOgoKLSAqKkVpbnplbGhhbmRlbCoqIOKAkyB3YXJ1bSBkZXIgVW1zYXR6IGVpbmVzIExhZGVucyBnZWZhbGxlbiBpc3Q7IHdlbGNoZSBQcm9kdWt0ZQogIHp1c2FtbWVuIHZlcmthdWZ0IHdlcmRlbi4KLSAqKkJhbmtlbioqIOKAkyBUcmFuc2FrdGlvbmVuIG5hY2ggTXVzdGVybiBiZW9iYWNodGVuLCBkaWUgbmFjaCBCZXRydWcgYXVzc2VoZW4uCi0gKipFLUNvbW1lcmNlKiog4oCTIHdvIEvDpHVmZXIgaWhyZW4gV2FyZW5rb3JiIGFiYnJlY2hlbiwgdW5kIHdhcnVtLgotICoqUHJvZHVrdGlvbioqIOKAkyB3ZWxjaGUgU2NoaWNodCBvZGVyIHdlbGNoZXMgQmFuZCBtZWhyIEF1c3NjaHVzcyBwcm9kdXppZXJ0LgotICoqU29mdHdhcmUgKFNhYVMpKiog4oCTIHdpZSB2aWVsZSBBYm9ubmVudGVuIGJsZWliZW4gdW5kIHdhcyBzaWUgenVtIEdlaGVuIGJyaW5ndC4KClZlcnNjaGllZGVuZSBHZWLDpHVkZSwgZGVyc2VsYmUgSm9iOiBlaW5lIEZyYWdlIHN0ZWxsZW4sIGRpZSBaYWhsZW4gZmluZGVuLCBkaWUKV2FocmhlaXQgc2FnZW4uCgojIyBFaW5lIEt1cmlvc2l0w6R0OiBkZXIgw6RsdGVzdGUgQW5hbHlzdAoKRGF0ZW5hbmFseXNlIGlzdCB0YXVzZW5kZSBKYWhyZSDDpGx0ZXIgYWxzIENvbXB1dGVyLiBEaWUgYWx0ZW4gw4RneXB0ZXIgc2NocmllYmVuClNjaHJlaWJlciBhdXMsIHVtIGRpZSBFcm50ZSB1bmQgZGFzIFZpZWggenUgesOkaGxlbiwgZGFtaXQgc2llIFN0ZXVlcm4gdW5kCkdldHJlaWRlc3BlaWNoZXIgcGxhbmVuIGtvbm50ZW4sIGJldm9yIGVpbmUgSHVuZ2Vyc25vdCBrYW0uIERpZXNlIFNjaHJlaWJlciB3YXJlbgpEYXRlbmFuYWx5c3Rlbi4gRGllIFRhYmVsbGVua2Fsa3VsYXRpb24gaXN0IG5ldTsgZGVyIEpvYiBpc3QgdXJhbHQuCgotLS0KCiMjIFByb2JpZXIgZXM6IGVpbiBNb2RlbGwgaW4gZWluZW0gU2F0egoKR2VudWcgVGhlb3JpZS4gSGllciBkZWluIGVyc3RlciBWb3JnZXNjaG1hY2sgYXVmIGRhcyBXZXJremV1ZywgYXVmIGRlbSBkaWVzZXMgQnVjaAphdWZiYXV0LiBJbiBBZ2VudEJyaWRnZSwgbWl0IFBvd2VyQklUb29sLCB0aXBwdGUgamVtYW5kIGVpbmVuIFNhdHogw7xiZXIgZWluZW4KUG93ZXItQkktQmVyaWNodCwgZGVyIHNjaG9uIGF1ZiBkZW0gQmlsZHNjaGlybSBvZmZlbiB3YXI6Cgo+IOKAnlZlcmJpbmRlIGRpY2ggbWl0IFBvd2VyIEJJIERlc2t0b3AgdW5kIGxpc3RlIGRpZSBUYWJlbGxlbiBpbiBtZWluZW0gTW9kZWxsIGF1Zi4iCgpEYXMga2FtIHp1csO8Y2s6CgohW1ZlcmJpbmRlbiB1bmQgVGFiZWxsZW4gYXVmbGlzdGVuXSguLi8uLi9hc3NldHMvZXhhbXBsZXMvY29ubmVjdC1saXN0LXRhYmxlcy5wbmcpCgpJbiBlaW5lciBaZWlsZSBsYXMgZGVyIEFzc2lzdGVudCBkYXMgTGl2ZS1Nb2RlbGwgdW5kIG1lbGRldGUgamVkZSBUYWJlbGxlLCB3aWUKdmllbGUgWmVpbGVuIHNpZSBlbnRow6RsdCB1bmQgd2llIHZpZWxlIE1hw59lIHNpZSBoYXQuIEtlaW4gTWVuw7wgYW5nZWtsaWNrdCwga2VpbgpDb2RlIGdlc2NocmllYmVuLiBEYXMgaXN0IGRpZSBGb3JtIHZvbiBhbGxlbSBpbiBkaWVzZW0gQnVjaDogZWluIGVpbmZhY2hlciBTYXR6CnJlaW4sIGVpbiBlY2h0ZXMgRXJnZWJuaXMgcmF1cy4KCi0tLQoKIyMgV2FzIGR1IGF1cyBkaWVzZW0gS2FwaXRlbCBtaXRuaW1tc3QKCi0gRWluIERhdGVuYW5hbHlzdCBiZWFudHdvcnRldCBlY2h0ZSBGcmFnZW4gbWl0IFphaGxlbi4KLSBEaWUgS2VybmbDpGhpZ2tlaXQgaXN0IMOcYmVyc2V0enVuZywgbmljaHQgTWF0aGUuCi0gRGVyIEpvYiBpc3QgdXJhbHQ7IGRpZSBXZXJremV1Z2Ugc2luZCBuZXUg4oCTIHVuZCB3ZXJkZW4gaW1tZXIgc2NobmVsbGVyLgoKSW0gbsOkY2hzdGVuIEthcGl0ZWwgcmVpc2VuIHdpciB6dXLDvGNrIGluIGRlciBaZWl0IHVuZCBzZWhlbiwgd2llIGF1cyBkZW0gWsOkaGxlbgplaW4gQmVydWYgd3VyZGUuCg==
+# 1. Was ein Datenanalyst wirklich tut
+
+Frag zehn Leute, was ein Datenanalyst tut, und du bekommst zehn verschiedene
+Antworten. Die einen stellen sich jemanden in einem dunklen Raum vor, der grünen
+Code tippt. Die anderen sehen jemanden, der hübsche Kreisdiagramme baut. Beides
+ist falsch – und beides auch nicht. Klären wir das.
+
+Ein Datenanalyst ist jemand, der Fragen mit Zahlen beantwortet. Das ist der ganze
+Job. Die Fragen kommen aus dem echten Leben: *Warum sind die Umsätze letzten Monat
+gefallen? Welches Produkt sollten wir pushen? Welche Kunden sind kurz davor
+abzuspringen?* Die Antworten kommen aus den Daten: den Spuren, die ein
+Unternehmen jeden Tag hinterlässt – Verkäufe, Klicks, Rechnungen, Support-Tickets,
+Lieferzeiten.
+
+Die Fähigkeit des Analysten ist nicht Mathe. Es ist **Übersetzung**. Er macht aus
+einer vagen menschlichen Frage eine präzise Frage an die Daten, findet die Antwort
+und macht sie zurück in einen Satz, den ein gestresster Chef in eine Handlung
+ummünzen kann.
+
+## Der Job in einer Zeile
+
+> Ein Datenanalyst macht aus einer chaotischen Frage aus der echten Welt eine
+> klare, ehrliche Antwort, gestützt auf Zahlen.
+
+Alles andere – die Werkzeuge, die Diagramme, der Code – ist nur der Weg dorthin.
+
+## Ein Tag im Leben
+
+Stell einen Dienstag vor. Um 9:00 legt der Vertriebsleiter eine Frage ins Postfach
+des Analysten: *„Warum liegt unser Mailänder Laden diesen Monat 12 % im Minus?"*
+
+Dieser eine Satz ist eigentlich fünf Fragen:
+
+- Stimmt die Zahl von 12 % wirklich, oder ist sie ein Zufall durch die Art, wie
+  die Zahlen gezählt wurden?
+- Ist es nur Mailand, oder liegen auch andere Filialen im Minus?
+- Was hat sich diesen Monat geändert – Preis, Lager, Wetter, ein Wettbewerber, der
+  nebenan aufgemacht hat?
+- Kommt der Rückgang von der Zahl der Kunden oder davon, was jeder einzelne
+  ausgibt?
+- Was könnten wir konkret dagegen tun?
+
+Der Analyst wühlt sich durch Verkaufsdaten, Kundendaten und alles andere, was es
+erklären könnte. Am Nachmittag hat er eine Antwort: *Der Kundenstrom ist
+eingebrochen, weil zwei Wochen lang eine Straße wegen Bauarbeiten gesperrt war;
+die Kunden, die trotzdem kamen, gaben genauso viel aus wie immer.* Kein Rätsel.
+Eine Straße.
+
+Das ist der Job. Neugier, eine Methode und die Daten.
+
+## Die vier Cousins (und wie sie sich unterscheiden)
+
+Die Leute verwechseln vier benachbarte Berufe. Hier die einfache Version.
+
+| Rolle | Was sie hauptsächlich tut | Welche Frage sie beantwortet |
+|---|---|---|
+| **Datenanalyst** | Schaut, was schon passiert ist, und erklärt es | „Was ist passiert, und warum?" |
+| **Data Scientist** | Baut Modelle, die vorhersagen oder schätzen | „Was wird als Nächstes passieren?" |
+| **Data Engineer** | Baut die Leitungen, die Daten bewegen und speichern | „Wie bekommen wir saubere Daten hierher?" |
+| **BI-Analyst** | Baut Dashboards und Berichte, die Leute ansehen | „Wie sehen wir das jeden Tag?" |
+
+Es gibt große Überschneidungen. In einer kleinen Firma ist eine Person alle vier.
+Aber die Heimat des Datenanalysten ist die erste Spalte: die Gegenwart und die
+jüngere Vergangenheit verstehen.
+
+## Wo der Analyst arbeitet
+
+Überall. Ein paar echte Formen des Jobs:
+
+- **Einzelhandel** – warum der Umsatz eines Ladens gefallen ist; welche Produkte
+  zusammen verkauft werden.
+- **Banken** – Transaktionen nach Mustern beobachten, die nach Betrug aussehen.
+- **E-Commerce** – wo Käufer ihren Warenkorb abbrechen, und warum.
+- **Produktion** – welche Schicht oder welches Band mehr Ausschuss produziert.
+- **Software (SaaS)** – wie viele Abonnenten bleiben und was sie zum Gehen bringt.
+
+Verschiedene Gebäude, derselbe Job: eine Frage stellen, die Zahlen finden, die
+Wahrheit sagen.
+
+## Eine Kuriosität: der älteste Analyst
+
+Datenanalyse ist tausende Jahre älter als Computer. Die alten Ägypter schrieben
+Schreiber aus, um die Ernte und das Vieh zu zählen, damit sie Steuern und
+Getreidespeicher planen konnten, bevor eine Hungersnot kam. Diese Schreiber waren
+Datenanalysten. Die Tabellenkalkulation ist neu; der Job ist uralt.
+
+---
+
+## Probier es: ein Modell in einem Satz
+
+Genug Theorie. Hier dein erster Vorgeschmack auf das Werkzeug, auf dem dieses Buch
+aufbaut. In AgentBridge, mit PowerBITool, tippte jemand einen Satz über einen
+Power-BI-Bericht, der schon auf dem Bildschirm offen war:
+
+> „Verbinde dich mit Power BI Desktop und liste die Tabellen in meinem Modell auf."
+
+Das kam zurück:
+
+![Verbinden und Tabellen auflisten](../../assets/examples/connect-list-tables.png)
+
+In einer Zeile las der Assistent das Live-Modell und meldete jede Tabelle, wie
+viele Zeilen sie enthält und wie viele Maße sie hat. Kein Menü angeklickt, kein
+Code geschrieben. Das ist die Form von allem in diesem Buch: ein einfacher Satz
+rein, ein echtes Ergebnis raus.
+
+---
+
+## Was du aus diesem Kapitel mitnimmst
+
+- Ein Datenanalyst beantwortet echte Fragen mit Zahlen.
+- Die Kernfähigkeit ist Übersetzung, nicht Mathe.
+- Der Job ist uralt; die Werkzeuge sind neu – und werden immer schneller.
+
+Im nächsten Kapitel reisen wir zurück in der Zeit und sehen, wie aus dem Zählen
+ein Beruf wurde.

@@ -1,1 +1,19 @@
-WwogIHsgIm91dCI6ICJhc3NldHMvYm9vay1jb3Zlci5wbmciLCAia2luZCI6ICJjb3ZlciIsICJ3IjogMTAyNCwgImgiOiAxNTM2IH0sCiAgeyAib3V0IjogImFzc2V0cy9xci1wb3dlcmJpdG9vbC1yZXBvLnBuZyIsICJraW5kIjogInFyIiwgImRhdGEiOiAiaHR0cHM6Ly9naXRodWIuY29tL0dyYXBoZW5lLUxhYi9Qb3dlckJJVG9vbCIsICJweCI6IDEyIH0sCiAgeyAib3V0IjogImFzc2V0cy9xci1wb3dlcmJpdG9vbC1pc3N1ZXMucG5nIiwgImtpbmQiOiAicXIiLCAiZGF0YSI6ICJodHRwczovL2dpdGh1Yi5jb20vR3JhcGhlbmUtTGFiL1Bvd2VyQklUb29sL2lzc3VlcyIsICJweCI6IDEyIH0sCiAgewogICAgIm91dCI6ICJhc3NldHMvZXhhbXBsZXMvY29ubmVjdC1saXN0LXRhYmxlcy5wbmciLAogICAgImtpbmQiOiAiY2hhdCIsICJ3IjogMTAwMCwgImgiOiA1NjAsCiAgICAicHJvbXB0IjogIkNvbm5lY3QgdG8gUG93ZXIgQkkgRGVza3RvcCBhbmQgbGlzdCB0aGUgdGFibGVzIGluIG15IG1vZGVsLiIsCiAgICAicmVzdWx0IjogIkNvbm5lY3RlZCB0byBtb2RlbCAnU2FsZXNSZXBvcnQnIChsb2NhbGhvc3Q6NDkyNzMpLiBUaGUgbGl2ZSBQb3dlciBCSSBEZXNrdG9wIG1vZGVsIGlzIG5vdyByZWFkYWJsZSBhbmQgZWRpdGFibGUuXG5cblJlZ2lvbiDigJQgQ2FsY3VsYXRlZCwgNCByb3dzLCAyIGNvbHVtbnMsIDAgbWVhc3VyZXNcblByb2R1Y3Qg4oCUIENhbGN1bGF0ZWQsIDUgcm93cywgMyBjb2x1bW5zLCAwIG1lYXN1cmVzXG5TYWxlcyDigJQgQ2FsY3VsYXRlZCwgMTAgcm93cywgNSBjb2x1bW5zLCAzIG1lYXN1cmVzIiwKICAgICJjYXB0aW9uIjogIk9uZSBzZW50ZW5jZSBpbiwgdGhlIHdob2xlIGxpdmUgbW9kZWwgcmVhZCBiYWNrLiIKICB9LAogIHsKICAgICJvdXQiOiAiYXNzZXRzL2V4YW1wbGVzL2NyZWF0ZS1tZWFzdXJlLnBuZyIsCiAgICAia2luZCI6ICJjaGF0IiwgInciOiAxMDAwLCAiaCI6IDUyMCwKICAgICJwcm9tcHQiOiAiQ3JlYXRlIGEgbWVhc3VyZSBUb3RhbCBTYWxlcyA9IFNVTShTYWxlc1tBbW91bnRdKSB3aXRoIGEgZXVybyBmb3JtYXQuIiwKICAgICJyZXN1bHQiOiAiQ3JlYXRlZCBtZWFzdXJlIFNhbGVzW1RvdGFsU2FsZXNdID0gU1VNKFNhbGVzW0Ftb3VudF0pICAoIywjIzAuMDAg4oKsKS5cbkFwcGxpZWQgdG8gdGhlIExJVkUgbW9kZWwgaW4gUG93ZXIgQkkgRGVza3RvcCAodmlzaWJsZSBub3cpLiBOb3Qgc2F2ZWQgdG8gdGhlIC5wYml4IGZpbGUg4oCUIHRoZSB1c2VyIG11c3QgcHJlc3MgQ3RybCtTIGluIFBvd2VyIEJJIERlc2t0b3AgdG8gcGVyc2lzdCBpdC4iLAogICAgImNhcHRpb24iOiAiVGhlIG1lYXN1cmUgYXBwZWFycyBpbiBQb3dlciBCSSBEZXNrdG9wIHRoZSBpbnN0YW50IHlvdSBhc2suIgogIH0KXQo=
+[
+  { "out": "assets/book-cover.png", "kind": "cover", "w": 1024, "h": 1536 },
+  { "out": "assets/qr-powerbitool-repo.png", "kind": "qr", "data": "https://github.com/Graphene-Lab/PowerBITool", "px": 12 },
+  { "out": "assets/qr-powerbitool-issues.png", "kind": "qr", "data": "https://github.com/Graphene-Lab/PowerBITool/issues", "px": 12 },
+  {
+    "out": "assets/examples/connect-list-tables.png",
+    "kind": "chat", "w": 1000, "h": 560,
+    "prompt": "Connect to Power BI Desktop and list the tables in my model.",
+    "result": "Connected to model 'SalesReport' (localhost:49273). The live Power BI Desktop model is now readable and editable.\n\nRegion — Calculated, 4 rows, 2 columns, 0 measures\nProduct — Calculated, 5 rows, 3 columns, 0 measures\nSales — Calculated, 10 rows, 5 columns, 3 measures",
+    "caption": "One sentence in, the whole live model read back."
+  },
+  {
+    "out": "assets/examples/create-measure.png",
+    "kind": "chat", "w": 1000, "h": 520,
+    "prompt": "Create a measure Total Sales = SUM(Sales[Amount]) with a euro format.",
+    "result": "Created measure Sales[TotalSales] = SUM(Sales[Amount])  (#,##0.00 €).\nApplied to the LIVE model in Power BI Desktop (visible now). Not saved to the .pbix file — the user must press Ctrl+S in Power BI Desktop to persist it.",
+    "caption": "The measure appears in Power BI Desktop the instant you ask."
+  }
+]

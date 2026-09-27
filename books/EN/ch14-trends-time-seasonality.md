@@ -1,1 +1,106 @@
-IyAxNC4gVHJlbmRzLCBUaW1lLCBhbmQgU2Vhc29uYWxpdHkKCkEgbnVtYmVyIGlzIGEgc25hcHNob3QuIEFkZCB0aW1lLCBhbmQgaXQgYmVjb21lcyBhIHN0b3J5LiBTYWxlcyBvZiDigqwxMSwwMDAgbWVhbnMKbGl0dGxlIHVudGlsIHlvdSBrbm93IHdoZXRoZXIgdGhhdCdzIHVwIG9yIGRvd24sIGFuZCB3aGV0aGVyIGl0J3Mgbm9ybWFsIGZvciB0aGlzCnRpbWUgb2YgeWVhci4gVGltZSBpcyB0aGUgZGltZW5zaW9uIHRoYXQgdHVybnMgYSBwaG90byBpbnRvIGEgbW92aWUsIGFuZCBhbG1vc3QKZXZlcnkgaW1wb3J0YW50IGJ1c2luZXNzIHF1ZXN0aW9uIGxpdmVzIGluIGl0LgoKIyMgV2h5IHRpbWUgaXMgc3BlY2lhbAoKVGltZSBpcyB0aGUgb25lIGRpbWVuc2lvbiB5b3UgY2Fubm90IGF2b2lkLiBFdmVyeSBzYWxlLCBldmVyeSBjbGljaywgZXZlcnkgcmVjb3JkCmhhcHBlbnMgKmF0KiBhIG1vbWVudC4gQW5kIHRpbWUgaGFzIGEgcHJvcGVydHkgb3RoZXIgZGltZW5zaW9ucyBkb24ndDogKip0aGluZ3MKcmVwZWF0LioqIEljZSBjcmVhbSBzZWxscyBpbiBzdW1tZXIuIFJldGFpbCBzcGlrZXMgYXQgQ2hyaXN0bWFzLiBUYXggc29mdHdhcmUgcm9hcnMKaW4gQXByaWwuIFRoaXMgcmVwZXRpdGlvbiBpcyAqKnNlYXNvbmFsaXR5KiosIGFuZCBzcG90dGluZyBpdCBzdG9wcyB5b3UgZnJvbQpwYW5pY2tpbmcgb3ZlciBhICJkaXAiIHRoYXQgaGFwcGVucyBldmVyeSBzaW5nbGUgSmFudWFyeS4KCiMjIEdldHRpbmcgdGhlIGRhdGUgaW50byB1c2FibGUgcGllY2VzCgpSYXcgZGF0ZXMgYXJlIGF3a3dhcmQuIFRvIGFuYWx5c2UgdGltZSwgeW91IGJyZWFrIHRoZSBkYXRlIGludG8gcGllY2VzIOKAlCB5ZWFyLAptb250aCwgZGF5IOKAlCBhcyBjb2x1bW5zIHlvdSBjYW4gZ3JvdXAgYnk6Cgo+ICJBZGQgYSBZZWFyIGNvbHVtbiBmcm9tIHRoZSBkYXRlLiIKCiFbWWVhciBjb2x1bW5dKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9lMDM5LnBuZykKCj4gIkFkZCBhIE1vbnRoIGNvbHVtbiBmcm9tIHRoZSBkYXRlLiIKCiFbTW9udGggY29sdW1uXSguLi8uLi9hc3NldHMvZXhhbXBsZXMvZTA0MC5wbmcpCgpOb3cgeW91IGNhbiBncm91cCBieSB5ZWFyIG9yIG1vbnRoIGFuZCBzZWUgdGhlIHNoYXBlIG9mIHRpbWUuCgojIyBUaGUgeWVhci1vdmVyLXllYXIgdmlldwoKPiAiVG90YWwgc2FsZXMgcGVyIHllYXIuIgoKIVtTYWxlcyBwZXIgeWVhcl0oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2UwNDEucG5nKQoKVHdvIHllYXJzLCBzaWRlIGJ5IHNpZGUuIElzIDIwMjUgYmV0dGVyIHRoYW4gMjAyND8gVGhlIGNvbXBhcmlzb24gaXMgdGhlIHdob2xlCnBvaW50IOKAlCBhIHNpbmdsZSB5ZWFyIHRlbGxzIHlvdSBub3RoaW5nLCBidXQgdHdvIHllYXJzIHRlbGwgeW91IHRoZSBkaXJlY3Rpb24uCgpUaGUgeWVhci1vdmVyLXllYXIgY29tcGFyaXNvbiwgYXMgYSBjaGFydDoKCiFbU2FsZXMgcGVyIHllYXIg4oCUIGJhciBjaGFydF0oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2NoYXJ0LXllYXJseS5wbmcpCgojIyBUaGUgbW9udGhseSB0cmVuZAoKPiAiVG90YWwgc2FsZXMgcGVyIG1vbnRoLiIKCiFbU2FsZXMgcGVyIG1vbnRoXSguLi8uLi9hc3NldHMvZXhhbXBsZXMvZTA0Mi5wbmcpCgpUd2VsdmUgbW9udGhzIG9mIGRhdGEuIFlvdSBjYW4gc2VlIHRoZSBwZWFrcyBhbmQgdmFsbGV5cyDigJQgdGhlIGJ1c3kgbW9udGhzIGFuZCB0aGUKcXVpZXQgb25lcy4gVGhpcyBpcyB0aGUgcmF3IHNoYXBlIG9mIHlvdXIgYnVzaW5lc3MncyBoZWFydGJlYXQuCgpUaGUgbW9udGhseSBoZWFydGJlYXQsIGRyYXduIGFzIGEgbGluZToKCiFbU2FsZXMgcGVyIG1vbnRoIOKAlCBsaW5lIGNoYXJ0XSguLi8uLi9hc3NldHMvZXhhbXBsZXMvY2hhcnQtbW9udGhseS5wbmcpCgojIyBGaWx0ZXJpbmcgYSBwZXJpb2QKCj4gIlNhbGVzIGluIDIwMjUgb25seS4iCgohWzIwMjUgc2FsZXNdKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9lMDQzLnBuZykKCj4gIlNhbGVzIGZvciB0aGUgZmlyc3QgaGFsZiBvZiBhIHllYXIuIgoKIVtGaXJzdCBoYWxmIG9mIDIwMjVdKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9lMDc4LnBuZykKClNsaWNpbmcgYSBzcGVjaWZpYyB3aW5kb3cgb2YgdGltZSBpcyBob3cgeW91IGFuc3dlciAiaG93IGRpZCB3ZSBkbyBsYXN0IHF1YXJ0ZXI/IgppbiBvbmUgc2VudGVuY2UuCgojIyBGaW5kaW5nIHRoZSBzbG93IHBlcmlvZAoKPiAiTW9udGggd2l0aCB0aGUgZmV3ZXN0IHNhbGVzLiIKCiFbRmV3ZXN0IHNhbGVzIG1vbnRoXSguLi8uLi9hc3NldHMvZXhhbXBsZXMvZTA5MS5wbmcpCgpLbm93aW5nIHlvdXIgc2xvd2VzdCBtb250aCBpcyBhcyB1c2VmdWwgYXMga25vd2luZyB5b3VyIGJ1c2llc3Qg4oCUIGl0J3Mgd2hlbiB5b3UKcGxhbiBwcm9tb3Rpb25zLCBzY2hlZHVsZSBtYWludGVuYW5jZSwgb3IgYnJhY2UgZm9yIGEgcXVpZXQgc3BlbGwuCgojIyBNb3ZpbmcgYXZlcmFnZXM6IHNtb290aGluZyB0aGUgbm9pc2UKCk1vbnRobHkgbnVtYmVycyBhcmUgYnVtcHkuIEEgKiptb3ZpbmcgYXZlcmFnZSoqIChzYXksIHRoZSBhdmVyYWdlIG9mIHRoZSBsYXN0IDMKbW9udGhzKSBzbW9vdGhzIHRoZSBidW1wcyBzbyB0aGUgdW5kZXJseWluZyB0cmVuZCBzaG93cyB0aHJvdWdoLiBJdCdzIHRoZQpkaWZmZXJlbmNlIGJldHdlZW4gd2F0Y2hpbmcgYSBzaGFreSBoYW5kaGVsZCBjYW1lcmEgYW5kIGEgc21vb3RoIHN0ZWFkaWNhbSBzaG90LgpUaGUgdHJlbmQgaXMgd2hhdCB5b3Ugd2FudCB0byBzZWU7IHRoZSBtb3ZpbmcgYXZlcmFnZSByZXZlYWxzIGl0LgoKIyMgQSBjdXJpb3NpdHk6IHRoZSAiSmFudWFyeSBlZmZlY3QiIHRoYXQgaXNuJ3QKCkEgbWFuYWdlciBzZWVzIEphbnVhcnkgc2FsZXMgZG93biAzMCUgYW5kIGNhbGxzIGFuIGVtZXJnZW5jeSBtZWV0aW5nLiBCdXQgSmFudWFyeQppcyAqYWx3YXlzKiBkb3duIGFmdGVyIERlY2VtYmVyJ3MgaG9saWRheSBydXNoLiBXaXRob3V0IGNvbXBhcmluZyB0byBsYXN0IEphbnVhcnksCnRoZSBkcm9wIGlzIG1lYW5pbmdsZXNzIOKAlCBpdCdzIHRoZSBzZWFzb24sIG5vdCBhIHByb2JsZW0uIFRoaXMgaXMgd2h5IGFuYWx5c3RzCmNvbXBhcmUgKip5ZWFyLW92ZXIteWVhcioqICh0aGlzIEphbnVhcnkgdnMgbGFzdCBKYW51YXJ5KSByYXRoZXIgdGhhbgoqKm1vbnRoLW92ZXItbW9udGgqKiAoSmFudWFyeSB2cyBEZWNlbWJlcikuIFRoZSByaWdodCBjb21wYXJpc29uIHR1cm5zIGEgZmFsc2UKYWxhcm0gaW50byBhIG5vbi1ldmVudC4KCi0tLQoKIyMgV2hhdCB5b3UnbGwgY2FycnkgZnJvbSB0aGlzIGNoYXB0ZXIKCi0gVGltZSB0dXJucyBhIHNuYXBzaG90IGludG8gYSBzdG9yeS4KLSBCcmVhayBkYXRlcyBpbnRvIHllYXIvbW9udGgvZGF5IHRvIGdyb3VwIGFuZCB0cmVuZC4KLSBTZWFzb25hbGl0eSBtZWFucyB0aGluZ3MgcmVwZWF0IOKAlCBkb24ndCBwYW5pYyBhdCB0aGUgZXhwZWN0ZWQgZGlwLgotIENvbXBhcmUgeWVhci1vdmVyLXllYXIsIG5vdCBqdXN0IG1vbnRoLW92ZXItbW9udGguCi0gTW92aW5nIGF2ZXJhZ2VzIHNtb290aCB0aGUgbm9pc2UgdG8gcmV2ZWFsIHRoZSB0cmVuZC4KCk5leHQ6IGhvdyBkbyB5b3Uga25vdyBhIGRpZmZlcmVuY2UgaXMgcmVhbCBhbmQgbm90IGp1c3QgbHVjaz8gQSBnZW50bGUgdG91ciBvZgp0ZXN0aW5nIGFuZCBjaGFuY2UuCg==
+# 14. Trends, Time, and Seasonality
+
+A number is a snapshot. Add time, and it becomes a story. Sales of €11,000 means
+little until you know whether that's up or down, and whether it's normal for this
+time of year. Time is the dimension that turns a photo into a movie, and almost
+every important business question lives in it.
+
+## Why time is special
+
+Time is the one dimension you cannot avoid. Every sale, every click, every record
+happens *at* a moment. And time has a property other dimensions don't: **things
+repeat.** Ice cream sells in summer. Retail spikes at Christmas. Tax software roars
+in April. This repetition is **seasonality**, and spotting it stops you from
+panicking over a "dip" that happens every single January.
+
+## Getting the date into usable pieces
+
+Raw dates are awkward. To analyse time, you break the date into pieces — year,
+month, day — as columns you can group by:
+
+> "Add a Year column from the date."
+
+![Year column](../../assets/examples/e039.png)
+
+> "Add a Month column from the date."
+
+![Month column](../../assets/examples/e040.png)
+
+Now you can group by year or month and see the shape of time.
+
+## The year-over-year view
+
+> "Total sales per year."
+
+![Sales per year](../../assets/examples/e041.png)
+
+Two years, side by side. Is 2025 better than 2024? The comparison is the whole
+point — a single year tells you nothing, but two years tell you the direction.
+
+The year-over-year comparison, as a chart:
+
+![Sales per year — bar chart](../../assets/examples/chart-yearly.png)
+
+## The monthly trend
+
+> "Total sales per month."
+
+![Sales per month](../../assets/examples/e042.png)
+
+Twelve months of data. You can see the peaks and valleys — the busy months and the
+quiet ones. This is the raw shape of your business's heartbeat.
+
+The monthly heartbeat, drawn as a line:
+
+![Sales per month — line chart](../../assets/examples/chart-monthly.png)
+
+## Filtering a period
+
+> "Sales in 2025 only."
+
+![2025 sales](../../assets/examples/e043.png)
+
+> "Sales for the first half of a year."
+
+![First half of 2025](../../assets/examples/e078.png)
+
+Slicing a specific window of time is how you answer "how did we do last quarter?"
+in one sentence.
+
+## Finding the slow period
+
+> "Month with the fewest sales."
+
+![Fewest sales month](../../assets/examples/e091.png)
+
+Knowing your slowest month is as useful as knowing your busiest — it's when you
+plan promotions, schedule maintenance, or brace for a quiet spell.
+
+## Moving averages: smoothing the noise
+
+Monthly numbers are bumpy. A **moving average** (say, the average of the last 3
+months) smooths the bumps so the underlying trend shows through. It's the
+difference between watching a shaky handheld camera and a smooth steadicam shot.
+The trend is what you want to see; the moving average reveals it.
+
+## A curiosity: the "January effect" that isn't
+
+A manager sees January sales down 30% and calls an emergency meeting. But January
+is *always* down after December's holiday rush. Without comparing to last January,
+the drop is meaningless — it's the season, not a problem. This is why analysts
+compare **year-over-year** (this January vs last January) rather than
+**month-over-month** (January vs December). The right comparison turns a false
+alarm into a non-event.
+
+---
+
+## What you'll carry from this chapter
+
+- Time turns a snapshot into a story.
+- Break dates into year/month/day to group and trend.
+- Seasonality means things repeat — don't panic at the expected dip.
+- Compare year-over-year, not just month-over-month.
+- Moving averages smooth the noise to reveal the trend.
+
+Next: how do you know a difference is real and not just luck? A gentle tour of
+testing and chance.

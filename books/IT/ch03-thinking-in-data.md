@@ -1,1 +1,104 @@
-IyBQZW5zYXJlIGluIHRlcm1pbmkgZGkgZGF0aQoKQyfDqCB1biBtb2RvIGRpIHBlbnNhcmUgY2hlIHNlcGFyYSB1biBidW9uIGFuYWxpc3RhIGRhIHVuYSBwZXJzb25hIGNoZSBzaSBsaW1pdGEgYQpmYXJlIGdyYWZpY2kuIE5vbiDDqCBsYSBtYXRlbWF0aWNhLiDDiCBsJ2FiaXR1ZGluZSBkaSBjaGllZGVyZTogKiJDb21lIGZhY2NpbyBhCnNhcGVybG8/IEUgcmlzcGV0dG8gYSBjb3NhPyIqIENvc3RydWlhbW8gcXVlc3RhIGFiaXR1ZGluZS4KCiMjIExhIHJlZ29sYSBkJ29ybzogcmlzcGV0dG8gYSBjb3NhPwoKVW4gbnVtZXJvIGRhIHNvbG8gbm9uIHNpZ25pZmljYSBxdWFzaSBudWxsYS4gIkFiYmlhbW8gZmF0dG8gMS4wMDAgdmVuZGl0ZSBxdWVzdG8KbWVzZS4iIMOIIGJ1b25vPyBOb24gcHVvaSBkaXJsby4gRGV2aSBjb25mcm9udGFyZToKCi0gKipDb24gaWwgbWVzZSBzY29yc28qKiDigJQgc2lhbW8gY3Jlc2NpdXRpIG8gZGltaW51aXRpPwotICoqQ29uIGwnYW5ubyBzY29yc28qKiDigJQgw6ggbm9ybWFsZSBwZXIgbGEgc3RhZ2lvbmU/Ci0gKipDb24gbCdvYmlldHRpdm8qKiDigJQgYWJiaWFtbyByYWdnaXVudG8gaWwgdHJhZ3VhcmRvPwotICoqQ29uIHVuYSBjb3NhIHNpbWlsZSoqIOKAlCBxdWVzdG8gbmVnb3ppbyDDqCBtZWdsaW8gZGVnbGkgYWx0cmk/CgpOZWwgbW9tZW50byBpbiBjdWkgcXVhbGN1bm8gZGljZSB1biBudW1lcm8sIHVuIGFuYWxpc3RhIGFkZGVzdHJhdG8gY2hpZWRlCioicmlzcGV0dG8gYSBjb3NhPyIqLiBRdWVzdGEgc2luZ29sYSBkb21hbmRhIHVjY2lkZSBwacO5IGNhdHRpdmUgZGVjaXNpb25pIGRpCnF1YWxzaWFzaSBzb2Z0d2FyZSBtYWkgZXNpc3RpdG8uCgojIyBMYSB0cmFwcG9sYSBkZWkgZm9yaSBkaSBwcm9pZXR0aWxlIG1hbmNhbnRpCgpEdXJhbnRlIGxhIFNlY29uZGEgR3VlcnJhIE1vbmRpYWxlLCBsJ2VzZXJjaXRvIGFtZXJpY2FubyBzdHVkaWF2YSBxdWFsaSBwYXJ0aSBkZWkKYm9tYmFyZGllcmkgZGkgcml0b3JubyBhdmVzc2VybyBwacO5IGZvcmkgZGkgcHJvaWV0dGlsZSwgY29uIGwnaWRlYSBkaSBhZ2dpdW5nZXJlCmNvcmF6emF0dXJhIGzDrC4gVW4gc3RhdGlzdGljbyBkaSBub21lICoqQWJyYWhhbSBXYWxkKiogbGkgZmVybcOyLiBEaXNzZTogKnN0YXRlCmd1YXJkYW5kbyBzb2xvIGdsaSBhZXJlaSBjaGUgc29ubyB0b3JuYXRpLiBHbGkgYWVyZWkgY29scGl0aSBuZWkgcHVudGkgY3JpdGljaSwgbGEKY2FiaW5hIGRpIHBpbG90YWdnaW8sIGkgbW90b3JpLCBub24gc29ubyBtYWkgdG9ybmF0aSwgcXVpbmRpIGzDrCBub24gdmVkZXRlIGZvcmkuKgpMYSBjb3JhenphdHVyYSBhbmRhdmEgZXNhdHRhbWVudGUgZG92ZSBpIGZvcmkgKiptYW5jYXZhbm8qKi4KClF1ZXN0byBzaSBjaGlhbWEgKipiaWFzIGRpIHNvcHJhdnZpdmVuemEqKiwgZWQgw6ggb3Z1bnF1ZS4gU3R1ZGkgbGUgYXppZW5kZSBkaQpzdWNjZXNzbyBlIGNvcGkgcXVlbGxvIGNoZSBoYW5ubyBmYXR0bywgaWdub3JhbmRvIGkgZmFsbGltZW50aSBjaGUgaGFubm8gZmF0dG8gbGEKc3Rlc3NhIGNvc2EgZSBzb25vIG1vcnRpLiBHdWFyZGkgaSBjbGllbnRpIGNoZSBzb25vIHJpbWFzdGkgZSB0aSBwZXJkaSBwZXJjaMOpIGdsaQphbHRyaSBzZSBuZSBzb25vIGFuZGF0aS4gTGEgbGV6aW9uZTogY2hpZWRpIHNlbXByZSBjb3NhICpub24qIGMnw6ggbmVpIHR1b2kgZGF0aS4KCiMjIExlIHByb3ZlIHByaW1hIGRlbGxlIG9waW5pb25pCgpOZWxsYSBtYWdnaW9yIHBhcnRlIGRlbGxlIHJpdW5pb25pIHZpbmNlIGxhIHZvY2UgcGnDuSBmb3J0ZS4gSW4gdW4gdGVhbSBndWlkYXRvIGRhaQpkYXRpIHZpbmNlIGxhIHByb3ZhIG1pZ2xpb3JlLiBRdWVzdG8gbm9uIHNpZ25pZmljYSBjaGUgaSBudW1lcmkgc29zdGl0dWlzY2FubyBpbApnaXVkaXppbzogc2lnbmlmaWNhIGNoZSBsZSBvcGluaW9uaSB2ZW5nb25vIHZlcmlmaWNhdGUgY29udHJvIGkgZmF0dGkuICJIbyBsYQpzZW5zYXppb25lIGNoZSBpbCBudW92byBzaXRvIHdlYiBzaWEgbWlnbGlvcmUiIGRpdmVudGEgImlsIG51b3ZvIHNpdG8gY29udmVydGUgaWwKMywxJSBjb250cm8gaWwgMiw0JSwgZSBsYSBkaWZmZXJlbnphIMOoIHJlYWxlIi4gQWkgc2VudGltZW50aSBzaSBmYSB1biB0ZXN0LgoKIyMgS1BJOiBpIHBvY2hpIG51bWVyaSBjaGUgY29udGFubwoKVW4gKipLUEkqKiwgS2V5IFBlcmZvcm1hbmNlIEluZGljYXRvciwgw6ggdW4gbnVtZXJvIGNoZSBvc3NlcnZpIHBlcmNow6kgdGkgZGljZSBzZQpzdGFpIHZpbmNlbmRvLiBMJ2FydGUgc3RhIG5lbGxvIHNjZWdsaWVyZSBpICpwb2NoaSogY2hlIGNvbnRhbm8gZSBpZ25vcmFyZSBsZQpjZW50aW5haWEgY2hlIG5vbiBjb250YW5vLgoKVW4gYnVvbiBLUEkgw6g6Ci0gKipDaGlhcm8qKiDigJQgdHV0dGkgc29ubyBkJ2FjY29yZG8gc3UgY29zYSBzaWduaWZpY2EuCi0gKipNaXN1cmFiaWxlKiog4oCUIHB1b2kgZGF2dmVybyBjYWxjb2xhcmxvLgotICoqTGVnYXRvIGEgdW4gb2JpZXR0aXZvKiog4oCUIHNpIG11b3ZlIHF1YW5kbyBpbCBidXNpbmVzcyBzaSBtdW92ZS4KLSAqKkF6aW9uYWJpbGUqKiDigJQgc2Ugw6ggY2F0dGl2bywgcHVvaSBmYXJlIHF1YWxjb3NhLgoKVW4gY2F0dGl2byBLUEkgw6ggdW4gbnVtZXJvIGNoZSBzZW1icmEgaW1wcmVzc2lvbmFudGUgbWEgbm9uIGNhbWJpYSBudWxsYS4gTGUKdmFuaXR5IG1ldHJpYywgInZpc2l0ZSB0b3RhbGkgYWwgc2l0byBkYSBzZW1wcmUiLCBmYW5ubyBwaWFjZXJlIGUgbm9uIGRlY2lkb25vCm5pZW50ZS4KCiMjIE9iaWV0dGl2aSBjaGUgdmFsZSBsYSBwZW5hIGluc2VndWlyZTogbCdpZGVhIFNNQVJUCgpVbiBvYmlldHRpdm8gdmFnbyAoInZlbmRlcmUgZGkgcGnDuSIpIHByb2R1Y2UgdW4gbGF2b3JvIHZhZ28uIFVuIG9iaWV0dGl2byAqKlNNQVJUKioKZMOgIGFsbCdhbmFsaXN0YSBxdWFsY29zYSBkYSBtaXN1cmFyZToKCi0gKipTKipwZWNpZmljIOKAlCAiYXVtZW50YXJlIGxlIHZlbmRpdGUgb25saW5lIgotICoqTSoqZWFzdXJhYmxlIOKAlCAiZGVsIDEwJSIKLSAqKkEqKmNoaWV2YWJsZSDigJQgcmVhbGlzdGljbywgbm9uIHVuIGRlc2lkZXJpbwotICoqUioqZWxldmFudCDigJQgY29udGEgcGVyIGlsIGJ1c2luZXNzCi0gKipUKippbWUtYm91bmQg4oCUICJlbnRybyBsYSBmaW5lIGRlbCB0cmltZXN0cmUiCgpPcmEgbCdhbmFsaXN0YSBwdcOyIHJpc3BvbmRlcmU6IGNpIHNpYW1vPyBEaSBxdWFudG8/IFNpYW1vIGluIHRyYWlldHRvcmlhPyBVbiBidW9uCm9iaWV0dGl2byDDqCB1bmEgZG9tYW5kYSBjb24gdW5hIHNjYWRlbnphLgoKIyMgTGEgZGFzaGJvYXJkIMOoIHVuYSBjYWJpbmEgZGkgcGlsb3RhZ2dpbwoKUGVuc2EgYSB1bmEgZGFzaGJvYXJkIGNvbWUgYWxsYSBjYWJpbmEgZGkgcGlsb3RhZ2dpbyBkaSB1biBhZXJlby4gSWwgcGlsb3RhIG5vbgp2dW9sZSA1MDAgcXVhZHJhbnRpLiBWdW9sZSBpIHBvY2hpIGNoZSBnbGkgZGljb25vOiBhbHRpdHVkaW5lLCB2ZWxvY2l0w6AsCmNhcmJ1cmFudGUsIHJvdHRhLiBVbmEgYnVvbmEgZGFzaGJvYXJkIMOoIHVndWFsZTogcG9jaGkgbnVtZXJpIG9uZXN0aSwgdmlzaWJpbGkgYQpjb2xwbyBkJ29jY2hpbywgY2hlIHRpIGZhbm5vIGFnaXJlIHByaW1hIGNoZSBxdWFsY29zYSB2YWRhIHN0b3J0by4gU2UgdW5hCmRhc2hib2FyZCBoYSBiaXNvZ25vIGRpIHVuIG1hbnVhbGUgcGVyIGVzc2VyZSBsZXR0YSwgbm9uIMOoIHVuYSBkYXNoYm9hcmQ6IMOoIHVuCnJlcG9ydC4KCiMjIFVuYSBjdXJpb3NpdMOgOiBsYSBmcmVxdWVuemEgZGkgYmFzZQoKSW1tYWdpbmEgY2hlIHVuYSBtYWxhdHRpYSBjb2xwaXNjYSAxIHBlcnNvbmEgc3UgMS4wMDAuIFVuIHRlc3Qgw6ggYWNjdXJhdG8gYWwgOTklLgpUdSByaXN1bHRpIHBvc2l0aXZvLiBRdWFsIMOoIGxhIHByb2JhYmlsaXTDoCBjaGUgdHUgYWJiaWEgZGF2dmVybyBsYSBtYWxhdHRpYT8gTGEKbWFnZ2lvciBwYXJ0ZSBkaWNlIDk5JS4gTGEgcmlzcG9zdGEgdmVyYSDDqCBwacO5IHZpY2luYSBhbCAqKjklKiouIFBlcmNow6kgbGEgbWFsYXR0aWEKw6ggY29zw6wgcmFyYSwgaWwgcHVnbm8gZGkgZmFsc2kgcG9zaXRpdmkgcHJvdmVuaWVudGkgZGEgOTk5IHBlcnNvbmUgc2FuZSBlcXVpdmFsZQpjaXJjYSBhbGwndW5pY28gdmVybyBwb3NpdGl2by4gUXVlc3RhIMOoIGxhICoqZnJlcXVlbnphIGRpIGJhc2UqKiwgZSBpZ25vcmFybGEKaW5nYW5uYSBtZWRpY2ksIGF2dm9jYXRpIGUgYW1taW5pc3RyYXRvcmkgZGVsZWdhdGkgYWxsbyBzdGVzc28gbW9kby4gUGVuc2FyZSBpbgp0ZXJtaW5pIGRpIGRhdGkgc2lnbmlmaWNhIGNoaWVkZXJlIHNlbXByZTogKnF1YW50byDDqCBjb211bmUgcXVlc3RhIGNvc2EsIHRhbnRvIHBlcgpjb21pbmNpYXJlPyoKCi0tLQoKIyMgQ29zYSB0aSBwb3J0aSBhIGNhc2EgZGEgcXVlc3RvIGNhcGl0b2xvCgotIENoaWVkaSBzZW1wcmUgKiJyaXNwZXR0byBhIGNvc2E/IioKLSBGYWkgYXR0ZW56aW9uZSBhIGNpw7IgY2hlIG1hbmNhIChiaWFzIGRpIHNvcHJhdnZpdmVuemEpLgotIExhc2NpYSBjaGUgdmluY2FubyBsZSBwcm92ZSwgbm9uIGlsIHZvbHVtZSBkZWxsZSB2b2NpLgotIFNjZWdsaSBwb2NoaSBLUEkgYXppb25hYmlsaTsgZmlzc2Egb2JpZXR0aXZpIFNNQVJULgotIFVuYSBkYXNoYm9hcmQgw6ggdW5hIGNhYmluYSBkaSBwaWxvdGFnZ2lvLCBub24gdW4gYXJjaGl2aW8uCgpQcm9zc2ltbzogbGEgcGljY29sYSBxdWFudGl0w6AgZGkgc3RhdGlzdGljYSBjaGUgdGkgc2VydmUgZGF2dmVybywgZSBsJ3VuaWNvIGVycm9yZQpzdWxsYSBjb3JyZWxhemlvbmUgY2hlIGZyZWdhIHR1dHRpLgo=
+# Pensare in termini di dati
+
+C'è un modo di pensare che separa un buon analista da una persona che si limita a
+fare grafici. Non è la matematica. È l'abitudine di chiedere: *"Come faccio a
+saperlo? E rispetto a cosa?"* Costruiamo questa abitudine.
+
+## La regola d'oro: rispetto a cosa?
+
+Un numero da solo non significa quasi nulla. "Abbiamo fatto 1.000 vendite questo
+mese." È buono? Non puoi dirlo. Devi confrontare:
+
+- **Con il mese scorso** — siamo cresciuti o diminuiti?
+- **Con l'anno scorso** — è normale per la stagione?
+- **Con l'obiettivo** — abbiamo raggiunto il traguardo?
+- **Con una cosa simile** — questo negozio è meglio degli altri?
+
+Nel momento in cui qualcuno dice un numero, un analista addestrato chiede
+*"rispetto a cosa?"*. Questa singola domanda uccide più cattive decisioni di
+qualsiasi software mai esistito.
+
+## La trappola dei fori di proiettile mancanti
+
+Durante la Seconda Guerra Mondiale, l'esercito americano studiava quali parti dei
+bombardieri di ritorno avessero più fori di proiettile, con l'idea di aggiungere
+corazzatura lì. Un statistico di nome **Abraham Wald** li fermò. Disse: *state
+guardando solo gli aerei che sono tornati. Gli aerei colpiti nei punti critici, la
+cabina di pilotaggio, i motori, non sono mai tornati, quindi lì non vedete fori.*
+La corazzatura andava esattamente dove i fori **mancavano**.
+
+Questo si chiama **bias di sopravvivenza**, ed è ovunque. Studi le aziende di
+successo e copi quello che hanno fatto, ignorando i fallimenti che hanno fatto la
+stessa cosa e sono morti. Guardi i clienti che sono rimasti e ti perdi perché gli
+altri se ne sono andati. La lezione: chiedi sempre cosa *non* c'è nei tuoi dati.
+
+## Le prove prima delle opinioni
+
+Nella maggior parte delle riunioni vince la voce più forte. In un team guidato dai
+dati vince la prova migliore. Questo non significa che i numeri sostituiscano il
+giudizio: significa che le opinioni vengono verificate contro i fatti. "Ho la
+sensazione che il nuovo sito web sia migliore" diventa "il nuovo sito converte il
+3,1% contro il 2,4%, e la differenza è reale". Ai sentimenti si fa un test.
+
+## KPI: i pochi numeri che contano
+
+Un **KPI**, Key Performance Indicator, è un numero che osservi perché ti dice se
+stai vincendo. L'arte sta nello scegliere i *pochi* che contano e ignorare le
+centinaia che non contano.
+
+Un buon KPI è:
+- **Chiaro** — tutti sono d'accordo su cosa significa.
+- **Misurabile** — puoi davvero calcolarlo.
+- **Legato a un obiettivo** — si muove quando il business si muove.
+- **Azionabile** — se è cattivo, puoi fare qualcosa.
+
+Un cattivo KPI è un numero che sembra impressionante ma non cambia nulla. Le
+vanity metric, "visite totali al sito da sempre", fanno piacere e non decidono
+niente.
+
+## Obiettivi che vale la pena inseguire: l'idea SMART
+
+Un obiettivo vago ("vendere di più") produce un lavoro vago. Un obiettivo **SMART**
+dà all'analista qualcosa da misurare:
+
+- **S**pecific — "aumentare le vendite online"
+- **M**easurable — "del 10%"
+- **A**chievable — realistico, non un desiderio
+- **R**elevant — conta per il business
+- **T**ime-bound — "entro la fine del trimestre"
+
+Ora l'analista può rispondere: ci siamo? Di quanto? Siamo in traiettoria? Un buon
+obiettivo è una domanda con una scadenza.
+
+## La dashboard è una cabina di pilotaggio
+
+Pensa a una dashboard come alla cabina di pilotaggio di un aereo. Il pilota non
+vuole 500 quadranti. Vuole i pochi che gli dicono: altitudine, velocità,
+carburante, rotta. Una buona dashboard è uguale: pochi numeri onesti, visibili a
+colpo d'occhio, che ti fanno agire prima che qualcosa vada storto. Se una
+dashboard ha bisogno di un manuale per essere letta, non è una dashboard: è un
+report.
+
+## Una curiosità: la frequenza di base
+
+Immagina che una malattia colpisca 1 persona su 1.000. Un test è accurato al 99%.
+Tu risulti positivo. Qual è la probabilità che tu abbia davvero la malattia? La
+maggior parte dice 99%. La risposta vera è più vicina al **9%**. Perché la malattia
+è così rara, il pugno di falsi positivi provenienti da 999 persone sane equivale
+circa all'unico vero positivo. Questa è la **frequenza di base**, e ignorarla
+inganna medici, avvocati e amministratori delegati allo stesso modo. Pensare in
+termini di dati significa chiedere sempre: *quanto è comune questa cosa, tanto per
+cominciare?*
+
+---
+
+## Cosa ti porti a casa da questo capitolo
+
+- Chiedi sempre *"rispetto a cosa?"*
+- Fai attenzione a ciò che manca (bias di sopravvivenza).
+- Lascia che vincano le prove, non il volume delle voci.
+- Scegli pochi KPI azionabili; fissa obiettivi SMART.
+- Una dashboard è una cabina di pilotaggio, non un archivio.
+
+Prossimo: la piccola quantità di statistica che ti serve davvero, e l'unico errore
+sulla correlazione che frega tutti.

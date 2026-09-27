@@ -1,1 +1,52 @@
-IyBBbmhhbmcgQyDigJQgQ2hlY2tsaXN0ZSBmw7xyIERhc2hib2FyZHMKCkJldm9yIGR1IGVpbiBEYXNoYm9hcmQgYXVzbGllZmVyc3QsIGdlaCBkaWVzZSBMaXN0ZSBkdXJjaC4KCiMjIFp3ZWNrCgotIFsgXSBEYXMgRGFzaGJvYXJkIGJlYW50d29ydGV0IGVpbmUga2xhcmUgRnJhZ2UgKG9kZXIgZWluIFNldCB2b24gRnJhZ2VuKS4KLSBbIF0gRGFzIFB1Ymxpa3VtIGlzdCBiZWthbm50IChGw7xocnVuZywgQmV0cmllYiwgQW5hbHlzdCkuCi0gWyBdIERpZSBFbnRzY2hlaWR1bmcsIGRpZSBlcyBzdMO8dHp0LCBpc3QgYmVrYW5udC4KCiMjIExheW91dAoKLSBbIF0gRGllIHdpY2h0aWdzdGUgWmFobCBpc3QgZGllIGdyw7bDn3RlIHVuZCBvYmVuIGxpbmtzLgotIFsgXSBWZXJ3YW5kdGUgS2VubnphaGxlbiBzaXR6ZW4gYmVpZWluYW5kZXIuCi0gWyBdIE5pY2h0cyBrb25rdXJyaWVydCB1bSBBdWZtZXJrc2Fta2VpdC4KLSBbIF0gRXMgcGFzc3QgYXVmIGVpbmVuIEJpbGRzY2hpcm0gb2huZSBTY3JvbGxlbiAoZsO8ciBkaWUgSGF1cHRhbnNpY2h0KS4KCiMjIEtlbm56YWhsZW4KCi0gWyBdIEplZGVyIEtQSSBpc3QgZGVmaW5pZXJ0IHVuZCB2ZXJzdGFuZGVuLgotIFsgXSBEaWUgS1BJcyBzaW5kIGRpZSAqcmljaHRpZ2VuKiwgbmljaHQgbnVyIGRpZSBlaW5mYWNoZW4uCi0gWyBdIEVpbmhlaXRlbiB1bmQgRm9ybWF0ZSBzaW5kIGtsYXIgKOKCrCwgJSwgQW56YWhsZW4pLgotIFsgXSBKZWRlIFphaGwgbMOkc3N0IHNpY2ggenVyw7xjayB6dW0gTW9kZWxsIHZlcmZvbGdlbi4KCiMjIFZpc3VhbHMKCi0gWyBdIERlciBEaWFncmFtbXR5cCBwYXNzdCB6dSBkZW4gRGF0ZW4gKEJhbGtlbiB6dW0gVmVyZ2xlaWNoZW4sIExpbmllIGbDvHIgVHJlbmQKICAgICAgdXN3LikuCi0gWyBdIEtlaW5lIGlycmVmw7xocmVuZGUgQWNoc2UsIGtlaW4gaGVyYXVzZ2VwaWNrdGVzIEZlbnN0ZXIuCi0gWyBdIEZhcmJlbiBiZWRldXRlbiBldHdhcyAobmljaHQgRGVrb3JhdGlvbikuCi0gWyBdIExhYmVscyBzaW5kIGF1ZiBlaW5lbiBCbGljayBsZXNiYXIuCgojIyBJbnRlcmFrdGl2aXTDpHQKCi0gWyBdIEZpbHRlciBmdW5rdGlvbmllcmVuIHVuZCBlcmdlYmVuIFNpbm4uCi0gWyBdIERyaWxsLWRvd24gZ2VodCBkb3J0aGluLCB3byBkZXIgTnV0emVyIGVzIGVyd2FydGV0LgotIFsgXSBLcmV1emhlcnZvcmhlYnVuZyB2ZXJow6RsdCBzaWNoIGtvcnJla3QuCgojIyBWZXJ0cmF1ZW4KCi0gWyBdIERpZSBaYWhsZW4gc3RpbW1lbiBtaXQgZGVyIFF1ZWxsZSDDvGJlcmVpbi4KLSBbIF0gRGFzIE1vZGVsbCBoYXQgZGVuIEJlc3QtUHJhY3RpY2VzLUNoZWNrIGJlc3RhbmRlbi4KLSBbIF0gRGFzIERhc2hib2FyZCBpc3QgZG9rdW1lbnRpZXJ0ICh3YXMgamVkZXIgS1BJIGJlZGV1dGV0KS4KLSBbIF0gSmVtYW5kIGJlc2l0enQgZXMgdW5kIGjDpGx0IGVzIGZyaXNjaC4KCiMjIEVocmxpY2hrZWl0CgotIFsgXSBEaWUgR2VzY2hpY2h0ZSwgZGllIGRhcyBEYXNoYm9hcmQgZXJ6w6RobHQsIGlzdCBkaWUgZWhybGljaGUuCi0gWyBdIEVpbmUgaGFydGUgRnJhZ2UgenUgZWluZXIgWmFobCBsw6Rzc3Qgc2ljaCBvaG5lIFZlcmxlZ2VuaGVpdCBiZWFudHdvcnRlbi4KCkVpbiBndXRlcyBEYXNoYm9hcmQgaXN0IG5pY2h0IGRhcyBow7xic2NoZXN0ZS4gRXMgaXN0IGRhcywgZGVtIExldXRlIGdlbnVnCnZlcnRyYXVlbiwgdW0gZGFuYWNoIHp1IGhhbmRlbG4uIEJhdSB6dWVyc3QgYXVmIFZlcnRyYXVlbiwgZGFubiBhdWYgU2Now7ZuaGVpdC4K
+# Anhang C — Checkliste für Dashboards
+
+Bevor du ein Dashboard auslieferst, geh diese Liste durch.
+
+## Zweck
+
+- [ ] Das Dashboard beantwortet eine klare Frage (oder ein Set von Fragen).
+- [ ] Das Publikum ist bekannt (Führung, Betrieb, Analyst).
+- [ ] Die Entscheidung, die es stützt, ist bekannt.
+
+## Layout
+
+- [ ] Die wichtigste Zahl ist die größte und oben links.
+- [ ] Verwandte Kennzahlen sitzen beieinander.
+- [ ] Nichts konkurriert um Aufmerksamkeit.
+- [ ] Es passt auf einen Bildschirm ohne Scrollen (für die Hauptansicht).
+
+## Kennzahlen
+
+- [ ] Jeder KPI ist definiert und verstanden.
+- [ ] Die KPIs sind die *richtigen*, nicht nur die einfachen.
+- [ ] Einheiten und Formate sind klar (€, %, Anzahlen).
+- [ ] Jede Zahl lässt sich zurück zum Modell verfolgen.
+
+## Visuals
+
+- [ ] Der Diagrammtyp passt zu den Daten (Balken zum Vergleichen, Linie für Trend
+      usw.).
+- [ ] Keine irreführende Achse, kein herausgepicktes Fenster.
+- [ ] Farben bedeuten etwas (nicht Dekoration).
+- [ ] Labels sind auf einen Blick lesbar.
+
+## Interaktivität
+
+- [ ] Filter funktionieren und ergeben Sinn.
+- [ ] Drill-down geht dorthin, wo der Nutzer es erwartet.
+- [ ] Kreuzhervorhebung verhält sich korrekt.
+
+## Vertrauen
+
+- [ ] Die Zahlen stimmen mit der Quelle überein.
+- [ ] Das Modell hat den Best-Practices-Check bestanden.
+- [ ] Das Dashboard ist dokumentiert (was jeder KPI bedeutet).
+- [ ] Jemand besitzt es und hält es frisch.
+
+## Ehrlichkeit
+
+- [ ] Die Geschichte, die das Dashboard erzählt, ist die ehrliche.
+- [ ] Eine harte Frage zu einer Zahl lässt sich ohne Verlegenheit beantworten.
+
+Ein gutes Dashboard ist nicht das hübscheste. Es ist das, dem Leute genug
+vertrauen, um danach zu handeln. Bau zuerst auf Vertrauen, dann auf Schönheit.

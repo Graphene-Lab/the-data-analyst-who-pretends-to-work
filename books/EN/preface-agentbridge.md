@@ -1,1 +1,101 @@
-IyBBIE5vdGUgQWJvdXQgdGhlIFRvb2wgQmVoaW5kIFRoaXMgQm9vawoKVGhpcyBib29rIGlzIGFib3V0IGEgam9iOiB0aGUgZGF0YSBhbmFseXN0LiBJdCBpcyBhYm91dCB3aGF0IHRoYXQgam9iIHJlYWxseSBpcywKd2hlcmUgaXQgY2FtZSBmcm9tLCBhbmQgd2hlcmUgaXQgaXMgZ29pbmcuIEl0IHVzZXMgcGxhaW4gd29yZHMuIFlvdSBkbyBub3QgbmVlZCBhCmRlZ3JlZSBpbiBtYXRoZW1hdGljcyBvciBjb21wdXRlciBzY2llbmNlIHRvIGZvbGxvdyBpdC4gSWYgeW91IHJ1biBhIHNtYWxsCmJ1c2luZXNzLCBrZWVwIHlvdXIgb3duIG51bWJlcnMsIG9yIGp1c3QgbGlrZSB1bmRlcnN0YW5kaW5nIGhvdyB0aGluZ3Mgd29yaywgdGhpcwpib29rIGlzIGZvciB5b3UuCgpIZXJlIGlzIHRoZSBob25lc3QgcGFydC4gRXZlcnkgc2luZ2xlIGV4YW1wbGUgeW91IHdpbGwgc2VlIGluIHRoaXMgYm9vayDigJQgZXZlcnkKdGFibGUsIGV2ZXJ5IG1lYXN1cmUsIGV2ZXJ5IGNoYXJ0LCBldmVyeSAid2F0Y2ggdGhpcyIgbW9tZW50IOKAlCB3YXMgbWFkZSB3aXRoIGEKcmVhbCB0b29sLCBub3QgdHlwZWQgYnkgaGFuZC4gVGhhdCB0b29sIGlzICoqUG93ZXJCSVRvb2wqKiwgcnVubmluZyBpbnNpZGUKKipBZ2VudEJyaWRnZSoqLgoKIyMgV2hhdCBhcmUgQWdlbnRCcmlkZ2UgYW5kIFBvd2VyQklUb29sPwoKKipBZ2VudEJyaWRnZSoqIGlzIGFuIEFJIGFzc2lzdGFudCB0aGF0IHJ1bnMgb24geW91ciBvd24gY29tcHV0ZXIuIFlvdSB0YWxrIHRvIGl0CnRoZSB3YXkgeW91IHdvdWxkIHRhbGsgdG8gYSBjb2xsZWFndWU6IGluIG9yZGluYXJ5IHNlbnRlbmNlcy4gSXQgbGlzdGVucywgaXQKdGhpbmtzLCBhbmQgaXQgZG9lcyB0aGUgd29yay4KCioqUG93ZXJCSVRvb2wqKiBpcyBhIHBsdWdpbiB0aGF0IGdpdmVzIEFnZW50QnJpZGdlIGhhbmRzIGluc2lkZQoqKk1pY3Jvc29mdCBQb3dlciBCSSBEZXNrdG9wKiog4oCUIHRoZSBwb3B1bGFyIHByb2dyYW0gcGVvcGxlIHVzZSB0byBidWlsZCBkYXNoYm9hcmRzCmFuZCByZXBvcnRzLiBXaXRoIFBvd2VyQklUb29sLCB0aGUgYXNzaXN0YW50IGNhbiBvcGVuIHlvdXIgZGF0YSBtb2RlbCwgYWRkIHRhYmxlcywKY3JlYXRlIG1lYXN1cmVzLCBjb25uZWN0IHRhYmxlcyB0b2dldGhlciwgcnVuIHF1ZXJpZXMsIGNoZWNrIHlvdXIgd29yaywgYW5kIHRha2UgYQpzY3JlZW5zaG90IG9mIHdoYXQgaXQgbWFkZSDigJQgYWxsIHdoaWxlIHlvdSB3YXRjaCBpdCBoYXBwZW4gb24geW91ciBvd24gc2NyZWVuLgoKTm8gY2xvdWQuIE5vIHVwbG9hZGluZyB5b3VyIGNvbXBhbnkncyBkYXRhIHRvIGEgc3RyYW5nZXIncyBzZXJ2ZXIuIEl0IHdvcmtzIHdpdGgKdGhlIFBvd2VyIEJJIERlc2t0b3AgYWxyZWFkeSBvbiB5b3VyIG1hY2hpbmUuCgpgYGAKWW91ICDihpIgIEFnZW50QnJpZGdlICDihpIgIFBvd2VyQklUb29sICDihpIgIHlvdXIgUG93ZXIgQkkgRGVza3RvcCAob24geW91ciBQQykKYGBgCgojIyBIb3cgdG8gZ2V0IGl0IChpdCBpcyBmcmVlKQoKUG93ZXJCSVRvb2wgaXMgZnJlZSBhbmQgb3Blbi4gVG8gdHJ5IGl0IHlvdXJzZWxmOgoKMS4gSW5zdGFsbCAqKkFnZW50QnJpZGdlKiogKGZyZWUpIGZyb20gdGhlIEdpdEh1YiBwYWdlIGJlbG93LgoyLiBBZGQgdGhlICoqUG93ZXJCSVRvb2wqKiBwbHVnaW4gdG8gaXQuCjMuIE9wZW4gYSByZXBvcnQgaW4gKipQb3dlciBCSSBEZXNrdG9wKiouCjQuIFN0YXJ0IHRhbGtpbmcgdG8geW91ciBhc3Npc3RhbnQuCgpTY2FuIHRoaXMgY29kZSB3aXRoIHlvdXIgcGhvbmUgY2FtZXJhIHRvIG9wZW4gdGhlIFBvd2VyQklUb29sIHBhZ2UsIHdoZXJlIHlvdSB3aWxsCmZpbmQgdGhlIGRvd25sb2FkIGFuZCBzaW1wbGUsIHN0ZXAtYnktc3RlcCBpbnN0YWxsIGluc3RydWN0aW9uczoKCiFbUG93ZXJCSVRvb2wgb24gR2l0SHViXSguLi8uLi9hc3NldHMvcXItcG93ZXJiaXRvb2wtcmVwby5wbmcpCgoqKmdpdGh1Yi5jb20vR3JhcGhlbmUtTGFiL1Bvd2VyQklUb29sKioKCllvdSBjYW4gYWxzbyBqdXN0IHR5cGUgdGhhdCBhZGRyZXNzIGludG8gYSBicm93c2VyLgoKIyMgU3R1Y2s/IFJlYWwgcGVvcGxlIGFuc3dlciBpbiAyNCBob3VycyDigJQgZm9yIGZyZWUKCkhlcmUgaXMgc29tZXRoaW5nIHdlIGFyZSBwcm91ZCBvZi4gUG93ZXJCSVRvb2wgaXMgZnJlZSwgYW5kIHNvIGlzIHRoZSBoZWxwIHRoYXQKY29tZXMgd2l0aCBpdC4gSWYgc29tZXRoaW5nIGRvZXMgbm90IHdvcmssIG9yIHlvdSB3YW50IGEgZmVhdHVyZSwgb3IgeW91IHNpbXBseQpmb3VuZCBhIGJ1ZywgeW91IG9wZW4gYW4gKippc3N1ZSoqIG9uIHRoZSBzYW1lIEdpdEh1YiBwYWdlIGFuZCBvdXIgdGVjaG5pY2lhbnMKYW5zd2VyIOKAlCB1c3VhbGx5IHdpdGhpbiAqKjI0IGhvdXJzKiosIGFuZCB3aXRoIGEgcmVhbCBmaXgsIG5vdCBhIGNhbm5lZCByZXBseS4KClNjYW4gdGhpcyBjb2RlIHRvIHJlYWNoIHRoZSBpc3N1ZXMgcGFnZSBhbmQgc2VlIGhvdyBpdCB3b3JrczoKCiFbUmVwb3J0IGFuIGlzc3VlIHRvIFBvd2VyQklUb29sXSguLi8uLi9hc3NldHMvcXItcG93ZXJiaXRvb2wtaXNzdWVzLnBuZykKCioqZ2l0aHViLmNvbS9HcmFwaGVuZS1MYWIvUG93ZXJCSVRvb2wvaXNzdWVzKioKClRoYXQgaXMgdGhlIHdob2xlIHByb21pc2U6IGEgZnJlZSB0b29sLCBmcmVlIHN1cHBvcnQsIHJlYWwgaHVtYW5zLCBmYXN0IGFuc3dlcnMuCgojIyBIb3cgdG8gcmVhZCB0aGlzIGJvb2sKCllvdSBkbyBub3QgbmVlZCB0byBpbnN0YWxsIGFueXRoaW5nIHRvIGVuam95IHRoaXMgYm9vay4gUmVhZCBpdCBsaWtlIGEgc3RvcnkgaWYKeW91IGxpa2UuIEJ1dCBpZiB5b3Ugd2FudCB0byB0cnkgdGhpbmdzIGFzIHlvdSBnbyDigJQgYW5kIHdlIGhvcGUgeW91IHdpbGwg4oCUIGVhY2gKaGFuZHMtb24gZXhhbXBsZSBzaG93cyB0d28gdGhpbmdzOgoKLSAqKldoYXQgYSBwZXJzb24gdHlwZWQqKiB0byB0aGUgYXNzaXN0YW50IChvbmUgb3IgdHdvIG9yZGluYXJ5IHNlbnRlbmNlcykuCi0gKipXaGF0IGNhbWUgYmFjayoqICh0aGUgcmVhbCByZXN1bHQsIGZyb20gdGhlIHJlYWwgdG9vbCkuCgpUaGUgcGljdHVyZXMgaW4gdGhpcyBib29rIHNob3cgdGhhdCBleGNoYW5nZTogdGhlIHF1ZXN0aW9uIG9uIHRoZSByaWdodCwgdGhlCmFuc3dlciBmcm9tIFBvd2VyQklUb29sIG9uIHRoZSBsZWZ0LCBleGFjdGx5IGFzIGl0IGFwcGVhcnMgaW4gQWdlbnRCcmlkZ2UuCgojIyBBYm91dCB0aGUgaW1hZ2VzIGluIHRoaXMgYm9vawoKWW91IHdpbGwgc2VlIHR3byBraW5kcyBvZiBwaWN0dXJlcy4KCioqQ2hhdCBwYW5lbHMqKiBzaG93IHRoZSBleGNoYW5nZSBpdHNlbGY6IHdoYXQgYSBwZXJzb24gdHlwZWQsIGFuZCB0aGUgcmVhbCByZXN1bHQKUG93ZXJCSVRvb2wgcmV0dXJuZWQgZnJvbSB0aGUgbGl2ZSBtb2RlbC4KCioqQ2hhcnQgaW1hZ2VzKiogc2hvdyB0aGF0IHNhbWUgcmVhbCBkYXRhICp2aXN1YWxpc2VkKiDigJQgYmFyLCBsaW5lLCBhbmQgZG9udXQKY2hhcnRzIGRyYXduIGZyb20gdGhlIGFjdHVhbCBudW1iZXJzIHRoZSB0b29sIHJldHVybmVkIChzYWxlcyBieSBjYXRlZ29yeSwgdG9wCmN1c3RvbWVycywgdGhlIG1vbnRobHkgdHJlbmQsIGFuZCBzbyBvbikuIFRoZXkgYXJlIHJlbmRlcmVkIHZpc3VhbGlzYXRpb25zIG9mIHRoZQpyZWFsIGNhcHR1cmVkIG91dHB1dCwgc28geW91IGNhbiBzZWUgdGhlIGRhdGEgYXMgYSBwaWN0dXJlLCBub3Qgb25seSBhcyB0ZXh0LgoKT25lIGhvbmVzdCBub3RlIGFib3V0IFBvd2VyIEJJIERlc2t0b3AgaXRzZWxmLiBQb3dlciBCSSByZW5kZXJzIHRoaXMgc2FtZSBkYXRhIG9uCml0cyBvd24gcmVwb3J0IGNhbnZhcywgYW5kIHRoZSB0b29sIGNhbiBjYXB0dXJlIHRoYXQgY2FudmFzIGFzIGEgUE5HCihgQ2FwdHVyZVJlcG9ydFNjcmVlbnNob3RgLCBvdmVyIHRoZSBQb3dlciBCSSBEZXNrdG9wIEJyaWRnZSkuIFRoYXQgY2FwdHVyZSBuZWVkcyBhCnJlcG9ydCB3aXRoIHZpc3VhbHMgYWxyZWFkeSBidWlsdCBpbiB0aGUgUG93ZXIgQkkgRGVza3RvcCB3aW5kb3cuIFRoaXMgYm9vayB3YXMKcHJvZHVjZWQgaW4gYW4gZW52aXJvbm1lbnQgd2l0aG91dCBhIEdVSS1idWlsdCByZXBvcnQsIHNvIHRoZSBjaGFydCBpbWFnZXMgaGVyZSBhcmUKcmVuZGVyZWQgZnJvbSB0aGUgcmVhbCBkYXRhIHJhdGhlciB0aGFuIHNjcmVlbi1jYXB0dXJlZCBmcm9tIFBvd2VyIEJJLiBUaGUKcHJvY2VkdXJlIHRvIGNhcHR1cmUgYXV0aGVudGljIFBvd2VyIEJJIERlc2t0b3Agc2NyZWVuc2hvdHMgc2hpcHMgd2l0aCB0aGUgdG9vbCwKYW5kIHlvdSBjYW4gZHJvcCB0aG9zZSBjYXB0dXJlcyBzdHJhaWdodCBpbnRvIHRoZXNlIHNhbWUgc3BvdHMuCgpMZXQncyBiZWdpbiB3aXRoIHRoZSBqb2IgaXRzZWxmLgoKKuKAlCBHcmFwaGVuZSBMYWIqCg==
+# A Note About the Tool Behind This Book
+
+This book is about a job: the data analyst. It is about what that job really is,
+where it came from, and where it is going. It uses plain words. You do not need a
+degree in mathematics or computer science to follow it. If you run a small
+business, keep your own numbers, or just like understanding how things work, this
+book is for you.
+
+Here is the honest part. Every single example you will see in this book — every
+table, every measure, every chart, every "watch this" moment — was made with a
+real tool, not typed by hand. That tool is **PowerBITool**, running inside
+**AgentBridge**.
+
+## What are AgentBridge and PowerBITool?
+
+**AgentBridge** is an AI assistant that runs on your own computer. You talk to it
+the way you would talk to a colleague: in ordinary sentences. It listens, it
+thinks, and it does the work.
+
+**PowerBITool** is a plugin that gives AgentBridge hands inside
+**Microsoft Power BI Desktop** — the popular program people use to build dashboards
+and reports. With PowerBITool, the assistant can open your data model, add tables,
+create measures, connect tables together, run queries, check your work, and take a
+screenshot of what it made — all while you watch it happen on your own screen.
+
+No cloud. No uploading your company's data to a stranger's server. It works with
+the Power BI Desktop already on your machine.
+
+```
+You  →  AgentBridge  →  PowerBITool  →  your Power BI Desktop (on your PC)
+```
+
+## How to get it (it is free)
+
+PowerBITool is free and open. To try it yourself:
+
+1. Install **AgentBridge** (free) from the GitHub page below.
+2. Add the **PowerBITool** plugin to it.
+3. Open a report in **Power BI Desktop**.
+4. Start talking to your assistant.
+
+Scan this code with your phone camera to open the PowerBITool page, where you will
+find the download and simple, step-by-step install instructions:
+
+![PowerBITool on GitHub](../../assets/qr-powerbitool-repo.png)
+
+**github.com/Graphene-Lab/PowerBITool**
+
+You can also just type that address into a browser.
+
+## Stuck? Real people answer in 24 hours — for free
+
+Here is something we are proud of. PowerBITool is free, and so is the help that
+comes with it. If something does not work, or you want a feature, or you simply
+found a bug, you open an **issue** on the same GitHub page and our technicians
+answer — usually within **24 hours**, and with a real fix, not a canned reply.
+
+Scan this code to reach the issues page and see how it works:
+
+![Report an issue to PowerBITool](../../assets/qr-powerbitool-issues.png)
+
+**github.com/Graphene-Lab/PowerBITool/issues**
+
+That is the whole promise: a free tool, free support, real humans, fast answers.
+
+## How to read this book
+
+You do not need to install anything to enjoy this book. Read it like a story if
+you like. But if you want to try things as you go — and we hope you will — each
+hands-on example shows two things:
+
+- **What a person typed** to the assistant (one or two ordinary sentences).
+- **What came back** (the real result, from the real tool).
+
+The pictures in this book show that exchange: the question on the right, the
+answer from PowerBITool on the left, exactly as it appears in AgentBridge.
+
+## About the images in this book
+
+You will see two kinds of pictures.
+
+**Chat panels** show the exchange itself: what a person typed, and the real result
+PowerBITool returned from the live model.
+
+**Chart images** show that same real data *visualised* — bar, line, and donut
+charts drawn from the actual numbers the tool returned (sales by category, top
+customers, the monthly trend, and so on). They are rendered visualisations of the
+real captured output, so you can see the data as a picture, not only as text.
+
+One honest note about Power BI Desktop itself. Power BI renders this same data on
+its own report canvas, and the tool can capture that canvas as a PNG
+(`CaptureReportScreenshot`, over the Power BI Desktop Bridge). That capture needs a
+report with visuals already built in the Power BI Desktop window. This book was
+produced in an environment without a GUI-built report, so the chart images here are
+rendered from the real data rather than screen-captured from Power BI. The
+procedure to capture authentic Power BI Desktop screenshots ships with the tool,
+and you can drop those captures straight into these same spots.
+
+Let's begin with the job itself.
+
+*— Graphene Lab*

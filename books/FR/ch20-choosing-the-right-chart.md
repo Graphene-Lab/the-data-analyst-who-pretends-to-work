@@ -1,1 +1,89 @@
-IyAyMC4gQ2hvaXNpciBsZSBib24gZ3JhcGhpcXVlCgpVbiBncmFwaGlxdWUgbidlc3QgcGFzIHVuZSBkw6ljb3JhdGlvbi4gQydlc3QgdW4gb3V0aWwgcG91ciByZW5kcmUgdW5lIHbDqXJpdMOpIHZpc2libGUuIExlIGJvbiBncmFwaGlxdWUgZmFpdCDDqWNsYXRlciB1bmUgaWTDqWUgZW4gdW5lIHNlY29uZGUgOyBsZSBtYXV2YWlzIGxhIGNhY2hlIG91LCBwaXJlLCBtZW50LiBDZSBjaGFwaXRyZSBwYXJsZSBkZSBjaG9pc2lyIGxhIGJvbm5lIGltYWdlIHBvdXIgbGEgdsOpcml0w6kgcXVlIHZvdXMgdm91bGV6IG1vbnRyZXIuCgojIyBMYSByw6hnbGUgdW5pcXVlCgpJbCB5IGEgdW5lIHLDqGdsZSBxdWkgY291dnJlIHByZXNxdWUgdG91dCA6Cgo+ICoqQWRhcHRlIGxlIGdyYXBoaXF1ZSDDoCBsYSBxdWVzdGlvbiwgcGFzIMOgIGNlIHF1aSBhIGwnYWlyIGNvb2wuKioKCkNvbXBhcmVyIGRlcyBjYXTDqWdvcmllcyA/IERlcyBiYXJyZXMuIFVuZSDDqXZvbHV0aW9uIGRhbnMgbGUgdGVtcHMgPyBVbmUgbGlnbmUuIFVuZSBwYXJ0IGQndW4gdG91dCA/IFVuIGNhbWVtYmVydCAocGV0aXQpLiBVbmUgcmVsYXRpb24gZW50cmUgZGV1eCBub21icmVzID8gVW4gbnVhZ2UgZGUgcG9pbnRzLiBDaG9pc2lzc2V6IGxlIGdyYXBoaXF1ZSBxdWkgcsOpcG9uZCDDoCBsYSBxdWVzdGlvbiwgZXQgbGEgcsOpcG9uc2Ugc2UgbW9udHJlIHRvdXRlIHNldWxlLgoKIyMgQ29tcGFyZXIgZGVzIGNhdMOpZ29yaWVzIDogdXRpbGlzZSBkZXMgYmFycmVzCgpRdWFuZCB2b3VzIHZvdWxleiBjb21wYXJlciDCqyBjb21iaWVuIHBvdXIgY2hhcXVlIGNob3NlIMK7IOKAlCBsZXMgdmVudGVzIHBhciBjYXTDqWdvcmllLCBwYXIgcsOpZ2lvbiwgcGFyIHByb2R1aXQg4oCUIHV0aWxpc2V6IHVuICoqZ3JhcGhpcXVlIMOgIGJhcnJlcyoqIChvdSDDoCBjb2xvbm5lcykuIExlcyBiYXJyZXMgc29udCBmYWNpbGVzIMOgIGNsYXNzZXIgcG91ciBsJ8WTaWwuIEwnYXNzaXN0YW50IHBldXQgdm91cyBkb25uZXIgbGVzIGRvbm7DqWVzIGZhw6dvbm7DqWVzIGV4YWN0ZW1lbnQgcG91ciDDp2EgOgoKPiDCqyBEb25uZS1tb2kgbGVzIHZlbnRlcyBwYXIgY2F0w6lnb3JpZSBwb3VyIHVuIGdyYXBoaXF1ZSDDoCBiYXJyZXMuIMK7CgohW1ZlbnRlcyBwYXIgY2F0w6lnb3JpZSBwb3VyIHVuIGdyYXBoaXF1ZSDDoCBiYXJyZXNdKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9lMDYwLnBuZykKClRyb2lzIGNhdMOpZ29yaWVzLCBsZXVycyB0b3RhdXgsIHByw6p0cyDDoCBkZXZlbmlyIHVuIGdyYXBoaXF1ZSDDoCBiYXJyZXMuIEwnxZNpbCB2b2l0IGluc3RhbnRhbsOpbWVudCBGdXJuaXR1cmUgZW4gaGF1dCwgU3RhdGlvbmVyeSBlbiBiYXMuCgpFdCB2b2ljaSBjZXMgbcOqbWVzIGRvbm7DqWVzIHLDqWVsbGVzIHJlbmR1ZXMgZW4gZ3JhcGhpcXVlIDoKCiFbVmVudGVzIHBhciBjYXTDqWdvcmllIOKAlCBncmFwaGlxdWUgw6AgYmFycmVzXSguLi8uLi9hc3NldHMvZXhhbXBsZXMvY2hhcnQtY2F0ZWdvcnkucG5nKQoKPiDCqyBMZXMgdmVudGVzIHBhciByw6lnaW9uIHBvdXIgdW5lIGNhcnRlIG91IHVuIGdyYXBoaXF1ZSDDoCBjb2xvbm5lcy4gwrsKCiFbVmVudGVzIHBhciByw6lnaW9uXSguLi8uLi9hc3NldHMvZXhhbXBsZXMvZTA2MS5wbmcpCgpMZXMgdG90YXV4IHLDqWdpb25hdXgsIHByw6p0cyBwb3VyIHVuIGdyYXBoaXF1ZSDDoCBjb2xvbm5lcyBvdSB1bmUgY2FydGUuCgojIyBMJ8Opdm9sdXRpb24gZGFucyBsZSB0ZW1wcyA6IHV0aWxpc2UgdW5lIGxpZ25lCgpRdWFuZCBsYSBxdWVzdGlvbiBlc3QgwqsgY29tbWVudCDDp2EgYSBib3Vnw6kgZGFucyBsZSB0ZW1wcyA/IMK7LCB1biAqKmdyYXBoaXF1ZSBlbiBjb3VyYmVzKiogbW9udHJlIGxhIGZvcm1lIGRlIGxhIHRlbmRhbmNlIOKAlCBsZXMgbW9udMOpZXMsIGxlcyBjcmV1eCwgbGEgc2Fpc29uIOKAlCBtaWV1eCBxdWUgbidpbXBvcnRlIHF1ZWwgdGFibGVhdS4KCiFbVmVudGVzIHRvdGFsZXMgcGFyIG1vaXMg4oCUIGdyYXBoaXF1ZSBlbiBjb3VyYmVzXSguLi8uLi9hc3NldHMvZXhhbXBsZXMvY2hhcnQtbW9udGhseS5wbmcpCgpEb3V6ZSBtb2lzIGRlIHZlbnRlcyByw6llbGxlcywgdW5lIHNldWxlIGxpZ25lLiBPbiB2b2l0IGxlIHBpYyBkZSBtYXJzIGV0IGxlIGNyZXV4IGQnYXV0b21uZSBkJ3VuIGNvdXAgZCfFk2lsIOKAlCBsZSBnZW5yZSBkZSBzY2jDqW1hIHF1J3VuIHRhYmxlYXUgZGUgY2hpZmZyZXMgY2FjaGUuCgojIyBVbmUgcGFydCBkJ3VuIHRvdXQgOiB1dGlsaXNlIHVuIGNhbWVtYmVydCAoYXZlYyBwcsOpY2F1dGlvbikKClVuIGdyYXBoaXF1ZSBlbiBzZWN0ZXVycyAoY2FtZW1iZXJ0KSBtb250cmUgY29tbWVudCB1biB0b3RhbCBzZSBkw6ljb3VwZSBlbiBwYXJ0cy4gw4dhIG1hcmNoZSBhdmVjICoqdHJvaXMgb3UgcXVhdHJlIHBhcnRzKiouIMOHYSDDqWNob3VlIGxhbWVudGFibGVtZW50IGF2ZWMgZGl4LgoKPiDCqyBMYSBwYXJ0IHBhciBjYXTDqWdvcmllIHBvdXIgdW4gY2FtZW1iZXJ0LiDCuwoKIVtQYXJ0IHBhciBjYXTDqWdvcmllXSguLi8uLi9hc3NldHMvZXhhbXBsZXMvZTA4My5wbmcpCgpLaXRjaGVuLCBGdXJuaXR1cmUsIFN0YXRpb25lcnkgZW4gcGFydHMgZHUgdG91dCDigJQgdW4gY2FtZW1iZXJ0IG5ldC4gQWpvdXRleiB1bmUgZG91emFpbmUgZGUgY2F0w6lnb3JpZXMgZXQgbGUgbcOqbWUgZ3JhcGhpcXVlIGRldmllbnQgZGVzIGNvbmZldHRpcyBpbGxpc2libGVzLgoKTGEgbcOqbWUgcGFydCwgcmVuZHVlIGVuIGFubmVhdSBhdmVjIGxlcyB2YWxldXJzIGV0IGxlcyBwb3VyY2VudGFnZXMgOgoKIVtQYXJ0IHBhciBjYXTDqWdvcmllIOKAlCBncmFwaGlxdWUgZW4gYW5uZWF1XSguLi8uLi9hc3NldHMvZXhhbXBsZXMvY2hhcnQtc2hhcmUucG5nKQoKIyMgTGVzIGdyYXBoaXF1ZXMgw6Agw6l2aXRlcgoKLSAqKkxlcyBncmFwaGlxdWVzIDNEKiog4oCUIGlscyBkw6lmb3JtZW50IGxlcyBkb25uw6llcy4gVW4gY2FtZW1iZXJ0IDNEIGluY2xpbmUgbGVzIHBhcnRzIGV0IG1lbnQgc3VyIGxldXIgdGFpbGxlLiBKYW1haXMuCi0gKipMZXMgZ3JhcGhpcXVlcyDDoCBkb3VibGUgYXhlKiog4oCUIGRldXggYXhlcyB5IHBldXZlbnQgZmFpcmUgcGFyYcOudHJlIGxpw6llcyBkZXMgY2hvc2VzIHNhbnMgcmFwcG9ydC4gw4AgdXRpbGlzZXIgYXZlYyB1bmUgZXh0csOqbWUgcHJ1ZGVuY2UsIG91IHBhcyBkdSB0b3V0LgotICoqTGVzIGNhbWVtYmVydHMgw6Agbm9tYnJldXNlcyBwYXJ0cyoqIOKAlCBpbGxpc2libGVzLiBVdGlsaXNleiB1biBncmFwaGlxdWUgw6AgYmFycmVzIMOgIGxhIHBsYWNlLgotICoqTGVzIGF4ZXMgdHJvbnF1w6lzKiog4oCUIHVuIGdyYXBoaXF1ZSDDoCBiYXJyZXMgZG9udCBsJ2F4ZSBkw6ltYXJyZSDDoCA5MCAlIGF1IGxpZXUgZGUgMCBmYWl0IHBhcmHDrnRyZSDDqW5vcm1lIHVuZSBtaW51c2N1bGUgZGlmZsOpcmVuY2UuIEZhaXRlcyBkw6ltYXJyZXIgbCdheGUgw6AgesOpcm8sIHNhdWYgcmFpc29uIHPDqXJpZXVzZS4KCiMjIFVuZSBjdXJpb3NpdMOpIDogbGUgZ3JhcGhpcXVlIHF1aSBhIG1lbnRpIMOgIHVuZSBuYXRpb24KCkxvcnMgZGUgbCfDqWxlY3Rpb24gYW3DqXJpY2FpbmUgZGUgMjAxMiwgdW4gZ3JhcGhpcXVlIHRyw6hzIHBhcnRhZ8OpIG1vbnRyYWl0IGxlIHByw6lzaWRlbnQgT2JhbWEgZ2FnbmFudCDCqyA5OCAlIGRlcyB2b2l4IMK7IOKAlCBwYXJjZSBxdWUgYyfDqXRhaXQgdW5lIGNhcnRlIGRlcyB2aWN0b2lyZXMgcGFyICpjb210w6kqLCBldCBsZXMgY29tdMOpcyBydXJhdXggc29udCBpbW1lbnNlcyBlbiBzdXBlcmZpY2llIG1haXMgbWludXNjdWxlcyBlbiBwb3B1bGF0aW9uLiBMYSBjYXJ0ZSBtb250cmFpdCBkZXMgdGVycmVzLCBwYXMgZGVzIGdlbnMsIGV0IGEgw6lnYXLDqSBkZXMgbWlsbGlvbnMgZGUgcGVyc29ubmVzLiBMYSBsZcOnb24gOiB1biBncmFwaGlxdWUgcGV1dCDDqnRyZSB0ZWNobmlxdWVtZW50IGV4YWN0IGV0IGNvbXBsw6h0ZW1lbnQgdHJvbXBldXIuIExlIGpvYiBkZSBsJ2FuYWx5c3RlIGVzdCBkZSBjaG9pc2lyIGxhIHZ1ZSBxdWkgbW9udHJlIGxhICp2w6lyaXTDqSosIHBhcyBzZXVsZW1lbnQgKnVuZSogdsOpcml0w6kuCgojIyBMYSBjb3VsZXVyIGF2ZWMgaW50ZW50aW9uCgpMYSBjb3VsZXVyIGVzdCBwdWlzc2FudGUgZXQgZmFjaWxlbWVudCBnYXNwaWxsw6llIDoKCi0gVXRpbGlzZXogbGEgY291bGV1ciBwb3VyICoqbWV0dHJlIGVuIMOpdmlkZW5jZSoqLCBwYXMgcG91ciBkw6ljb3Jlci4KLSBSw6lzZXJ2ZXogbGUgcm91Z2UgcG91ciDCqyBtYXV2YWlzIC8gc291cyBsJ29iamVjdGlmIMK7LCBsZSB2ZXJ0IHBvdXIgwqsgYm9uIMK7IOKAlCBldCBuJ2FidXNleiBkZSBhdWN1biBkZXMgZGV1eC4KLSBDb25jZXZleiBwb3VyIGxlcyBsZWN0ZXVycyAqKmRhbHRvbmllbnMqKiA6IG5lIHZvdXMgZmlleiBwYXMgYXUgc2V1bCByb3VnZS92ZXJ0IDsgYWpvdXRleiBkZXMgw6l0aXF1ZXR0ZXMgb3UgZGVzIGZvcm1lcy4KLSBNb2lucyBkZSBjb3VsZXVycyA9IG1lc3NhZ2UgcGx1cyBjbGFpci4KCiMjIFVuIHRhYmxlYXUgZGUgYm9yZCBlc3QgdW5lIGhpc3RvaXJlLCBwYXMgdW5lIHBhbGV0dGUgZGUgcGVpbnRyZQoKQ2hhcXVlIHZpc3VlbGxlIGQndW5lIHBhZ2UgZG9pdCBtw6lyaXRlciBzYSBwbGFjZSBlbiBmYWlzYW50IGF2YW5jZXIgbCdoaXN0b2lyZS4gU2kgdW4gZ3JhcGhpcXVlIG4nYWlkZSBwYXMgbGUgbGVjdGV1ciDDoCBjb21wcmVuZHJlIG91IMOgIGTDqWNpZGVyLCBjb3VwZXotbGUuIFVuZSBwYWdlIG5ldHRlIGF2ZWMgdHJvaXMgYm9ucyBncmFwaGlxdWVzIGJhdCB1bmUgcGFnZSBzdXJjaGFyZ8OpZSBhdmVjIGRvdXplIGpvbGlzLgoKLS0tCgojIyBDZSBxdWUgdm91cyBnYXJkZXJleiBkZSBjZSBjaGFwaXRyZQoKLSBBZGFwdGUgbGUgZ3JhcGhpcXVlIMOgIGxhIHF1ZXN0aW9uLCBwYXMgw6AgY2UgcXVpIGEgbCdhaXIgY29vbC4KLSBEZXMgYmFycmVzIHBvdXIgY29tcGFyZXIgOyBkZXMgY291cmJlcyBwb3VyIGxlIHRlbXBzIDsgZGUgcGV0aXRzIGNhbWVtYmVydHMgcG91ciBsZXMgcGFydHMgZCd1biB0b3V0LgotIMOJdml0ZSBsYSAzRCwgbGVzIGFzdHVjZXMgw6AgZG91YmxlIGF4ZSwgbGVzIGNhbWVtYmVydHMgw6Agbm9tYnJldXNlcyBwYXJ0cyBldCBsZXMgYXhlcyB0cm9ucXXDqXMuCi0gVW4gZ3JhcGhpcXVlIHBldXQgw6p0cmUgZXhhY3QgZXQgcXVhbmQgbcOqbWUgdHJvbXBldXIg4oCUIGNob2lzaXMgbGEgdnVlIGhvbm7DqnRlLgotIFV0aWxpc2UgbGEgY291bGV1ciBwb3VyIG1ldHRyZSBlbiDDqXZpZGVuY2UsIGV0IGNvbsOnb2lzIHBvdXIgbGVzIGxlY3RldXJzIGRhbHRvbmllbnMuCgpTdWl0ZSA6IHRvdXQgYXNzZW1ibGVyIOKAlCBkZXMgcmFwcG9ydHMgZXQgZGVzIHRhYmxlYXV4IGRlIGJvcmQgcXVlIGxlcyBnZW5zIHV0aWxpc2VudCB2cmFpbWVudC4K
+# 20. Choisir le bon graphique
+
+Un graphique n'est pas une décoration. C'est un outil pour rendre une vérité visible. Le bon graphique fait éclater une idée en une seconde ; le mauvais la cache ou, pire, ment. Ce chapitre parle de choisir la bonne image pour la vérité que vous voulez montrer.
+
+## La règle unique
+
+Il y a une règle qui couvre presque tout :
+
+> **Adapte le graphique à la question, pas à ce qui a l'air cool.**
+
+Comparer des catégories ? Des barres. Une évolution dans le temps ? Une ligne. Une part d'un tout ? Un camembert (petit). Une relation entre deux nombres ? Un nuage de points. Choisissez le graphique qui répond à la question, et la réponse se montre toute seule.
+
+## Comparer des catégories : utilise des barres
+
+Quand vous voulez comparer « combien pour chaque chose » — les ventes par catégorie, par région, par produit — utilisez un **graphique à barres** (ou à colonnes). Les barres sont faciles à classer pour l'œil. L'assistant peut vous donner les données façonnées exactement pour ça :
+
+> « Donne-moi les ventes par catégorie pour un graphique à barres. »
+
+![Ventes par catégorie pour un graphique à barres](../../assets/examples/e060.png)
+
+Trois catégories, leurs totaux, prêts à devenir un graphique à barres. L'œil voit instantanément Furniture en haut, Stationery en bas.
+
+Et voici ces mêmes données réelles rendues en graphique :
+
+![Ventes par catégorie — graphique à barres](../../assets/examples/chart-category.png)
+
+> « Les ventes par région pour une carte ou un graphique à colonnes. »
+
+![Ventes par région](../../assets/examples/e061.png)
+
+Les totaux régionaux, prêts pour un graphique à colonnes ou une carte.
+
+## L'évolution dans le temps : utilise une ligne
+
+Quand la question est « comment ça a bougé dans le temps ? », un **graphique en courbes** montre la forme de la tendance — les montées, les creux, la saison — mieux que n'importe quel tableau.
+
+![Ventes totales par mois — graphique en courbes](../../assets/examples/chart-monthly.png)
+
+Douze mois de ventes réelles, une seule ligne. On voit le pic de mars et le creux d'automne d'un coup d'œil — le genre de schéma qu'un tableau de chiffres cache.
+
+## Une part d'un tout : utilise un camembert (avec précaution)
+
+Un graphique en secteurs (camembert) montre comment un total se découpe en parts. Ça marche avec **trois ou quatre parts**. Ça échoue lamentablement avec dix.
+
+> « La part par catégorie pour un camembert. »
+
+![Part par catégorie](../../assets/examples/e083.png)
+
+Kitchen, Furniture, Stationery en parts du tout — un camembert net. Ajoutez une douzaine de catégories et le même graphique devient des confettis illisibles.
+
+La même part, rendue en anneau avec les valeurs et les pourcentages :
+
+![Part par catégorie — graphique en anneau](../../assets/examples/chart-share.png)
+
+## Les graphiques à éviter
+
+- **Les graphiques 3D** — ils déforment les données. Un camembert 3D incline les parts et ment sur leur taille. Jamais.
+- **Les graphiques à double axe** — deux axes y peuvent faire paraître liées des choses sans rapport. À utiliser avec une extrême prudence, ou pas du tout.
+- **Les camemberts à nombreuses parts** — illisibles. Utilisez un graphique à barres à la place.
+- **Les axes tronqués** — un graphique à barres dont l'axe démarre à 90 % au lieu de 0 fait paraître énorme une minuscule différence. Faites démarrer l'axe à zéro, sauf raison sérieuse.
+
+## Une curiosité : le graphique qui a menti à une nation
+
+Lors de l'élection américaine de 2012, un graphique très partagé montrait le président Obama gagnant « 98 % des voix » — parce que c'était une carte des victoires par *comté*, et les comtés ruraux sont immenses en superficie mais minuscules en population. La carte montrait des terres, pas des gens, et a égaré des millions de personnes. La leçon : un graphique peut être techniquement exact et complètement trompeur. Le job de l'analyste est de choisir la vue qui montre la *vérité*, pas seulement *une* vérité.
+
+## La couleur avec intention
+
+La couleur est puissante et facilement gaspillée :
+
+- Utilisez la couleur pour **mettre en évidence**, pas pour décorer.
+- Réservez le rouge pour « mauvais / sous l'objectif », le vert pour « bon » — et n'abusez de aucun des deux.
+- Concevez pour les lecteurs **daltoniens** : ne vous fiez pas au seul rouge/vert ; ajoutez des étiquettes ou des formes.
+- Moins de couleurs = message plus clair.
+
+## Un tableau de bord est une histoire, pas une palette de peintre
+
+Chaque visuelle d'une page doit mériter sa place en faisant avancer l'histoire. Si un graphique n'aide pas le lecteur à comprendre ou à décider, coupez-le. Une page nette avec trois bons graphiques bat une page surchargée avec douze jolis.
+
+---
+
+## Ce que vous garderez de ce chapitre
+
+- Adapte le graphique à la question, pas à ce qui a l'air cool.
+- Des barres pour comparer ; des courbes pour le temps ; de petits camemberts pour les parts d'un tout.
+- Évite la 3D, les astuces à double axe, les camemberts à nombreuses parts et les axes tronqués.
+- Un graphique peut être exact et quand même trompeur — choisis la vue honnête.
+- Utilise la couleur pour mettre en évidence, et conçois pour les lecteurs daltoniens.
+
+Suite : tout assembler — des rapports et des tableaux de bord que les gens utilisent vraiment.

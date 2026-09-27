@@ -1,1 +1,110 @@
-IyAxNC4gVHJlbmRzLCBaZWl0IHVuZCBTYWlzb25hbGl0w6R0CgpFaW5lIFphaGwgaXN0IGVpbmUgTW9tZW50YXVmbmFobWUuIEbDvGdlIFplaXQgaGluenUsIHVuZCBzaWUgd2lyZCBlaW5lIEdlc2NoaWNodGUuCkVpbiBVbXNhdHogdm9uIDExLjAwMCDigqwgYmVkZXV0ZXQgd2VuaWcsIGJpcyBkdSB3ZWnDn3QsIG9iIGRhcyByYXVmIG9kZXIgcnVudGVyIGlzdCwKdW5kIG9iIGVzIGbDvHIgZGllc2UgSmFocmVzemVpdCBub3JtYWwgaXN0LiBaZWl0IGlzdCBkaWUgRGltZW5zaW9uLCBkaWUgYXVzIGVpbmVtCkZvdG8gZWluZW4gRmlsbSBtYWNodCwgdW5kIGZhc3QgamVkZSB3aWNodGlnZSBHZXNjaMOkZnRmcmFnZSBsZWJ0IGluIGloci4KCiMjIFdhcnVtIFplaXQgYmVzb25kZXJzIGlzdAoKWmVpdCBpc3QgZGllIGVpbmUgRGltZW5zaW9uLCBhbiBkZXIgZHUgbmljaHQgdm9yYmVpa29tbXN0LiBKZWRlciBWZXJrYXVmLCBqZWRlcgpLbGljaywgamVkZXIgRGF0ZW5zYXR6IHBhc3NpZXJ0ICp6dSogZWluZW0gTW9tZW50LiBVbmQgWmVpdCBoYXQgZWluZSBFaWdlbnNjaGFmdCwKZGllIGFuZGVyZSBEaW1lbnNpb25lbiBuaWNodCBoYWJlbjogKipEaW5nZSB3aWVkZXJob2xlbiBzaWNoLioqIEVpcyB2ZXJrYXVmdCBzaWNoCmltIFNvbW1lci4gRGVyIEVpbnplbGhhbmRlbCBzY2hpZcOfdCB6dSBXZWlobmFjaHRlbiBpbiBkaWUgSMO2aGUuIFN0ZXVlcnNvZnR3YXJlCmJyw7xsbHQgaW0gQXByaWwuIERpZXNlIFdpZWRlcmhvbHVuZyBpc3QgKipTYWlzb25hbGl0w6R0KiosIHVuZCBzaWUgenUgZXJrZW5uZW4sCmhpbmRlcnQgZGljaCBkYXJhbiwgw7xiZXIgZWluZW4g4oCeRWluYnJ1Y2giIGluIFBhbmlrIHp1IGdlcmF0ZW4sIGRlciBqZWRlbiBlaW56ZWxuZW4KSmFudWFyIHBhc3NpZXJ0LgoKIyMgRGFzIERhdHVtIGluIGJyYXVjaGJhcmUgU3TDvGNrZSBicmluZ2VuCgpSb2hlIERhdGVuIHNpbmQgdW5oYW5kbGljaC4gVW0gWmVpdCB6dSBhbmFseXNpZXJlbiwgYnJpY2hzdCBkdSBkYXMgRGF0dW0gaW4gU3TDvGNrZQrigJMgSmFociwgTW9uYXQsIFRhZyDigJMgYWxzIFNwYWx0ZW4sIG5hY2ggZGVuZW4gZHUgZ3J1cHBpZXJlbiBrYW5uc3Q6Cgo+IOKAnkbDvGdlIGVpbmUgWWVhci1TcGFsdGUgYXVzIGRlbSBEYXR1bSBoaW56dS4iCgohW1llYXItU3BhbHRlXSguLi8uLi9hc3NldHMvZXhhbXBsZXMvZTAzOS5wbmcpCgo+IOKAnkbDvGdlIGVpbmUgTW9udGgtU3BhbHRlIGF1cyBkZW0gRGF0dW0gaGluenUuIgoKIVtNb250aC1TcGFsdGVdKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9lMDQwLnBuZykKCkpldHp0IGthbm5zdCBkdSBuYWNoIEphaHIgb2RlciBNb25hdCBncnVwcGllcmVuIHVuZCBkaWUgRm9ybSBkZXIgWmVpdCBzZWhlbi4KCiMjIERpZSBKYWhyLWbDvHItSmFoci1TaWNodAoKPiDigJ5HZXNhbXR1bXNhdHogcHJvIEphaHIuIgoKIVtVbXNhdHogcHJvIEphaHJdKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9lMDQxLnBuZykKClp3ZWkgSmFocmUsIFNlaXRlIGFuIFNlaXRlLiBJc3QgMjAyNSBiZXNzZXIgYWxzIDIwMjQ/IERlciBWZXJnbGVpY2ggaXN0IGRpZSBnYW56ZQpTYWNoZSDigJMgZWluIGVpbnplbG5lcyBKYWhyIHNhZ3QgZGlyIG5pY2h0cywgYWJlciB6d2VpIEphaHJlIHNhZ2VuIGRpciBkaWUgUmljaHR1bmcuCgpEZXIgSmFoci1mw7xyLUphaHItVmVyZ2xlaWNoIGFscyBEaWFncmFtbToKCiFbVW1zYXR6IHBybyBKYWhyIOKAkyBCYWxrZW5kaWFncmFtbV0oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2NoYXJ0LXllYXJseS5wbmcpCgojIyBEZXIgTW9uYXRzdHJlbmQKCj4g4oCeR2VzYW10dW1zYXR6IHBybyBNb25hdC4iCgohW1Vtc2F0eiBwcm8gTW9uYXRdKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9lMDQyLnBuZykKClp3w7ZsZiBNb25hdGUgRGF0ZW4uIE1hbiBzaWVodCBkaWUgSMO2aGVuIHVuZCBUaWVmZW4g4oCTIGRpZSBnZXNjaMOkZnRpZ2VuIE1vbmF0ZSB1bmQKZGllIHJ1aGlnZW4uIERhcyBpc3QgZGllIHJvaGUgRm9ybSBkZXMgSGVyenNjaGxhZ3MgZGVpbmVzIEdlc2Now6RmdHMuCgpEZXIgbW9uYXRsaWNoZSBIZXJ6c2NobGFnIGFscyBMaW5pZSBnZXplaWNobmV0OgoKIVtVbXNhdHogcHJvIE1vbmF0IOKAkyBMaW5pZW5kaWFncmFtbV0oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2NoYXJ0LW1vbnRobHkucG5nKQoKIyMgRWluZW4gWmVpdHJhdW0gZmlsdGVybgoKPiDigJ5OdXIgVW1zYXR6IDIwMjUuIgoKIVtVbXNhdHogMjAyNV0oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2UwNDMucG5nKQoKPiDigJ5VbXNhdHogZsO8ciBkaWUgZXJzdGUgSmFocmVzaMOkbGZ0ZS4iCgohW0Vyc3RlIEphaHJlc2jDpGxmdGUgMjAyNV0oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2UwNzgucG5nKQoKRWluIGJlc3RpbW10ZXMgWmVpdGZlbnN0ZXIgenUgc2NobmVpZGVuLCBpc3QsIHdpZSBkdSDigJ5XaWUgbGllZiBsZXR6dGVzIFF1YXJ0YWw/IiBpbgplaW5lbSBTYXR6IGJlYW50d29ydGVzdC4KCiMjIERpZSBsYW5nc2FtZSBQaGFzZSBmaW5kZW4KCj4g4oCeTW9uYXQgbWl0IGRlbiB3ZW5pZ3N0ZW4gVmVya8OkdWZlbi4iCgohW01vbmF0IG1pdCB3ZW5pZ3N0ZW4gVmVya8OkdWZlbl0oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2UwOTEucG5nKQoKRGVuIGxhbmdzYW1zdGVuIE1vbmF0IHp1IGtlbm5lbiwgaXN0IHNvIG7DvHR6bGljaCB3aWUgZGVuIGdlc2Now6RmdGlnc3RlbiDigJMgZGFubgpwbGFuc3QgZHUgQWt0aW9uZW4sIGxlZ3N0IFdhcnR1bmdlbiBmZXN0IG9kZXIgc3RlbGxzdCBkaWNoIGF1ZiBlaW5lIHJ1aGlnZSBQaGFzZSBlaW4uCgojIyBHbGVpdGVuZGUgRHVyY2hzY2huaXR0ZTogZGVuIEzDpHJtIGdsw6R0dGVuCgpNb25hdHN6YWhsZW4gc2luZCBob2xwcmlnLiBFaW4gKipnbGVpdGVuZGVyIER1cmNoc2Nobml0dCoqIChzYWdlbiB3aXIsIGRlcgpEdXJjaHNjaG5pdHQgZGVyIGxldHp0ZW4gMyBNb25hdGUpIGdsw6R0dGV0IGRpZSBEZWxsZW4sIHNvZGFzcyBkZXIgenVncnVuZGUKbGllZ2VuZGUgVHJlbmQgZHVyY2hzY2hlaW50LiBEYXMgaXN0IGRlciBVbnRlcnNjaGllZCB6d2lzY2hlbiBlaW5lciB3YWNrZWxpZ2VuCkhhbmRrYW1lcmEgdW5kIGVpbmVyIGdlc2NobWVpZGlnZW4gU3RlYWRpY2FtLUVpbnN0ZWxsdW5nLiBEZXIgVHJlbmQgaXN0LCB3YXMgZHUKc2VoZW4gd2lsbHN0OyBkZXIgZ2xlaXRlbmRlIER1cmNoc2Nobml0dCBlbnRow7xsbHQgaWhuLgoKIyMgRWluZSBLdXJpb3NpdMOkdDogZGVyIOKAnkphbnVhci1FZmZla3QiLCBkZXIga2VpbmVyIGlzdAoKRWluIE1hbmFnZXIgc2llaHQgZGllIEphbnVhci1VbXPDpHR6ZSAzMCAlIGltIE1pbnVzIHVuZCBiZXJ1ZnQgZWluZSBLcmlzZW5zaXR6dW5nCmVpbi4gQWJlciBKYW51YXIgaXN0ICppbW1lciogcnVudGVyIG5hY2ggZGVtIERlemVtYmVyLVdlaWhuYWNodHN0cnViZWwuIE9obmUKVmVyZ2xlaWNoIG1pdCBkZW0gbGV0enRlbiBKYW51YXIgaXN0IGRlciBSw7xja2dhbmcgYmVkZXV0dW5nc2xvcyDigJMgZXMgaXN0IGRpZQpKYWhyZXN6ZWl0LCBrZWluIFByb2JsZW0uIERlc2hhbGIgdmVyZ2xlaWNoZW4gQW5hbHlzdGVuICoqSmFociBmw7xyIEphaHIqKiAoZGllc2VyCkphbnVhciBnZWdlbiBsZXR6dGVuIEphbnVhcikgc3RhdHQgKipNb25hdCBmw7xyIE1vbmF0KiogKEphbnVhciBnZWdlbiBEZXplbWJlcikuIERlcgpyaWNodGlnZSBWZXJnbGVpY2ggbWFjaHQgYXVzIGVpbmVtIGZhbHNjaGVuIEFsYXJtIGVpbiBOaWNodC1FcmVpZ25pcy4KCi0tLQoKIyMgV2FzIGR1IGF1cyBkaWVzZW0gS2FwaXRlbCBtaXRuaW1tc3QKCi0gWmVpdCBtYWNodCBhdXMgZWluZXIgTW9tZW50YXVmbmFobWUgZWluZSBHZXNjaGljaHRlLgotIEJyaWNoIERhdGVuIGluIEphaHIvTW9uYXQvVGFnIGF1ZiwgdW0genUgZ3J1cHBpZXJlbiB1bmQgVHJlbmRzIHp1IHNlaGVuLgotIFNhaXNvbmFsaXTDpHQgaGVpw590OiBEaW5nZSB3aWVkZXJob2xlbiBzaWNoIOKAkyBnZXJhdCBuaWNodCBiZWltIGVyd2FydGV0ZW4gRWluYnJ1Y2gKICBpbiBQYW5pay4KLSBWZXJnbGVpY2hlIEphaHIgZsO8ciBKYWhyLCBuaWNodCBudXIgTW9uYXQgZsO8ciBNb25hdC4KLSBHbGVpdGVuZGUgRHVyY2hzY2huaXR0ZSBnbMOkdHRlbiBkZW4gTMOkcm0sIHVtIGRlbiBUcmVuZCB6dSB6ZWlnZW4uCgpBbHMgTsOkY2hzdGVzOiBXb2hlciB3ZWnDn3QgZHUsIGRhc3MgZWluIFVudGVyc2NoaWVkIGVjaHQgaXN0IHVuZCBuaWNodCBudXIgR2zDvGNrPwpFaW5lIHNhbmZ0ZSBUb3VyIGR1cmNoIFRlc3RlbiB1bmQgWnVmYWxsLgo=
+# 14. Trends, Zeit und Saisonalität
+
+Eine Zahl ist eine Momentaufnahme. Füge Zeit hinzu, und sie wird eine Geschichte.
+Ein Umsatz von 11.000 € bedeutet wenig, bis du weißt, ob das rauf oder runter ist,
+und ob es für diese Jahreszeit normal ist. Zeit ist die Dimension, die aus einem
+Foto einen Film macht, und fast jede wichtige Geschäftfrage lebt in ihr.
+
+## Warum Zeit besonders ist
+
+Zeit ist die eine Dimension, an der du nicht vorbeikommst. Jeder Verkauf, jeder
+Klick, jeder Datensatz passiert *zu* einem Moment. Und Zeit hat eine Eigenschaft,
+die andere Dimensionen nicht haben: **Dinge wiederholen sich.** Eis verkauft sich
+im Sommer. Der Einzelhandel schießt zu Weihnachten in die Höhe. Steuersoftware
+brüllt im April. Diese Wiederholung ist **Saisonalität**, und sie zu erkennen,
+hindert dich daran, über einen „Einbruch" in Panik zu geraten, der jeden einzelnen
+Januar passiert.
+
+## Das Datum in brauchbare Stücke bringen
+
+Rohe Daten sind unhandlich. Um Zeit zu analysieren, brichst du das Datum in Stücke
+– Jahr, Monat, Tag – als Spalten, nach denen du gruppieren kannst:
+
+> „Füge eine Year-Spalte aus dem Datum hinzu."
+
+![Year-Spalte](../../assets/examples/e039.png)
+
+> „Füge eine Month-Spalte aus dem Datum hinzu."
+
+![Month-Spalte](../../assets/examples/e040.png)
+
+Jetzt kannst du nach Jahr oder Monat gruppieren und die Form der Zeit sehen.
+
+## Die Jahr-für-Jahr-Sicht
+
+> „Gesamtumsatz pro Jahr."
+
+![Umsatz pro Jahr](../../assets/examples/e041.png)
+
+Zwei Jahre, Seite an Seite. Ist 2025 besser als 2024? Der Vergleich ist die ganze
+Sache – ein einzelnes Jahr sagt dir nichts, aber zwei Jahre sagen dir die Richtung.
+
+Der Jahr-für-Jahr-Vergleich als Diagramm:
+
+![Umsatz pro Jahr – Balkendiagramm](../../assets/examples/chart-yearly.png)
+
+## Der Monatstrend
+
+> „Gesamtumsatz pro Monat."
+
+![Umsatz pro Monat](../../assets/examples/e042.png)
+
+Zwölf Monate Daten. Man sieht die Höhen und Tiefen – die geschäftigen Monate und
+die ruhigen. Das ist die rohe Form des Herzschlags deines Geschäfts.
+
+Der monatliche Herzschlag als Linie gezeichnet:
+
+![Umsatz pro Monat – Liniendiagramm](../../assets/examples/chart-monthly.png)
+
+## Einen Zeitraum filtern
+
+> „Nur Umsatz 2025."
+
+![Umsatz 2025](../../assets/examples/e043.png)
+
+> „Umsatz für die erste Jahreshälfte."
+
+![Erste Jahreshälfte 2025](../../assets/examples/e078.png)
+
+Ein bestimmtes Zeitfenster zu schneiden, ist, wie du „Wie lief letztes Quartal?" in
+einem Satz beantwortest.
+
+## Die langsame Phase finden
+
+> „Monat mit den wenigsten Verkäufen."
+
+![Monat mit wenigsten Verkäufen](../../assets/examples/e091.png)
+
+Den langsamsten Monat zu kennen, ist so nützlich wie den geschäftigsten – dann
+planst du Aktionen, legst Wartungen fest oder stellst dich auf eine ruhige Phase ein.
+
+## Gleitende Durchschnitte: den Lärm glätten
+
+Monatszahlen sind holprig. Ein **gleitender Durchschnitt** (sagen wir, der
+Durchschnitt der letzten 3 Monate) glättet die Dellen, sodass der zugrunde
+liegende Trend durchscheint. Das ist der Unterschied zwischen einer wackeligen
+Handkamera und einer geschmeidigen Steadicam-Einstellung. Der Trend ist, was du
+sehen willst; der gleitende Durchschnitt enthüllt ihn.
+
+## Eine Kuriosität: der „Januar-Effekt", der keiner ist
+
+Ein Manager sieht die Januar-Umsätze 30 % im Minus und beruft eine Krisensitzung
+ein. Aber Januar ist *immer* runter nach dem Dezember-Weihnachtstrubel. Ohne
+Vergleich mit dem letzten Januar ist der Rückgang bedeutungslos – es ist die
+Jahreszeit, kein Problem. Deshalb vergleichen Analysten **Jahr für Jahr** (dieser
+Januar gegen letzten Januar) statt **Monat für Monat** (Januar gegen Dezember). Der
+richtige Vergleich macht aus einem falschen Alarm ein Nicht-Ereignis.
+
+---
+
+## Was du aus diesem Kapitel mitnimmst
+
+- Zeit macht aus einer Momentaufnahme eine Geschichte.
+- Brich Daten in Jahr/Monat/Tag auf, um zu gruppieren und Trends zu sehen.
+- Saisonalität heißt: Dinge wiederholen sich – gerat nicht beim erwarteten Einbruch
+  in Panik.
+- Vergleiche Jahr für Jahr, nicht nur Monat für Monat.
+- Gleitende Durchschnitte glätten den Lärm, um den Trend zu zeigen.
+
+Als Nächstes: Woher weißt du, dass ein Unterschied echt ist und nicht nur Glück?
+Eine sanfte Tour durch Testen und Zufall.

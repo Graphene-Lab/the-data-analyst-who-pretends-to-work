@@ -1,1 +1,109 @@
-IyAyMS4gSW5mb3JtZXMgeSBwYW5lbGVzIHF1ZSBsYSBnZW50ZSByZWFsbWVudGUgdXNhCgpVbiBwYW5lbCBxdWUgbmFkaWUgYWJyZSBlcyB1biBmcmFjYXNvLCBwb3IgYm9uaXRvIHF1ZSBzZWEuIEVzdGUgY2Fww610dWxvIHRyYXRhIGRlCmNvbnN0cnVpciBpbmZvcm1lcyBxdWUgbGEgZ2VudGUgcmVhbG1lbnRlIG1pcmUsIGVuIGxvcyBxdWUgY29uZsOtZSB5IHNvYnJlIGxvcyBxdWUKYWN0w7plLCB5IGPDs21vIGVsIGFzaXN0ZW50ZSBwcmVwYXJhIGxvcyBuw7ptZXJvcyBxdWUgdmFuIGVuIGVsbG9zLgoKIyMgUGFuZWwgZnJlbnRlIGEgaW5mb3JtZTogbm8gc29uIGxvIG1pc21vCgotIFVuICoqcGFuZWwqKiBlcyB1bmEgc29sYSBww6FnaW5hIGRlIGxvcyBuw7ptZXJvcyBtw6FzIGltcG9ydGFudGVzLCBkaXNlw7FhZGEgcGFyYQogIGxlZXJzZSBkZSB1biB2aXN0YXpvLiBQaWVuc2E6IGVsIHZlbG9jw61tZXRybyB5IGVsIGluZGljYWRvciBkZSBjb21idXN0aWJsZSBkZSB1bgogIGNvY2hlLgotIFVuICoqaW5mb3JtZSoqIGVzIHVuYSBleHBsb3JhY2nDs24gbcOhcyBwcm9mdW5kYSwgZGUgdmFyaWFzIHDDoWdpbmFzLCBlbiBsYSBxdWUKICBwdWVkZXMgcHJvZnVuZGl6YXIuIFBpZW5zYTogZWwgbWFudWFsIGRlIHVzdWFyaW8gcXVlIGNvbnN1bHRhcyBjdWFuZG8gYWxnbyB2YSBtYWwuCgpBbWJvcyB0aWVuZW4gc3UgbHVnYXIuIEVsIHBhbmVsIHJlc3BvbmRlIMKrwr9jw7NtbyB2YW1vcyBhaG9yYSBtaXNtbz/CuzsgZWwgaW5mb3JtZQpyZXNwb25kZSDCq3ZheWFtb3MgYWwgZm9uZG8gZGVsIHBvcnF1w6nCuy4KCiMjIExhIGZpbGEgZGUgS1BJOiBsbyBhbHRvIGRlIHRvZG8gYnVlbiBwYW5lbAoKTGEgbWF5b3LDrWEgZGUgbG9zIGdyYW5kZXMgcGFuZWxlcyBhYnJlbiBjb24gdW5hIGZpbGEgZGUgbsO6bWVyb3MgZ3JhbmRlczogZWwgcHXDsWFkbwpkZSBLUEkgcXVlIG3DoXMgaW1wb3J0YW4uIEVsIGFzaXN0ZW50ZSBwdWVkZSBjb25zdHJ1aXIgZXNhIGZpbGEgZW4gdW5hIHNvbGEgcGV0aWNpw7NuOgoKPiDCq1VuIGNvbmp1bnRvIGRlIEtQSTogdmVudGFzIHRvdGFsZXMsIHBlZGlkb3MsIHBlZGlkbyBtZWRpby7CuwoKIVtDb25qdW50byBkZSBLUEldKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9lMDYyLnBuZykKClRyZXMgbsO6bWVyb3MsIGxpc3RvcyBwYXJhIHRyZXMgdGFyamV0YXMgS1BJIGEgbG8gYW5jaG8gZGUgYXJyaWJhLiBFc3RvIGVzIGxvIHByaW1lcm8KcXVlIGxlZSB1biBlamVjdXRpdm8gb2N1cGFkbywgYXPDrSBxdWUgZGViZW4gc2VyIGxvcyB0cmVzIG7Dum1lcm9zIGNvcnJlY3Rvcy4KCkxvcyBtaXNtb3MgS1BJLCBkaWJ1amFkb3MgY29tbyBncsOhZmljbyBkZSBjb21wYXJhY2nDs246CgohW0tQSSB0aXR1bGFyZXMg4oCUIGdyw6FmaWNvXSguLi8uLi9hc3NldHMvZXhhbXBsZXMvY2hhcnQta3BpLnBuZykKCj4gwqtVbmEgZmlsYSBkZSBLUEkgY29tcGFjdGEgcGFyYSBsbyBhbHRvIGRlIHVuIGluZm9ybWUuwrsKCiFbRmlsYSBkZSBLUEkgY29tcGFjdGFdKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9lMDk4LnBuZykKCk1pc21hIGlkZWEsIHVuIGNvbmp1bnRvIGRpc3RpbnRvOiBzZWFuIGN1YWxlcyBzZWFuIHR1cyBtw6l0cmljYXMgZGUgbMOtbmVhIHN1cGVyaW9yLgoKIyMgRWwgbsO6bWVybyBncmFuZGUgw7puaWNvCgpBIHZlY2VzIHVuIHNvbG8gbsO6bWVybyBlcyB0b2RhIGxhIGhpc3RvcmlhOgoKPiDCq1VuIEtQSSBkZSBuw7ptZXJvIGdyYW5kZSDDum5pY28uwrsKCiFbS1BJIGRlIG7Dum1lcm8gZ3JhbmRlXSguLi8uLi9hc3NldHMvZXhhbXBsZXMvZTA4NC5wbmcpCgpVbmEgdGFyamV0YSBkZSBuw7ptZXJvIGdyYW5kZSBlcyBlbCBlcXVpdmFsZW50ZSBkZSBwYW5lbCBhIHVuIHRpdHVsYXIuIMOac2FsYSBwYXJhIGxhCsO6bmljYSBtw6l0cmljYSBxdWUgYSB0b2RvcyBsZXMgaW1wb3J0YS4KCiMjIExhIHRhYmxhIGRlIGNsYXNpZmljYWNpw7NuCgpBIGxhIGdlbnRlIGxlIGVuY2FudGEgdW5hIGNsYXNpZmljYWNpw7NuLiBVbmEgbGlzdGEgdG9wLU4gaW1wdWxzYSBsYSBhY2Npw7NuIHkgdW4gcG9jbwpkZSBzYW5hIGNvbXBldGVuY2lhOgoKPiDCq1RvcCBwcm9kdWN0b3MgcGFyYSB1biB2aXN1YWwgZGUgdGFibGEgZGUgY2xhc2lmaWNhY2nDs24uwrsKCiFbVGFibGEgZGUgY2xhc2lmaWNhY2nDs24gZGUgdG9wIHByb2R1Y3Rvc10oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2UwNjMucG5nKQoKVW5hIGxpc3RhIGNsYXNpZmljYWRhLCBsaXN0YSBwYXJhIHVuIHZpc3VhbCBkZSB0YWJsYSBkZSBjbGFzaWZpY2FjacOzbi4gRWwgZm9uZG8gZGUgbGEKbGlzdGEgZXMgZG9uZGUgZXN0w6FuIGxvcyBwcm9ibGVtYXM7IGxhIGNpbWEgZXMgZG9uZGUgcmVkb2JsYXIuCgpMYSB0YWJsYSBkZSBjbGFzaWZpY2FjacOzbiwgZGlidWphZGEgY29tbyBncsOhZmljbzoKCiFbVG9wIHByb2R1Y3RvcyDigJQgZ3LDoWZpY28gZGUgY2xhc2lmaWNhY2nDs25dKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9jaGFydC1wcm9kdWN0cy5wbmcpCgojIyBRdcOpIGhhY2UgcXVlIHVuIHBhbmVsIHNlYSB1c2FibGUKCi0gKipQb2NvcyBuw7ptZXJvcywgZ3JhbmRlcyB5IGNsYXJvcy4qKiBVbiB2aXN0YXpvIGRlYmVyw61hIGNvbnRhciBsYSBoaXN0b3JpYS4KLSAqKkxvcyBuw7ptZXJvcyBjb3JyZWN0b3MuKiogTG9zIHF1ZSBzZSBtdWV2ZW4gY29uIGVsIG5lZ29jaW8gKENhcMOtdHVsbyAxMSkuCi0gKipDb25zaXN0ZW50ZS4qKiBNaXNtYXMgbcOpdHJpY2FzLCBtaXNtb3MgY29sb3JlcywgbWlzbW8gZGlzZcOxbyBjYWRhIHZlejogcGFyYSBxdWUKICBsYSBnZW50ZSBhcHJlbmRhIGEgbGVlcmxvLgotICoqRW4gdml2by4qKiBBY3R1YWxpemFkbyBhdXRvbcOhdGljYW1lbnRlLCBwYXJhIHF1ZSBlc3TDqSBzaWVtcHJlIGFsIGTDrWEuCi0gKipIb25lc3RvLioqIFNpbiBlamVzIHRydW5jYWRvcywgc2luIG3DqXRyaWNhcyBkZSB2YW5pZGFkLgoKIyMgRWwgcHJpbmNpcGlvIGRlIHByb2Z1bmRpemFyCgpVbiBidWVuIHBhbmVsIG11ZXN0cmEgZWwgcmVzdW1lbiB5IHRlIGRlamEgKipwcm9mdW5kaXphcioqIGN1YW5kbyBuZWNlc2l0YXMgZGV0YWxsZS4KVmVzIMKrRWwgTm9ydGUgZXN0w6EgYWJham/CuyBlbiBlbCBwYW5lbCwgaGFjZXMgY2xpYywgeSBlbCBpbmZvcm1lIHRlIG11ZXN0cmEgcXXDqQp0aWVuZGFzLCBxdcOpIHByb2R1Y3RvcywgcXXDqSBkw61hcy4gUHJpbWVybyBlbCByZXN1bWVuLCBkZXRhbGxlIGJham8gZGVtYW5kYTogbnVuY2EKIGVudGllcnJlcyBhbCBsZWN0b3IgZW4gZGV0YWxsZSBkZSBlbnRyYWRhLgoKIyMgVW5hIGN1cmlvc2lkYWQ6IGxhIHJlZ2xhIGRlIGxhIGNhYmluYQoKTG9zIHBpbG90b3Mgbm8gcXVpZXJlbiBtw6FzIGluc3RydW1lbnRvczsgcXVpZXJlbiBsb3MgaW5zdHJ1bWVudG9zICpjb3JyZWN0b3MqIGVuIGVsCnNpdGlvICpjb3JyZWN0byouIExhIG1pc21hIHJlZ2xhIGdvYmllcm5hIGxvcyBwYW5lbGVzLiBVbiBmYW1vc28gcHJpbmNpcGlvIGRlIGRpc2XDsW8KZGljZSBxdWUgdW4gYnVlbiBwYW5lbCByZXNwb25kZSB0dSBwcmVndW50YSBtw6FzIGltcG9ydGFudGUgKipzaW4gcXVlIHRlbmdhcyBxdWUKcHJlZ3VudGFybGEqKjogZWwgbsO6bWVybyBxdWUgbmVjZXNpdGFzIHlhIGVzdMOhIGFow60sIGdyYW5kZSwgYWwgZMOtYSB5IGhvbmVzdG8uIFNpCnRpZW5lcyBxdWUgYnVzY2FyIG8gaGFjZXIgY2xpYyBwYXJhIGVuY29udHJhciBsYSBjb3NhIHF1ZSByZXZpc2FzIGNhZGEgbWHDsWFuYSwgZWwKcGFuZWwgbm8gZXN0w6EgdGVybWluYWRvLgoKIyMgRWwgcGFwZWwgZGVsIGFzaXN0ZW50ZSBlbiBlbCBwYW5lbAoKRWwgYXNpc3RlbnRlIGNvbnN0cnV5ZSBsb3MgKipuw7ptZXJvcyoqOiBsYXMgbWVkaWRhcyB5IEtQSSBxdWUgYWxpbWVudGFuIGNhZGEgdGFyamV0YQp5IGdyw6FmaWNvLiBUw7ogbG9zIGRpc3BvbmVzIGVuIGVsIGxpZW56by4gRXN0YSBkaXZpc2nDs24gZGVsIHRyYWJham8gZXMgZWwgcHVudG8gZHVsY2U6CmVsIGFzaXN0ZW50ZSBtYW5lamEgZWwgY8OhbGN1bG8geSBsYSBjb21wcm9iYWNpw7NuOyB0w7ogbWFuZWphcyBsYSBoaXN0b3JpYSB5IGVsIGRpc2XDsW8uCgotLS0KCiMjIExvIHF1ZSB0ZSBsbGV2YXLDoXMgZGUgZXN0ZSBjYXDDrXR1bG8KCi0gVW4gcGFuZWwgZXMgdW4gdmlzdGF6bzsgdW4gaW5mb3JtZSBlcyB1bmEgcHJvZnVuZGl6YWNpw7NuLgotIEFicmUgY29uIHVuYSBmaWxhIGRlIEtQSSBkZSBsb3MgcG9jb3MgbsO6bWVyb3MgcXVlIGltcG9ydGFuLgotIFVzYSB0YXJqZXRhcyBkZSBuw7ptZXJvIGdyYW5kZSB5IHRhYmxhcyBkZSBjbGFzaWZpY2FjacOzbiBwYXJhIGVuZm9jYXIuCi0gVXNhYmxlID0gcG9jb3MsIGNvcnJlY3RvcywgY29uc2lzdGVudGUsIGVuIHZpdm8sIGhvbmVzdG8uCi0gRWwgYXNpc3RlbnRlIGNvbnN0cnV5ZSBsb3MgbsO6bWVyb3M7IHTDuiBjb25zdHJ1eWVzIGxhIGhpc3RvcmlhLgoKTGEgUGFydGUgSVYgZXN0w6EgaGVjaGE6IHB1ZWRlcyBjb25lY3RhciwgbW9kZWxhciwgY2FsY3VsYXIgeSB2aXN1YWxpemFyLiBBaG9yYSBlbAphY3RvIGZpbmFsOiBsYSByZXZvbHVjacOzbiBhZ8OpbnRpY2EgcXVlIGxvIGF0YSB0b2RvLCB5IHR1IGx1Z2FyIGVuIGVsbGEuCg==
+# 21. Informes y paneles que la gente realmente usa
+
+Un panel que nadie abre es un fracaso, por bonito que sea. Este capítulo trata de
+construir informes que la gente realmente mire, en los que confíe y sobre los que
+actúe, y cómo el asistente prepara los números que van en ellos.
+
+## Panel frente a informe: no son lo mismo
+
+- Un **panel** es una sola página de los números más importantes, diseñada para
+  leerse de un vistazo. Piensa: el velocímetro y el indicador de combustible de un
+  coche.
+- Un **informe** es una exploración más profunda, de varias páginas, en la que
+  puedes profundizar. Piensa: el manual de usuario que consultas cuando algo va mal.
+
+Ambos tienen su lugar. El panel responde «¿cómo vamos ahora mismo?»; el informe
+responde «vayamos al fondo del porqué».
+
+## La fila de KPI: lo alto de todo buen panel
+
+La mayoría de los grandes paneles abren con una fila de números grandes: el puñado
+de KPI que más importan. El asistente puede construir esa fila en una sola petición:
+
+> «Un conjunto de KPI: ventas totales, pedidos, pedido medio.»
+
+![Conjunto de KPI](../../assets/examples/e062.png)
+
+Tres números, listos para tres tarjetas KPI a lo ancho de arriba. Esto es lo primero
+que lee un ejecutivo ocupado, así que deben ser los tres números correctos.
+
+Los mismos KPI, dibujados como gráfico de comparación:
+
+![KPI titulares — gráfico](../../assets/examples/chart-kpi.png)
+
+> «Una fila de KPI compacta para lo alto de un informe.»
+
+![Fila de KPI compacta](../../assets/examples/e098.png)
+
+Misma idea, un conjunto distinto: sean cuales sean tus métricas de línea superior.
+
+## El número grande único
+
+A veces un solo número es toda la historia:
+
+> «Un KPI de número grande único.»
+
+![KPI de número grande](../../assets/examples/e084.png)
+
+Una tarjeta de número grande es el equivalente de panel a un titular. Úsala para la
+única métrica que a todos les importa.
+
+## La tabla de clasificación
+
+A la gente le encanta una clasificación. Una lista top-N impulsa la acción y un poco
+de sana competencia:
+
+> «Top productos para un visual de tabla de clasificación.»
+
+![Tabla de clasificación de top productos](../../assets/examples/e063.png)
+
+Una lista clasificada, lista para un visual de tabla de clasificación. El fondo de la
+lista es donde están los problemas; la cima es donde redoblar.
+
+La tabla de clasificación, dibujada como gráfico:
+
+![Top productos — gráfico de clasificación](../../assets/examples/chart-products.png)
+
+## Qué hace que un panel sea usable
+
+- **Pocos números, grandes y claros.** Un vistazo debería contar la historia.
+- **Los números correctos.** Los que se mueven con el negocio (Capítulo 11).
+- **Consistente.** Mismas métricas, mismos colores, mismo diseño cada vez: para que
+  la gente aprenda a leerlo.
+- **En vivo.** Actualizado automáticamente, para que esté siempre al día.
+- **Honesto.** Sin ejes truncados, sin métricas de vanidad.
+
+## El principio de profundizar
+
+Un buen panel muestra el resumen y te deja **profundizar** cuando necesitas detalle.
+Ves «El Norte está abajo» en el panel, haces clic, y el informe te muestra qué
+tiendas, qué productos, qué días. Primero el resumen, detalle bajo demanda: nunca
+ entierres al lector en detalle de entrada.
+
+## Una curiosidad: la regla de la cabina
+
+Los pilotos no quieren más instrumentos; quieren los instrumentos *correctos* en el
+sitio *correcto*. La misma regla gobierna los paneles. Un famoso principio de diseño
+dice que un buen panel responde tu pregunta más importante **sin que tengas que
+preguntarla**: el número que necesitas ya está ahí, grande, al día y honesto. Si
+tienes que buscar o hacer clic para encontrar la cosa que revisas cada mañana, el
+panel no está terminado.
+
+## El papel del asistente en el panel
+
+El asistente construye los **números**: las medidas y KPI que alimentan cada tarjeta
+y gráfico. Tú los dispones en el lienzo. Esta división del trabajo es el punto dulce:
+el asistente maneja el cálculo y la comprobación; tú manejas la historia y el diseño.
+
+---
+
+## Lo que te llevarás de este capítulo
+
+- Un panel es un vistazo; un informe es una profundización.
+- Abre con una fila de KPI de los pocos números que importan.
+- Usa tarjetas de número grande y tablas de clasificación para enfocar.
+- Usable = pocos, correctos, consistente, en vivo, honesto.
+- El asistente construye los números; tú construyes la historia.
+
+La Parte IV está hecha: puedes conectar, modelar, calcular y visualizar. Ahora el
+acto final: la revolución agéntica que lo ata todo, y tu lugar en ella.

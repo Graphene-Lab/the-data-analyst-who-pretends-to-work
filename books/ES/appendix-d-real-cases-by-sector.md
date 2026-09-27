@@ -1,1 +1,68 @@
-IyBBcMOpbmRpY2UgRCDigJQgQ2Fzb3MgcmVhbGVzIHBvciBzZWN0b3IKCkPDs21vIGVsIG1pc21vIHBhdHLDs24gYWfDqW50aWNvOiBwcmVndW50YXIgZW4gbGVuZ3VhamUgbm9ybWFsLCBvYnRlbmVyIHVuIGNhbWJpbyByZWFsIGRlbAptb2RlbG86IGFwYXJlY2UgZW4gZGlzdGludG9zIHRpcG9zIGRlIG5lZ29jaW8uIENhZGEgY2FzbyBlcyB1bmEgcGVxdWXDsWEgaGlzdG9yaWEgZGUgdW5hCnByZWd1bnRhIHkgZGUgY8OzbW8gZWwgYXNpc3RlbnRlIGxhIHJlc3BvbmRlLgoKIyMgQ29tZXJjaW8gbWlub3Jpc3RhCgoqKkxhIHByZWd1bnRhOioqIMKrwr9RdcOpIHByb2R1Y3RvcyBzZSBlc3TDoW4gY29taWVuZG8gbnVlc3RybyBtYXJnZW4/wrsKKipMYSBwZXRpY2nDs246KiogY3JlYXIgdW5hIG1lZGlkYSBkZSBtYXJnZW4geSBjbGFzaWZpY2FyIGxvcyBwcm9kdWN0b3MgcG9yIGVsbGEuCioqRWwgcmVzdWx0YWRvOioqIHVuYSB0YWJsYSBkZSBjbGFzaWZpY2FjacOzbiBxdWUgbXVlc3RyYSBxdWUgdW5vcyBwb2NvcyBTS1UgY29uIG11Y2hvCmRlc2N1ZW50byBzZSB2ZW5kZW4gYmllbiBwZXJvIHBpZXJkZW4gZGluZXJvLiBFbCBjb21wcmFkb3IgcmVjb3J0YSBlbCBkZXNjdWVudG8gZW4gZWwKcGVvci4gRWwgbWFyZ2VuIHNlIHJlY3VwZXJhIGVuIHVuIHRyaW1lc3RyZS4KCioqTGEgcHJlZ3VudGE6KiogwqvCv1F1w6kgdGllbmRhcyBlc3TDoW4gcG9yIGRlYmFqbyBkZWwgcmVuZGltaWVudG8/wrsKKipMYSBwZXRpY2nDs246KiogdmVudGFzIHRvdGFsZXMgcG9yIHRpZW5kYSwgbHVlZ28gcG9yIHJlZ2nDs24uCioqRWwgcmVzdWx0YWRvOioqIGRvcyB0aWVuZGFzIHZhbiByZXphZ2FkYXMuIFVuYSB2aXNpdGEgZW5jdWVudHJhIHVuIHByb2JsZW1hIGRlCnF1aWVicmUgZGUgc3RvY2ssIG5vIGRlIGRlbWFuZGEuCgojIyBDb21lcmNpbyBlbGVjdHLDs25pY28KCioqTGEgcHJlZ3VudGE6KiogwqvCv1F1acOpbmVzIHNvbiBudWVzdHJvcyBjbGllbnRlcyBkZSBhbHRvIHZhbG9yP8K7CioqTGEgcGV0aWNpw7NuOioqIHVuYSBtZWRpZGEgZGUgbWFyY2EgZGUgYWx0byB2YWxvciBzb2JyZSB1biB1bWJyYWwgZGUgZ2FzdG8uCioqRWwgcmVzdWx0YWRvOioqIHVuIHNlZ21lbnRvIGRlbCA4JSBkZSBsb3MgY2xpZW50ZXMgcXVlIGltcHVsc2EgZWwgNDAlIGRlbCBpbmdyZXNvLgpVbmEgY2FtcGHDsWEgZGUgY29ycmVvIGRpcmlnaWRhIGVsZXZhIGxhcyByZWNvbXByYXMuCgoqKkxhIHByZWd1bnRhOioqIMKrwr9RdcOpIGNhdGVnb3LDrWEgY3JlY2UgbcOhcyByw6FwaWRvP8K7CioqTGEgcGV0aWNpw7NuOioqIHZlbnRhcyBwb3IgY2F0ZWdvcsOtYSBwb3IgbWVzLgoqKkVsIHJlc3VsdGFkbzoqKiB1bmEgY2F0ZWdvcsOtYSBzdWJlIG1pZW50cmFzIG90cmFzIHNlIGVzdGFuY2FuLiBNYXJrZXRpbmcgZGVzcGxhemEKcHJlc3VwdWVzdG8gcGFyYSBtb250YXIgbGEgdGVuZGVuY2lhLgoKIyMgRmFicmljYWNpw7NuCgoqKkxhIHByZWd1bnRhOioqIMKrwr9RdcOpIGzDrW5lYSB0aWVuZSBtw6FzIGRlZmVjdG9zP8K7CioqTGEgcGV0aWNpw7NuOioqIHJlY3VlbnRvIGRlIGRlZmVjdG9zIHBvciBsw61uZWEgZGUgcHJvZHVjY2nDs24sIGNsYXNpZmljYWRvLgoqKkVsIHJlc3VsdGFkbzoqKiB1bmEgbMOtbmVhIGRlc3RhY2EuIE1hbnRlbmltaWVudG8gZW5jdWVudHJhIHVuYSBwaWV6YSBkZXNnYXN0YWRhIGFudGVzCmRlIHF1ZSBmYWxsZS4KCioqTGEgcHJlZ3VudGE6KiogwqvCv0VzdGFtb3MgYWxjYW56YW5kbyBudWVzdHJvIG9iamV0aXZvIGRlIHByb2R1Y2Npw7NuP8K7CioqTGEgcGV0aWNpw7NuOioqIHJlYWwgY29udHJhIG9iamV0aXZvIGNvbW8gbWVkaWRhIGRlIHBvcmNlbnRhamUuCioqRWwgcmVzdWx0YWRvOioqIHVuYSB0YXJqZXRhIEtQSSBxdWUgc2UgcG9uZSByb2phIGN1YW5kbyBsYSBwcm9kdWNjacOzbiBzZSByZXNiYWxhLgoKIyMgRmluYW56YXMKCioqTGEgcHJlZ3VudGE6KiogwqvCv0TDs25kZSBzZSBjb25jZW50cmEgZWwgZ2FzdG8/wrsKKipMYSBwZXRpY2nDs246KiogZ2FzdG8gcG9yIGRlcGFydGFtZW50bywgcGFydGljaXBhY2nDs24gZGVsIHRvdGFsLgoqKkVsIHJlc3VsdGFkbzoqKiB1biBkZXBhcnRhbWVudG8gZXMgZWwgMzUlIGRlbCBnYXN0by4gU2lndWUgdW5hIHJldmlzacOzbiBkZQpwcmVzdXB1ZXN0by4KCioqTGEgcHJlZ3VudGE6KiogwqvCv1F1w6kgY3VlbnRhcyBlc3TDoW4gdmVuY2lkYXM/wrsKKipMYSBwZXRpY2nDs246KiogdW5hIG1hcmNhIHBhcmEgZmFjdHVyYXMgdmVuY2lkYXMuCioqRWwgcmVzdWx0YWRvOioqIHVuYSBsaXN0YSBkZSBjb2JybyBxdWUgbGliZXJhIGNhamEgbcOhcyByw6FwaWRvLgoKIyMgU2FuaWRhZAoKKipMYSBwcmVndW50YToqKiDCq8K/UXXDqSBwYWNpZW50ZXMgZXN0w6FuIGVuIHJpZXNnbyBkZSByZWluZ3Jlc28/wrsKKipMYSBwZXRpY2nDs246KiogdW5hIG1hcmNhIGRlIHJpZXNnbyBiYXNhZGEgZW4gdmlzaXRhcyBwcmV2aWFzLgoqKkVsIHJlc3VsdGFkbzoqKiB1bmEgbGlzdGEgZGUgc2VndWltaWVudG8gcGFyYSBlbCBlcXVpcG8gZGUgYXRlbmNpw7NuLgoKKipMYSBwcmVndW50YToqKiDCq8K/Q8OzbW8gZXZvbHVjaW9uYSBsYSBvY3VwYWNpw7NuIGRlIGNhbWFzP8K7CioqTGEgcGV0aWNpw7NuOioqIG9jdXBhY2nDs24gcG9yIHNlbWFuYS4KKipFbCByZXN1bHRhZG86KiogdW4gZ3LDoWZpY28gZGUgbMOtbmVhcyBxdWUgYXZpc2EgZGUgdW5hIGF2YWxhbmNoYSBxdWUgc2UgYWNlcmNhLgoKIyMgRWwgaGlsbyBjb23Dum4KClRvZG8gc2VjdG9yIGhhY2UgbGEgbWlzbWEgZm9ybWEgZGUgcHJlZ3VudGE6ICpjb21wYXJhciwgY2xhc2lmaWNhciwgbWFyY2FyLCB2ZXIKdGVuZGVuY2lhLiogRWwgYXNpc3RlbnRlIHJlc3BvbmRlIGEgZXNhIGZvcm1hIGFsIGluc3RhbnRlLCBzZWFuIGN1YWxlcyBzZWFuIGxvcyBkYXRvcy4KRWwgZG9taW5pbyBjYW1iaWE7IGVsIHBhdHLDs24gbm8uIFBvciBlc28gdW5hIHNvbGEgaGVycmFtaWVudGEgbGxlZ2EgdGFuIGxlam9zLgo=
+# Apéndice D — Casos reales por sector
+
+Cómo el mismo patrón agéntico: preguntar en lenguaje normal, obtener un cambio real del
+modelo: aparece en distintos tipos de negocio. Cada caso es una pequeña historia de una
+pregunta y de cómo el asistente la responde.
+
+## Comercio minorista
+
+**La pregunta:** «¿Qué productos se están comiendo nuestro margen?»
+**La petición:** crear una medida de margen y clasificar los productos por ella.
+**El resultado:** una tabla de clasificación que muestra que unos pocos SKU con mucho
+descuento se venden bien pero pierden dinero. El comprador recorta el descuento en el
+peor. El margen se recupera en un trimestre.
+
+**La pregunta:** «¿Qué tiendas están por debajo del rendimiento?»
+**La petición:** ventas totales por tienda, luego por región.
+**El resultado:** dos tiendas van rezagadas. Una visita encuentra un problema de
+quiebre de stock, no de demanda.
+
+## Comercio electrónico
+
+**La pregunta:** «¿Quiénes son nuestros clientes de alto valor?»
+**La petición:** una medida de marca de alto valor sobre un umbral de gasto.
+**El resultado:** un segmento del 8% de los clientes que impulsa el 40% del ingreso.
+Una campaña de correo dirigida eleva las recompras.
+
+**La pregunta:** «¿Qué categoría crece más rápido?»
+**La petición:** ventas por categoría por mes.
+**El resultado:** una categoría sube mientras otras se estancan. Marketing desplaza
+presupuesto para montar la tendencia.
+
+## Fabricación
+
+**La pregunta:** «¿Qué línea tiene más defectos?»
+**La petición:** recuento de defectos por línea de producción, clasificado.
+**El resultado:** una línea destaca. Mantenimiento encuentra una pieza desgastada antes
+de que falle.
+
+**La pregunta:** «¿Estamos alcanzando nuestro objetivo de producción?»
+**La petición:** real contra objetivo como medida de porcentaje.
+**El resultado:** una tarjeta KPI que se pone roja cuando la producción se resbala.
+
+## Finanzas
+
+**La pregunta:** «¿Dónde se concentra el gasto?»
+**La petición:** gasto por departamento, participación del total.
+**El resultado:** un departamento es el 35% del gasto. Sigue una revisión de
+presupuesto.
+
+**La pregunta:** «¿Qué cuentas están vencidas?»
+**La petición:** una marca para facturas vencidas.
+**El resultado:** una lista de cobro que libera caja más rápido.
+
+## Sanidad
+
+**La pregunta:** «¿Qué pacientes están en riesgo de reingreso?»
+**La petición:** una marca de riesgo basada en visitas previas.
+**El resultado:** una lista de seguimiento para el equipo de atención.
+
+**La pregunta:** «¿Cómo evoluciona la ocupación de camas?»
+**La petición:** ocupación por semana.
+**El resultado:** un gráfico de líneas que avisa de una avalancha que se acerca.
+
+## El hilo común
+
+Todo sector hace la misma forma de pregunta: *comparar, clasificar, marcar, ver
+tendencia.* El asistente responde a esa forma al instante, sean cuales sean los datos.
+El dominio cambia; el patrón no. Por eso una sola herramienta llega tan lejos.

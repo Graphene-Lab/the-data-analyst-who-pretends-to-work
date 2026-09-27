@@ -1,1 +1,86 @@
-IyBUaGUgRGF0YSBBbmFseXN0IFdobyBQcmV0ZW5kcyB0byBXb3JrCgojIyMgKlRoZSBCb29rIFlvdXIgQm9zcyBTaG91bGRuJ3QgS25vdyBFeGlzdHMqCgoqKkEgZnJlZSwgcGxhaW4tRW5nbGlzaCBib29rIGFib3V0IHdoYXQgYSBkYXRhIGFuYWx5c3QgcmVhbGx5IGRvZXMg4oCUIGFuZCBob3cgYW4gQUkgYXNzaXN0YW50IGNoYW5nZXMgdGhlIGpvYi4qKgoKWW91IGRvIG5vdCBuZWVkIGEgZGVncmVlIGluIG1hdGhlbWF0aWNzIG9yIGNvbXB1dGVyIHNjaWVuY2UgdG8gd29yayB3aXRoIGRhdGEuIFRoaXMgYm9vayBleHBsYWlucywgaW4gb3JkaW5hcnkgd29yZHMsIGhvdyB0byB0aGluayBpbiBkYXRhLCBjbGVhbiBpdCwgbW9kZWwgaXQsIG1lYXN1cmUgaXQsIGFuZCB0dXJuIGl0IGludG8gZGFzaGJvYXJkcyBwZW9wbGUgYWN0dWFsbHkgdXNlIOKAlCB3aXRoICoqTWljcm9zb2Z0IFBvd2VyIEJJKiogYW5kIGFuIEFJIGFzc2lzdGFudCAoKipBZ2VudEJyaWRnZSoqIGRyaXZpbmcgKipQb3dlckJJVG9vbCoqKS4gRXZlcnkgdGFibGUsIG1lYXN1cmUsIGFuZCBjaGFydCBpbiB0aGVzZSBwYWdlcyB3YXMgcHJvZHVjZWQgYnkgYSByZWFsIHRvb2wgd29ya2luZyBvbiBhIHJlYWwgUG93ZXIgQkkgRGVza3RvcCBtb2RlbDogcmVhbCBhY3Rpb25zLCByZWFsIG51bWJlcnMsIHJlYWwgY2hhcnRzLiBObyBtb2NrLXVwcywgbm8gaGFuZC10eXBlZCB0YWJsZXMuCgojIyBXaG8gdGhpcyBib29rIGlzIGZvcgoKLSAqKkFzcGlyaW5nIGRhdGEgYW5hbHlzdHMqKiBhbmQgY2FyZWVyIGNoYW5nZXJzIHdobyB3YW50IGEgY2xlYXIsIGhvbmVzdCBtYXAgb2YgdGhlIGpvYi4KLSAqKkJ1c2luZXNzIHVzZXJzIGFuZCBzbWFsbC1idXNpbmVzcyBvd25lcnMqKiB3aG8ga2VlcCB0aGVpciBvd24gbnVtYmVycyBhbmQgd2FudCB0aGVtIHRvIGZpbmFsbHkgbWFrZSBzZW5zZS4KLSAqKkV4Y2VsIHVzZXJzIGhpdHRpbmcgInRoZSB3YWxsIioqIOKAlCB0b28gbXVjaCBkYXRhLCB0b28gbWFueSBjcmFzaGVzIOKAlCByZWFkeSB0byBtb3ZlIHRvIFBvd2VyIEJJLgotICoqQW55b25lIGN1cmlvdXMqKiBhYm91dCBob3cgQUkgYXNzaXN0YW50cyBkbyByZWFsIGFuYWx5dGljYWwgd29yaywgbm90IGp1c3QgY2hhdC4KCiMjIFdoYXQgeW91IHdpbGwgbGVhcm4KCi0gSG93IHRvICoqdGhpbmsgaW4gZGF0YSoqIGFuZCB0dXJuIGZ1enp5IHF1ZXN0aW9ucyBpbnRvIG51bWJlcnMuCi0gKipTdGF0aXN0aWNzIHdpdGhvdXQgdGhlIHBhaW4qKiDigJQgdGhlIGZldyBpZGVhcyB0aGF0IGFjdHVhbGx5IG1hdHRlciBhdCB3b3JrLgotIEhvdyB0byBmaW5kLCBjbGVhbiwgYW5kIHRydXN0ICoqZGlydHkgZGF0YSoqLgotICoqRGF0YSBtb2RlbHMsIHRhYmxlcywgYW5kIHJlbGF0aW9uc2hpcHMqKiDigJQgYW5kIHdoeSB0aGUgc3RhciBzY2hlbWEgd2lucy4KLSBBc2tpbmcgcXVlc3Rpb25zIHdpdGggKipTUUwgYW5kIERBWCoqLCBpbiBwbGFpbiBFbmdsaXNoLgotIFRoZSAqKm1ldHJpY3MgdGhhdCBtYXR0ZXIqKiwgYW5kIHRoZSB2YW5pdHkgbnVtYmVycyB0byBpZ25vcmUuCi0gVGhlICoqZm91ciBraW5kcyBvZiBhbmFseXNpcyoqOiBkZXNjcmlwdGl2ZSwgZGlhZ25vc3RpYywgcHJlZGljdGl2ZSwgcHJlc2NyaXB0aXZlLgotICoqUG93ZXIgQkkgaW4gcGxhaW4gRW5nbGlzaCoqOiBjb25uZWN0aW5nLCBtb2RlbGxpbmcsIERBWCwgYW5kIGNob29zaW5nIHRoZSByaWdodCBjaGFydC4KLSBCdWlsZGluZyAqKnJlcG9ydHMgYW5kIGRhc2hib2FyZHMgcGVvcGxlIGFjdHVhbGx5IHVzZSoqLgotIFRoZSAqKkFJLWFzc2lzdGVkIGFuYWx5c3Qgd29ya2Zsb3cqKiDigJQgd2hhdCBBZ2VudEJyaWRnZSBhbmQgUG93ZXJCSVRvb2wgY2FuIGRvLCBhbmQgd2hhdCB0aGV5IGNhbm5vdC4KLSBZb3VyICoqY2FyZWVyKiogYXMgYSBkYXRhIGFuYWx5c3QgaW4gdGhlIGFnZSBvZiBBSS4KCiMjIFdoYXQgaXMgaW5zaWRlCgotICoqUGFydCBJIOKAlCBUaGUgQ3JhZnQgb2YgdGhlIERhdGEgQW5hbHlzdCoqIChjaGFwdGVycyAx4oCTNSkKLSAqKlBhcnQgSUkg4oCUIERhdGEsIFF1YWxpdHksIGFuZCBHZXR0aW5nIEl0IFJlYWR5KiogKGNoYXB0ZXJzIDbigJMxMCkKLSAqKlBhcnQgSUlJIOKAlCBBbmFseXNpcyBhbmQgTWV0cmljcyoqIChjaGFwdGVycyAxMeKAkzE1KQotICoqUGFydCBJViDigJQgUG93ZXIgQkkgYW5kIFNlZWluZyBZb3VyIERhdGEqKiAoY2hhcHRlcnMgMTbigJMyMSkKLSAqKlBhcnQgViDigJQgVGhlIEFnZW50aWMgUmV2b2x1dGlvbiBhbmQgWW91ciBDYXJlZXIqKiAoY2hhcHRlcnMgMjLigJMyNikKLSAqKkNvbmNsdXNpb24qKiwgcGx1cyAqKjggYXBwZW5kaWNlcyoqOiBhIGdsb3NzYXJ5IG9mIHRlcm1zLCBhIGRhdGEtcXVhbGl0eSBjaGVja2xpc3QsIGEgZGFzaGJvYXJkIGNoZWNrbGlzdCwgcmVhbCBjYXNlcyBieSBzZWN0b3IsIGd1aWRlZCBleGVyY2lzZXMgd2l0aCBmdWxsIHNvbHV0aW9ucywgYSBwb3J0Zm9saW8gcHJvamVjdCBtb2RlbCwgYW5kIGludGVydmlldyBGQVFzLgoKIyMgUmVhZCBvciBkb3dubG9hZAoKVGhlIGJ1aWx0IGJvb2sgbGl2ZXMgaW4gdGhlIFtgcHVibGlzaC9gXShwdWJsaXNoKSBmb2xkZXIuIFBpY2sgeW91ciBsYW5ndWFnZToKCnwgTGFuZ3VhZ2UgfCBSZWFkZXIgUERGIHwgRVBVQiB8IFByaW50IFBERiB8CnwtLS18LS0tfC0tLXwtLS18CnwgRW5nbGlzaCB8IFtkYXAtRU4ucGRmXShwdWJsaXNoL2RhcC1FTi5wZGYpIHwgW2RhcC1FTi5lcHViXShwdWJsaXNoL2RhcC1FTi5lcHViKSB8IFtkYXAtRU4tcHJpbnQucGRmXShwdWJsaXNoL3ByaW50L2RhcC1FTi1wcmludC5wZGYpIHwKfCBJdGFsaWFubyB8IFtkYXAtSVQucGRmXShwdWJsaXNoL2RhcC1JVC5wZGYpIHwgW2RhcC1JVC5lcHViXShwdWJsaXNoL2RhcC1JVC5lcHViKSB8IFtkYXAtSVQtcHJpbnQucGRmXShwdWJsaXNoL3ByaW50L2RhcC1JVC1wcmludC5wZGYpIHwKfCBGcmFuw6dhaXMgfCBbZGFwLUZSLnBkZl0ocHVibGlzaC9kYXAtRlIucGRmKSB8IFtkYXAtRlIuZXB1Yl0ocHVibGlzaC9kYXAtRlIuZXB1YikgfCBbZGFwLUZSLXByaW50LnBkZl0ocHVibGlzaC9wcmludC9kYXAtRlItcHJpbnQucGRmKSB8CnwgRXNwYcOxb2wgfCBbZGFwLUVTLnBkZl0ocHVibGlzaC9kYXAtRVMucGRmKSB8IFtkYXAtRVMuZXB1Yl0ocHVibGlzaC9kYXAtRVMuZXB1YikgfCBbZGFwLUVTLXByaW50LnBkZl0ocHVibGlzaC9wcmludC9kYXAtRVMtcHJpbnQucGRmKSB8CnwgRGV1dHNjaCB8IFtkYXAtREUucGRmXShwdWJsaXNoL2RhcC1ERS5wZGYpIHwgW2RhcC1ERS5lcHViXShwdWJsaXNoL2RhcC1ERS5lcHViKSB8IFtkYXAtREUtcHJpbnQucGRmXShwdWJsaXNoL3ByaW50L2RhcC1ERS1wcmludC5wZGYpIHwKfCDQoNGD0YHRgdC60LjQuSB8IFtkYXAtUlUucGRmXShwdWJsaXNoL2RhcC1SVS5wZGYpIHwgW2RhcC1SVS5lcHViXShwdWJsaXNoL2RhcC1SVS5lcHViKSB8IFtkYXAtUlUtcHJpbnQucGRmXShwdWJsaXNoL3ByaW50L2RhcC1SVS1wcmludC5wZGYpIHwKClN0b3JlIGNvdmVycyBhcmUgaW4gW2BwdWJsaXNoL3N0b3JlL2BdKHB1Ymxpc2gvc3RvcmUpLgoKIyMgVGhlIHRvb2wgYmVoaW5kIGV2ZXJ5IGV4YW1wbGUKCi0gKipBZ2VudEJyaWRnZSoqIOKAlCB0aGUgbG9jYWwsIHBsYWluLWxhbmd1YWdlIEFJIGFzc2lzdGFudCAodGhlIGJyYWluKS4KLSAqKlBvd2VyQklUb29sKiog4oCUIHRoZSBmcmVlLCBvcGVuLXNvdXJjZSBwbHVnaW4gdGhhdCBvcGVyYXRlcyBNaWNyb3NvZnQgUG93ZXIgQkkgRGVza3RvcCAodGhlIGhhbmRzKS4KCkV2ZXJ5IGV4YW1wbGUgd2FzIG1hZGUgYnkgdGFsa2luZyB0byB0aGUgYXNzaXN0YW50IGluIG9yZGluYXJ5IHNlbnRlbmNlcyB3aGlsZSBpdCB3b3JrZWQgaW5zaWRlIFBvd2VyIEJJIERlc2t0b3Ag4oCUIG9uIGEgcmVhbCBQQywgd2l0aCBubyBjbG91ZCB1cGxvYWQgb2YgeW91ciBkYXRhLgoKKipHZXQgUG93ZXJCSVRvb2wgKGZyZWUpOioqIGh0dHBzOi8vZ2l0aHViLmNvbS9HcmFwaGVuZS1MYWIvUG93ZXJCSVRvb2wKCioqU3R1Y2s/IE9wZW4gYW4gaXNzdWUqKiDigJQgYSByZWFsIHRlY2huaWNpYW4gYW5zd2VycyB3aXRoaW4gYWJvdXQgMjQgaG91cnMgd2l0aCBhIHJlYWwgZml4LCBmcmVlOiBodHRwczovL2dpdGh1Yi5jb20vR3JhcGhlbmUtTGFiL1Bvd2VyQklUb29sL2lzc3VlcwoKIyMgQXZhaWxhYmxlIGxhbmd1YWdlcwoKRW5nbGlzaCDCtyBJdGFsaWFubyDCtyBGcmFuw6dhaXMgwrcgRXNwYcOxb2wgwrcgRGV1dHNjaCDCtyDQoNGD0YHRgdC60LjQuS4gVGhlIG1hbnVzY3JpcHQgaXMgYXV0aG9yZWQgaW4gRW5nbGlzaCBhbmQgdHJhbnNsYXRlZCBpbnRvIHRoZSBvdGhlciBmaXZlOyB0aGUgY2hhcnQgaW1hZ2VzIGFyZSBzaGFyZWQgYWNyb3NzIGFsbCBlZGl0aW9ucy4KCiMjIFJlcG9zaXRvcnkgbGF5b3V0CgotIGBib29rLmpzb25gIOKAlCBib29rIG1ldGFkYXRhICh0aXRsZSwgYXV0aG9yLCBsYW5ndWFnZXMsIGNvdmVyKS4KLSBgYm9va3MvPExBTkc+L2Ag4oCUIHRoZSBtYW51c2NyaXB0IGZvciBlYWNoIGxhbmd1YWdlIChwcmVmYWNlLCAyNiBjaGFwdGVycywgY29uY2x1c2lvbiwgOCBhcHBlbmRpY2VzKS4gVGhlIGBSRUFETUUubWRgIGluc2lkZSBlYWNoIGZvbGRlciBpcyB0aGUgdGFibGUtb2YtY29udGVudHMgb3JkZXIuCi0gYGFzc2V0cy9gIOKAlCB0aGUgY292ZXIsIHRoZSBRUiBjb2RlcywgYW5kIHRoZSBjaGFydCBwYW5lbHMgcmVuZGVyZWQgZnJvbSByZWFsIHRvb2wgb3V0cHV0LgotIGB0b29scy9gIOKAlCB0aGUgY2hhcnQgZ2VuZXJhdG9yIChgY2hhcnRnZW5gLCBBcGFjaGUgRUNoYXJ0cykgYW5kIHRoZSBHaXRIdWIgcHVzaGVyIChgZ2hwdXNoYCkuCi0gYHB1Ymxpc2gvYCDigJQgdGhlIGJ1aWx0IHJlYWRlciBQREYsIEVQVUIsIHByaW50IFBERiwgYW5kIHN0b3JlIGNvdmVyLCBwZXIgbGFuZ3VhZ2UuCgojIyBSZWJ1aWxkaW5nIHRoZSBib29rCgpCdWlsdCB3aXRoIFtEaXN0cm9Cb29rXShodHRwczovL2dpdGh1Yi5jb20vR3JhcGhlbmUtTGFiKToKCmBgYApkb3RuZXQgcnVuIC0tcHJvamVjdCA8RGlzdHJvQm9vaz4vc3JjL0Rpc3Ryb0Jvb2suQ2xpIC1jIFJlbGVhc2UgLS0gXAogIHByZXBhcmUgLS1ib29rICI8dGhpcyBmb2xkZXI+IiAtLWxhbmdzIEVOLElULEZSLEVTLERFLFJVIC0tZm9yY2UKYGBgCgpUaGlzIHByb2R1Y2VzLCBmb3IgZWFjaCBsYW5ndWFnZSwgYHB1Ymxpc2gvc3RvcmUvY292ZXItPExBTkc+LnBuZ2AsIGBwdWJsaXNoL2RhcC08TEFORz4ucGRmYCwgYHB1Ymxpc2gvZGFwLTxMQU5HPi5lcHViYCwgYW5kIGBwdWJsaXNoL3ByaW50L2RhcC08TEFORz4tcHJpbnQucGRmYC4K
+# The Data Analyst Who Pretends to Work
+
+### *The Book Your Boss Shouldn't Know Exists*
+
+**A free, plain-English book about what a data analyst really does — and how an AI assistant changes the job.**
+
+You do not need a degree in mathematics or computer science to work with data. This book explains, in ordinary words, how to think in data, clean it, model it, measure it, and turn it into dashboards people actually use — with **Microsoft Power BI** and an AI assistant (**AgentBridge** driving **PowerBITool**). Every table, measure, and chart in these pages was produced by a real tool working on a real Power BI Desktop model: real actions, real numbers, real charts. No mock-ups, no hand-typed tables.
+
+## Who this book is for
+
+- **Aspiring data analysts** and career changers who want a clear, honest map of the job.
+- **Business users and small-business owners** who keep their own numbers and want them to finally make sense.
+- **Excel users hitting "the wall"** — too much data, too many crashes — ready to move to Power BI.
+- **Anyone curious** about how AI assistants do real analytical work, not just chat.
+
+## What you will learn
+
+- How to **think in data** and turn fuzzy questions into numbers.
+- **Statistics without the pain** — the few ideas that actually matter at work.
+- How to find, clean, and trust **dirty data**.
+- **Data models, tables, and relationships** — and why the star schema wins.
+- Asking questions with **SQL and DAX**, in plain English.
+- The **metrics that matter**, and the vanity numbers to ignore.
+- The **four kinds of analysis**: descriptive, diagnostic, predictive, prescriptive.
+- **Power BI in plain English**: connecting, modelling, DAX, and choosing the right chart.
+- Building **reports and dashboards people actually use**.
+- The **AI-assisted analyst workflow** — what AgentBridge and PowerBITool can do, and what they cannot.
+- Your **career** as a data analyst in the age of AI.
+
+## What is inside
+
+- **Part I — The Craft of the Data Analyst** (chapters 1–5)
+- **Part II — Data, Quality, and Getting It Ready** (chapters 6–10)
+- **Part III — Analysis and Metrics** (chapters 11–15)
+- **Part IV — Power BI and Seeing Your Data** (chapters 16–21)
+- **Part V — The Agentic Revolution and Your Career** (chapters 22–26)
+- **Conclusion**, plus **8 appendices**: a glossary of terms, a data-quality checklist, a dashboard checklist, real cases by sector, guided exercises with full solutions, a portfolio project model, and interview FAQs.
+
+## Read or download
+
+The built book lives in the [`publish/`](publish) folder. Pick your language:
+
+| Language | Reader PDF | EPUB | Print PDF |
+|---|---|---|---|
+| English | [dap-EN.pdf](publish/dap-EN.pdf) | [dap-EN.epub](publish/dap-EN.epub) | [dap-EN-print.pdf](publish/print/dap-EN-print.pdf) |
+| Italiano | [dap-IT.pdf](publish/dap-IT.pdf) | [dap-IT.epub](publish/dap-IT.epub) | [dap-IT-print.pdf](publish/print/dap-IT-print.pdf) |
+| Français | [dap-FR.pdf](publish/dap-FR.pdf) | [dap-FR.epub](publish/dap-FR.epub) | [dap-FR-print.pdf](publish/print/dap-FR-print.pdf) |
+| Español | [dap-ES.pdf](publish/dap-ES.pdf) | [dap-ES.epub](publish/dap-ES.epub) | [dap-ES-print.pdf](publish/print/dap-ES-print.pdf) |
+| Deutsch | [dap-DE.pdf](publish/dap-DE.pdf) | [dap-DE.epub](publish/dap-DE.epub) | [dap-DE-print.pdf](publish/print/dap-DE-print.pdf) |
+| Русский | [dap-RU.pdf](publish/dap-RU.pdf) | [dap-RU.epub](publish/dap-RU.epub) | [dap-RU-print.pdf](publish/print/dap-RU-print.pdf) |
+
+Store covers are in [`publish/store/`](publish/store).
+
+## The tool behind every example
+
+- **AgentBridge** — the local, plain-language AI assistant (the brain).
+- **PowerBITool** — the free, open-source plugin that operates Microsoft Power BI Desktop (the hands).
+
+Every example was made by talking to the assistant in ordinary sentences while it worked inside Power BI Desktop — on a real PC, with no cloud upload of your data.
+
+**Get PowerBITool (free):** https://github.com/Graphene-Lab/PowerBITool
+
+**Stuck? Open an issue** — a real technician answers within about 24 hours with a real fix, free: https://github.com/Graphene-Lab/PowerBITool/issues
+
+## Available languages
+
+English · Italiano · Français · Español · Deutsch · Русский. The manuscript is authored in English and translated into the other five; the chart images are shared across all editions.
+
+## Repository layout
+
+- `book.json` — book metadata (title, author, languages, cover).
+- `books/<LANG>/` — the manuscript for each language (preface, 26 chapters, conclusion, 8 appendices). The `README.md` inside each folder is the table-of-contents order.
+- `assets/` — the cover, the QR codes, and the chart panels rendered from real tool output.
+- `tools/` — the chart generator (`chartgen`, Apache ECharts) and the GitHub pusher (`ghpush`).
+- `publish/` — the built reader PDF, EPUB, print PDF, and store cover, per language.
+
+## Rebuilding the book
+
+Built with [DistroBook](https://github.com/Graphene-Lab):
+
+```
+dotnet run --project <DistroBook>/src/DistroBook.Cli -c Release -- \
+  prepare --book "<this folder>" --langs EN,IT,FR,ES,DE,RU --force
+```
+
+This produces, for each language, `publish/store/cover-<LANG>.png`, `publish/dap-<LANG>.pdf`, `publish/dap-<LANG>.epub`, and `publish/print/dap-<LANG>-print.pdf`.

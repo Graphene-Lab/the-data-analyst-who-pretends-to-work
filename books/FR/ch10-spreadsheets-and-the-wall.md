@@ -1,1 +1,99 @@
-IyAxMC4gVGFibGV1cnMsIEV4Y2VsIGV0IGxlIG11ciBxdSdvbiBmaW5pdCBwYXIgaGV1cnRlcgoKQXVjdW4gbGl2cmUgc3VyIGwnYW5hbHlzZSBkZSBkb25uw6llcyBuZSBwZXV0IGZhaXJlIGwnaW1wYXNzZSBzdXIgbGUgdGFibGV1ci4gQydlc3QKbMOgIHF1ZSBwcmVzcXVlIHRvdXQgbGUgbW9uZGUgY29tbWVuY2UsIGV0IHBvdXIgZGUgYm9ubmVzIHJhaXNvbnMg4oCUIGMnZXN0IGJyaWxsYW50LgpNYWlzIGMnZXN0IGF1c3NpIGzDoCBxdSdvbiBidXRlIHN1ciB1biBtdXIsIGV0IHNhdm9pciBvw7kgc2UgdHJvdXZlIGNlIG11ciB2b3VzIGRpdApxdWFuZCBpbCBmYXV0IHBhc3NlciDDoCBhdXRyZSBjaG9zZS4KCiMjIFBvdXJxdW9pIGxlIHRhYmxldXIgYSBnYWduw6kKCkxlIHRhYmxldXIgZXN0IGwndW4gZGVzIGxvZ2ljaWVscyBsZXMgcGx1cyByw6l1c3NpcyBqYW1haXMgY3LDqcOpcy4gU29uIGfDqW5pZSwgYydlc3QKbGEgKiptYW5pcHVsYXRpb24gZGlyZWN0ZSoqIDogdm91cyB0YXBleiB1biBub21icmUgZGFucyB1bmUgY2FzZSwgZXQgbGVzIGNhc2VzIHF1aQplbiBkw6lwZW5kZW50IHNlIG1ldHRlbnQgw6Agam91ciBpbnN0YW50YW7DqW1lbnQuIFBhcyBkZSBjb2RlLCBwYXMgZGUgY29tcGlsYXRpb24sIHBhcwpkJ2F0dGVudGUuIFZvdXMgdm95ZXogdm90cmUgdHJhdmFpbCBldCB2b3RyZSByw6lzdWx0YXQgY8O0dGUgw6AgY8O0dGUuCgpMZXMgdGFibGV1cnMgb250IGRvbm7DqSBhdXggZ2VucyBvcmRpbmFpcmVzIGxlIHBvdXZvaXIgZGUgbW9kw6lsaXNlciA6IGJ1ZGdldHMsCnByw6l2aXNpb25zLCBwbGFubmluZ3MsIGxpc3RlcyBkZSBwcml4LiBBdmFudCBsZSB0YWJsZXVyLCBjZSBwb3V2b2lyIHLDqXNpZGFpdAp1bmlxdWVtZW50IGRhbnMgbGVzIG1haW5mcmFtZXMsIGV0IHVuaXF1ZW1lbnQgZW50cmUgbGVzIG1haW5zIGRlIHByb2dyYW1tZXVycy4gQXByw6hzCmx1aSwgbidpbXBvcnRlIHF1aSBhdmVjIHVuIFBDIHBvdXZhaXQgbGUgZmFpcmUuCgojIyBMZSB0YWJsZWF1IGNyb2lzw6kgZHluYW1pcXVlIDogbCdhbmFseXNlIGVuIGJvw650ZQoKTGUgKip0YWJsZWF1IGNyb2lzw6kgZHluYW1pcXVlKiogZXN0IGxlIHN1cGVyLXBvdXZvaXIgZHUgdGFibGV1ci4gRmFpdGVzIGdsaXNzZXIKcXVlbHF1ZXMgY2hhbXBzIGV0IGlsIHLDqXN1bWUgZGVzIG1pbGxpZXJzIGRlIGxpZ25lcyA6IHZlbnRlcyBwYXIgbW9pcywgcGFyIHByb2R1aXQsCnBhciByw6lnaW9uLiBQb3VyIHVuZSBwYXJ0IMOpbm9ybWUgZGUgbCdhbmFseXNlIG3DqXRpZXIsIHVuIHRhYmxlYXUgY3JvaXPDqSBkeW5hbWlxdWUKZXN0IHRvdXQgbGUgdHJhdmFpbC4gU2kgdm91cyBzYXZleiBwaXZvdGVyLCB2b3VzIHNhdmV6IGFuYWx5c2VyLgoKIyMgTGUgbXVyCgpNYWlzIGxlcyB0YWJsZXVycyBvbnQgdW4gcGxhZm9uZCwgZXQgdG91dCBhbmFseXN0ZSBmaW5pdCBwYXIgbGUgaGV1cnRlciA6CgotICoqTGEgdGFpbGxlKiog4oCUIGF1LWRlbMOgIGQndW4gbWlsbGlvbiBkZSBsaWduZXMsIEV4Y2VsIGfDqW1pdCwgcmFsZW50aXQgZXQgcGxhbnRlLgotICoqTGEgZnJhZ2lsaXTDqSoqIOKAlCB1bmUgY2VsbHVsZSBzdXBwcmltw6llLCB1bmUgZm9ybXVsZSBjYXNzw6llLCBldCB0b3V0IGxlIGNsYXNzZXVyIGVzdCBzaWxlbmNpZXVzZW1lbnQgZmF1eC4gUGFzIGRlIGZpbGV0IGRlIHPDqWN1cml0w6kuCi0gKipQYXMgZGUgcmVsYXRpb25zKiog4oCUIHJlbGllciBkZXV4IHRhYmxlcyB2ZXV0IGRpcmUgUkVDSEVSQ0hFViwgZXQgUkVDSEVSQ0hFViBjYXNzZSBkw6hzIHF1ZSBsZXMgZG9ubsOpZXMgYm91Z2VudC4KLSAqKkxlIGNoYW9zIGRlcyB2ZXJzaW9ucyoqIOKAlCDCqyBCdWRnZXRfRklOQUxfdjNfdnJhaW1lbnRfZmluYWwueGxzeCDCuyBtb2RpZmnDqSBwYXIgY2lucSBwZXJzb25uZXMsIHRvdXRlcyBlbiBkw6lzYWNjb3JkLgotICoqUGFzIGRlIHJhZnJhw65jaGlzc2VtZW50Kiog4oCUIHVuIHJhcHBvcnQgbWlzIMOgIGpvdXIgYXUgY29waWVyLWNvbGxlciBjaGFxdWUgbHVuZGkgZXN0IHVuIHJhcHBvcnQgZmF1eCBjaGFxdWUgbWFyZGkuCi0gKipQYXMgZCdoaXN0b2lyZSBwYXJ0YWfDqWUqKiDigJQgdW4gdGFibGV1ciBlc3QgdW4gZmljaGllciwgcGFzIHVuIHRhYmxlYXUgZGUgYm9yZCB2aXZhbnQgc3VyIGxlcXVlbCBsZXMgYXV0cmVzIHBldXZlbnQgc2UgZmllciBldCBxdSdpbHMgcGV1dmVudCBleHBsb3Jlci4KClNpIHZvdHJlIGx1bmRpIG1hdGluLCBjJ2VzdCDCqyBvdXZyaXIgbGUgZmljaGllciwgY29sbGVyIGxlcyBub3V2ZWxsZXMgZG9ubsOpZXMsIHRpcmVyCnN1ciBsZXMgZm9ybXVsZXMsIHNhdXZlZ2FyZGVyIMOgIG5vdXZlYXUsIGVudm95ZXIgcGFyIG1haWwgwrsg4oCUIHZvdXMgZmFpdGVzIMOgIGxhIG1haW4KY2UgcXUndW4gYm9uIG1vZMOobGUgZmFpdCB0b3V0IHNldWwuCgojIyBMZSB0YWJsZXVyIGZhY2UgYXUgbW9kw6hsZQoKVm9pY2kgbGEgZGlmZsOpcmVuY2UgZW4gdW5lIGxpZ25lIDoKCj4gVW4gdGFibGV1ciBzdG9ja2UgZGVzIG5vbWJyZXMgZGFucyBkZXMgY2VsbHVsZXMuIFVuIG1vZMOobGUgc3RvY2tlIGxhICpsb2dpcXVlKiBldCByZWNhbGN1bGUgbGVzIG5vbWJyZXMgw6AgY2hhcXVlIGZvaXMuCgpEYW5zIHVuIHRhYmxldXIsIGxlIG5vbWJyZSAqZXN0KiBsYSByw6lwb25zZSwgcG9zw6llIGRhbnMgdW5lIGNlbGx1bGUsIHF1aSBtb2lzaXQuCkRhbnMgdW4gbW9kw6hsZSwgbGEgcsOpcG9uc2UgZXN0IHJlY2FsY3Vsw6llIMOgIHBhcnRpciBkZXMgZG9ubsOpZXMgZXQgZGVzIHLDqGdsZXMsIGNoYXF1ZQpmb2lzIHF1ZSB2b3VzIHJlZ2FyZGV6LCB0b3Vqb3VycyDDoCBqb3VyLgoKIyMgTGEgbcOqbWUgcXVlc3Rpb24sIGRlIGRldXggZmHDp29ucwoKRGFucyBFeGNlbCwgwqsgdG90YWwgZGVzIHZlbnRlcyDCuyB2ZXV0IGRpcmUgdW5lIGZvcm11bGUgU09NTUUgc3VyIHVuZSBjb2xvbm5lLCBqdXN0ZQp0YW50IHF1ZSBwZXJzb25uZSBuZSB0b3VjaGUgYXV4IGxpZ25lcy4gRGFucyB1biBtb2TDqGxlLCBjJ2VzdCB1bmUgbWVzdXJlIOKAlApgU1VNKFNhbGVzW0Ftb3VudF0pYCDigJQgcXVpIHNlIHJlY2FsY3VsZSDDoCBsYSBkZW1hbmRlIGV0IHBldXQgw6p0cmUgZMOpY291cMOpZSBwYXIKbidpbXBvcnRlIHF1ZWxsZSBkaW1lbnNpb24gc2FucyB1bmUgc2V1bGUgbm91dmVsbGUgZm9ybXVsZSA6Cgo+IMKrIFF1ZWwgZXN0IGxlIHRvdGFsIGRlIGxhIGNvbG9ubmUgQW1vdW50ID8gwrsKCiFbVG90YWwgZHUgbW9udGFudCBjb21tZSBtZXN1cmVdKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9lMDIxLnBuZykKCk3Dqm1lIG5vbWJyZSwgbWFpcyBtYWludGVuYW50IGlsIHZpdCBkYW5zIHVuIG1vZMOobGUgY2FwYWJsZSBkZSByw6lwb25kcmUgwqsgcGFyCnLDqWdpb24gwrssIMKrIHBhciBtb2lzIMK7LCDCqyBwYXIgY2xpZW50IMK7IHNhbnMgbGUgbW9pbmRyZSBlZmZvcnQgc3VwcGzDqW1lbnRhaXJlIOKAlCBwYXJjZQpxdWUgYydlc3QgbGEgbG9naXF1ZSBxdWkgZXN0IHN0b2Nrw6llLCBwYXMgbGUgcsOpc3VsdGF0LgoKIyMgVW5lIGN1cmlvc2l0w6kgOiBsZSB0YWJsZXVyIHF1aSBhIHBlcmR1IHVuIG1pbGxpYXJkCgpFbiAxOTk4LCB1bmUgZXJyZXVyIGRlIHRhYmxldXIgYSBjb250cmlidcOpIMOgIHVuZSBwZXJ0ZSBkZSAxLDIgbWlsbGlhcmQgZGUgZG9sbGFycwpkYW5zIHVuIGdyYW5kIGZvbmRzIGZpbmFuY2llciAoTFRDTSksIGV0IGQnaW5ub21icmFibGVzIGVudHJlcHJpc2VzIHNlIHNvbnQgYnLDu2zDqWVzCsOgIGNhdXNlIGQndW5lIHNldWxlIG1hdXZhaXNlIGNlbGx1bGUuIEVuIDIwMDgsIHVuIGPDqWzDqGJyZSBhcnRpY2xlIGRlIHJlY2hlcmNoZSBzdXIKbGEgZGV0dGUgZXQgbGEgY3JvaXNzYW5jZSBzJ2VzdCByw6l2w6lsw6kgZW50YWNow6kgZCd1bmUgZXJyZXVyIGRlIHRhYmxldXIg4oCUIHVuIGVuc2VtYmxlCmRlIGxpZ25lcyBleGNsdSBwYXIgYWNjaWRlbnQg4oCUIHF1aSBpbnZlcnNhaXQgc2EgY29uY2x1c2lvbiBldCBhdmFpdCBpbmZsdWVuY8OpIGRlCnZyYWllcyBwb2xpdGlxdWVzIHBlbmRhbnQgZGVzIGFubsOpZXMuIExlcyB0YWJsZXVycyBzb250IHB1aXNzYW50cywgZXQgYydlc3QKcHLDqWNpc8OpbWVudCBwb3VyIMOnYSBxdWUgbGV1cnMgZXJyZXVycyBzb250IGRhbmdlcmV1c2VzLiBVbiBtb2TDqGxlIMOgIGxhIGxvZ2lxdWUgdGVzdMOpZQplc3QgcGx1cyBzw7tyIHF1J3VuIHRhYmxldXIgY2FjaGFudCB1biBgK2AgbMOgIG/DuSBkZXZyYWl0IHNlIHRyb3V2ZXIgdW4gYC1gLgoKIyMgUXVhbmQgcmVzdGVyLCBxdWFuZCBwYXJ0aXIKClJlc3RleiBkYW5zIGxlIHRhYmxldXIgcXVhbmQgOiBsZXMgZG9ubsOpZXMgc29udCBwZXRpdGVzLCBsZSB0cmF2YWlsIGVzdCBwb25jdHVlbCwKdm91cyBmYWl0ZXMgZGVzIGVzcXVpc3Nlcy4gUGFzc2V6IMOgIHVuIG1vZMOobGUgcXVhbmQgOiBsZXMgZG9ubsOpZXMgc29udCBncm9zc2VzLCBsZQpyYXBwb3J0IHNlIHLDqXDDqHRlLCBwbHVzIGQndW5lIHBlcnNvbm5lIHkgdG91Y2hlLCBvdSB2b3VzIGF2ZXogYmVzb2luIHF1J2lsIHNvaXQKKmp1c3RlKiBldCAqw6Agam91ciouIEwnYXNzaXN0YW50IGV0IFBvd2VyIEJJIHNvbnQgbGEgZmHDp29uIGRlIGZyYW5jaGlyIGNlIHBvbnQgc2Fucwpkb3VsZXVyLgoKLS0tCgojIyBDZSBxdWUgdm91cyBnYXJkZXJleiBkZSBjZSBjaGFwaXRyZQoKLSBMZXMgdGFibGV1cnMgc29udCBicmlsbGFudHMgcG91ciBsZSB0cmF2YWlsIHBldGl0LCBkaXJlY3QgZXQgcG9uY3R1ZWwuCi0gTGUgdGFibGVhdSBjcm9pc8OpIGR5bmFtaXF1ZSBlc3QgdW4gdsOpcml0YWJsZSBzdXBlci1wb3V2b2lyLgotIExlIG11ciA6IGxhIHRhaWxsZSwgbGEgZnJhZ2lsaXTDqSwgbCdhYnNlbmNlIGRlIHJlbGF0aW9ucywgbGUgY2hhb3MgZGVzIHZlcnNpb25zLCBsJ2ltcG9zc2liaWxpdMOpIGRlIHJhZnJhw65jaGlyLgotIFVuIG1vZMOobGUgc3RvY2tlIGxhIGxvZ2lxdWUsIHBhcyBkZXMgcsOpc3VsdGF0cyBmaWfDqXMuCi0gUGFzc2V6IMOgIGF1dHJlIGNob3NlIHF1YW5kIGxlIHJhcHBvcnQgc2UgcsOpcMOodGUgb3UgcXVlIGxlcyBkb25uw6llcyBncm9zc2lzc2VudC4KCkxhIHBhcnRpZSBJSSBlc3QgdGVybWluw6llIOKAlCB2b3VzIHNhdmV6IGQnb8O5IHZpZW5uZW50IGxlcyBkb25uw6llcywgY29tbWVudCBsZXMKbmV0dG95ZXIsIGNvbW1lbnQgbGVzIHJlbGllciwgZXQgY29tbWVudCBsZXMgaW50ZXJyb2dlci4gTm91cyBwYXNzb25zIG1haW50ZW5hbnQgw6AKbGEgdHJhbnNmb3JtYXRpb24gZGVzIGRvbm7DqWVzIGVuIHNlbnMgOiBsZXMgaW5kaWNhdGV1cnMgZXQgbGVzIHR5cGVzIGQnYW5hbHlzZSBxdWkKcGlsb3RlbnQgbGVzIGTDqWNpc2lvbnMuCg==
+# 10. Tableurs, Excel et le mur qu'on finit par heurter
+
+Aucun livre sur l'analyse de données ne peut faire l'impasse sur le tableur. C'est
+là que presque tout le monde commence, et pour de bonnes raisons — c'est brillant.
+Mais c'est aussi là qu'on bute sur un mur, et savoir où se trouve ce mur vous dit
+quand il faut passer à autre chose.
+
+## Pourquoi le tableur a gagné
+
+Le tableur est l'un des logiciels les plus réussis jamais créés. Son génie, c'est
+la **manipulation directe** : vous tapez un nombre dans une case, et les cases qui
+en dépendent se mettent à jour instantanément. Pas de code, pas de compilation, pas
+d'attente. Vous voyez votre travail et votre résultat côte à côte.
+
+Les tableurs ont donné aux gens ordinaires le pouvoir de modéliser : budgets,
+prévisions, plannings, listes de prix. Avant le tableur, ce pouvoir résidait
+uniquement dans les mainframes, et uniquement entre les mains de programmeurs. Après
+lui, n'importe qui avec un PC pouvait le faire.
+
+## Le tableau croisé dynamique : l'analyse en boîte
+
+Le **tableau croisé dynamique** est le super-pouvoir du tableur. Faites glisser
+quelques champs et il résume des milliers de lignes : ventes par mois, par produit,
+par région. Pour une part énorme de l'analyse métier, un tableau croisé dynamique
+est tout le travail. Si vous savez pivoter, vous savez analyser.
+
+## Le mur
+
+Mais les tableurs ont un plafond, et tout analyste finit par le heurter :
+
+- **La taille** — au-delà d'un million de lignes, Excel gémit, ralentit et plante.
+- **La fragilité** — une cellule supprimée, une formule cassée, et tout le classeur est silencieusement faux. Pas de filet de sécurité.
+- **Pas de relations** — relier deux tables veut dire RECHERCHEV, et RECHERCHEV casse dès que les données bougent.
+- **Le chaos des versions** — « Budget_FINAL_v3_vraiment_final.xlsx » modifié par cinq personnes, toutes en désaccord.
+- **Pas de rafraîchissement** — un rapport mis à jour au copier-coller chaque lundi est un rapport faux chaque mardi.
+- **Pas d'histoire partagée** — un tableur est un fichier, pas un tableau de bord vivant sur lequel les autres peuvent se fier et qu'ils peuvent explorer.
+
+Si votre lundi matin, c'est « ouvrir le fichier, coller les nouvelles données, tirer
+sur les formules, sauvegarder à nouveau, envoyer par mail » — vous faites à la main
+ce qu'un bon modèle fait tout seul.
+
+## Le tableur face au modèle
+
+Voici la différence en une ligne :
+
+> Un tableur stocke des nombres dans des cellules. Un modèle stocke la *logique* et recalcule les nombres à chaque fois.
+
+Dans un tableur, le nombre *est* la réponse, posée dans une cellule, qui moisit.
+Dans un modèle, la réponse est recalculée à partir des données et des règles, chaque
+fois que vous regardez, toujours à jour.
+
+## La même question, de deux façons
+
+Dans Excel, « total des ventes » veut dire une formule SOMME sur une colonne, juste
+tant que personne ne touche aux lignes. Dans un modèle, c'est une mesure —
+`SUM(Sales[Amount])` — qui se recalcule à la demande et peut être découpée par
+n'importe quelle dimension sans une seule nouvelle formule :
+
+> « Quel est le total de la colonne Amount ? »
+
+![Total du montant comme mesure](../../assets/examples/e021.png)
+
+Même nombre, mais maintenant il vit dans un modèle capable de répondre « par
+région », « par mois », « par client » sans le moindre effort supplémentaire — parce
+que c'est la logique qui est stockée, pas le résultat.
+
+## Une curiosité : le tableur qui a perdu un milliard
+
+En 1998, une erreur de tableur a contribué à une perte de 1,2 milliard de dollars
+dans un grand fonds financier (LTCM), et d'innombrables entreprises se sont brûlées
+à cause d'une seule mauvaise cellule. En 2008, un célèbre article de recherche sur
+la dette et la croissance s'est révélé entaché d'une erreur de tableur — un ensemble
+de lignes exclu par accident — qui inversait sa conclusion et avait influencé de
+vraies politiques pendant des années. Les tableurs sont puissants, et c'est
+précisément pour ça que leurs erreurs sont dangereuses. Un modèle à la logique testée
+est plus sûr qu'un tableur cachant un `+` là où devrait se trouver un `-`.
+
+## Quand rester, quand partir
+
+Restez dans le tableur quand : les données sont petites, le travail est ponctuel,
+vous faites des esquisses. Passez à un modèle quand : les données sont grosses, le
+rapport se répète, plus d'une personne y touche, ou vous avez besoin qu'il soit
+*juste* et *à jour*. L'assistant et Power BI sont la façon de franchir ce pont sans
+douleur.
+
+---
+
+## Ce que vous garderez de ce chapitre
+
+- Les tableurs sont brillants pour le travail petit, direct et ponctuel.
+- Le tableau croisé dynamique est un véritable super-pouvoir.
+- Le mur : la taille, la fragilité, l'absence de relations, le chaos des versions, l'impossibilité de rafraîchir.
+- Un modèle stocke la logique, pas des résultats figés.
+- Passez à autre chose quand le rapport se répète ou que les données grossissent.
+
+La partie II est terminée — vous savez d'où viennent les données, comment les
+nettoyer, comment les relier, et comment les interroger. Nous passons maintenant à
+la transformation des données en sens : les indicateurs et les types d'analyse qui
+pilotent les décisions.

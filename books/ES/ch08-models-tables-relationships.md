@@ -1,1 +1,114 @@
-IyA4LiBNb2RlbG9zLCB0YWJsYXMgeSByZWxhY2lvbmVzCgpVbiBtb250w7NuIGRlIHRhYmxhcyBubyBlcyB1biBtb2RlbG8uIFVuICoqbW9kZWxvKiogZXMgbG8gcXVlIG9idGllbmVzIGN1YW5kbyBsZSBkaWNlcwphbCBvcmRlbmFkb3IgY8OzbW8gbGFzIHRhYmxhcyBzZSAqcmVsYWNpb25hbiogZW50cmUgc8OtLiBFc2FzIGNvbmV4aW9uZXMsIGVsIGNhYmxlYWRvLApzb24gbG8gcXVlIHRlIHBlcm1pdGUgaGFjZXIgdW5hIHByZWd1bnRhIGVuIHVuIHNpdGlvIHkgb2J0ZW5lciB1bmEgcmVzcHVlc3RhIHF1ZQphYmFyY2EgbXVjaGFzIHRhYmxhcy4gRXN0ZSBjYXDDrXR1bG8gdHJhdGEgZGUgZXNlIGNhYmxlYWRvLgoKIyMgVGFibGFzLCBmaWxhcyB5IGNsYXZlcwoKVG9kYSB0YWJsYSB0aWVuZSAqKmZpbGFzKiogKHVuIHJlZ2lzdHJvIGNhZGEgdW5hKSB5ICoqY29sdW1uYXMqKiAodW4gYXRyaWJ1dG8gY2FkYQp1bmEpLiBMYSBtYWdpYSBlc3TDoSBlbiBsYSAqKmNsYXZlKio6IHVuYSBjb2x1bW5hIHF1ZSBpZGVudGlmaWNhIGRlIGZvcm1hIMO6bmljYSBjYWRhCmZpbGEuIFVuIElEIGRlIGNsaWVudGUsIHVuIGPDs2RpZ28gZGUgcHJvZHVjdG8sIHVuIG7Dum1lcm8gZGUgcGVkaWRvLiBMYXMgY2xhdmVzIHNvbgpjw7NtbyBsYXMgdGFibGFzIHNlIHJlY29ub2NlbiBlbnRyZSBzw60uCgotIFVuYSAqKmNsYXZlIHByaW1hcmlhKiogZXMgZWwgSUQgw7puaWNvIGVuIHVuYSB0YWJsYSAodW5hIGZpbGEgcG9yIGNsaWVudGUpLgotIFVuYSAqKmNsYXZlIGZvcsOhbmVhKiogZXMgdW5hIGNvbHVtbmEgZW4gb3RyYSB0YWJsYSBxdWUgYXB1bnRhIGEgZXNlIElEIChjYWRhIHZlbnRhCiAgZ3VhcmRhIGVsIElEIGRlbCBjbGllbnRlKS4KCiMjIExhIHJlbGFjacOzbjogY8OzbW8gZG9zIHRhYmxhcyBoYWJsYW4KClVuYSAqKnJlbGFjacOzbioqIGNvbmVjdGEgdW5hIGNsYXZlIGZvcsOhbmVhIGNvbiB1bmEgY2xhdmUgcHJpbWFyaWEuIFVuYSB2ZXoKY29uZWN0YWRhcywgZWwgb3JkZW5hZG9yIHB1ZWRlIHJlc3BvbmRlciBwcmVndW50YXMgcXVlIGNydXphbiB0YWJsYXM6IMKrwr9xdcOpIHByb2R1Y3RvCmVzdGFiYSBlbiBlc3RhIHZlbnRhP8K7LCDCq8K/ZW4gcXXDqSBjaXVkYWQgdml2w61hIGVzdGUgY2xpZW50ZT/Cuywgc2luIHF1ZSB0w7ogbnVuY2EKZnVzaW9uZXMgYXJjaGl2b3MgYSBtYW5vLgoKRWwgdGlwbyBtw6FzIGNvbcO6biBlcyAqKm11Y2hvcy1hLXVubyoqOiBtdWNoYXMgdmVudGFzIGFwdW50YW4gYSB1biBwcm9kdWN0by4gQ2FkYQp2ZW50YSB0aWVuZSB1biBJRCBkZSBwcm9kdWN0bzsgbGEgdGFibGEgZGUgcHJvZHVjdG9zIHRpZW5lIHVuYSBmaWxhIHBvciBwcm9kdWN0by4KTXVjaGFzIHZlbnRhcywgdW4gcHJvZHVjdG8uIEVzYSBlcyBsYSBlc3BpbmEgZG9yc2FsIGRlIGNhc2kgdG9kbyBtb2RlbG8gZGUgbmVnb2Npby4KCiMjIENhYmxlYXJsbywgZW4gdml2bwoKQXF1w60gZXN0w6EgZWwgYXNpc3RlbnRlIGNyZWFuZG8gdW5hIHJlbGFjacOzbiBhIHBhcnRpciBkZSB1bmEgcGV0aWNpw7NuIG5vcm1hbDoKCj4gwqtDb25lY3RhIFNhbGVzIGNvbiBQcm9kdWN0cyBlbiBQcm9kdWN0SUQuwrsKCiFbUmVsYWNpw7NuIGRlIFNhbGVzIGEgUHJvZHVjdHNdKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9lMDE1LnBuZykKCkxhIGhlcnJhbWllbnRhIHJlcG9ydGEgbGEgZGlyZWNjacOzbiAoTWFueeKGkk9uZSkgeSBjb25maXJtYSBxdWUgZXN0w6EgYWN0aXZhIGVuIFBvd2VyCkJJIERlc2t0b3AuIEx1ZWdvIGVsIGVubGFjZSBkZSBjbGllbnRlczoKCj4gwqtDb25lY3RhIFNhbGVzIGNvbiBDdXN0b21lcnMgZW4gQ3VzdG9tZXJJRC7CuwoKIVtSZWxhY2nDs24gZGUgU2FsZXMgYSBDdXN0b21lcnNdKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9lMDE2LnBuZykKClkgZWwgZW5sYWNlIGRlIHRpZW5kYXM6Cgo+IMKrQ29uZWN0YSBTYWxlcyBjb24gU3RvcmVzIGVuIFN0b3JlSUQuwrsKCiFbUmVsYWNpw7NuIGRlIFNhbGVzIGEgU3RvcmVzXSguLi8uLi9hc3NldHMvZXhhbXBsZXMvZTAxNy5wbmcpCgpUcmVzIGZyYXNlcywgeSBlbCBtb2RlbG8geWEgdGllbmUgZXNwaW5hIGRvcnNhbC4gVG9kYSBwcmVndW50YSBwb3N0ZXJpb3Igc29icmUKwqt2ZW50YXMgcG9yIHByb2R1Y3RvwrssIMKrdmVudGFzIHBvciBjbGllbnRlwrssIMKrdmVudGFzIHBvciB0aWVuZGHCuyBmdW5jaW9uYSBncmFjaWFzIGEKZXN0YXMgdHJlcyBsw61uZWFzLgoKIyMgVmVyIHRvZG8gZWwgY2FibGVhZG8KCj4gwqtNdWVzdHJhIHRvZGFzIGxhcyByZWxhY2lvbmVzIGRlbCBtb2RlbG8uwrsKCiFbVG9kYXMgbGFzIHJlbGFjaW9uZXNdKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9lMDE4LnBuZykKClRyZXMgcmVsYWNpb25lcyBNYW554oaST25lIGxpbXBpYXMsIHRvZGFzIGFjdGl2YXMuIEVzdGUgZXMgZWwgZGlhZ3JhbWEgZGUgY2FibGVhZG86CmxhIGNvc2EgcXVlIGNvbXBydWViYXMgcHJpbWVybyBjdWFuZG8gdW4gbsO6bWVybyBwYXJlY2UgcmFyby4KCiMjIEVsIGVzcXVlbWEgZGUgZXN0cmVsbGE6IGxhIGZvcm1hIHF1ZSBxdWllcmVzCgrDmm5lbG8gdG9kbyB5IG9idGllbmVzIGxhIGZvcm1hIG3DoXMgZmFtb3NhIGRlbCBkYXRvIGRlIG5lZ29jaW86IGVsICoqZXNxdWVtYSBkZQplc3RyZWxsYSoqLiBVbmEgdGFibGEgZGUgaGVjaG9zIGVuIGVsIGNlbnRybyAoU2FsZXMpLCByb2RlYWRhIGRlIHRhYmxhcyBkZSBkaW1lbnNpw7NuCihQcm9kdWN0cywgQ3VzdG9tZXJzLCBTdG9yZXMsIERhdGUpLiBMYSB0YWJsYSBkZSBoZWNob3MgZ3VhcmRhIGxvcyBuw7ptZXJvczsgbGFzCmRpbWVuc2lvbmVzIGd1YXJkYW4gZWwgZGV0YWxsZSBkZXNjcmlwdGl2by4gRGlidWphZG8sIHBhcmVjZSB1bmEgZXN0cmVsbGEuCgrCv1BvciBxdcOpIHNlIGxvIHF1aWVyZSB0YW50bz8gUG9ycXVlIGVzIHNpbXBsZSwgcsOhcGlkbyB5IGVuY2FqYSBjb24gY8OzbW8gbGEgZ2VudGUgaGFjZQpwcmVndW50YXMuIMKrVmVudGFzIHBvciBjYXRlZ29yw61hwrsgZXMgc29sbyBsYSB0YWJsYSBkZSBoZWNob3MgZXN0aXLDoW5kb3NlIGhhY2lhIGxhCmRpbWVuc2nDs24gZGUgcHJvZHVjdG8uIENhc2kgdG9kbyBidWVuIG1vZGVsbyBkZSBCSSBlcyB1bmEgZXN0cmVsbGEsIG8gdW4gY2FtcG8gZGUKZXN0cmVsbGFzLgoKIyMgVW5hIHRhYmxhIGNhbGN1bGFkYTogcmVzdW1pciBzb2JyZSBsYSBtYXJjaGEKCkEgdmVjZXMgcXVpZXJlcyB1bmEgcGVxdWXDsWEgdGFibGEgcmVzdW1lbiBjb25zdHJ1aWRhIGRlc2RlIGVsIHByb3BpbyBtb2RlbG86Cgo+IMKrQ29uc3RydXllIHVuYSBwZXF1ZcOxYSB0YWJsYSBkZSB2ZW50YXMgdG90YWxlcyBwb3IgY2F0ZWdvcsOtYS7CuwoKIVtUYWJsYSBkZSB2ZW50YXMgcG9yIGNhdGVnb3LDrWFdKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9lMDE5LnBuZykKClVuYSB0YWJsYSBudWV2YSwgY2FsY3VsYWRhIGVuIHZpdm8sIHF1ZSBlbnJvbGxhIGVsIGRldGFsbGUgZW4gdW4gcmVzdW1lbiBvcmRlbmFkby4Kw5p0aWwgcGFyYSB1biBpbmZvcm1lIHLDoXBpZG8gbyB1bmEgaW5zdGFudMOhbmVhLgoKIyMgVW5hIGN1cmlvc2lkYWQ6IGxhIHRyYW1wYSBtdWNob3MtYS1tdWNob3MKCkxhIHJlbGFjacOzbiBtw6FzIHBlbGlncm9zYSBlcyAqKm11Y2hvcy1hLW11Y2hvcyoqIHNpbiBjdWlkYWRvOiBtdWNob3MgcHJvZHVjdG9zIGVuCm11Y2hhcyBwcm9tb2Npb25lcywgbXVjaG9zIGFsdW1ub3MgZW4gbXVjaGFzIGNsYXNlcy4gU2kgbGEgaGFjZXMgbWFsLCB0dXMgdG90YWxlcwpjdWVudGFuIGRlIG3DoXMgbyBkZXNhcGFyZWNlbi4gRWwgYXJyZWdsbyBlcyB1bmEgdGFibGEgwqtwdWVudGXCuyBlbiBlbCBtZWRpby4gU2kgdHVzCm7Dum1lcm9zIGRlIHByb250byBwYXJlY2VuIGluZmxhZG9zLCB1biBtdWNob3MtYS1tdWNob3MgY2hhcHVjZXJvIGVzIGVsIHByaW1lcgpzb3NwZWNob3NvLgoKLS0tCgojIyBQcnXDqWJhbG8gdMO6IG1pc21vCgo+IMKrwr9DdcOhbnRhcyByZWxhY2lvbmVzIGhheSBhaG9yYT/CuwoKIVtDb250YXIgcmVsYWNpb25lc10oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2UwNzMucG5nKQoKVW5hIGNvbXByb2JhY2nDs24gcsOhcGlkYSBkZSBxdWUgdG9kbyBlbCBjYWJsZWFkbyBlc3TDoSBhaMOtLgoKIyMgTG8gcXVlIHRlIGxsZXZhcsOhcyBkZSBlc3RlIGNhcMOtdHVsbwoKLSBVbiBtb2RlbG8gc29uIHRhYmxhcyBtw6FzIGxhcyByZWxhY2lvbmVzIGVudHJlIGVsbGFzLgotIExhcyBjbGF2ZXMgKHByaW1hcmlhIHkgZm9yw6FuZWEpIHNvbiBjw7NtbyBsYXMgdGFibGFzIHNlIHJlY29ub2Nlbi4KLSBNdWNob3MtYS11bm8gZXMgbGEgZXNwaW5hIGRvcnNhbCBkZWwgZGF0byBkZSBuZWdvY2lvLgotIEVsIGVzcXVlbWEgZGUgZXN0cmVsbGEgZXMgbGEgZm9ybWEgcXVlIG5vcm1hbG1lbnRlIHF1aWVyZXMuCi0gQ3VpZGFkbyBjb24gZWwgbXVjaG9zLWEtbXVjaG9zIGNoYXB1Y2VybzogaW5mbGEgbG9zIHRvdGFsZXMuCgpTaWd1aWVudGU6IGhhY2VyIHByZWd1bnRhcyBhbCBkYXRvIGRpcmVjdGFtZW50ZTogU1FMIHkgREFYLCBsb3MgZG9zIGxlbmd1YWplcyBwYXJhCm9idGVuZXIgcmVzcHVlc3Rhcy4K
+# 8. Modelos, tablas y relaciones
+
+Un montón de tablas no es un modelo. Un **modelo** es lo que obtienes cuando le dices
+al ordenador cómo las tablas se *relacionan* entre sí. Esas conexiones, el cableado,
+son lo que te permite hacer una pregunta en un sitio y obtener una respuesta que
+abarca muchas tablas. Este capítulo trata de ese cableado.
+
+## Tablas, filas y claves
+
+Toda tabla tiene **filas** (un registro cada una) y **columnas** (un atributo cada
+una). La magia está en la **clave**: una columna que identifica de forma única cada
+fila. Un ID de cliente, un código de producto, un número de pedido. Las claves son
+cómo las tablas se reconocen entre sí.
+
+- Una **clave primaria** es el ID único en una tabla (una fila por cliente).
+- Una **clave foránea** es una columna en otra tabla que apunta a ese ID (cada venta
+  guarda el ID del cliente).
+
+## La relación: cómo dos tablas hablan
+
+Una **relación** conecta una clave foránea con una clave primaria. Una vez
+conectadas, el ordenador puede responder preguntas que cruzan tablas: «¿qué producto
+estaba en esta venta?», «¿en qué ciudad vivía este cliente?», sin que tú nunca
+fusiones archivos a mano.
+
+El tipo más común es **muchos-a-uno**: muchas ventas apuntan a un producto. Cada
+venta tiene un ID de producto; la tabla de productos tiene una fila por producto.
+Muchas ventas, un producto. Esa es la espina dorsal de casi todo modelo de negocio.
+
+## Cablearlo, en vivo
+
+Aquí está el asistente creando una relación a partir de una petición normal:
+
+> «Conecta Sales con Products en ProductID.»
+
+![Relación de Sales a Products](../../assets/examples/e015.png)
+
+La herramienta reporta la dirección (Many→One) y confirma que está activa en Power
+BI Desktop. Luego el enlace de clientes:
+
+> «Conecta Sales con Customers en CustomerID.»
+
+![Relación de Sales a Customers](../../assets/examples/e016.png)
+
+Y el enlace de tiendas:
+
+> «Conecta Sales con Stores en StoreID.»
+
+![Relación de Sales a Stores](../../assets/examples/e017.png)
+
+Tres frases, y el modelo ya tiene espina dorsal. Toda pregunta posterior sobre
+«ventas por producto», «ventas por cliente», «ventas por tienda» funciona gracias a
+estas tres líneas.
+
+## Ver todo el cableado
+
+> «Muestra todas las relaciones del modelo.»
+
+![Todas las relaciones](../../assets/examples/e018.png)
+
+Tres relaciones Many→One limpias, todas activas. Este es el diagrama de cableado:
+la cosa que compruebas primero cuando un número parece raro.
+
+## El esquema de estrella: la forma que quieres
+
+Únelo todo y obtienes la forma más famosa del dato de negocio: el **esquema de
+estrella**. Una tabla de hechos en el centro (Sales), rodeada de tablas de dimensión
+(Products, Customers, Stores, Date). La tabla de hechos guarda los números; las
+dimensiones guardan el detalle descriptivo. Dibujado, parece una estrella.
+
+¿Por qué se lo quiere tanto? Porque es simple, rápido y encaja con cómo la gente hace
+preguntas. «Ventas por categoría» es solo la tabla de hechos estirándose hacia la
+dimensión de producto. Casi todo buen modelo de BI es una estrella, o un campo de
+estrellas.
+
+## Una tabla calculada: resumir sobre la marcha
+
+A veces quieres una pequeña tabla resumen construida desde el propio modelo:
+
+> «Construye una pequeña tabla de ventas totales por categoría.»
+
+![Tabla de ventas por categoría](../../assets/examples/e019.png)
+
+Una tabla nueva, calculada en vivo, que enrolla el detalle en un resumen ordenado.
+Útil para un informe rápido o una instantánea.
+
+## Una curiosidad: la trampa muchos-a-muchos
+
+La relación más peligrosa es **muchos-a-muchos** sin cuidado: muchos productos en
+muchas promociones, muchos alumnos en muchas clases. Si la haces mal, tus totales
+cuentan de más o desaparecen. El arreglo es una tabla «puente» en el medio. Si tus
+números de pronto parecen inflados, un muchos-a-muchos chapucero es el primer
+sospechoso.
+
+---
+
+## Pruébalo tú mismo
+
+> «¿Cuántas relaciones hay ahora?»
+
+![Contar relaciones](../../assets/examples/e073.png)
+
+Una comprobación rápida de que todo el cableado está ahí.
+
+## Lo que te llevarás de este capítulo
+
+- Un modelo son tablas más las relaciones entre ellas.
+- Las claves (primaria y foránea) son cómo las tablas se reconocen.
+- Muchos-a-uno es la espina dorsal del dato de negocio.
+- El esquema de estrella es la forma que normalmente quieres.
+- Cuidado con el muchos-a-muchos chapucero: infla los totales.
+
+Siguiente: hacer preguntas al dato directamente: SQL y DAX, los dos lenguajes para
+obtener respuestas.

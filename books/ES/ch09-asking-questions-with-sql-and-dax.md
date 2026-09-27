@@ -1,1 +1,113 @@
-IyA5LiBIYWNlciBwcmVndW50YXMgY29uIFNRTCB5IERBWAoKVW5hIHZleiBxdWUgbG9zIGRhdG9zIGVzdMOhbiBkZW50cm8geSBjYWJsZWFkb3MsIGxlcyBoYWNlcyBwcmVndW50YXMuIEhheSBkb3MKbGVuZ3VhamVzIHF1ZSBkZWJlcsOtYXMgcmVjb25vY2VyOiAqKlNRTCoqIHBhcmEgYmFzZXMgZGUgZGF0b3MsIHkgKipEQVgqKiBwYXJhIFBvd2VyCkJJLiBZYSBubyBuZWNlc2l0YXMgZXNjcmliaXJsb3MgYSBtYW5vOiBlbCBhc2lzdGVudGUgbG8gaGFjZS4gUGVybyBkZWJlcsOtYXMKZW50ZW5kZXIgcXXDqSBoYWNlbiwgcGFyYSBwb2RlciBwcmVndW50YXIgYmllbiB5IGxlZXIgbGFzIHJlc3B1ZXN0YXMuCgojIyBTUUw6IGVsIGxlbmd1YWplIGRlIGxhcyBiYXNlcyBkZSBkYXRvcwoKKipTUUwqKiAoU3RydWN0dXJlZCBRdWVyeSBMYW5ndWFnZSkgZXMgbGEgZm9ybWEgZGUgaGFibGFyIGNvbiBsYXMgYmFzZXMgZGUgZGF0b3MKZGVzZGUgbG9zIGHDsW9zIDE5NzAuIFNlIGxlZSBjYXNpIGNvbW8gaW5nbMOpczoKCi0gYFNFTEVDVGAg4oCUIHF1w6kgY29sdW1uYXMgcXVpZXJlcwotIGBGUk9NYCDigJQgZGUgcXXDqSB0YWJsYQotIGBXSEVSRWAg4oCUIHF1w6kgZmlsYXMgY29uc2VydmFyCi0gYEdST1VQIEJZYCDigJQgY8OzbW8gYWdydXBhciB5IHRvdGFsaXphcgoKVW4gY2zDoXNpY286ICrCq3ZlbnRhcyB0b3RhbGVzIHBvciByZWdpw7NuwrsqIGVzIHVuIFNFTEVDVCwgdW4gSk9JTiBhIGxhIHRhYmxhIGRlCnJlZ2nDs24geSB1biBHUk9VUCBCWS4gU1FMIGVzdMOhIGVuIHRvZGFzIHBhcnRlczogc2kgdHUgZW1wcmVzYSB0aWVuZSB1bmEgYmFzZSBkZQpkYXRvcywgU1FMIGVzIGNvbW8gbGEgbGVlcy4KCiMjIERBWDogZWwgbGVuZ3VhamUgZGUgUG93ZXIgQkkKCioqREFYKiogKERhdGEgQW5hbHlzaXMgRXhwcmVzc2lvbnMpIGVzIGVsIGxlbmd1YWplIGRlbnRybyBkZSBQb3dlciBCSS4gUGFyZWNlCmRpc3RpbnRvIGRlIFNRTCBwZXJvIGhhY2UgZWwgbWlzbW8gdHJhYmFqbzogcGVkaXIgdW4gbsO6bWVybywgb2J0ZW5lciB1biBuw7ptZXJvLiBEQVgKc2UgY29uc3RydXllIGFscmVkZWRvciBkZSAqKm1lZGlkYXMqKjogY8OhbGN1bG9zIGNvbiBub21icmUgcXVlIHB1ZWRlcyByZXV0aWxpemFyLgpgU1VNYCwgYEFWRVJBR0VgLCBgQ09VTlRgLCBgQ0FMQ1VMQVRFYCBzb24gc3VzIGNhYmFsbG9zIGRlIGJhdGFsbGEuCgpMbyBoZXJtb3NvOiBubyB0aWVuZXMgcXVlIGVzY3JpYmlyIERBWC4gRGVzY3JpYmVzIGxhIHJlc3B1ZXN0YSBxdWUgcXVpZXJlcywgeSBlbAphc2lzdGVudGUgZXNjcmliZSB5IGVqZWN1dGEgZWwgREFYIHBvciB0aS4gVmXDoW1vc2xvLgoKIyMgQ29udGFyIHkgc3VtYXIKCj4gwqvCv0N1w6FudGFzIGZpbGFzIGhheSBlbiBTYWxlcz/CuwoKIVtDb250YXIgZmlsYXNdKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9lMDIwLnBuZykKClNlc2VudGEgcmVnaXN0cm9zIGRlIHZlbnRhcy4gU2ltcGxlLCBpbnN0YW50w6FuZW8uCgo+IMKrwr9DdcOhbCBlcyBlbCB0b3RhbCBkZSBsYSBjb2x1bW5hIEFtb3VudD/CuwoKIVtTdW1hciBBbW91bnRdKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9lMDIxLnBuZykKCuKCrDIyLDAyMyBlbiB2ZW50YXMgdG90YWxlcy4gRWwgdGlwbyBkZSBuw7ptZXJvIHF1ZSBhbnRlcyBzaWduaWZpY2FiYSB1bmEgdGFibGEKZGluw6FtaWNhIHkgZGlleiBtaW51dG9zOyBhaG9yYSBlcyB1bmEgZnJhc2UuCgojIyBDbGFzaWZpY2FyIHkgZmlsdHJhcgoKPiDCq1RvcCAzIHByb2R1Y3RvcyBwb3IgdmVudGFzIHRvdGFsZXMuwrsKCiFbVG9wIHByb2R1Y3Rvc10oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2UwMjIucG5nKQoKRWwgYXNpc3RlbnRlIGxvcyBjbGFzaWZpY2EgcG9yIHRpLiAoRsOtamF0ZSBlbiBxdWUgZGV2dWVsdmUgbGEgY2xhc2lmaWNhY2nDs24gY29tcGxldGEKcGFyYSBxdWUgdmVhcyBlbCBwYW5vcmFtYSBlbnRlcm8sIG5vIHNvbG8gbGEgZnJhbmphIGRlIGFycmliYS4pCgo+IMKrTXXDqXN0cmFtZSB2ZW50YXMgbWF5b3JlcyBkZSA1MDAuwrsKCiFbVmVudGFzIHNvYnJlIDUwMF0oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2UwMjMucG5nKQoKVW4gZmlsdHJvLCBlamVjdXRhZG8gZW4gdml2bywgcXVlIGRldnVlbHZlIGNhZGEgdmVudGEgZ3JhbmRlLiBBc8OtIGVzIGNvbW8KZW5jdWVudHJhcyBsb3MgYXTDrXBpY29zIHkgbGFzIGJhbGxlbmFzLgoKIyMgQWdydXBhciBhIHRyYXbDqXMgZGUgdW5hIHJlbGFjacOzbgoKPiDCq1ZlbnRhcyB0b3RhbGVzIHBvciBjaXVkYWQgZGUgbGEgdGllbmRhLsK7CgohW1ZlbnRhcyBwb3IgY2l1ZGFkXSguLi8uLi9hc3NldHMvZXhhbXBsZXMvZTAyNC5wbmcpCgpFc3RlIGVzIGVsIG1vbWVudG8gZW4gcXVlIGVsIG1vZGVsbyByaW5kZTogZWwgYXNpc3RlbnRlIGNydXphIGxhIHJlbGFjacOzbgpTYWxlc+KGklN0b3JlcyB5IHRvdGFsaXphIHBvciBjaXVkYWQsIHNpbiBmdXNpw7NuIG1hbnVhbC4KCiMjIFNhY2FyIHVuIHZhbG9yIHJlbGFjaW9uYWRvCgo+IMKrUGFyYSBjYWRhIHZlbnRhLCBtdWVzdHJhIGVsIG5vbWJyZSBkZWwgcHJvZHVjdG8uwrsKCiFbTm9tYnJlIGRlIHByb2R1Y3RvIHJlbGFjaW9uYWRvXSguLi8uLi9hc3NldHMvZXhhbXBsZXMvZTAyNS5wbmcpCgpVc2FuZG8gYFJFTEFURURgLCBlbCBhc2lzdGVudGUgdHJhZSBlbCBub21icmUgZGVsIHByb2R1Y3RvIGEgY2FkYSB2ZW50YTogZWwgdGlwbyBkZQpjb3NhIHF1ZSBlbiBFeGNlbCBzaWduaWZpY2EgdW4gQlVTQ0FSViB5IHVuYSBwbGVnYXJpYS4KCiMjIFVuYXMgY3VhbnRhcyBtw6FzLCBwb3JxdWUgc29uIGbDoWNpbGVzCgo+IMKrQ2FudGlkYWQgdG90YWwgdmVuZGlkYSBlbiB0b3RhbC7CuwoKIVtDYW50aWRhZCB0b3RhbF0oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2UwNzQucG5nKQoKPiDCq0N1ZW50YSB2ZW50YXMgY29uIGNhbnRpZGFkIHBvciBlbmNpbWEgZGUgMy7CuwoKIVtDb250YXIgdmVudGFzIGRlIGNhbnRpZGFkIGdyYW5kZV0oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2UwODgucG5nKQoKQ2FkYSB1bmEgdW5hIGZyYXNlIG5vcm1hbCwgY2FkYSB1bmEgdW5hIGNvbnN1bHRhIERBWCByZWFsIGVqZWN1dGFkYSBjb250cmEgZWwgbW9kZWxvCmVuIHZpdm8uCgojIyBVbmEgY3VyaW9zaWRhZDogbGEgZmFtYSB0ZW1pYmxlIGRlIERBWAoKREFYIHRpZW5lIGZhbWEgZGUgc2VyIGRpZsOtY2lsLiBObyBlcyBkaWbDrWNpbCBkZSAqdXNhcio6IGVzIGRpZsOtY2lsICpkb21pbmFyIGVsCmNvbnRleHRvIGRlIGZpbHRybyosIGxhIHJlZ2xhIHN1dGlsIHNvYnJlIHF1w6kgZGF0b3MgdmUgdW4gY8OhbGN1bG8gZW4gY2FkYSBtb21lbnRvLgpQZXJvIGFxdcOtIGVzdMOhIGVsIHNlY3JldG8gZGUgZXN0ZSBsaWJybzogbm8gdGllbmVzIHF1ZSBkb21pbmFybG8uIERlc2NyaWJlcyBsYQpyZXNwdWVzdGE7IGVsIGFzaXN0ZW50ZSBlc2NyaWJlIGVsIERBWCB5IG1hbmVqYSBlbCBjb250ZXh0by4gTGEgZGlmaWN1bHRhZCBwYXNhIGRlCnR1cyBob21icm9zIGEgbG9zIGRlIGxhIGhlcnJhbWllbnRhLgoKLS0tCgojIyBMbyBxdWUgdGUgbGxldmFyw6FzIGRlIGVzdGUgY2Fww610dWxvCgotIFNRTCBoYWJsYSBjb24gYmFzZXMgZGUgZGF0b3M7IERBWCBoYWJsYSBjb24gUG93ZXIgQkkuCi0gQW1ib3Mgc2UgbGVlbiBjZXJjYSBkZWwgaW5nbMOpczogc2VsZWNjaW9uYXIsIGZpbHRyYXIsIGFncnVwYXIsIHRvdGFsaXphci4KLSBUw7ogZGVzY3JpYmVzIGxhIHJlc3B1ZXN0YTsgZWwgYXNpc3RlbnRlIGVzY3JpYmUgeSBlamVjdXRhIGxhIGNvbnN1bHRhLgotIExhcyByZWxhY2lvbmVzIGhhY2VuIHRyaXZpYWxlcyBsYXMgcHJlZ3VudGFzIGVudHJlIHRhYmxhcy4KLSBMYSBwYXJ0ZSBkaWbDrWNpbCBkZSBEQVggYWhvcmEgZXMgcHJvYmxlbWEgZGUgbGEgaGVycmFtaWVudGEsIG5vIHR1eW8uCgpTaWd1aWVudGU6IGxhIGhvamEgZGUgY8OhbGN1bG86IGRvbmRlIGNhc2kgdG9kb3MgZW1waWV6YW4sIHkgZWwgbXVybyBkb25kZSBjYXNpIHRvZG9zCm5lY2VzaXRhbiBhbGdvIG3DoXMuCg==
+# 9. Hacer preguntas con SQL y DAX
+
+Una vez que los datos están dentro y cableados, les haces preguntas. Hay dos
+lenguajes que deberías reconocer: **SQL** para bases de datos, y **DAX** para Power
+BI. Ya no necesitas escribirlos a mano: el asistente lo hace. Pero deberías
+entender qué hacen, para poder preguntar bien y leer las respuestas.
+
+## SQL: el lenguaje de las bases de datos
+
+**SQL** (Structured Query Language) es la forma de hablar con las bases de datos
+desde los años 1970. Se lee casi como inglés:
+
+- `SELECT` — qué columnas quieres
+- `FROM` — de qué tabla
+- `WHERE` — qué filas conservar
+- `GROUP BY` — cómo agrupar y totalizar
+
+Un clásico: *«ventas totales por región»* es un SELECT, un JOIN a la tabla de
+región y un GROUP BY. SQL está en todas partes: si tu empresa tiene una base de
+datos, SQL es como la lees.
+
+## DAX: el lenguaje de Power BI
+
+**DAX** (Data Analysis Expressions) es el lenguaje dentro de Power BI. Parece
+distinto de SQL pero hace el mismo trabajo: pedir un número, obtener un número. DAX
+se construye alrededor de **medidas**: cálculos con nombre que puedes reutilizar.
+`SUM`, `AVERAGE`, `COUNT`, `CALCULATE` son sus caballos de batalla.
+
+Lo hermoso: no tienes que escribir DAX. Describes la respuesta que quieres, y el
+asistente escribe y ejecuta el DAX por ti. Veámoslo.
+
+## Contar y sumar
+
+> «¿Cuántas filas hay en Sales?»
+
+![Contar filas](../../assets/examples/e020.png)
+
+Sesenta registros de ventas. Simple, instantáneo.
+
+> «¿Cuál es el total de la columna Amount?»
+
+![Sumar Amount](../../assets/examples/e021.png)
+
+€22,023 en ventas totales. El tipo de número que antes significaba una tabla
+dinámica y diez minutos; ahora es una frase.
+
+## Clasificar y filtrar
+
+> «Top 3 productos por ventas totales.»
+
+![Top productos](../../assets/examples/e022.png)
+
+El asistente los clasifica por ti. (Fíjate en que devuelve la clasificación completa
+para que veas el panorama entero, no solo la franja de arriba.)
+
+> «Muéstrame ventas mayores de 500.»
+
+![Ventas sobre 500](../../assets/examples/e023.png)
+
+Un filtro, ejecutado en vivo, que devuelve cada venta grande. Así es como
+encuentras los atípicos y las ballenas.
+
+## Agrupar a través de una relación
+
+> «Ventas totales por ciudad de la tienda.»
+
+![Ventas por ciudad](../../assets/examples/e024.png)
+
+Este es el momento en que el modelo rinde: el asistente cruza la relación
+Sales→Stores y totaliza por ciudad, sin fusión manual.
+
+## Sacar un valor relacionado
+
+> «Para cada venta, muestra el nombre del producto.»
+
+![Nombre de producto relacionado](../../assets/examples/e025.png)
+
+Usando `RELATED`, el asistente trae el nombre del producto a cada venta: el tipo de
+cosa que en Excel significa un BUSCARV y una plegaria.
+
+## Unas cuantas más, porque son fáciles
+
+> «Cantidad total vendida en total.»
+
+![Cantidad total](../../assets/examples/e074.png)
+
+> «Cuenta ventas con cantidad por encima de 3.»
+
+![Contar ventas de cantidad grande](../../assets/examples/e088.png)
+
+Cada una una frase normal, cada una una consulta DAX real ejecutada contra el modelo
+en vivo.
+
+## Una curiosidad: la fama temible de DAX
+
+DAX tiene fama de ser difícil. No es difícil de *usar*: es difícil *dominar el
+contexto de filtro*, la regla sutil sobre qué datos ve un cálculo en cada momento.
+Pero aquí está el secreto de este libro: no tienes que dominarlo. Describes la
+respuesta; el asistente escribe el DAX y maneja el contexto. La dificultad pasa de
+tus hombros a los de la herramienta.
+
+---
+
+## Lo que te llevarás de este capítulo
+
+- SQL habla con bases de datos; DAX habla con Power BI.
+- Ambos se leen cerca del inglés: seleccionar, filtrar, agrupar, totalizar.
+- Tú describes la respuesta; el asistente escribe y ejecuta la consulta.
+- Las relaciones hacen triviales las preguntas entre tablas.
+- La parte difícil de DAX ahora es problema de la herramienta, no tuyo.
+
+Siguiente: la hoja de cálculo: donde casi todos empiezan, y el muro donde casi todos
+necesitan algo más.

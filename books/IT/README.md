@@ -1,1 +1,66 @@
-IyBJbCBkYXRhIGFuYWx5c3QgY2hlIGZpbmdlIGRpIGxhdm9yYXJlCgoqSWwgbGlicm8gY2hlIGlsIHR1byBjYXBvIG5vbiBkb3ZyZWJiZSBzYXBlcmUgY2hlIGVzaXN0ZSoKCk9nbmkgY2FwaXRvbG8gw6ggdW4gZmlsZSBzZXBhcmF0by4gTCdvcmRpbmUgZGVpIGxpbmsgcXVpIHNvdHRvIMOoIGwnb3JkaW5lIGRlbApsaWJybywgaWRlbnRpY28gbmVsIFBERiBwZXIgbGEgbGV0dHVyYSwgbmVsbCdFUFVCIGUgbmVsIFBERiBwZXIgbGEgc3RhbXBhLgoKIyMgVW5hIG5vdGEgc3VsbG8gc3RydW1lbnRvIGRpZXRybyBxdWVzdG8gbGlicm8KCi0gW1VuYSBub3RhIHN1bGxvIHN0cnVtZW50byBkaWV0cm8gcXVlc3RvIGxpYnJvXShwcmVmYWNlLWFnZW50YnJpZGdlLm1kKQoKIyMgUGFydGUgSSDigJQgSWwgbWVzdGllcmUgZGVsIGRhdGEgYW5hbHlzdAoKMS4gW0Nvc2EgZmEgZGF2dmVybyB1biBkYXRhIGFuYWx5c3RdKGNoMDEtd2hhdC1hLWRhdGEtYW5hbHlzdC1kb2VzLm1kKQoyLiBbVW5hIGJyZXZlIHN0b3JpYTogZGFnbGkgYW50aWNoaSBjb250YWJpbGkgYWkgZGF0YSBhbmFseXN0XShjaDAyLWEtc2hvcnQtaGlzdG9yeS1vZi1kYXRhLWFuYWx5c2lzLm1kKQozLiBbUGVuc2FyZSBpbiB0ZXJtaW5pIGRpIGRhdGldKGNoMDMtdGhpbmtpbmctaW4tZGF0YS5tZCkKNC4gW1N0YXRpc3RpY2Egc2VuemEgZG9sb3JlXShjaDA0LXN0YXRpc3RpY3Mtd2l0aG91dC10aGUtcGFpbi5tZCkKNS4gW0xhIG1lbnRlIGFuYWxpdGljYTogdHJhc2Zvcm1hcmUgbGUgZG9tYW5kZSBpbiBudW1lcmldKGNoMDUtdGhlLWFuYWx5dGljYWwtbWluZC5tZCkKCiMjIFBhcnRlIElJIOKAlCBEYXRpLCBxdWFsaXTDoCBlIG1lc3NhIGEgcHVudG8KCjYuIFtEYSBkb3ZlIGFycml2YW5vIGkgZGF0aV0oY2gwNi13aGVyZS1kYXRhLWNvbWVzLWZyb20ubWQpCjcuIFtEYXRpIHNwb3JjaGkgZSBjb21lIHB1bGlybGldKGNoMDctZGlydHktZGF0YS1hbmQtY2xlYW5pbmcubWQpCjguIFtNb2RlbGxpLCB0YWJlbGxlIGUgcmVsYXppb25pXShjaDA4LW1vZGVscy10YWJsZXMtcmVsYXRpb25zaGlwcy5tZCkKOS4gW0ZhcmUgZG9tYW5kZSBjb24gU1FMIGUgREFYXShjaDA5LWFza2luZy1xdWVzdGlvbnMtd2l0aC1zcWwtYW5kLWRheC5tZCkKMTAuIFtGb2dsaSBkaSBjYWxjb2xvLCBFeGNlbCBlIGlsIG11cm8gY29udHJvIGN1aSBzYmF0dGVyZV0oY2gxMC1zcHJlYWRzaGVldHMtYW5kLXRoZS13YWxsLm1kKQoKIyMgUGFydGUgSUlJIOKAlCBBbmFsaXNpIGUgbWV0cmljaGUKCjExLiBbTGUgbWV0cmljaGUgY2hlIGNvbnRhbm9dKGNoMTEtbWV0cmljcy10aGF0LW1hdHRlci5tZCkKMTIuIFtRdWF0dHJvIHRpcGkgZGkgYW5hbGlzaV0oY2gxMi1mb3VyLWtpbmRzLW9mLWFuYWx5c2lzLm1kKQoxMy4gW0Nvbm9zY2VyZSBpIHByb3ByaSBjbGllbnRpXShjaDEzLWtub3dpbmcteW91ci1jdXN0b21lcnMubWQpCjE0LiBbVGVuZGVuemUsIHRlbXBvIGUgc3RhZ2lvbmFsaXTDoF0oY2gxNC10cmVuZHMtdGltZS1zZWFzb25hbGl0eS5tZCkKMTUuIFtUZXN0LCBjYXNvIGUgYXZlcmUgcmFnaW9uZV0oY2gxNS10ZXN0aW5nLWNoYW5jZS1hbmQtYmVpbmctcmlnaHQubWQpCgojIyBQYXJ0ZSBJViDigJQgUG93ZXIgQkkgZSB2ZWRlcmUgaSB0dW9pIGRhdGkKCjE2LiBbUG93ZXIgQkkgaW4gcGFyb2xlIHNlbXBsaWNpXShjaDE2LXBvd2VyLWJpLWluLXBsYWluLWVuZ2xpc2gubWQpCjE3LiBbQ29ubmV0dGVyc2kgYWkgcHJvcHJpIGRhdGldKGNoMTctY29ubmVjdGluZy10by15b3VyLWRhdGEubWQpCjE4LiBbTW9kZWxsYXJlIGkgZGF0aSBpbiBQb3dlciBCSV0oY2gxOC1tb2RlbGxpbmctZGF0YS1pbi1wb3dlci1iaS5tZCkKMTkuIFtEQVg6IGlsIGxpbmd1YWdnaW8gZGlldHJvIGkgbnVtZXJpXShjaDE5LWRheC1iZWhpbmQtdGhlLW51bWJlcnMubWQpCjIwLiBbU2NlZ2xpZXJlIGlsIGdyYWZpY28gZ2l1c3RvXShjaDIwLWNob29zaW5nLXRoZS1yaWdodC1jaGFydC5tZCkKMjEuIFtSZXBvcnQgZSBkYXNoYm9hcmQgY2hlIGxhIGdlbnRlIHVzYSBkYXZ2ZXJvXShjaDIxLXJlcG9ydHMtYW5kLWRhc2hib2FyZHMubWQpCgojIyBQYXJ0ZSBWIOKAlCBMYSByaXZvbHV6aW9uZSBhZ2VudGljYSBlIGxhIHR1YSBjYXJyaWVyYQoKMjIuIFtMJ2FzY2VzYSBkZWxsJ2Fzc2lzdGVudGUgQUldKGNoMjItcmlzZS1vZi10aGUtYWktYXNzaXN0YW50Lm1kKQoyMy4gW0Nvbm9zY2kgQWdlbnRCcmlkZ2UgZSBQb3dlckJJVG9vbF0oY2gyMy1tZWV0LWFnZW50YnJpZGdlLXBvd2VyYml0b29sLm1kKQoyNC4gW0F1dG9tYXRpenphcmUgbGEgZ2lvcm5hdGEgZGVsbCdhbmFsaXN0YV0oY2gyNC1hdXRvbWF0aW5nLXRoZS1hbmFseXN0cy1kYXkubWQpCjI1LiBbU3Rvcnl0ZWxsaW5nLCBldGljYSBlIGdvdmVybmFuY2VdKGNoMjUtc3Rvcnl0ZWxsaW5nLWV0aGljcy1nb3Zlcm5hbmNlLm1kKQoyNi4gW0xhIHR1YSBjYXJyaWVyYSBkaSBkYXRhIGFuYWx5c3RdKGNoMjYteW91ci1jYXJlZXItYXMtYS1kYXRhLWFuYWx5c3QubWQpCgojIyBDb25jbHVzaW9uZQoKLSBbQ29uY2x1c2lvbmU6IGwnYW5hbGlzdGEgY2hlIGhhIHNtZXNzbyBkaSBmaW5nZXJlXShjb25jbHVzaW9uLm1kKQoKIyMgQXBwZW5kaWNpCgotIFtBLiBHbG9zc2FyaW8gZGVpIHRlcm1pbmldKGFwcGVuZGl4LWEtZ2xvc3NhcnkubWQpCi0gW0IuIENoZWNrbGlzdCBkZWxsYSBxdWFsaXTDoCBkZWkgZGF0aV0oYXBwZW5kaXgtYi1kYXRhLXF1YWxpdHktY2hlY2tsaXN0Lm1kKQotIFtDLiBDaGVja2xpc3QgZGVsbGEgZGFzaGJvYXJkXShhcHBlbmRpeC1jLWRhc2hib2FyZC1jaGVja2xpc3QubWQpCi0gW0QuIENhc2kgcmVhbGkgcGVyIHNldHRvcmVdKGFwcGVuZGl4LWQtcmVhbC1jYXNlcy1ieS1zZWN0b3IubWQpCi0gW0UuIEVzZXJjaXppIGd1aWRhdGldKGFwcGVuZGl4LWUtZ3VpZGVkLWV4ZXJjaXNlcy5tZCkKLSBbRi4gU29sdXppb25pIGRlZ2xpIGVzZXJjaXppXShhcHBlbmRpeC1mLWV4ZXJjaXNlLXNvbHV0aW9ucy5tZCkKLSBbRy4gVW4gbW9kZWxsbyBkaSBwcm9nZXR0byBwZXIgaWwgcG9ydGZvbGlvXShhcHBlbmRpeC1nLXBvcnRmb2xpby1wcm9qZWN0LW1vZGVsLm1kKQotIFtILiBEb21hbmRlIGZyZXF1ZW50aSBkZWkgY29sbG9xdWldKGFwcGVuZGl4LWgtaW50ZXJ2aWV3LWZhcXMubWQpCg==
+# Il data analyst che finge di lavorare
+
+*Il libro che il tuo capo non dovrebbe sapere che esiste*
+
+Ogni capitolo è un file separato. L'ordine dei link qui sotto è l'ordine del
+libro, identico nel PDF per la lettura, nell'EPUB e nel PDF per la stampa.
+
+## Una nota sullo strumento dietro questo libro
+
+- [Una nota sullo strumento dietro questo libro](preface-agentbridge.md)
+
+## Parte I — Il mestiere del data analyst
+
+1. [Cosa fa davvero un data analyst](ch01-what-a-data-analyst-does.md)
+2. [Una breve storia: dagli antichi contabili ai data analyst](ch02-a-short-history-of-data-analysis.md)
+3. [Pensare in termini di dati](ch03-thinking-in-data.md)
+4. [Statistica senza dolore](ch04-statistics-without-the-pain.md)
+5. [La mente analitica: trasformare le domande in numeri](ch05-the-analytical-mind.md)
+
+## Parte II — Dati, qualità e messa a punto
+
+6. [Da dove arrivano i dati](ch06-where-data-comes-from.md)
+7. [Dati sporchi e come pulirli](ch07-dirty-data-and-cleaning.md)
+8. [Modelli, tabelle e relazioni](ch08-models-tables-relationships.md)
+9. [Fare domande con SQL e DAX](ch09-asking-questions-with-sql-and-dax.md)
+10. [Fogli di calcolo, Excel e il muro contro cui sbattere](ch10-spreadsheets-and-the-wall.md)
+
+## Parte III — Analisi e metriche
+
+11. [Le metriche che contano](ch11-metrics-that-matter.md)
+12. [Quattro tipi di analisi](ch12-four-kinds-of-analysis.md)
+13. [Conoscere i propri clienti](ch13-knowing-your-customers.md)
+14. [Tendenze, tempo e stagionalità](ch14-trends-time-seasonality.md)
+15. [Test, caso e avere ragione](ch15-testing-chance-and-being-right.md)
+
+## Parte IV — Power BI e vedere i tuoi dati
+
+16. [Power BI in parole semplici](ch16-power-bi-in-plain-english.md)
+17. [Connettersi ai propri dati](ch17-connecting-to-your-data.md)
+18. [Modellare i dati in Power BI](ch18-modelling-data-in-power-bi.md)
+19. [DAX: il linguaggio dietro i numeri](ch19-dax-behind-the-numbers.md)
+20. [Scegliere il grafico giusto](ch20-choosing-the-right-chart.md)
+21. [Report e dashboard che la gente usa davvero](ch21-reports-and-dashboards.md)
+
+## Parte V — La rivoluzione agentica e la tua carriera
+
+22. [L'ascesa dell'assistente AI](ch22-rise-of-the-ai-assistant.md)
+23. [Conosci AgentBridge e PowerBITool](ch23-meet-agentbridge-powerbitool.md)
+24. [Automatizzare la giornata dell'analista](ch24-automating-the-analysts-day.md)
+25. [Storytelling, etica e governance](ch25-storytelling-ethics-governance.md)
+26. [La tua carriera di data analyst](ch26-your-career-as-a-data-analyst.md)
+
+## Conclusione
+
+- [Conclusione: l'analista che ha smesso di fingere](conclusion.md)
+
+## Appendici
+
+- [A. Glossario dei termini](appendix-a-glossary.md)
+- [B. Checklist della qualità dei dati](appendix-b-data-quality-checklist.md)
+- [C. Checklist della dashboard](appendix-c-dashboard-checklist.md)
+- [D. Casi reali per settore](appendix-d-real-cases-by-sector.md)
+- [E. Esercizi guidati](appendix-e-guided-exercises.md)
+- [F. Soluzioni degli esercizi](appendix-f-exercise-solutions.md)
+- [G. Un modello di progetto per il portfolio](appendix-g-portfolio-project-model.md)
+- [H. Domande frequenti dei colloqui](appendix-h-interview-faqs.md)

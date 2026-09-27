@@ -1,1 +1,101 @@
-IyAxOC4gTW9kZWxsaW5nIERhdGEgaW4gUG93ZXIgQkkKCk1vZGVsbGluZyBpcyB3aGVyZSB0aGUgYW5hbHlzaXMgaXMgd29uIG9yIGxvc3QuIEEgZ29vZCBtb2RlbCBtYWtlcyBldmVyeSBxdWVzdGlvbgplYXN5OyBhIGJhZCBtb2RlbCBtYWtlcyBldmVyeSBxdWVzdGlvbiBhIGZpZ2h0LiBUaGlzIGNoYXB0ZXIgc2hvd3MgdGhlIGFzc2lzdGFudCBhcwphIGNhcmVmdWwgbW9kZWxsZXIg4oCUIG9uZSB0aGF0IG5vdCBvbmx5IGJ1aWxkcyB0aGUgbW9kZWwgYnV0IGRvY3VtZW50cyBpdCBhbmQgY2hlY2tzCml0IGFnYWluc3QgYmVzdCBwcmFjdGljZXMuCgojIyBXaGF0IGEgZ29vZCBtb2RlbCBsb29rcyBsaWtlCgpZb3UgbWV0IHRoZSBzdGFyIHNjaGVtYSBpbiBDaGFwdGVyIDguIEluIFBvd2VyIEJJLCBhIGdvb2QgbW9kZWwgbWVhbnM6CgotIEEgY2xlYW4gKipmYWN0IHRhYmxlKiogKHRoZSBudW1iZXJzOiBzYWxlcywgdHJhbnNhY3Rpb25zKS4KLSBUaWR5ICoqZGltZW5zaW9uIHRhYmxlcyoqICh0aGUgZGVzY3JpcHRpb25zOiBwcm9kdWN0cywgY3VzdG9tZXJzLCBkYXRlcykuCi0gKipSZWxhdGlvbnNoaXBzKiogd2lyZWQgY29ycmVjdGx5IChtYW55LXRvLW9uZSwgbm8gYW1iaWd1aXR5KS4KLSAqKk1lYXN1cmVzKiogd2l0aCBjbGVhciBuYW1lcywgZm9ybWF0cywgYW5kIGRlc2NyaXB0aW9ucy4KLSAqKkRvY3VtZW50YXRpb24qKiBzbyB0aGUgbmV4dCBwZXJzb24gKG9yIHlvdSwgaW4gc2l4IG1vbnRocykgdW5kZXJzdGFuZHMgaXQuCgpUaGUgYXNzaXN0YW50IGhlbHBzIHdpdGggYWxsIG9mIHRoZXNlLCBsaXZlLgoKIyMgRG9jdW1lbnRpbmcgYXMgeW91IGdvCgpHb29kIG1vZGVscyBhcmUgZG9jdW1lbnRlZCBtb2RlbHMuIFRoZSBhc3Npc3RhbnQgY2FuIGFkZCBkZXNjcmlwdGlvbnMgdG8gdGFibGVzIGFuZApjb2x1bW5zIG9uIHJlcXVlc3Q6Cgo+ICJBZGQgYSBkZXNjcmlwdGlvbiB0byB0aGUgU2FsZXMgdGFibGUuIgoKIVtUYWJsZSBkZXNjcmlwdGlvbl0oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2UwNDYucG5nKQoKPiAiRGVzY3JpYmUgdGhlIEFtb3VudCBjb2x1bW4uIgoKIVtDb2x1bW4gZGVzY3JpcHRpb25dKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9lMDQ3LnBuZykKClRoZXNlIHNtYWxsIG5vdGVzIHNob3cgdXAgaW4gdGhlIG1vZGVsIGFuZCBpbiB0aGUgZGF0YSBkaWN0aW9uYXJ5LiBUaGV5IGFyZSB0aGUKZGlmZmVyZW5jZSBiZXR3ZWVuIGEgbW9kZWwgdGhhdCdzIGEgYmxhY2sgYm94IGFuZCBvbmUgdGhhdCdzIGEgc2hhcmVkIGFzc2V0LgoKPiAiU2V0IGEgZGVzY3JpcHRpb24gb24gdGhlIFByb2R1Y3RzIHRhYmxlLiIKCiFbUHJvZHVjdHMgZGVzY3JpcHRpb25dKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9lMDgwLnBuZykKCiMjIFRoZSBkYXRhIGRpY3Rpb25hcnksIHRhYmxlIGJ5IHRhYmxlCgpZb3UgY2FuIGRvY3VtZW50IHRoZSB3aG9sZSBtb2RlbCBvciBhIHNpbmdsZSB0YWJsZToKCj4gIkdlbmVyYXRlIGEgZGF0YSBkaWN0aW9uYXJ5IGZvciBQcm9kdWN0cyBvbmx5LiIKCiFbUHJvZHVjdHMgZGljdGlvbmFyeV0oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2UwNDUucG5nKQoKQSBmb2N1c2VkIGRpY3Rpb25hcnkgZm9yIG9uZSB0YWJsZSDigJQgaGFuZHkgd2hlbiB5b3UncmUgaGFuZGluZyBhIHBpZWNlIG9mIHRoZSBtb2RlbAp0byBhIGNvbGxlYWd1ZS4KCiMjIFRoZSBoZWFsdGggY2hlY2s6IGJlc3QgcHJhY3RpY2VzCgpUaGlzIGlzIG9uZSBvZiB0aGUgYXNzaXN0YW50J3MgbW9zdCB2YWx1YWJsZSBtb3Zlcy4gSXQgc2NhbnMgdGhlIHdob2xlIG1vZGVsIGFuZApyZXBvcnRzIHByb2JsZW1zIGFuZCB0aXBzOgoKPiAiQ2hlY2sgdGhlIG1vZGVsIGFnYWluc3QgYmVzdCBwcmFjdGljZXMuIgoKIVtCZXN0IHByYWN0aWNlcyByZXBvcnRdKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9lMDQ4LnBuZykKCkl0IGZsYWdzIG1lYXN1cmVzIHdpdGggbm8gZm9ybWF0IHN0cmluZywgdGFibGVzIHdpdGggbm8gZGVzY3JpcHRpb24sIGRpc2Nvbm5lY3RlZAp0YWJsZXMg4oCUIHRoZSBzbWFsbCBzaW5zIHRoYXQgbWFrZSBhIG1vZGVsIGhhcmQgdG8gdXNlLiBUaGlzIGlzIGxpa2UgYSBsaW50ZXIgZm9yCnlvdXIgZGF0YSBtb2RlbDogaXQgd29uJ3Qgc3RvcCB5b3Ugd29ya2luZywgYnV0IGl0IHRlbGxzIHlvdSB3aGVyZSB0aGUgbW9kZWwgaXMKbWVzc3kgYmVmb3JlIHRoZSBtZXNzIGJpdGVzIHlvdS4KCiMjIFJlLWNoZWNraW5nIGFmdGVyIGNoYW5nZXMKCkFzIHlvdSBidWlsZCwgdGhlIG1vZGVsIGRyaWZ0cy4gUmUtcnVubmluZyB0aGUgY2hlY2sga2VlcHMgaXQgaG9uZXN0OgoKPiAiQmVzdCBwcmFjdGljZXMgYWZ0ZXIgYWRkaW5nIG1lYXN1cmVzLiIKCiFbQmVzdCBwcmFjdGljZXMgYWZ0ZXIgY2hhbmdlc10oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2UwOTMucG5nKQoKQSBxdWljayByZS1zY2FuIHNob3dzIHdoYXQgeW91ciBsYXRlc3QgY2hhbmdlcyBpbnRyb2R1Y2VkLiBCdWlsZCwgY2hlY2ssIGZpeCwKcmVwZWF0IOKAlCB0aGUgcmh5dGhtIG9mIGEgY2xlYW4gbW9kZWwuCgojIyBBIGN1cmlvc2l0eTogdGhlIGJ1cyBmYWN0b3IKClRoZXJlJ3MgYSBtZXRyaWMgaW4gc29mdHdhcmUgdGVhbXMgY2FsbGVkIHRoZSAqKmJ1cyBmYWN0b3IqKjogaG93IG1hbnkgcGVvcGxlIHdvdWxkCmhhdmUgdG8gYmUgImhpdCBieSBhIGJ1cyIgYmVmb3JlIGEgcHJvamVjdCBpcyBzdHVjayBiZWNhdXNlIG9ubHkgb25lIHBlcnNvbgp1bmRlcnN0YW5kcyBpdC4gQSBtb2RlbCB3aXRoIG5vIGRvY3VtZW50YXRpb24gaGFzIGEgYnVzIGZhY3RvciBvZiBvbmUg4oCUIHRlcnJpZnlpbmcuCkV2ZXJ5IGRlc2NyaXB0aW9uIGFuZCBkaWN0aW9uYXJ5IGVudHJ5IHRoZSBhc3Npc3RhbnQgd3JpdGVzIHJhaXNlcyB0aGF0IG51bWJlci4KWW91J3JlIG5vdCBqdXN0IHRpZHlpbmc7IHlvdSdyZSBtYWtpbmcgdGhlIG1vZGVsIHN1cnZpdmFibGUuCgojIyBXaHkgdGhlIGFzc2lzdGFudCBpcyBhIGdvb2QgbW9kZWxsZXIKCkEgaHVtYW4gbW9kZWxsZXIgdW5kZXIgZGVhZGxpbmUgcHJlc3N1cmUgc2tpcHMgZG9jdW1lbnRhdGlvbiBhbmQgYmVzdCBwcmFjdGljZXMuClRoZSBhc3Npc3RhbnQgZG9lc24ndCBnZXQgdGlyZWQsIGRvZXNuJ3Qgc2tpcCBzdGVwcywgYW5kIGNoZWNrcyBldmVyeXRoaW5nLiBQYWlyIGEKaHVtYW4ncyBqdWRnZW1lbnQgYWJvdXQgKndoYXQqIHRvIG1vZGVsIHdpdGggdGhlIGFzc2lzdGFudCdzIGRpbGlnZW5jZSBhYm91dAoqZG9jdW1lbnRpbmcgYW5kIGNoZWNraW5nKiBpdCwgYW5kIHlvdSBnZXQgbW9kZWxzIHRoYXQgc3RheSBjbGVhbi4KCi0tLQoKIyMgV2hhdCB5b3UnbGwgY2FycnkgZnJvbSB0aGlzIGNoYXB0ZXIKCi0gQSBnb29kIG1vZGVsOiBjbGVhbiBmYWN0ICsgZGltZW5zaW9ucywgd2lyZWQgcmlnaHQsIGRvY3VtZW50ZWQuCi0gQWRkIGRlc2NyaXB0aW9ucyB0byB0YWJsZXMsIGNvbHVtbnMsIGFuZCBtZWFzdXJlcyBhcyB5b3UgZ28uCi0gR2VuZXJhdGUgZGF0YSBkaWN0aW9uYXJpZXMgdG8gZG9jdW1lbnQgdGhlIHdob2xlIG1vZGVsIG9yIG9uZSB0YWJsZS4KLSBSdW4gdGhlIGJlc3QtcHJhY3RpY2VzIGNoZWNrIGxpa2UgYSBsaW50ZXIg4oCUIG9mdGVuLgotIERvY3VtZW50YXRpb24gcmFpc2VzIHRoZSBidXMgZmFjdG9yOyBpdCBtYWtlcyB0aGUgbW9kZWwgc3Vydml2YWJsZS4KCk5leHQ6IERBWCwgdGhlIGxhbmd1YWdlIGJlaGluZCB0aGUgbnVtYmVycyDigJQgYW5kIGhvdyB5b3UgZG9uJ3QgaGF2ZSB0byB3cml0ZSBpdC4K
+# 18. Modelling Data in Power BI
+
+Modelling is where the analysis is won or lost. A good model makes every question
+easy; a bad model makes every question a fight. This chapter shows the assistant as
+a careful modeller — one that not only builds the model but documents it and checks
+it against best practices.
+
+## What a good model looks like
+
+You met the star schema in Chapter 8. In Power BI, a good model means:
+
+- A clean **fact table** (the numbers: sales, transactions).
+- Tidy **dimension tables** (the descriptions: products, customers, dates).
+- **Relationships** wired correctly (many-to-one, no ambiguity).
+- **Measures** with clear names, formats, and descriptions.
+- **Documentation** so the next person (or you, in six months) understands it.
+
+The assistant helps with all of these, live.
+
+## Documenting as you go
+
+Good models are documented models. The assistant can add descriptions to tables and
+columns on request:
+
+> "Add a description to the Sales table."
+
+![Table description](../../assets/examples/e046.png)
+
+> "Describe the Amount column."
+
+![Column description](../../assets/examples/e047.png)
+
+These small notes show up in the model and in the data dictionary. They are the
+difference between a model that's a black box and one that's a shared asset.
+
+> "Set a description on the Products table."
+
+![Products description](../../assets/examples/e080.png)
+
+## The data dictionary, table by table
+
+You can document the whole model or a single table:
+
+> "Generate a data dictionary for Products only."
+
+![Products dictionary](../../assets/examples/e045.png)
+
+A focused dictionary for one table — handy when you're handing a piece of the model
+to a colleague.
+
+## The health check: best practices
+
+This is one of the assistant's most valuable moves. It scans the whole model and
+reports problems and tips:
+
+> "Check the model against best practices."
+
+![Best practices report](../../assets/examples/e048.png)
+
+It flags measures with no format string, tables with no description, disconnected
+tables — the small sins that make a model hard to use. This is like a linter for
+your data model: it won't stop you working, but it tells you where the model is
+messy before the mess bites you.
+
+## Re-checking after changes
+
+As you build, the model drifts. Re-running the check keeps it honest:
+
+> "Best practices after adding measures."
+
+![Best practices after changes](../../assets/examples/e093.png)
+
+A quick re-scan shows what your latest changes introduced. Build, check, fix,
+repeat — the rhythm of a clean model.
+
+## A curiosity: the bus factor
+
+There's a metric in software teams called the **bus factor**: how many people would
+have to be "hit by a bus" before a project is stuck because only one person
+understands it. A model with no documentation has a bus factor of one — terrifying.
+Every description and dictionary entry the assistant writes raises that number.
+You're not just tidying; you're making the model survivable.
+
+## Why the assistant is a good modeller
+
+A human modeller under deadline pressure skips documentation and best practices.
+The assistant doesn't get tired, doesn't skip steps, and checks everything. Pair a
+human's judgement about *what* to model with the assistant's diligence about
+*documenting and checking* it, and you get models that stay clean.
+
+---
+
+## What you'll carry from this chapter
+
+- A good model: clean fact + dimensions, wired right, documented.
+- Add descriptions to tables, columns, and measures as you go.
+- Generate data dictionaries to document the whole model or one table.
+- Run the best-practices check like a linter — often.
+- Documentation raises the bus factor; it makes the model survivable.
+
+Next: DAX, the language behind the numbers — and how you don't have to write it.

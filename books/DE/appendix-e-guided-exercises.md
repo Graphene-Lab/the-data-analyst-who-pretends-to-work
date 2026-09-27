@@ -1,1 +1,84 @@
-IyBBbmhhbmcgRSDigJQgR2Vmw7xocnRlIMOcYnVuZ2VuCgrDnGJlIGRhcyBhZ2VudGlzY2hlIE11c3Rlci4gSmVkZSDDnGJ1bmcgZ2lidCBkaXIgZWluIFppZWwgdW5kIGVpbmVuIEhpbndlaXMuIFZlcnN1Y2ggZXMKZXJzdCBzZWxic3Q7IGRpZSBMw7ZzdW5nZW4gc2luZCBpbiBBbmhhbmcgRi4KCiMjIMOcYnVuZyAxIOKAlCBEYXMgTW9kZWxsIGxlc2VuCgoqKlppZWw6KiogRGljaCBtaXQgZWluZW0gUG93ZXItQkktQmVyaWNodCB2ZXJiaW5kZW4gdW5kIGplZGUgVGFiZWxsZSBtaXQgaWhyZXIKWmVpbGVuemFobCBhdWZsaXN0ZW4uCioqSGlud2VpczoqKiBGcmFnIGluIGVpbmVtIFNhdHogbmFjaCBkZW4gVGFiZWxsZW4gdW5kIGlocmVuIFplaWxlbi4KKipEdSBsZXJuc3Q6KiogVmVyYmluZHVuZyB1bmQgRW50ZGVja3VuZy4KCiMjIMOcYnVuZyAyIOKAlCBFaW5lIFRhYmVsbGUgcHJvZmlsaWVyZW4KCioqWmllbDoqKiBIZXJhdXNmaW5kZW4sIHdpZSB2aWVsZSB2ZXJzY2hpZWRlbmUgS2F0ZWdvcmllbiBlcyBnaWJ0IHVuZCBvYiBpcmdlbmRlaW5lClNwYWx0ZSBMZWVyc3RlbGxlbiBoYXQuCioqSGlud2VpczoqKiBQcm9maWxpZXIgZGllIFRhYmVsbGUgdW5kIGxpZXMgZGllIFNwYWx0ZW4gRGlzdGluY3QgdW5kIEJsYW5rcy4KKipEdSBsZXJuc3Q6KiogRGF0ZW5xdWFsaXTDpHQgYXVmIGVpbmVuIEJsaWNrLgoKIyMgw5xidW5nIDMg4oCUIFRleHQgc8OkdWJlcm4KCioqWmllbDoqKiBFaW5lIFNwYWx0ZSBoaW56dWbDvGdlbiwgZGllIGVpbiBUZXh0ZmVsZCBpbiBHcm/Dn2J1Y2hzdGFiZW4gc2V0enQsIGRhbWl0CnNpZSBzYXViZXIgZ3J1cHBpZXJ0LgoqKkhpbndlaXM6KiogRnJhZyBuYWNoIGVpbmVyIGJlcmVjaG5ldGVuIFNwYWx0ZSBpbSBVUFBFUi1TdGlsLgoqKkR1IGxlcm5zdDoqKiB1bm9yZGVudGxpY2hlIERhdGVuIHN0YW5kYXJkaXNpZXJlbi4KCiMjIMOcYnVuZyA0IOKAlCBFaW5lIFphaGwgaW4gQsOkbmRlciBlaW50ZWlsZW4KCioqWmllbDoqKiBFaW5lIFByZWlzc3BhbHRlIGluIEhpZ2ggLyBNaWQgLyBMb3ctQsOkbmRlciB2ZXJ3YW5kZWxuLgoqKkhpbndlaXM6KiogRnJhZyBuYWNoIGVpbmVyIGJlcmVjaG5ldGVuIFNwYWx0ZSBtaXQgZWluZXIgU2Nod2VsbGVud2VydC1SZWdlbC4KKipEdSBsZXJuc3Q6KiogYXVzIGVpbmVyIFphaGwgZWluZSBicmF1Y2hiYXJlIEthdGVnb3JpZSBtYWNoZW4uCgojIyDDnGJ1bmcgNSDigJQgRWluZSBCZXppZWh1bmcgdmVyZHJhaHRlbgoKKipaaWVsOioqIEVpbmUgVmVya2F1ZnN0YWJlbGxlIG1pdCBlaW5lciBQcm9kdWt0dGFiZWxsZSDDvGJlciBkaWUgZ2VtZWluc2FtZSBJRAp2ZXJiaW5kZW4uCioqSGlud2VpczoqKiBGcmFnIG5hY2ggZWluZXIgdmllbGUtYXVmLWVpbnMtQmV6aWVodW5nIMO8YmVyIGRpZSBwYXNzZW5kZSBTcGFsdGUuCioqRHUgbGVybnN0OioqIGRpZSBWZXJkcmFodHVuZywgZGllIERhdGVuIGZsaWXDn2VuIGzDpHNzdC4KCiMjIMOcYnVuZyA2IOKAlCBFaW4gTWHDnyBiYXVlbgoKKipaaWVsOioqIEVpbiBHZXNhbXR1bXNhdHotTWHDnyBtaXQgRXVyby1Gb3JtYXQgZXJzdGVsbGVuLgoqKkhpbndlaXM6KiogRnJhZyBuYWNoIGVpbmVtIFNVTS1NYcOfIG1pdCBXw6RocnVuZ3Nmb3JtYXQuCioqRHUgbGVybnN0OioqIGRhcyBncnVuZGxlZ2VuZHN0ZSwgd2ljaHRpZ3N0ZSBNYcOfLgoKIyMgw5xidW5nIDcg4oCUIEVpbiBNYcOfIGZpbHRlcm4KCioqWmllbDoqKiBFaW4gTWHDnyBlcnN0ZWxsZW4sIGRhcyBudXIgVmVya8OkdWZlIMO8YmVyIGVpbmVyIFNjaHdlbGxlIHrDpGhsdC4KKipIaW53ZWlzOioqIE51dHogQ0FMQ1VMQVRFIG1pdCBlaW5lciBGaWx0ZXJiZWRpbmd1bmcuCioqRHUgbGVybnN0OioqIGJlZGluZ3RlIEFnZ3JlZ2F0aW9uLgoKIyMgw5xidW5nIDgg4oCUIEFudGVpbCBhbSBHYW56ZW4KCioqWmllbDoqKiBFaW4gTWHDnyBtYWNoZW4sIGRhcyBkZW4gQW50ZWlsIGplZGVyIEthdGVnb3JpZSBhbSBHZXNhbXR1bXNhdHogemVpZ3QuCioqSGlud2VpczoqKiBUZWlsZSBkZW4gZ2VmaWx0ZXJ0ZW4gR2VzYW10IGR1cmNoIGRlbiBBTEwoKS1HZXNhbXQuCioqRHUgbGVybnN0OioqIFRlaWwtw7xiZXItR2FuemUuCgojIyDDnGJ1bmcgOSDigJQgUmFuZ2llcmVuCgoqKlppZWw6KiogRWluZSBSYW5nbGlzdGUgZGVyIFByb2R1a3RlIG5hY2ggVW1zYXR6IHByb2R1emllcmVuLgoqKkhpbndlaXM6KiogRnJhZyBuYWNoIGVpbmVtIFJhbmtpbmcgbWl0IFJBTktYLgoqKkR1IGxlcm5zdDoqKiBuYWNoIGVpbmVyIEtlbm56YWhsIG9yZG5lbi4KCiMjIMOcYnVuZyAxMCDigJQgVmFsaWRpZXJlbiwgYmV2b3IgZHUgc3BlaWNoZXJzdAoKKipaaWVsOioqIFByw7xmZW4sIGRhc3MgZWluZSBGb3JtZWwgZ8O8bHRpZyBpc3QsIGJldm9yIGR1IGRhcyBNYcOfIGVyc3RlbGxzdC4KKipIaW53ZWlzOioqIFZhbGlkaWVyIGVyc3QgZGFzIERBWDsgZXJzdGVsbCBlcyB6d2VpdGVucy4KKipEdSBsZXJuc3Q6KiogZGllIHNpY2hlcmUgUmVpaGVuZm9sZ2UgZGVyIFNjaHJpdHRlLgoKIyMgw5xidW5nIDExIOKAlCBMaW50ZW4KCioqWmllbDoqKiBFaW5lIHJpc2thbnRlIERpdmlzaW9uIGluIGVpbmVyIEZvcm1lbCBmaW5kZW4uCioqSGlud2VpczoqKiBMaW50IGVpbmUgRm9ybWVsLCBkaWUgYC9gIHN0YXR0IERJVklERSBudXR6dC4KKipEdSBsZXJuc3Q6KiogQW50aS1QYXR0ZXJucyBmYW5nZW4uCgojIyDDnGJ1bmcgMTIg4oCUIERva3VtZW50aWVyZW4KCioqWmllbDoqKiBFaW4gRGF0ZW53w7ZydGVyYnVjaCBmw7xyIGRhcyBnYW56ZSBNb2RlbGwgZXJ6ZXVnZW4uCioqSGlud2VpczoqKiBGcmFnIG5hY2ggZGVtIFfDtnJ0ZXJidWNoIHVuZCBsaWVzLCB3YXMgZXMgenVyw7xja2dpYnQuCioqRHUgbGVybnN0OioqIERva3VtZW50YXRpb24gYWxzIEVpbi1TYXR6LUF1ZmdhYmUuCgpBcmJlaXRlIGRpZXNlIGRlciBSZWloZSBuYWNoIGR1cmNoLiBKZWRlIGlzdCBlaW5lIGVjaHRlIEFrdGlvbiBhdWYgZWluZW0gTGl2ZS1Nb2RlbGwK4oCTIGRpZXNlbGJlIEFydCwgZGllIGR1IGluIGRlbiBLYXBpdGVsbiBnZXNlaGVuIGhhc3QuIFdlbm4gZHUgYWxsZSB6d8O2bGYga2FubnN0LAprYW5uc3QgZHUgZGVuIEpvYi4K
+# Anhang E — Geführte Übungen
+
+Übe das agentische Muster. Jede Übung gibt dir ein Ziel und einen Hinweis. Versuch es
+erst selbst; die Lösungen sind in Anhang F.
+
+## Übung 1 — Das Modell lesen
+
+**Ziel:** Dich mit einem Power-BI-Bericht verbinden und jede Tabelle mit ihrer
+Zeilenzahl auflisten.
+**Hinweis:** Frag in einem Satz nach den Tabellen und ihren Zeilen.
+**Du lernst:** Verbindung und Entdeckung.
+
+## Übung 2 — Eine Tabelle profilieren
+
+**Ziel:** Herausfinden, wie viele verschiedene Kategorien es gibt und ob irgendeine
+Spalte Leerstellen hat.
+**Hinweis:** Profilier die Tabelle und lies die Spalten Distinct und Blanks.
+**Du lernst:** Datenqualität auf einen Blick.
+
+## Übung 3 — Text säubern
+
+**Ziel:** Eine Spalte hinzufügen, die ein Textfeld in Großbuchstaben setzt, damit
+sie sauber gruppiert.
+**Hinweis:** Frag nach einer berechneten Spalte im UPPER-Stil.
+**Du lernst:** unordentliche Daten standardisieren.
+
+## Übung 4 — Eine Zahl in Bänder einteilen
+
+**Ziel:** Eine Preisspalte in High / Mid / Low-Bänder verwandeln.
+**Hinweis:** Frag nach einer berechneten Spalte mit einer Schwellenwert-Regel.
+**Du lernst:** aus einer Zahl eine brauchbare Kategorie machen.
+
+## Übung 5 — Eine Beziehung verdrahten
+
+**Ziel:** Eine Verkaufstabelle mit einer Produkttabelle über die gemeinsame ID
+verbinden.
+**Hinweis:** Frag nach einer viele-auf-eins-Beziehung über die passende Spalte.
+**Du lernst:** die Verdrahtung, die Daten fließen lässt.
+
+## Übung 6 — Ein Maß bauen
+
+**Ziel:** Ein Gesamtumsatz-Maß mit Euro-Format erstellen.
+**Hinweis:** Frag nach einem SUM-Maß mit Währungsformat.
+**Du lernst:** das grundlegendste, wichtigste Maß.
+
+## Übung 7 — Ein Maß filtern
+
+**Ziel:** Ein Maß erstellen, das nur Verkäufe über einer Schwelle zählt.
+**Hinweis:** Nutz CALCULATE mit einer Filterbedingung.
+**Du lernst:** bedingte Aggregation.
+
+## Übung 8 — Anteil am Ganzen
+
+**Ziel:** Ein Maß machen, das den Anteil jeder Kategorie am Gesamtumsatz zeigt.
+**Hinweis:** Teile den gefilterten Gesamt durch den ALL()-Gesamt.
+**Du lernst:** Teil-über-Ganze.
+
+## Übung 9 — Rangieren
+
+**Ziel:** Eine Rangliste der Produkte nach Umsatz produzieren.
+**Hinweis:** Frag nach einem Ranking mit RANKX.
+**Du lernst:** nach einer Kennzahl ordnen.
+
+## Übung 10 — Validieren, bevor du speicherst
+
+**Ziel:** Prüfen, dass eine Formel gültig ist, bevor du das Maß erstellst.
+**Hinweis:** Validier erst das DAX; erstell es zweitens.
+**Du lernst:** die sichere Reihenfolge der Schritte.
+
+## Übung 11 — Linten
+
+**Ziel:** Eine riskante Division in einer Formel finden.
+**Hinweis:** Lint eine Formel, die `/` statt DIVIDE nutzt.
+**Du lernst:** Anti-Patterns fangen.
+
+## Übung 12 — Dokumentieren
+
+**Ziel:** Ein Datenwörterbuch für das ganze Modell erzeugen.
+**Hinweis:** Frag nach dem Wörterbuch und lies, was es zurückgibt.
+**Du lernst:** Dokumentation als Ein-Satz-Aufgabe.
+
+Arbeite diese der Reihe nach durch. Jede ist eine echte Aktion auf einem Live-Modell
+– dieselbe Art, die du in den Kapiteln gesehen hast. Wenn du alle zwölf kannst,
+kannst du den Job.

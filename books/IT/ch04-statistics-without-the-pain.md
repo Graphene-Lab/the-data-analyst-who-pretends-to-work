@@ -1,1 +1,99 @@
-IyBTdGF0aXN0aWNhIHNlbnphIGRvbG9yZQoKTm9uIHRpIHNlcnZlIG1vbHRhIHN0YXRpc3RpY2EgcGVyIGVzc2VyZSB1biBidW9uIGFuYWxpc3RhLiBUaSBzZXJ2ZSB1biBwdWdubyBkaQppZGVlLCBjYXBpdGUgYSBmb25kbywgZSBsYSBzYWdnZXp6YSBkaSBzYXBlcmUgcXVhbmRvIHRpIGluZ2FubmFuby4gRWNjbyB0dXR0YSBsYQpjYXNzZXR0YSBkZWdsaSBhdHRyZXp6aSwgaW4gcGFyb2xlIHNlbXBsaWNpLgoKIyMgTGUgdHJlIG1lZGllOiBtZWRpYSwgbWVkaWFuYSwgbW9kYQoKTGEgZ2VudGUgZGljZSAibWVkaWEiIGNvbWUgc2UgY2UgbmUgZm9zc2UgdW5hIHNvbGEuIENlIG5lIHNvbm8gdHJlLCBlIHNjZWdsaWVyZQpxdWVsbGEgc2JhZ2xpYXRhIHB1w7IgbWVudGlyZSBzZW56YSB0ZWNuaWNhbWVudGUgc2JhZ2xpYXJlLgoKLSAqKk1lZGlhKiog4oCUIHNvbW1hIHR1dHRvLCBkaXZpZGkgcGVyIGlsIG51bWVybyBkZWkgY2FzaS4gTGEgbWVkaWEgY2xhc3NpY2EuCi0gKipNZWRpYW5hKiog4oCUIGlsIHZhbG9yZSBjZW50cmFsZSBxdWFuZG8gbGkgbWV0dGkgdHV0dGkgaW4gZmlsYS4gTWV0w6Agc29wcmEsIG1ldMOgCiAgc290dG8uCi0gKipNb2RhKiog4oCUIGlsIHZhbG9yZSBwacO5IGZyZXF1ZW50ZS4KClBlcmNow6kgY29udGE/IEltbWFnaW5hIHVuYSBwaWNjb2xhIGF6aWVuZGEuIERpZWNpIGRpcGVuZGVudGkgZ3VhZGFnbmFubyAzMC4wMDAg4oKsLAplIGlsIGNhcG8gZ3VhZGFnbmEgNTAwLjAwMCDigqwuCgotIExhICoqbWVkaWEqKiBkZWdsaSBzdGlwZW5kaSDDqCA3Mi43Mjcg4oKsOiAicGFnaGlhbW8gYmVuZSEiCi0gTGEgKiptZWRpYW5hKiogZGVnbGkgc3RpcGVuZGkgw6ggMzAuMDAwIOKCrDogbGEgcmVhbHTDoCBkZWwgbGF2b3JhdG9yZSB0aXBpY28uCgpVbiBudW1lcm8gw6ggImNvcnJldHRvIiBlIGwnYWx0cm8gw6ggImNvcnJldHRvIiwgZSByYWNjb250YW5vIHN0b3JpZSBjb21wbGV0YW1lbnRlCmRpdmVyc2UuIFF1YW5kbyBjaSBzb25vIGRpIG1lenpvIHBvY2hpIHZhbG9yaSBlc3RyZW1pIChvdXRsaWVyKSwgbGEgKiptZWRpYW5hKiogZGkKc29saXRvIMOoIHF1ZWxsYSBvbmVzdGEuIFF1YW5kbyBxdWFsY3VubyBjaXRhIHVuYSBtZWRpYSwgY2hpZWRpOiAqbWVkaWEgbyBtZWRpYW5hPyoKCiMjIERpc3BlcnNpb25lOiBsZSBjb3NlIHNvbm8gc3RhYmlsaSBvIHNlbHZhZ2dlPwoKVW5hIG1lZGlhIG5hc2NvbmRlIHF1YW50byBpIG51bWVyaSBzaWFubyBzcGFycGFnbGlhdGkuIER1ZSBzZXJ2aXppIGRpIGNvbnNlZ25hCmhhbm5vIGVudHJhbWJpIHVuYSBtZWRpYSBkaSAzIGdpb3JuaS4gVW5vIGltcGllZ2Egc2VtcHJlIDMgZ2lvcm5pLiBMJ2FsdHJvIGltcGllZ2EKMSBnaW9ybm8gbyA1IGdpb3JuaSBhIGNhc28uIFN0ZXNzYSBtZWRpYSwgZXNwZXJpZW56YSB0b3RhbG1lbnRlIGRpdmVyc2EuCgpMYSBtaXN1cmEgZGkgZGlzcGVyc2lvbmUgY2hlIHVzZXJhaSBkaSBwacO5IMOoIGxhICoqZGV2aWF6aW9uZSBzdGFuZGFyZCoqOiBpbgpwcmF0aWNhLCAicXVhbnRvIGxvbnRhbm8gZGFsbGEgbWVkaWEgc3Rhbm5vIGRpIHNvbGl0byBsZSBjb3NlIi4gRGV2aWF6aW9uZSBzdGFuZGFyZApwaWNjb2xhID0gc3RhYmlsZSwgcHJldmVkaWJpbGUuIEdyYW5kZSA9IHNlbHZhZ2dpYSwgaW5hZmZpZGFiaWxlLiBMZSBtZWRpZSB0aQpkaWNvbm8gaWwgY2VudHJvOyBsYSBkaXNwZXJzaW9uZSB0aSBkaWNlIGlsIHJpc2NoaW8uCgojIyBMYSBjdXJ2YSBhIGNhbXBhbmEgKGUgcGVyY2jDqSBzYWx0YSBmdW9yaSBvdnVucXVlKQoKTW9sdGUgY29zZSByZWFsaSwgYWx0ZXp6ZSwgcHVudGVnZ2kgZGVpIHRlc3QsIGVycm9yaSBkaSBtaXN1cmEsIHNpIGFjY3VtdWxhbm8KYXR0b3JubyBhbCBjZW50cm8gZSBzaSBkaXJhZGFubyBhbGxlIGVzdHJlbWl0w6AsIGZvcm1hbmRvIHVuYSBmb3JtYSBhIGNhbXBhbmEuClF1ZXN0YSDDqCBsYSAqKmRpc3RyaWJ1emlvbmUgbm9ybWFsZSoqLCBlZCDDqCBvdnVucXVlIHBlciB1bmEgcmFnaW9uZSBiZWxsaXNzaW1hOgpxdWFuZG8gdGFudGUgcGljY29sZSBpbmZsdWVuemUgY2FzdWFsaSBzaSBzb21tYW5vLCBpbCByaXN1bHRhdG8gdGVuZGUgYSB1bmEKY2FtcGFuYS4gTm9uIHRpIHNlcnZlIGxhIG1hdGVtYXRpY2EuIFRpIHNlcnZlIGwnaXN0aW50bzogbGEgbWFnZ2lvciBwYXJ0ZSBkZWkgY2FzaQrDqCB2aWNpbm8gYWwgY2VudHJvLCBnbGkgZXN0cmVtaSBzb25vIHJhcmksIGUgdW4gdmFsb3JlIG1vbHRvIGxvbnRhbm8gbmVsbGEgY29kYQptZXJpdGEgZGkgZXNzZXJlIGluZGFnYXRvLgoKIyMgT3V0bGllcjogbCd1bmljbyBudW1lcm8gc3RyYW5vCgpVbiAqKm91dGxpZXIqKiDDqCB1biB2YWxvcmUgbG9udGFubyBkYWdsaSBhbHRyaS4gVW4gY2xpZW50ZSBjb21wcmEgNTAuMDAwIOKCrCBtZW50cmUKdHV0dGkgZ2xpIGFsdHJpIGNvbXByYW5vIDUwIOKCrC4gVW5hIGNvbnNlZ25hIGltcGllZ2EgMzAgZ2lvcm5pIG1lbnRyZSBsZSBhbHRyZQppbXBpZWdhbm8gMy4gR2xpIG91dGxpZXIgcG9zc29ubyBlc3NlcmU6Ci0gKipFcnJvcmkqKiDigJQgdW4gcmVmdXNvLCB1biByZWNvcmQgZGkgcHJvdmEsIHVuYSB2aXJnb2xhIGRlY2ltYWxlIHNwb3N0YXRhLgotICoqUmVhbGkgbWEgcmFyaSoqIOKAlCB1biBjbGllbnRlIGJhbGVuYSwgdW4gZGlzYXN0cm8gZ2VudWluby4KCkd1YXJkYSBzZW1wcmUgZ2xpIG91dGxpZXIgcHJpbWEgZGkgZmlkYXJ0aSBkaSB1bmEgbWVkaWEuIFVuIHNpbmdvbG8gY2xpZW50ZSBncm9zc28KcHXDsiBmYXIgc2VtYnJhcmUgb3R0aW1vIHVuIG1lc2UgaW50ZXJvIGUgbmFzY29uZGVyZSBjaGUgZ2xpIGFsdHJpIDIwMCBjbGllbnRpIHNlCm5lIHN0YW5ubyBhbmRhbmRvLgoKIyMgTGEgZ3JhbmRlIHRyYXBwb2xhOiBjb3JyZWxhemlvbmUgbm9uIMOoIGNhdXNhbGl0w6AKClF1ZXN0YSDDqCBsYSBmcmFzZSBwacO5IGltcG9ydGFudGUgZGkgdHV0dG8gaWwgbGlicm8uCgoqKkNvcnJlbGF6aW9uZSoqIHNpZ25pZmljYSBjaGUgZHVlIGNvc2Ugc2kgbXVvdm9ubyBpbnNpZW1lLiAqKkNhdXNhbGl0w6AqKiBzaWduaWZpY2EKY2hlIHVuYSBjb3NhICpjYXVzYSogbCdhbHRyYS4gTm9uIHNvbm8gbGEgc3Rlc3NhIGNvc2EsIGUgY29uZm9uZGVybGUgcHJvdm9jYQpzY2lvY2NoZXp6ZSBjb3N0b3NlLgoKRXNlbXBpbyBjbGFzc2ljbzogKipsZSB2ZW5kaXRlIGRpIGdlbGF0byBlIGxlIG1vcnRpIHBlciBhbm5lZ2FtZW50byBzYWxnb25vCmluc2llbWUqKiBvZ25pIGVzdGF0ZS4gSWwgZ2VsYXRvIGNhdXNhIGwnYW5uZWdhbWVudG8/IE5vLiBVbmEgdGVyemEgY29zYSwgaWwgY2FsZG8sCmd1aWRhIGVudHJhbWJlLiBRdWFuZG8gdmVkaSBkdWUgY29zZSBtdW92ZXJzaSBpbnNpZW1lLCBjaGllZGkgc2VtcHJlOgotIEEgY2F1c2EgQj8KLSBCIGNhdXNhIEE/Ci0gVW5hIEMgbmFzY29zdGEgY2F1c2EgZW50cmFtYmU/Ci0gw4ggc29sbyB1bmEgY29pbmNpZGVuemE/CgoiSSBjbGllbnRpIGNoZSB1c2FubyBkaSBwacO5IGxhIG5vc3RyYSBhcHAgc29ubyBwacO5IGZlbGljaSIgcG90cmViYmUgc2lnbmlmaWNhcmUgY2hlCmwnYXBwIGxpIHJlbmRlIGZlbGljaSwgbyBjaGUgaSBjbGllbnRpIGdpw6AgZmVsaWNpIGxhIHVzYW5vIGRpIHBpw7kuIExhCmNvcnJlbGF6aW9uZSB0aSBpbmRpY2EgdW4gaW5kaXppby4gTm9uIHRpIG1ldHRlIGluIG1hbm8gbGEgcmlzcG9zdGEuCgojIyBVbmEgY3VyaW9zaXTDoDogaWwgY29lZmZpY2llbnRlIGRpIGNvcnJlbGF6aW9uZQoKR2xpIHN0YXRpc3RpY2kgc3RyaXp6YW5vICJxdWFudG8gZm9ydGVtZW50ZSBkdWUgY29zZSBzaSBtdW92b25vIGluc2llbWUiIGluIHVuCm51bWVybyBkYSAqKi0xIGEgKzEqKi4gKzEgc2lnbmlmaWNhIGNoZSBzYWxnb25vIGluIHBlcmZldHRvIHNpbmNyb25pc21vOyAtMQpzaWduaWZpY2EgY2hlIHVuYSBzYWxlIG1lbnRyZSBsJ2FsdHJhIHNjZW5kZTsgMCBzaWduaWZpY2EgbmVzc3VuYSByZWxhemlvbmUuIMOIIHVuCnRlcm1vbWV0cm8gdXRpbGUgcGVyIHVuYSByZWxhemlvbmUsIG1hIHJpY29yZGE6IGFuY2hlIHVuICsxIHBlcmZldHRvIG5vbiDDqCBhbmNvcmEKdW5hIHByb3ZhIGRpIGNhdXNhLgoKLS0tCgojIyBDb3NhIHRpIHBvcnRpIGEgY2FzYSBkYSBxdWVzdG8gY2FwaXRvbG8KCi0gU2FwcGkgcXVhbGUgbWVkaWEgc3RhaSB1c2FuZG87IGxhIG1lZGlhbmEgc3Blc3NvIGRpY2UgbGEgdmVyaXTDoC4KLSBMZSBtZWRpZSBuYXNjb25kb25vIGxhIGRpc3BlcnNpb25lOiB0aWVuaSBkJ29jY2hpbyBsYSBkZXZpYXppb25lIHN0YW5kYXJkLgotIEdsaSBvdXRsaWVyIHBvc3Nvbm8gZmFsc2lmaWNhcmUgdW4naW50ZXJhIHN0b3JpYTsgZ3VhcmRhIGxvcm8gcGVyIHByaW1pLgotIExhIGNvcnJlbGF6aW9uZSDDqCB1biBpbmRpemlvLCBtYWkgdW5hIHByb3ZhLiBDYWNjaWEgc2VtcHJlIGxhIHRlcnphIGNvc2EKICBuYXNjb3N0YS4KClByb3NzaW1vOiBjb21lIHRyYXNmb3JtYXJlIHVuYSB2YWdhIHByZW9jY3VwYXppb25lIGRpIGJ1c2luZXNzIGluIHVuYSBkb21hbmRhCmFmZmlsYXRhIGEgY3VpIHB1b2kgZGF2dmVybyByaXNwb25kZXJlIGNvbiBpIGRhdGkuCg==
+# Statistica senza dolore
+
+Non ti serve molta statistica per essere un buon analista. Ti serve un pugno di
+idee, capite a fondo, e la saggezza di sapere quando ti ingannano. Ecco tutta la
+cassetta degli attrezzi, in parole semplici.
+
+## Le tre medie: media, mediana, moda
+
+La gente dice "media" come se ce ne fosse una sola. Ce ne sono tre, e scegliere
+quella sbagliata può mentire senza tecnicamente sbagliare.
+
+- **Media** — somma tutto, dividi per il numero dei casi. La media classica.
+- **Mediana** — il valore centrale quando li metti tutti in fila. Metà sopra, metà
+  sotto.
+- **Moda** — il valore più frequente.
+
+Perché conta? Immagina una piccola azienda. Dieci dipendenti guadagnano 30.000 €,
+e il capo guadagna 500.000 €.
+
+- La **media** degli stipendi è 72.727 €: "paghiamo bene!"
+- La **mediana** degli stipendi è 30.000 €: la realtà del lavoratore tipico.
+
+Un numero è "corretto" e l'altro è "corretto", e raccontano storie completamente
+diverse. Quando ci sono di mezzo pochi valori estremi (outlier), la **mediana** di
+solito è quella onesta. Quando qualcuno cita una media, chiedi: *media o mediana?*
+
+## Dispersione: le cose sono stabili o selvagge?
+
+Una media nasconde quanto i numeri siano sparpagliati. Due servizi di consegna
+hanno entrambi una media di 3 giorni. Uno impiega sempre 3 giorni. L'altro impiega
+1 giorno o 5 giorni a caso. Stessa media, esperienza totalmente diversa.
+
+La misura di dispersione che userai di più è la **deviazione standard**: in
+pratica, "quanto lontano dalla media stanno di solito le cose". Deviazione standard
+piccola = stabile, prevedibile. Grande = selvaggia, inaffidabile. Le medie ti
+dicono il centro; la dispersione ti dice il rischio.
+
+## La curva a campana (e perché salta fuori ovunque)
+
+Molte cose reali, altezze, punteggi dei test, errori di misura, si accumulano
+attorno al centro e si diradano alle estremità, formando una forma a campana.
+Questa è la **distribuzione normale**, ed è ovunque per una ragione bellissima:
+quando tante piccole influenze casuali si sommano, il risultato tende a una
+campana. Non ti serve la matematica. Ti serve l'istinto: la maggior parte dei casi
+è vicino al centro, gli estremi sono rari, e un valore molto lontano nella coda
+merita di essere indagato.
+
+## Outlier: l'unico numero strano
+
+Un **outlier** è un valore lontano dagli altri. Un cliente compra 50.000 € mentre
+tutti gli altri comprano 50 €. Una consegna impiega 30 giorni mentre le altre
+impiegano 3. Gli outlier possono essere:
+- **Errori** — un refuso, un record di prova, una virgola decimale spostata.
+- **Reali ma rari** — un cliente balena, un disastro genuino.
+
+Guarda sempre gli outlier prima di fidarti di una media. Un singolo cliente grosso
+può far sembrare ottimo un mese intero e nascondere che gli altri 200 clienti se
+ne stanno andando.
+
+## La grande trappola: correlazione non è causalità
+
+Questa è la frase più importante di tutto il libro.
+
+**Correlazione** significa che due cose si muovono insieme. **Causalità** significa
+che una cosa *causa* l'altra. Non sono la stessa cosa, e confonderle provoca
+sciocchezze costose.
+
+Esempio classico: **le vendite di gelato e le morti per annegamento salgono
+insieme** ogni estate. Il gelato causa l'annegamento? No. Una terza cosa, il caldo,
+guida entrambe. Quando vedi due cose muoversi insieme, chiedi sempre:
+- A causa B?
+- B causa A?
+- Una C nascosta causa entrambe?
+- È solo una coincidenza?
+
+"I clienti che usano di più la nostra app sono più felici" potrebbe significare che
+l'app li rende felici, o che i clienti già felici la usano di più. La
+correlazione ti indica un indizio. Non ti mette in mano la risposta.
+
+## Una curiosità: il coefficiente di correlazione
+
+Gli statistici strizzano "quanto fortemente due cose si muovono insieme" in un
+numero da **-1 a +1**. +1 significa che salgono in perfetto sincronismo; -1
+significa che una sale mentre l'altra scende; 0 significa nessuna relazione. È un
+termometro utile per una relazione, ma ricorda: anche un +1 perfetto non è ancora
+una prova di causa.
+
+---
+
+## Cosa ti porti a casa da questo capitolo
+
+- Sappi quale media stai usando; la mediana spesso dice la verità.
+- Le medie nascondono la dispersione: tieni d'occhio la deviazione standard.
+- Gli outlier possono falsificare un'intera storia; guarda loro per primi.
+- La correlazione è un indizio, mai una prova. Caccia sempre la terza cosa
+  nascosta.
+
+Prossimo: come trasformare una vaga preoccupazione di business in una domanda
+affilata a cui puoi davvero rispondere con i dati.

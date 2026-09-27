@@ -1,1 +1,76 @@
-IyBBbmhhbmcgRyDigJQgRWluIFBvcnRmb2xpby1Qcm9qZWt0bW9kZWxsCgpFaW4gUG9ydGZvbGlvIGJld2Vpc3QsIGRhc3MgZHUgZGVuIEpvYiBrYW5uc3QuIERpZXNlcyBNb2RlbGwgZ2lidCBkaXIgZWluIFByb2pla3QKenVtIEJhdWVuLCBEb2t1bWVudGllcmVuIHVuZCBaZWlnZW4uIE1hY2ggZWlucyBvZGVyIHp3ZWkgZGF2b24sIHVuZCBkdSBoYXN0IGV0d2FzLAp3b3JhdWYgZHUgaW4gZWluZW0gSW50ZXJ2aWV3IHplaWdlbiBrYW5uc3QuCgojIyBEYXMgUHJvamVrdDogZWluIFVtc2F0emFuYWx5c2UtRGFzaGJvYXJkCgpCYXUgZWluZSBrbGVpbmUgRW5kLXRvLUVuZC1BbmFseXNlIGF1ZiBlaW5lbSBCZWlzcGllbC1VbXNhdHpkYXRlbnNhdHogKGRpZXNlbGJlCkZvcm0sIGRpZSBpbiBkaWVzZW0gQnVjaCB2ZXJ3ZW5kZXQgd2lyZDogU2FsZXMsIFByb2R1Y3RzLCBDdXN0b21lcnMsIFN0b3JlcykuCgojIyMgU2Nocml0dCAxIOKAlCBEaWUgRGF0ZW4gdmVyc3RlaGVuCgotIFByb2ZpbGllciBqZWRlIFRhYmVsbGUuCi0gTm90aWVyIHZlcnNjaGllZGVuZSBXZXJ0ZSwgTGVlcnN0ZWxsZW4gdW5kIEJlcmVpY2hlLgotIFNjaHJlaWIgZWluZW4gU2F0eiBwcm8gVGFiZWxsZTogd2FzIHNpZSBlbnRow6RsdC4KCiMjIyBTY2hyaXR0IDIg4oCUIFPDpHViZXJuIHVuZCBtb2RlbGxpZXJlbgoKLSBTdGFuZGFyZGlzaWVyZSB1bm9yZGVudGxpY2hlbiBUZXh0IChVUFBFUi9MT1dFUi1TcGFsdGVuKS4KLSBUZWlsZSBaYWhsZW4gaW4gQsOkbmRlciBlaW4gKFByZWlzYsOkbmRlcikuCi0gVmVyZHJhaHRlIGRpZSBCZXppZWh1bmdlbiAoU2FsZXMg4oaSIFByb2R1Y3RzLCBDdXN0b21lcnMsIFN0b3JlcykuCgojIyMgU2Nocml0dCAzIOKAlCBEaWUgS2VubnphaGxlbiBiYXVlbgoKLSBHZXNhbXR1bXNhdHosIEdlc2FtdG1lbmdlLCBCZXN0ZWxsdW5nZW4uCi0gRHVyY2hzY2huaXR0bGljaGVyIEJlc3RlbGx3ZXJ0LCBVbXNhdHogcHJvIEt1bmRlLgotIEVpbiBNYXJnZS1NYcOfIChVbXNhdHogbWludXMgS29zdGVuKS4KLSBFaW4gQW50ZWlsLWFtLUdhbnplbi1NYcOfLgoKIyMjIFNjaHJpdHQgNCDigJQgU2VnbWVudGllcmVuCgotIFRvcC1LdW5kZW4gbmFjaCBBdXNnYWJlbi4KLSBVbXNhdHogbmFjaCBTZWdtZW50IChSZXRhaWwgLyBCdXNpbmVzcyAvIE9ubGluZSkuCi0gVW1zYXR6IG5hY2ggUmVnaW9uIHVuZCBuYWNoIE1vbmF0LgoKIyMjIFNjaHJpdHQgNSDigJQgVmFsaWRpZXJlbiB1bmQgZG9rdW1lbnRpZXJlbgoKLSBWYWxpZGllciBqZWRlcyBNYcOfIHZvciBkZW0gU3BlaWNoZXJuLgotIExpbnQgZGFzIERBWCBuYWNoIEFudGktUGF0dGVybnMuCi0gRXJ6ZXVnZSBkYXMgRGF0ZW53w7ZydGVyYnVjaC4KLSBMYXVmIGRlbiBCZXN0LVByYWN0aWNlcy1CZXJpY2h0LgoKIyMjIFNjaHJpdHQgNiDigJQgVmlzdWFsaXNpZXJlbgoKLSBFaW5lIEtQSS1LYXJ0ZW4tUmVpaGUgKEdlc2FtdHVtc2F0eiwgQmVzdGVsbHVuZ2VuLCBEdXJjaHNjaG5pdHRzYmVzdGVsbHVuZykuCi0gRWluIEJhbGtlbmRpYWdyYW1tIGRlcyBVbXNhdHplcyBuYWNoIEthdGVnb3JpZS4KLSBFaW4gTGluaWVuZGlhZ3JhbW0gZGVzIE1vbmF0c3RyZW5kcy4KLSBFaW5lIFJhbmdsaXN0ZSBkZXIgVG9wLVByb2R1a3RlLgoKIyMgV2FzIGR1IGltIFBvcnRmb2xpbyB6ZWlnZW4gc29sbHRlc3QKCkbDvHIgamVkZXMgUHJvamVrdCBwcsOkc2VudGllcjoKCjEuICoqRGllIEZyYWdlLioqIFdlbGNoZXMgR2VzY2jDpGZ0c3Byb2JsZW0gZHUgZ2Vsw7ZzdCBoYXN0LgoyLiAqKkRhcyBNb2RlbGwuKiogRWluIFNjcmVlbnNob3QgZGVyIFRhYmVsbGVuIHVuZCBCZXppZWh1bmdlbi4KMy4gKipEaWUgS2VubnphaGxlbi4qKiBEaWUgTWHDn2UsIGRpZSBkdSBnZWJhdXQgaGFzdCwgbWl0IGlocmVtIERBWC4KNC4gKipEYXMgRGFzaGJvYXJkLioqIERpZSBmaW5hbGVuIFZpc3VhbHMuCjUuICoqRGllIEdlc2NoaWNodGUuKiogV2FzIGR1IGdlZnVuZGVuIGhhc3QgdW5kIHdhcyBkdSBkYW1pdCB0dW4gd8O8cmRlc3QuCjYuICoqRGFzIFdlcmt6ZXVnLioqIEVpbmUgTm90aXosIGRhc3MgZHUgZXMgbWl0IEFnZW50QnJpZGdlICsgUG93ZXJCSVRvb2wgZ2ViYXV0CiAgIGhhc3QsIHVuZCB3aWUgZGVyIEFzc2lzdGVudCBoYWxmIChWYWxpZGllcnVuZywgRG9rdW1lbnRhdGlvbiwgQmVzdCBQcmFjdGljZXMpLgoKIyMgV2FydW0gZGFzIGZ1bmt0aW9uaWVydAoKRWluIEludGVydmlld2VyIGvDvG1tZXJ0IGVzIG5pY2h0LCBkYXNzIGRhcyBXZXJremV1ZyBlcyBzY2huZWxsIG1hY2h0ZS4gSWhuCmvDvG1tZXJ0LCBkYXNzIGR1IGthbm5zdDogZWluIFByb2JsZW0gcmFobWVuLCBlaW4gc2F1YmVyZXMgTW9kZWxsIGJhdWVuLCBkZWluZQpBcmJlaXQgdmFsaWRpZXJlbiwgc2llIGRva3VtZW50aWVyZW4gdW5kIGVpbmUgR2VzY2hpY2h0ZSBlcnrDpGhsZW4uIERpZXNlcyBQcm9qZWt0CnRyYWluaWVydCBhbGxlIHNlY2hzLiBEYXMgV2Vya3pldWcgaXN0IGVpbiBCb251cywgZGVyIHplaWd0LCBkYXNzIGR1IHVwIHRvIGRhdGUKYmlzdCDigJMga2VpbiBTaG9ydGN1dCwgZGVyIGRhcyBEZW5rZW4gZXJzZXR6dC4KCiMjIE1hY2ggZXMgenUgZGVpbmVtCgpUYXVzY2ggZGllIEJlaXNwaWVsZGF0ZW4gZ2VnZW4gZWluZW4gRGF0ZW5zYXR6LCBkZXIgZGlyIGFtIEhlcnplbiBsaWVndCDigJMgZWluCkhvYmJ5LCBlaW4gw7ZmZmVudGxpY2hlciBEYXRlbnNhdHosIGVpbiBOZWJlbnByb2pla3QuIEplIG1laHIgZGlyIGRhcyBUaGVtYSBsaWVndCwKZGVzdG8gYmVzc2VyIGRpZSBGcmFnZW4sIGRpZSBkdSBzdGVsbHN0LCB1bmQgZGVzdG8gYmVzc2VyIGRhcyBQb3J0Zm9saW8gYXVzc2llaHQuCkRhcyBNdXN0ZXIgaXN0IGRhc3NlbGJlOyBkaWUgRGF0ZW4ga2FubnN0IGR1IHfDpGhsZW4uCg==
+# Anhang G — Ein Portfolio-Projektmodell
+
+Ein Portfolio beweist, dass du den Job kannst. Dieses Modell gibt dir ein Projekt
+zum Bauen, Dokumentieren und Zeigen. Mach eins oder zwei davon, und du hast etwas,
+worauf du in einem Interview zeigen kannst.
+
+## Das Projekt: ein Umsatzanalyse-Dashboard
+
+Bau eine kleine End-to-End-Analyse auf einem Beispiel-Umsatzdatensatz (dieselbe
+Form, die in diesem Buch verwendet wird: Sales, Products, Customers, Stores).
+
+### Schritt 1 — Die Daten verstehen
+
+- Profilier jede Tabelle.
+- Notier verschiedene Werte, Leerstellen und Bereiche.
+- Schreib einen Satz pro Tabelle: was sie enthält.
+
+### Schritt 2 — Säubern und modellieren
+
+- Standardisiere unordentlichen Text (UPPER/LOWER-Spalten).
+- Teile Zahlen in Bänder ein (Preisbänder).
+- Verdrahte die Beziehungen (Sales → Products, Customers, Stores).
+
+### Schritt 3 — Die Kennzahlen bauen
+
+- Gesamtumsatz, Gesamtmenge, Bestellungen.
+- Durchschnittlicher Bestellwert, Umsatz pro Kunde.
+- Ein Marge-Maß (Umsatz minus Kosten).
+- Ein Anteil-am-Ganzen-Maß.
+
+### Schritt 4 — Segmentieren
+
+- Top-Kunden nach Ausgaben.
+- Umsatz nach Segment (Retail / Business / Online).
+- Umsatz nach Region und nach Monat.
+
+### Schritt 5 — Validieren und dokumentieren
+
+- Validier jedes Maß vor dem Speichern.
+- Lint das DAX nach Anti-Patterns.
+- Erzeuge das Datenwörterbuch.
+- Lauf den Best-Practices-Bericht.
+
+### Schritt 6 — Visualisieren
+
+- Eine KPI-Karten-Reihe (Gesamtumsatz, Bestellungen, Durchschnittsbestellung).
+- Ein Balkendiagramm des Umsatzes nach Kategorie.
+- Ein Liniendiagramm des Monatstrends.
+- Eine Rangliste der Top-Produkte.
+
+## Was du im Portfolio zeigen solltest
+
+Für jedes Projekt präsentier:
+
+1. **Die Frage.** Welches Geschäftsproblem du gelöst hast.
+2. **Das Modell.** Ein Screenshot der Tabellen und Beziehungen.
+3. **Die Kennzahlen.** Die Maße, die du gebaut hast, mit ihrem DAX.
+4. **Das Dashboard.** Die finalen Visuals.
+5. **Die Geschichte.** Was du gefunden hast und was du damit tun würdest.
+6. **Das Werkzeug.** Eine Notiz, dass du es mit AgentBridge + PowerBITool gebaut
+   hast, und wie der Assistent half (Validierung, Dokumentation, Best Practices).
+
+## Warum das funktioniert
+
+Ein Interviewer kümmert es nicht, dass das Werkzeug es schnell machte. Ihn
+kümmert, dass du kannst: ein Problem rahmen, ein sauberes Modell bauen, deine
+Arbeit validieren, sie dokumentieren und eine Geschichte erzählen. Dieses Projekt
+trainiert alle sechs. Das Werkzeug ist ein Bonus, der zeigt, dass du up to date
+bist – kein Shortcut, der das Denken ersetzt.
+
+## Mach es zu deinem
+
+Tausch die Beispieldaten gegen einen Datensatz, der dir am Herzen liegt – ein
+Hobby, ein öffentlicher Datensatz, ein Nebenprojekt. Je mehr dir das Thema liegt,
+desto besser die Fragen, die du stellst, und desto besser das Portfolio aussieht.
+Das Muster ist dasselbe; die Daten kannst du wählen.

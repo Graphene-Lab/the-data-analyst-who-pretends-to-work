@@ -1,1 +1,116 @@
-IyAxMS4gTGVzIGluZGljYXRldXJzIHF1aSBjb21wdGVudAoKVW4gaW5kaWNhdGV1ciBlc3QgdW4gbm9tYnJlIHF1ZSB2b3VzIHN1cnZlaWxsZXogcG91ciBzYXZvaXIgY29tbWVudCB2YSBsJ2VudHJlcHJpc2UuCkNob2lzaXNzZXogbGVzIGJvbnMgZXQgdm91cyBwb3V2ZXogcGlsb3Rlci4gQ2hvaXNpc3NleiBsZXMgbWF1dmFpcyBldCB2b3VzIHBvdXZlegpmb25kcmUgZHJvaXQgZGFucyBsZSBwcsOpY2lwaWNlIHBlbmRhbnQgcXVlIGxlIHRhYmxlYXUgZGUgYm9yZCByZXN0ZSB2ZXJ0LiBDZQpjaGFwaXRyZSBwYXJsZSBkZSBzw6lsZWN0aW9ubmVyIGxlcyBjaGlmZnJlcyBxdWkgY29tcHRlbnQgdnJhaW1lbnQg4oCUIGV0IGRlIGxlcwpjb25zdHJ1aXJlIGF2ZWMgbCdhc3Npc3RhbnQuCgojIyBDZSBxdWkgcmVuZCB1biBpbmRpY2F0ZXVyIGRpZ25lIGQnw6p0cmUgc3VydmVpbGzDqQoKVW4gYm9uIGluZGljYXRldXIgcGFzc2UgdHJvaXMgdGVzdHMgOgoKMS4gKipJbCBib3VnZSBxdWFuZCBsJ2VudHJlcHJpc2UgYm91Z2UuKiogU2kgbCdlbnRyZXByaXNlIHZhIG1vaW5zIGJpZW4sIGxlIG5vbWJyZSBkb2l0IHNlIGTDqWdyYWRlci4KMi4gKipWb3VzIHBvdXZleiBhZ2lyIGRlc3N1cy4qKiBVbiBub21icmUgcXVlIHZvdXMgbmUgcG91dmV6IHF1J2FkbWlyZXIgZXN0IHVuIGTDqWNvci4KMy4gKipJbCBlc3QgaG9ubsOqdGUuKiogT24gbmUgcGV1dCBwYXMgbGUgdHJ1cXVlciBwb3VyIHF1J2lsIGFpdCBsJ2FpciBiaWVuIHBlbmRhbnQgcXVlIHRvdXQgcG91cnJpdC4KClVuICoqaW5kaWNhdGV1ciBkZSB2YW5pdMOpKiogw6ljaG91ZSDDoCBjZXMgdGVzdHMuIMKrIE5vbWJyZSB0b3RhbCBkJ3V0aWxpc2F0ZXVycwppbnNjcml0cyBkZXB1aXMgMjAxMCDCuyBuZSBmYWl0IHF1ZSBtb250ZXIuIMOHYSBmYWl0IGR1IGJpZW4gZXQgw6dhIG5lIHZldXQgcmllbiBkaXJlLgpTdXJ2ZWlsbGV6IGRlcyB0YXV4IGV0IGRlcyB2YXJpYXRpb25zLCBwYXMgZGVzIHRvdGF1eCBxdWkgZ3Jvc3Npc3NlbnQgc2FucyBmaW4uCgojIyBMZXMgaW5kaWNhdGV1cnMgY2zDqXMgZGVzIHZlbnRlcwoKVG91dGUgZW50cmVwcmlzZSBxdWkgdmVuZCBxdWVscXVlIGNob3NlIHN1cnZlaWxsZSB1biBlbnNlbWJsZSBzaW1pbGFpcmUgOgoKLSAqKlRvdGFsIGRlcyB2ZW50ZXMqKiDigJQgbGUgY2hpZmZyZSBkJ2FmZmFpcmVzIHByaW5jaXBhbC4KLSAqKlVuaXTDqXMgdmVuZHVlcyoqIOKAlCBjb21iaWVuIGRlIG1hcmNoYW5kaXNlIGEgYm91Z8OpLgotICoqQ29tbWFuZGVzKiog4oCUIGNvbWJpZW4gZGUgdHJhbnNhY3Rpb25zLgotICoqUGFuaWVyIG1veWVuKiog4oCUIGxlIGNoaWZmcmUgZCdhZmZhaXJlcyBwYXIgY29tbWFuZGUuCi0gKipDbGllbnRzIGFjdGlmcyoqIOKAlCBjb21iaWVuIGRlIGdlbnMgb250IHLDqWVsbGVtZW50IGFjaGV0w6kuCi0gKipQbHVzIGdyb3NzZSB2ZW50ZSoqIOKAlCBsYSBwbHVzIGdyYW5kZSBsaWduZSBpbmRpdmlkdWVsbGUgKHBvdXIgcmVww6lyZXIgbGVzIGdyb3MgcG9pc3NvbnMpLgoKTCdhc3Npc3RhbnQgY29uc3RydWl0IGNoYWN1biBkZSBjZXMgaW5kaWNhdGV1cnMgw6AgcGFydGlyIGQndW5lIHNpbXBsZSBkZW1hbmRlLgpSZWdhcmRleiB1biBlbnNlbWJsZSBhcHBhcmHDrnRyZSA6Cgo+IMKrIENyw6llIHVuZSBtZXN1cmUgVG90YWwgZGVzIHZlbnRlcyBhdSBmb3JtYXQgZXVyby4gwrsKCiFbTWVzdXJlIFRvdGFsIGRlcyB2ZW50ZXNdKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9lMDI2LnBuZykKCj4gwqsgQ3LDqWUgdW5lIG1lc3VyZSBwb3VyIGxlcyB1bml0w6lzIHZlbmR1ZXMuIMK7CgohW01lc3VyZSBVbml0w6lzIHZlbmR1ZXNdKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9lMDI3LnBuZykKCj4gwqsgQ3LDqWUgdW5lIG1lc3VyZSBkZSBwYW5pZXIgbW95ZW4uIMK7CgohW1BhbmllciBtb3llbl0oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2UwMjgucG5nKQoKUmVtYXJxdWV6IHF1ZSBsZSBwYW5pZXIgbW95ZW4gdXRpbGlzZSBgRElWSURFYCwgZXQgbm9uIHVuZSBiYXJyZSBkZSBkaXZpc2lvbi4gQydlc3QKdm9sb250YWlyZSDigJQgYERJVklERWAgZ8OocmUgbGUgY2FzIG/DuSBsZSBkw6lub21pbmF0ZXVyIGVzdCB6w6lybyBzYW5zIHBsYW50ZXIuIFVuZQpwZXRpdGUgaGFiaXR1ZGUgZGUgc8OpY3VyaXTDqSBxdWkgdm91cyDDqXBhcmduZSBkZXMgZXJyZXVycyBgI0RJVi8wIWAgcGx1cyB0YXJkLgoKPiDCqyBDb21iaWVuIGF2b25zLW5vdXMgZGUgY2xpZW50cyBhY3RpZnMgPyDCuwoKIVtDbGllbnRzIGFjdGlmc10oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2UwMjkucG5nKQoKPiDCqyBRdWVsbGUgZXN0IGxhIHBsdXMgZ3Jvc3NlIHZlbnRlIGluZGl2aWR1ZWxsZSA/IMK7CgohW1BsdXMgZ3Jvc3NlIHZlbnRlXSguLi8uLi9hc3NldHMvZXhhbXBsZXMvZTAzMC5wbmcpCgpFbiBxdWVscXVlcyBwaHJhc2VzLCB0b3V0IGxlIGpldSBkZSBLUEkgY2zDqXMgZXhpc3RlLCB2aXZhbnQgZGFucyBsZSBtb2TDqGxlLgoKIyMgTGVzIGluZGljYXRldXJzIGQnYXJnZW50IDogbWFyZ2UgZXQgcGFydAoKTGUgY2hpZmZyZSBkJ2FmZmFpcmVzIGVzdCB2YW5pdMOpIDsgbGUgcHJvZml0IGVzdCBib24gc2Vucy4gUG91ciBzYXZvaXIgY2UgcXVlIHZvdXMKKmdhcmRleiosIGlsIHZvdXMgZmF1dCBsZSBjb8O7dCA6Cgo+IMKrIEFqb3V0ZSB1bmUgY29sb25uZSBkZSBjb8O7dCBldCB1bmUgbWVzdXJlIGRlIG1hcmdlLiDCuwoKIVtDb2xvbm5lIGRlIGNvw7t0XSguLi8uLi9hc3NldHMvZXhhbXBsZXMvZTA1Ni5wbmcpCgo+IMKrIE1hcmdlIHRvdGFsZSBzdXIgbCdlbnNlbWJsZSBkZXMgdmVudGVzLiDCuwoKIVtNYXJnZSB0b3RhbGVdKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9lMDU3LnBuZykKCkV0IHBvdXIgdm9pciBjb21tZW50IHVuZSB0cmFuY2hlIHNlIGNvbXBhcmUgYXUgdG91dCA6Cgo+IMKrIFBhcnQgZHUgdG90YWwgZGVzIHZlbnRlcywgZW4gcG91cmNlbnRhZ2UuIMK7CgohW1BvdXJjZW50YWdlIGR1IHRvdGFsXSguLi8uLi9hc3NldHMvZXhhbXBsZXMvZTA1OC5wbmcpCgpMZSBwb3VyY2VudGFnZSBkdSB0b3RhbCBlc3QgbCd1biBkZXMgaW5kaWNhdGV1cnMgbGVzIHBsdXMgdXRpbGlzw6lzIGVuIHJlcG9ydGluZyDigJQgaWwKdHJhbnNmb3JtZSBuJ2ltcG9ydGUgcXVlbCBub21icmUgZW4gwqsgZXN0LWNlIHF1ZSBjJ2VzdCBncm9zIHBhciByYXBwb3J0IMOgIHRvdXQgbGUKcmVzdGUgPyDCuwoKIyMgRW5jb3JlIHF1ZWxxdWVzLXVucywgcmFwaWRlbWVudAoKPiDCqyBQcml4IHVuaXRhaXJlIG1veWVuIHBhecOpLiDCuwoKIVtQcml4IHVuaXRhaXJlIG1veWVuXSguLi8uLi9hc3NldHMvZXhhbXBsZXMvZTA3NS5wbmcpCgo+IMKrIFRvdGFsIGRlcyB2ZW50ZXMgaG9ycyB1bmUgY2F0w6lnb3JpZS4gwrsKCiFbVmVudGVzIGhvcnMgdW5lIGNhdMOpZ29yaWVdKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9lMDg5LnBuZykKCkNoYWN1biB1bmUgcGhyYXNlIHRvdXRlIHNpbXBsZSwgY2hhY3VuIHVuZSB2cmFpZSBtZXN1cmUgZGFucyBsZSBtb2TDqGxlIGVuIGRpcmVjdC4KCiMjIFVuZSBjdXJpb3NpdMOpIDogbCdpbmRpY2F0ZXVyIHF1aSBzJ2VzdCByZXRvdXJuw6kKClF1YW5kIGwnVW5pb24gc292acOpdGlxdWUgbWVzdXJhaXQgbGEgcHJvZHVjdGlvbiBkZSBjbG91cyBwYXIgbGEgKipxdWFudGl0w6kqKiwgbGVzCnVzaW5lcyBmYWJyaXF1YWllbnQgZGVzIG1pbnVzY3VsZXMgY2xvdXMgaW51dGlsZXMgcGFyIG1pbGxpb24uIFF1YW5kIGVsbGVzIHNvbnQKcGFzc8OpZXMgw6AgdW5lIG1lc3VyZSBwYXIgbGUgKipwb2lkcyoqLCBlbGxlcyBvbnQgZmFicmlxdcOpIHF1ZWxxdWVzIGNsb3VzIMOpbm9ybWVzLgpNw6ptZSBvYmplY3RpZiwgaW5kaWNhdGV1ciBkaWZmw6lyZW50LCBhYnN1cmRpdMOpIGRpZmbDqXJlbnRlLiBMYSBsZcOnb24gcXVlIHRvdXQgYW5hbHlzdGUKZG9pdCByZXRlbmlyIDogKipvbiBvYnRpZW50IGNlIHF1ZSBsJ29uIG1lc3VyZSoqLCBhbG9ycyBtZXN1cmV6IGF2ZWMgc29pbiDigJQgaWTDqWFsZW1lbnQKdW4gaW5kaWNhdGV1ciBxdWkgbmUgcGV1dCBzJ2Ftw6lsaW9yZXIgcXVlIHNpIGwnZW50cmVwcmlzZSBzJ2Ftw6lsaW9yZSB2cmFpbWVudC4KCi0tLQoKIyMgQ2UgcXVlIHZvdXMgZ2FyZGVyZXogZGUgY2UgY2hhcGl0cmUKCi0gQ2hvaXNpc3NleiBkZXMgaW5kaWNhdGV1cnMgcXVpIGJvdWdlbnQgYXZlYyBsJ2VudHJlcHJpc2UsIHN1ciBsZXNxdWVscyB2b3VzIHBvdXZleiBhZ2lyLCBldCBxdSdvbiBuZSBwZXV0IHBhcyB0cnVxdWVyLgotIMOJdml0ZXogbGVzIGluZGljYXRldXJzIGRlIHZhbml0w6kgKGxlcyB0b3RhdXggcXVpIGdyb3NzaXNzZW50IHNhbnMgZmluKS4KLSBMZSBqZXUgY2zDqSBkZXMgdmVudGVzIDogY2hpZmZyZSBkJ2FmZmFpcmVzLCB1bml0w6lzLCBjb21tYW5kZXMsIHBhbmllciBtb3llbiwgY2xpZW50cyBhY3RpZnMuCi0gTGEgbWFyZ2UgZXQgbGEgcGFydCBkdSB0b3RhbCB0cmFuc2Zvcm1lbnQgbGUgY2hpZmZyZSBkJ2FmZmFpcmVzIGVuIHNlbnMuCi0gT24gb2J0aWVudCBjZSBxdWUgbCdvbiBtZXN1cmUg4oCUIG1lc3VyZXogYXZlYyBzYWdlc3NlLgoKU3VpdGUgOiBsZXMgcXVhdHJlIHR5cGVzIGQnYW5hbHlzZSwgZGVwdWlzIMKrIHF1ZSBzJ2VzdC1pbCBwYXNzw6kgwrsganVzcXUnw6AgwqsgcXVlCmRldnJpb25zLW5vdXMgZmFpcmUgwrsuCg==
+# 11. Les indicateurs qui comptent
+
+Un indicateur est un nombre que vous surveillez pour savoir comment va l'entreprise.
+Choisissez les bons et vous pouvez piloter. Choisissez les mauvais et vous pouvez
+fondre droit dans le précipice pendant que le tableau de bord reste vert. Ce
+chapitre parle de sélectionner les chiffres qui comptent vraiment — et de les
+construire avec l'assistant.
+
+## Ce qui rend un indicateur digne d'être surveillé
+
+Un bon indicateur passe trois tests :
+
+1. **Il bouge quand l'entreprise bouge.** Si l'entreprise va moins bien, le nombre doit se dégrader.
+2. **Vous pouvez agir dessus.** Un nombre que vous ne pouvez qu'admirer est un décor.
+3. **Il est honnête.** On ne peut pas le truquer pour qu'il ait l'air bien pendant que tout pourrit.
+
+Un **indicateur de vanité** échoue à ces tests. « Nombre total d'utilisateurs
+inscrits depuis 2010 » ne fait que monter. Ça fait du bien et ça ne veut rien dire.
+Surveillez des taux et des variations, pas des totaux qui grossissent sans fin.
+
+## Les indicateurs clés des ventes
+
+Toute entreprise qui vend quelque chose surveille un ensemble similaire :
+
+- **Total des ventes** — le chiffre d'affaires principal.
+- **Unités vendues** — combien de marchandise a bougé.
+- **Commandes** — combien de transactions.
+- **Panier moyen** — le chiffre d'affaires par commande.
+- **Clients actifs** — combien de gens ont réellement acheté.
+- **Plus grosse vente** — la plus grande ligne individuelle (pour repérer les gros poissons).
+
+L'assistant construit chacun de ces indicateurs à partir d'une simple demande.
+Regardez un ensemble apparaître :
+
+> « Crée une mesure Total des ventes au format euro. »
+
+![Mesure Total des ventes](../../assets/examples/e026.png)
+
+> « Crée une mesure pour les unités vendues. »
+
+![Mesure Unités vendues](../../assets/examples/e027.png)
+
+> « Crée une mesure de panier moyen. »
+
+![Panier moyen](../../assets/examples/e028.png)
+
+Remarquez que le panier moyen utilise `DIVIDE`, et non une barre de division. C'est
+volontaire — `DIVIDE` gère le cas où le dénominateur est zéro sans planter. Une
+petite habitude de sécurité qui vous épargne des erreurs `#DIV/0!` plus tard.
+
+> « Combien avons-nous de clients actifs ? »
+
+![Clients actifs](../../assets/examples/e029.png)
+
+> « Quelle est la plus grosse vente individuelle ? »
+
+![Plus grosse vente](../../assets/examples/e030.png)
+
+En quelques phrases, tout le jeu de KPI clés existe, vivant dans le modèle.
+
+## Les indicateurs d'argent : marge et part
+
+Le chiffre d'affaires est vanité ; le profit est bon sens. Pour savoir ce que vous
+*gardez*, il vous faut le coût :
+
+> « Ajoute une colonne de coût et une mesure de marge. »
+
+![Colonne de coût](../../assets/examples/e056.png)
+
+> « Marge totale sur l'ensemble des ventes. »
+
+![Marge totale](../../assets/examples/e057.png)
+
+Et pour voir comment une tranche se compare au tout :
+
+> « Part du total des ventes, en pourcentage. »
+
+![Pourcentage du total](../../assets/examples/e058.png)
+
+Le pourcentage du total est l'un des indicateurs les plus utilisés en reporting — il
+transforme n'importe quel nombre en « est-ce que c'est gros par rapport à tout le
+reste ? »
+
+## Encore quelques-uns, rapidement
+
+> « Prix unitaire moyen payé. »
+
+![Prix unitaire moyen](../../assets/examples/e075.png)
+
+> « Total des ventes hors une catégorie. »
+
+![Ventes hors une catégorie](../../assets/examples/e089.png)
+
+Chacun une phrase toute simple, chacun une vraie mesure dans le modèle en direct.
+
+## Une curiosité : l'indicateur qui s'est retourné
+
+Quand l'Union soviétique mesurait la production de clous par la **quantité**, les
+usines fabriquaient des minuscules clous inutiles par million. Quand elles sont
+passées à une mesure par le **poids**, elles ont fabriqué quelques clous énormes.
+Même objectif, indicateur différent, absurdité différente. La leçon que tout analyste
+doit retenir : **on obtient ce que l'on mesure**, alors mesurez avec soin — idéalement
+un indicateur qui ne peut s'améliorer que si l'entreprise s'améliore vraiment.
+
+---
+
+## Ce que vous garderez de ce chapitre
+
+- Choisissez des indicateurs qui bougent avec l'entreprise, sur lesquels vous pouvez agir, et qu'on ne peut pas truquer.
+- Évitez les indicateurs de vanité (les totaux qui grossissent sans fin).
+- Le jeu clé des ventes : chiffre d'affaires, unités, commandes, panier moyen, clients actifs.
+- La marge et la part du total transforment le chiffre d'affaires en sens.
+- On obtient ce que l'on mesure — mesurez avec sagesse.
+
+Suite : les quatre types d'analyse, depuis « que s'est-il passé » jusqu'à « que
+devrions-nous faire ».

@@ -1,1 +1,102 @@
-IyA1LiBMYSBtZW50ZSBhbmFsw610aWNhOiBjb252ZXJ0aXIgcHJlZ3VudGFzIGVuIG7Dum1lcm9zCgpFbCBjb3JhesOzbiBkZWwgdHJhYmFqbyBlcyB1biBzb2xvIG1vdmltaWVudG86IHRvbWFyIHVuYSBwcmVvY3VwYWNpw7NuIGRpZnVzYSB5CmNvbnZlcnRpcmxhIGVuIHVuYSBwcmVndW50YSBxdWUgbG9zIGRhdG9zIHB1ZWRhbiByZXNwb25kZXIuIERvbWluYSBlc2UgbW92aW1pZW50byB5CnBvZHLDoXMgdHJhYmFqYXIgY29uIGN1YWxxdWllciBoZXJyYW1pZW50YS4gQXByZW5kw6Ftb3Nsby4KCiMjIERlIMKrYWxnbyB2YSBtYWzCuyBhIHVuYSBwcmVndW50YSBkZSB2ZXJkYWQKClVuIGdlc3RvciBlbnRyYSBjb21vIHVuYSBleGhhbGFjacOzbjogKsKrwqFMYXMgdmVudGFzIHZhbiBtYWwhwrsqLiBFc28gbm8gZXMgdW5hCnByZWd1bnRhLiBFcyB1biBlc3RhZG8gZGUgw6FuaW1vLiBFbCBwcmltZXIgdHJhYmFqbyBkZWwgYW5hbGlzdGEgZXMgY29udmVydGlyIGVsCsOhbmltbyBlbiB1bmEgcHJlZ3VudGEgY29uIHJlc3B1ZXN0YS4KCi0gwqvCv01hbCBjb21wYXJhZG8gY29uIHF1w6k/wrsg4oaSICpjb21wYXJhZG8gY29uIGVsIHRyaW1lc3RyZSBwYXNhZG8uKgotIMKrwr9NYWwgZW4gdG9kYXMgcGFydGVzLCBvIGVuIGFsZ8O6biBzaXRpbz/CuyDihpIgKnNvbG8gZW4gbGEgcmVnacOzbiBub3J0ZS4qCi0gwqvCv01hbCBlbiBxdcOpP8K7IOKGkiAqZW4gdW5pZGFkZXMsIG5vIGVuIHByZWNpby4qCi0gwqvCv0Rlc2RlIGN1w6FuZG8/wrsg4oaSICphIHBhcnRpciBkZSBtYXJ6by4qCgpBaG9yYSBlcyB1bmEgcHJlZ3VudGEgcmVhbDogKsKrwr9Qb3IgcXXDqSBjYXllcm9uIGxhcyB2ZW50YXMgZW4gdW5pZGFkZXMgZW4gbGEgcmVnacOzbgpub3J0ZSBhIHBhcnRpciBkZSBtYXJ6bz/CuyouIEVzYSBwcmVndW50YSBzw60gc2UgcHVlZGUgcmVzcG9uZGVyLiBMYSBvcmlnaW5hbCBuby4KCiMjIEVsIG3DqXRvZG8gZGUgY3VhdHJvIHBhc29zCgpDYXNpIHRvZG8gYW7DoWxpc2lzIHNpZ3VlIGxvcyBtaXNtb3MgY3VhdHJvIHBhc29zLiBBcHJlbmRlIGVzdGUgYnVjbGUgeSB5YSB0aWVuZXMgZWwKdHJhYmFqby4KCjEuICoqUHJlZ3VudGEqKiDigJQgZXNjcmliZSBsYSBwcmVndW50YSByZWFsIHkgcmVzcG9uZGlibGUuCjIuICoqSGlww7N0ZXNpcyoqIOKAlCBhZGl2aW5hIGxhIHJlc3B1ZXN0YSBwcm9iYWJsZSAqYW50ZXMqIGRlIG1pcmFyLiAocC4gZWouIMKrYWJyacOzIHVuCiAgIGNvbXBldGlkb3IgY2VyY2HCuy4pCjMuICoqUHJ1ZWJhKiog4oCUIHNhY2EgbG9zIGRhdG9zIHF1ZSBjb25maXJtYXLDrWFuIG8gbWF0YXLDrWFuIGxhIHN1cG9zaWNpw7NuLgo0LiAqKkNvbmNsdXNpw7NuKiog4oCUIMK/cXXDqSBkaWNlbiBsb3MgZGF0b3M/IMK/QWNlcnTDsyBsYSBzdXBvc2ljacOzbj8gwr9ZIGFob3JhIHF1w6k/CgpFbCBwYXNvIGRlIGxhIGhpcMOzdGVzaXMgZXMgZWwgc2VjcmV0by4gQWRpdmluYXIgcHJpbWVybyB0ZSBpbXBpZGUgZGVhbWJ1bGFyIHBvciBsb3MKZGF0b3MgaGFzdGEgZW5jb250cmFyIGFsZ28gcXVlIGNvbmZpcm1lIGxvIHF1ZSBzZWEgcXVlIHRyb3BlemFzdGUuIFRlIG1hbnRpZW5lCmhvbmVzdG8uCgojIyBMb3MgY2luY28gwqtwb3JxdcOpc8K7CgpVbiB0cnVjbyBkZSBUb3lvdGEgcGFyYSBsbGVnYXIgYSBsYSBjYXVzYSByYcOtejogcHJlZ3VudGEgwqvCv3BvciBxdcOpP8K7IGNpbmNvIHZlY2VzLgoKLSBMYXMgdmVudGFzIGJhamFyb24uICrCv1BvciBxdcOpPyogVmluaWVyb24gbWVub3MgY2xpZW50ZXMuCi0gKsK/UG9yIHF1w6k/KiBCYWrDsyBlbCB0csOhZmljbyBhIHBpZS4KLSAqwr9Qb3IgcXXDqT8qIExhIHBhcmFkYSBkZSBhdXRvYsO6cyBzZSBtdWTDsyBsZWpvcy4KLSAqwr9Qb3IgcXXDqT8qIExhIGNpdWRhZCByZWRpc2XDscOzIGxhIGNhbGxlLgotICrCv1BvciBxdcOpPyog4oCmeSBhaG9yYSB2ZXMgcXVlIGxhIGNhdXNhIHJlYWwgbm8gdGllbmUgbmFkYSBxdWUgdmVyIGNvbiB0dSBtYXJrZXRpbmcuCgpBIG1lbnVkbyBubyBuZWNlc2l0YXMgY2luY28uIERvcyBvIHRyZXMgwqtwb3JxdcOpc8K7IHN1ZWxlbiBjYXZhciBtw6FzIGFsbMOhIGRlbApzw61udG9tYSBoYXN0YSBsYSBjb3NhIHF1ZSBkZSB2ZXJkYWQgcHVlZGVzIGFycmVnbGFyLgoKIyMgTm8gaW50ZW50ZXMgdmFjaWFyIGVsIG9jw6lhbm8KClVuIGVycm9yIGRlIG5vdmF0byBlcyBpbnRlbnRhciBhbmFsaXphciAqdG9kbyouIE5vIHB1ZWRlcy4gRWxpZ2UgbGEgcG9yY2nDs24gbcOhcwpwZXF1ZcOxYSBkZSBkYXRvcyBxdWUgcG9kcsOtYSByZXNwb25kZXIgbGEgcHJlZ3VudGEsIG3DrXJhbGEsIHkgc29sbyBhbXBsw61hIHNpIGhhY2UKZmFsdGEuIFVuYSBjb21wcm9iYWNpw7NuIGVuZm9jYWRhIGRlIDIwIG1pbnV0b3MgbGUgZ2FuYSBhIHVuYSBzZW1hbmEgYWhvZ8OhbmRvc2UgZW4KaG9qYXMgZGUgY8OhbGN1bG8uCgojIyBDdWlkYWRvIGNvbiBsYSBwcmVndW50YSBxdWUgbm8gcHVlZGVzIHJlc3BvbmRlcgoKQWxndW5hcyBwcmVndW50YXMgbm8gdGllbmVuIHJlc3B1ZXN0YSBlbiBsb3MgZGF0b3MgcXVlIHRpZW5lcy4gKsKrwr9Qb3IgcXXDqSBsYSBnZW50ZQpubyBjb21wcmEgbnVlc3RybyBwcm9kdWN0bz/CuyogcHVlZGUgbmVjZXNpdGFyIHVuYSBlbmN1ZXN0YSwgbm8gdW5hIGJhc2UgZGUgZGF0b3MuIFVuCmJ1ZW4gYW5hbGlzdGEgc2FiZSBsYSBkaWZlcmVuY2lhIGVudHJlIMKrbmVjZXNpdG8gbcOhcyBkYXRvc8K7IHkgwqtuZWNlc2l0byBvdHJvIHRpcG8KZGUgZGF0b3PCuywgeSBsbyBkaWNlIGVuIHZleiBkZSBpbnZlbnRhcnNlIHVuYSByZXNwdWVzdGEuCgojIyBVbmEgY3VyaW9zaWRhZDogZWwgZWZlY3RvIGNvYnJhCgpFbiBsYSBJbmRpYSBjb2xvbmlhbCwgZWwgZ29iaWVybm8sIHByZW9jdXBhZG8gcG9yIGxhcyBjb2JyYXMsIG9mcmVjacOzIHVuYSByZWNvbXBlbnNhCnBvciBjYWRhIGNvYnJhIG11ZXJ0YS4gTGEgZ2VudGUgZW1wZXrDsyBhICoqY3JpYXIgY29icmFzKiogcGFyYSBjb2JyYXIgbGEgcmVjb21wZW5zYS4KQ3VhbmRvIGVsIGdvYmllcm5vIHNlIGRpbyBjdWVudGEgeSBjYW5jZWzDsyBlbCBwcmVtaW8sIGxvcyBjcmlhZG9yZXMgc29sdGFyb24gbGFzCmFob3JhIGluw7p0aWxlcyBjb2JyYXMsIHkgbGEgcG9ibGFjacOzbiBkZSBjb2JyYXMgc2FsdmFqZXMgKnN1YmnDsyouIFJlc29sdmVyIGVsCnByb2JsZW1hIGVxdWl2b2NhZG8sIG8gbWVkaXIgbGEgY29zYSBlcXVpdm9jYWRhLCBwdWVkZSBlbXBlb3JhcmxvLiBNaWRlIGNvbiBjdWlkYWRvLgpMYSBjb3NhIHF1ZSByZWNvbXBlbnNhcyBlcyBsYSBjb3NhIHF1ZSBvYnRpZW5lcy4KCiMjIFVuIGVqZW1wbG8gcmVzdWVsdG8sIGRlIHByaW5jaXBpbyBhIGZpbgoKKirDgW5pbW86KiogwqtOdWVzdHJhIG51ZXZhIGFjdHVhbGl6YWNpw7NuIGRlIGxhIGFwcCBlcyB1biBkZXNhc3RyZS7CuwoqKlByZWd1bnRhOioqIMK/QmFqYXJvbiBsb3MgdXN1YXJpb3MgZGlhcmlvcyBhY3Rpdm9zIHRyYXMgbGEgYWN0dWFsaXphY2nDs24/CioqSGlww7N0ZXNpczoqKiBMYSBhY3R1YWxpemFjacOzbiByb21wacOzIGVsIGluaWNpbyBkZSBzZXNpw7NuLCB5IGxhIGdlbnRlIHNlIGZ1ZS4KKipQcnVlYmE6KiogQ29tcGFyYXIgbG9zIHVzdWFyaW9zIGRpYXJpb3MgYWN0aXZvcyBhbnRlcyB5IGRlc3B1w6lzIGRlIGxhIGZlY2hhIGRlIGxhCmFjdHVhbGl6YWNpw7NuOyByZXZpc2FyIGxhcyB0YXNhcyBkZSBlcnJvciBkZSBpbmljaW8gZGUgc2VzacOzbi4KKipSZXN1bHRhZG86KiogTG9zIHVzdWFyaW9zIGJhamFyb24gdW4gMTUlLCBwZXJvIGxvcyBlcnJvcmVzIGRlIGluaWNpbyBkZSBzZXNpw7NuIG5vCnN1Ymllcm9uLiBMYSBzdXBvc2ljacOzbiBlc3RhYmEgbWFsLgoqKk51ZXZhIGhpcMOzdGVzaXM6KiogU2UgZWxpbWluw7MgdW5hIGZ1bmNpw7NuIHF1ZSBhIGxhIGdlbnRlIGxlIGVuY2FudGFiYS4KKipQcnVlYmE6KiogTWlyYXIgZWwgdXNvIGRlIGxhIGZ1bmNpw7NuIGVsaW1pbmFkYSBhbnRlcyBkZSBsYSBhY3R1YWxpemFjacOzbjogc2UgdXNhYmEKbXVjaMOtc2ltby4KKipDb25jbHVzacOzbjoqKiBMYSBhY3R1YWxpemFjacOzbiBlbGltaW7DsyB1bmEgZnVuY2nDs24gcG9wdWxhci4gRXNhIGVzIGxhIGNhdXNhLgpTb2x1Y2nDs246IGRldm9sdmVybGEuCgpGw61qYXRlIGPDs21vIGxvcyBkYXRvcyBtYXRhcm9uIGxhIHByaW1lcmEgc3Vwb3NpY2nDs24geSBzZcOxYWxhcm9uIGxhIHJlYWwuIEFzw60gZXMgY29tbwpmdW5jaW9uYSBlbCBtw6l0b2RvLiBFbCBhbmFsaXN0YSBubyBzYWLDrWEgbGEgcmVzcHVlc3RhIGFsIHByaW5jaXBpbzogc2Fiw61hICpjw7NtbwplbmNvbnRyYXJsYSouCgotLS0KCiMjIExvIHF1ZSB0ZSBsbGV2YXLDoXMgZGUgZXN0ZSBjYXDDrXR1bG8KCi0gQ29udmllcnRlIGxvcyDDoW5pbW9zIGVuIHByZWd1bnRhcyByZXNwb25kaWJsZXMuCi0gQWRpdmluYSBwcmltZXJvIChoaXDDs3Rlc2lzKSB5IGx1ZWdvIHBydWViYTogdGUgbWFudGllbmUgaG9uZXN0by4KLSBQcmVndW50YSDCq3BvciBxdcOpwrsgdW5hcyBjdWFudGFzIHZlY2VzIHBhcmEgbGxlZ2FyIGEgbGEgY2F1c2EgcmHDrXouCi0gQW5hbGl6YSBsYSBwb3JjacOzbiBtw6FzIHBlcXVlw7FhIMO6dGlsOyBubyBpbnRlbnRlcyB2YWNpYXIgZWwgb2PDqWFuby4KLSBNaWRlIGxhIGNvc2EgY29ycmVjdGEsIG8gY3JpYXLDoXMgY29icmFzLgoKTGEgUGFydGUgSSBlc3TDoSBoZWNoYTogZW50aWVuZGVzIGVsIG9maWNpby4gQWhvcmEgbm9zIGVuc3VjaWFtb3MgbGFzIG1hbm9zIGNvbiBsYQptYXRlcmlhIHByaW1hOiBkZSBkw7NuZGUgdmllbmVuIGxvcyBkYXRvcyB5IGPDs21vIHZlcmxvcyBjb24gdW5hIGhlcnJhbWllbnRhIHJlYWwuCg==
+# 5. La mente analítica: convertir preguntas en números
+
+El corazón del trabajo es un solo movimiento: tomar una preocupación difusa y
+convertirla en una pregunta que los datos puedan responder. Domina ese movimiento y
+podrás trabajar con cualquier herramienta. Aprendámoslo.
+
+## De «algo va mal» a una pregunta de verdad
+
+Un gestor entra como una exhalación: *«¡Las ventas van mal!»*. Eso no es una
+pregunta. Es un estado de ánimo. El primer trabajo del analista es convertir el
+ánimo en una pregunta con respuesta.
+
+- «¿Mal comparado con qué?» → *comparado con el trimestre pasado.*
+- «¿Mal en todas partes, o en algún sitio?» → *solo en la región norte.*
+- «¿Mal en qué?» → *en unidades, no en precio.*
+- «¿Desde cuándo?» → *a partir de marzo.*
+
+Ahora es una pregunta real: *«¿Por qué cayeron las ventas en unidades en la región
+norte a partir de marzo?»*. Esa pregunta sí se puede responder. La original no.
+
+## El método de cuatro pasos
+
+Casi todo análisis sigue los mismos cuatro pasos. Aprende este bucle y ya tienes el
+trabajo.
+
+1. **Pregunta** — escribe la pregunta real y respondible.
+2. **Hipótesis** — adivina la respuesta probable *antes* de mirar. (p. ej. «abrió un
+   competidor cerca».)
+3. **Prueba** — saca los datos que confirmarían o matarían la suposición.
+4. **Conclusión** — ¿qué dicen los datos? ¿Acertó la suposición? ¿Y ahora qué?
+
+El paso de la hipótesis es el secreto. Adivinar primero te impide deambular por los
+datos hasta encontrar algo que confirme lo que sea que tropezaste. Te mantiene
+honesto.
+
+## Los cinco «porqués»
+
+Un truco de Toyota para llegar a la causa raíz: pregunta «¿por qué?» cinco veces.
+
+- Las ventas bajaron. *¿Por qué?* Vinieron menos clientes.
+- *¿Por qué?* Bajó el tráfico a pie.
+- *¿Por qué?* La parada de autobús se mudó lejos.
+- *¿Por qué?* La ciudad rediseñó la calle.
+- *¿Por qué?* …y ahora ves que la causa real no tiene nada que ver con tu marketing.
+
+A menudo no necesitas cinco. Dos o tres «porqués» suelen cavar más allá del
+síntoma hasta la cosa que de verdad puedes arreglar.
+
+## No intentes vaciar el océano
+
+Un error de novato es intentar analizar *todo*. No puedes. Elige la porción más
+pequeña de datos que podría responder la pregunta, mírala, y solo amplía si hace
+falta. Una comprobación enfocada de 20 minutos le gana a una semana ahogándose en
+hojas de cálculo.
+
+## Cuidado con la pregunta que no puedes responder
+
+Algunas preguntas no tienen respuesta en los datos que tienes. *«¿Por qué la gente
+no compra nuestro producto?»* puede necesitar una encuesta, no una base de datos. Un
+buen analista sabe la diferencia entre «necesito más datos» y «necesito otro tipo
+de datos», y lo dice en vez de inventarse una respuesta.
+
+## Una curiosidad: el efecto cobra
+
+En la India colonial, el gobierno, preocupado por las cobras, ofreció una recompensa
+por cada cobra muerta. La gente empezó a **criar cobras** para cobrar la recompensa.
+Cuando el gobierno se dio cuenta y canceló el premio, los criadores soltaron las
+ahora inútiles cobras, y la población de cobras salvajes *subió*. Resolver el
+problema equivocado, o medir la cosa equivocada, puede empeorarlo. Mide con cuidado.
+La cosa que recompensas es la cosa que obtienes.
+
+## Un ejemplo resuelto, de principio a fin
+
+**Ánimo:** «Nuestra nueva actualización de la app es un desastre.»
+**Pregunta:** ¿Bajaron los usuarios diarios activos tras la actualización?
+**Hipótesis:** La actualización rompió el inicio de sesión, y la gente se fue.
+**Prueba:** Comparar los usuarios diarios activos antes y después de la fecha de la
+actualización; revisar las tasas de error de inicio de sesión.
+**Resultado:** Los usuarios bajaron un 15%, pero los errores de inicio de sesión no
+subieron. La suposición estaba mal.
+**Nueva hipótesis:** Se eliminó una función que a la gente le encantaba.
+**Prueba:** Mirar el uso de la función eliminada antes de la actualización: se usaba
+muchísimo.
+**Conclusión:** La actualización eliminó una función popular. Esa es la causa.
+Solución: devolverla.
+
+Fíjate cómo los datos mataron la primera suposición y señalaron la real. Así es como
+funciona el método. El analista no sabía la respuesta al principio: sabía *cómo
+encontrarla*.
+
+---
+
+## Lo que te llevarás de este capítulo
+
+- Convierte los ánimos en preguntas respondibles.
+- Adivina primero (hipótesis) y luego prueba: te mantiene honesto.
+- Pregunta «por qué» unas cuantas veces para llegar a la causa raíz.
+- Analiza la porción más pequeña útil; no intentes vaciar el océano.
+- Mide la cosa correcta, o criarás cobras.
+
+La Parte I está hecha: entiendes el oficio. Ahora nos ensuciamos las manos con la
+materia prima: de dónde vienen los datos y cómo verlos con una herramienta real.

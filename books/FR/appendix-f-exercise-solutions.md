@@ -1,1 +1,92 @@
-IyBBbm5leGUgRiDigJQgQ29ycmlnw6lzIGRlcyBleGVyY2ljZXMKCkNvcnJpZ8OpcyBkZXMgZXhlcmNpY2VzIGd1aWTDqXMgZGUgbCdBbm5leGUgRS4gUG91ciBjaGFjdW4sIGxhIGRlbWFuZGUgZW4gbGFuZ2FnZQpjb3VyYW50IGV0IGxlIERBWCBwcm9kdWl0IHBhciBsJ2Fzc2lzdGFudC4KCiMjIEV4ZXJjaWNlIDEg4oCUIExpcmUgbGUgbW9kw6hsZQoKKipMYSBkZW1hbmRlIDoqKiDCqyBMaXN0ZXIgY2hhcXVlIHRhYmxlIGF2ZWMgc29uIG5vbWJyZSBkZSBsaWduZXMuIMK7CioqQ2UgcXVpIHNlIHBhc3NlIDoqKiBsJ2Fzc2lzdGFudCBsaXQgbGUgbW9kw6hsZSBlbiBkaXJlY3QgZXQgcmVudm9pZSBjaGFxdWUgdGFibGUKYXZlYyBzb24gdHlwZSwgc29uIG5vbWJyZSBkZSBsaWduZXMgZXQgc29uIG5vbWJyZSBkZSBjb2xvbm5lcy4gUGFzIGJlc29pbiBkZSBEQVgg4oCUCmMnZXN0IHVuIGFwcGVsIGQnZXhwbG9yYXRpb24uCgojIyBFeGVyY2ljZSAyIOKAlCBQcm9maWxlciB1bmUgdGFibGUKCioqTGEgZGVtYW5kZSA6KiogwqsgUHJvZmlsZXIgbGEgdGFibGUgUHJvZHVjdHMuIMK7CioqQ2UgcXVpIHNlIHBhc3NlIDoqKiBsJ2Fzc2lzdGFudCByZW52b2llIHVuIHRhYmxlYXUgZGUgcHJvZmlsIGF2ZWMgbGVzIHZhbGV1cnMKRGlzdGluY3QsIEJsYW5rcywgTWluLCBNYXggZXQgVG9wIHBvdXIgY2hhcXVlIGNvbG9ubmUuIExlIG5vbWJyZSBkZSB2YWxldXJzCmRpc3RpbmN0ZXMgZGUgQ2F0ZWdvcnkgZXN0IDMgOyBsZXMgdmFsZXVycyB2aWRlcyBzJ2FmZmljaGVudCBwYXIgY29sb25uZS4KCiMjIEV4ZXJjaWNlIDMg4oCUIE5ldHRveWVyIGR1IHRleHRlCgoqKkxhIGRlbWFuZGUgOioqIMKrIEFqb3V0ZXIgdW5lIGNvbG9ubmUgYXZlYyBsYSBjYXTDqWdvcmllIGVuIG1hanVzY3VsZXMuIMK7CioqREFYIDoqKiBgVVBQRVIoUHJvZHVjdHNbQ2F0ZWdvcnldKWAKKipSw6lzdWx0YXQgOioqIHVuZSBub3V2ZWxsZSBjb2xvbm5lIGNhbGN1bMOpZSBgUHJvZHVjdHNbQ2F0ZWdvcnlVcHBlcl1gLgoKIyMgRXhlcmNpY2UgNCDigJQgUmVncm91cGVyIHVuIG5vbWJyZSBlbiB0cmFuY2hlcwoKKipMYSBkZW1hbmRlIDoqKiDCqyBSZWdyb3VwZXIgbGVzIHByb2R1aXRzIGVuIHRyYW5jaGVzIEhhdXRlIC8gTW95ZW5uZSAvIEJhc3NlIHNlbG9uCmxlIHByaXguIMK7CioqREFYIDoqKgpgYGAKU1dJVENIKFRSVUUoKSwKICBQcm9kdWN0c1tQcmljZV0gPj0gMjAwLCAiSGlnaCIsCiAgUHJvZHVjdHNbUHJpY2VdID49IDUwLCAiTWlkIiwKICAiTG93IikKYGBgCioqUsOpc3VsdGF0IDoqKiB1bmUgbm91dmVsbGUgY29sb25uZSBjYWxjdWzDqWUgYFByb2R1Y3RzW1ByaWNlQmFuZF1gLgoKIyMgRXhlcmNpY2UgNSDigJQgw4l0YWJsaXIgdW5lIHJlbGF0aW9uCgoqKkxhIGRlbWFuZGUgOioqIMKrIFJlbGllciBTYWxlcyDDoCBQcm9kdWN0cyBzdXIgUHJvZHVjdElELiDCuwoqKlLDqXN1bHRhdCA6KiogdW5lIHJlbGF0aW9uIHBsdXNpZXVycy3DoC11biwgYWN0aXZlLCDDoCBzZW5zIHVuaXF1ZSwKYFNhbGVzW1Byb2R1Y3RJRF0g4oaSIFByb2R1Y3RzW1Byb2R1Y3RJRF1gLgoKIyMgRXhlcmNpY2UgNiDigJQgQ3LDqWVyIHVuZSBtZXN1cmUKCioqTGEgZGVtYW5kZSA6KiogwqsgQ3LDqWVyIHVuZSBtZXN1cmUgVG90YWwgU2FsZXMgYXUgZm9ybWF0IGV1cm8uIMK7CioqREFYIDoqKiBgU1VNKFNhbGVzW0Ftb3VudF0pYCBhdmVjIGxlIGZvcm1hdCBgIywjIzAuMDAg4oKsYC4KKipSw6lzdWx0YXQgOioqIHVuZSBub3V2ZWxsZSBtZXN1cmUgYFNhbGVzW1RvdGFsIFNhbGVzXWAuCgojIyBFeGVyY2ljZSA3IOKAlCBGaWx0cmVyIHVuZSBtZXN1cmUKCioqTGEgZGVtYW5kZSA6KiogwqsgTmUgY29tcHRlciBxdWUgbGVzIHZlbnRlcyBzdXDDqXJpZXVyZXMgw6AgMzAwLiDCuwoqKkRBWCA6KiogYENPVU5UUk9XUyhGSUxURVIoU2FsZXMsIFNhbGVzW0Ftb3VudF0gPiAzMDApKWAKKipSw6lzdWx0YXQgOioqIHVuZSBub3V2ZWxsZSBtZXN1cmUgYFNhbGVzW0JpZyBTYWxlcyBDb3VudF1gLgoKIyMgRXhlcmNpY2UgOCDigJQgUGFydCBkdSB0b3RhbAoKKipMYSBkZW1hbmRlIDoqKiDCqyBMYSBwYXJ0IGRlIGNoYXF1ZSBjYXTDqWdvcmllIGRhbnMgbGUgdG90YWwgZGVzIHZlbnRlcy4gwrsKKipEQVggOioqIGBESVZJREUoW1RvdGFsIFNhbGVzXSwgQ0FMQ1VMQVRFKFtUb3RhbCBTYWxlc10sIEFMTChTYWxlcykpKWAKKipSw6lzdWx0YXQgOioqIHVuZSBub3V2ZWxsZSBtZXN1cmUgYFNhbGVzW1BjdCBPZiBUb3RhbF1gIGF1IGZvcm1hdCBwb3VyY2VudGFnZS4KCiMjIEV4ZXJjaWNlIDkg4oCUIENsYXNzZXIKCioqTGEgZGVtYW5kZSA6KiogwqsgQ2xhc3NlciBsZXMgcHJvZHVpdHMgcGFyIHZlbnRlcy4gwrsKKipEQVggOioqIGBSQU5LWChBTEwoUHJvZHVjdHMpLCBbVG90YWwgU2FsZXNdKWAKKipSw6lzdWx0YXQgOioqIHVuIGNsYXNzZW1lbnQgYXZlYyBsZSByYW5nIGRlIGNoYXF1ZSBwcm9kdWl0LgoKIyMgRXhlcmNpY2UgMTAg4oCUIFZhbGlkZXIgYXZhbnQgZCdlbnJlZ2lzdHJlcgoKKipMYSBkZW1hbmRlIDoqKiDCqyBDZXR0ZSBtZXN1cmUgZXN0LWVsbGUgdmFsaWRlID8gU1VNKFNhbGVzW0Ftb3VudF0pIMK7CioqQ2UgcXVpIHNlIHBhc3NlIDoqKiBsJ2Fzc2lzdGFudCB2YWxpZGUgZXQgcmVudm9pZSDCqyBWYWxpZCDCuyBhdmVjIHVuZSB2YWxldXIKZCdleGVtcGxlICgyMjAyMykuIENlIG4nZXN0IHF1J2Vuc3VpdGUgcXVlIHZvdXMgY3LDqWV6IGxhIG1lc3VyZS4KCiMjIEV4ZXJjaWNlIDExIOKAlCBMaW50ZXIKCioqTGEgZGVtYW5kZSA6KiogwqsgTGludGVyIGNlIERBWCA6IFNVTShhKS9TVU0oYikgwrsKKipDZSBxdWkgc2UgcGFzc2UgOioqIGxlIGxpbnRlciBzaWduYWxlIGxlIGAvYCBldCBzdWdnw6hyZSBgRElWSURFKClgIHBvdXIgZ8OpcmVyIGxhCmRpdmlzaW9uIHBhciB6w6lybyBlbiB0b3V0ZSBzw6ljdXJpdMOpLgoKIyMgRXhlcmNpY2UgMTIg4oCUIERvY3VtZW50ZXIKCioqTGEgZGVtYW5kZSA6KiogwqsgR8OpbsOpcmVyIHVuIGRpY3Rpb25uYWlyZSBkZSBkb25uw6llcyBwb3VyIGwnZW5zZW1ibGUgZHUgbW9kw6hsZS4gwrsKKipDZSBxdWkgc2UgcGFzc2UgOioqIGwnYXNzaXN0YW50IHJlbnZvaWUgdW4gZGljdGlvbm5haXJlIG1hcmtkb3duIGxpc3RhbnQgY2hhcXVlCnRhYmxlLCBzb24gdHlwZSBldCBzb24gbm9tYnJlIGRlIGxpZ25lcywgYWluc2kgcXVlIGNoYXF1ZSBtZXN1cmUgYXZlYyBzb24gZm9ybWF0IGV0CnNvbiBleHByZXNzaW9uLgoKIyMgTGUgc2Now6ltYSBkZSBjaGFxdWUgY29ycmlnw6kKCkRlbWFuZGVyIHNpbXBsZW1lbnQg4oaSIGwnYXNzaXN0YW50IMOpY3JpdCB1biBEQVggY29ycmVjdCDihpIgaWwgYXBwbGlxdWUgbGEKbW9kaWZpY2F0aW9uIGVuIGRpcmVjdCDihpIgaWwgcmFwcG9ydGUgZXhhY3RlbWVudCBjZSBxdSdpbCBhIGZhaXQuIENldHRlIGJvdWNsZSBlc3QKdG91dCBsZSBtw6l0aWVyLiBRdWFuZCBlbGxlIGRldmllbnQgbmF0dXJlbGxlLCB2b3VzIGF2ZXogYXNzaW1pbMOpIGxlIGxpdnJlLgo=
+# Annexe F — Corrigés des exercices
+
+Corrigés des exercices guidés de l'Annexe E. Pour chacun, la demande en langage
+courant et le DAX produit par l'assistant.
+
+## Exercice 1 — Lire le modèle
+
+**La demande :** « Lister chaque table avec son nombre de lignes. »
+**Ce qui se passe :** l'assistant lit le modèle en direct et renvoie chaque table
+avec son type, son nombre de lignes et son nombre de colonnes. Pas besoin de DAX —
+c'est un appel d'exploration.
+
+## Exercice 2 — Profiler une table
+
+**La demande :** « Profiler la table Products. »
+**Ce qui se passe :** l'assistant renvoie un tableau de profil avec les valeurs
+Distinct, Blanks, Min, Max et Top pour chaque colonne. Le nombre de valeurs
+distinctes de Category est 3 ; les valeurs vides s'affichent par colonne.
+
+## Exercice 3 — Nettoyer du texte
+
+**La demande :** « Ajouter une colonne avec la catégorie en majuscules. »
+**DAX :** `UPPER(Products[Category])`
+**Résultat :** une nouvelle colonne calculée `Products[CategoryUpper]`.
+
+## Exercice 4 — Regrouper un nombre en tranches
+
+**La demande :** « Regrouper les produits en tranches Haute / Moyenne / Basse selon
+le prix. »
+**DAX :**
+```
+SWITCH(TRUE(),
+  Products[Price] >= 200, "High",
+  Products[Price] >= 50, "Mid",
+  "Low")
+```
+**Résultat :** une nouvelle colonne calculée `Products[PriceBand]`.
+
+## Exercice 5 — Établir une relation
+
+**La demande :** « Relier Sales à Products sur ProductID. »
+**Résultat :** une relation plusieurs-à-un, active, à sens unique,
+`Sales[ProductID] → Products[ProductID]`.
+
+## Exercice 6 — Créer une mesure
+
+**La demande :** « Créer une mesure Total Sales au format euro. »
+**DAX :** `SUM(Sales[Amount])` avec le format `#,##0.00 €`.
+**Résultat :** une nouvelle mesure `Sales[Total Sales]`.
+
+## Exercice 7 — Filtrer une mesure
+
+**La demande :** « Ne compter que les ventes supérieures à 300. »
+**DAX :** `COUNTROWS(FILTER(Sales, Sales[Amount] > 300))`
+**Résultat :** une nouvelle mesure `Sales[Big Sales Count]`.
+
+## Exercice 8 — Part du total
+
+**La demande :** « La part de chaque catégorie dans le total des ventes. »
+**DAX :** `DIVIDE([Total Sales], CALCULATE([Total Sales], ALL(Sales)))`
+**Résultat :** une nouvelle mesure `Sales[Pct Of Total]` au format pourcentage.
+
+## Exercice 9 — Classer
+
+**La demande :** « Classer les produits par ventes. »
+**DAX :** `RANKX(ALL(Products), [Total Sales])`
+**Résultat :** un classement avec le rang de chaque produit.
+
+## Exercice 10 — Valider avant d'enregistrer
+
+**La demande :** « Cette mesure est-elle valide ? SUM(Sales[Amount]) »
+**Ce qui se passe :** l'assistant valide et renvoie « Valid » avec une valeur
+d'exemple (22023). Ce n'est qu'ensuite que vous créez la mesure.
+
+## Exercice 11 — Linter
+
+**La demande :** « Linter ce DAX : SUM(a)/SUM(b) »
+**Ce qui se passe :** le linter signale le `/` et suggère `DIVIDE()` pour gérer la
+division par zéro en toute sécurité.
+
+## Exercice 12 — Documenter
+
+**La demande :** « Générer un dictionnaire de données pour l'ensemble du modèle. »
+**Ce qui se passe :** l'assistant renvoie un dictionnaire markdown listant chaque
+table, son type et son nombre de lignes, ainsi que chaque mesure avec son format et
+son expression.
+
+## Le schéma de chaque corrigé
+
+Demander simplement → l'assistant écrit un DAX correct → il applique la
+modification en direct → il rapporte exactement ce qu'il a fait. Cette boucle est
+tout le métier. Quand elle devient naturelle, vous avez assimilé le livre.

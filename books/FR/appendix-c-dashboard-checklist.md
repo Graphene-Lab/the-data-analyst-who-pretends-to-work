@@ -1,1 +1,50 @@
-IyBBbm5leGUgQyDigJQgTGlzdGUgZGUgY29udHLDtGxlIGR1IHRhYmxlYXUgZGUgYm9yZAoKQXZhbnQgZGUgbGl2cmVyIHVuIHRhYmxlYXUgZGUgYm9yZCwgcGFyY291cmV6IGNldHRlIGxpc3RlLgoKIyMgT2JqZWN0aWYKCi0gWyBdIExlIHRhYmxlYXUgZGUgYm9yZCByw6lwb25kIMOgIHVuZSBxdWVzdGlvbiBjbGFpcmUgKG91IMOgIHVuIGVuc2VtYmxlIGRlIHF1ZXN0aW9ucykuCi0gWyBdIExlIHB1YmxpYyBlc3QgaWRlbnRpZmnDqSAoZGlyZWN0aW9uLCBleHBsb2l0YXRpb24sIGFuYWx5c3RlKS4KLSBbIF0gTGEgZMOpY2lzaW9uIHF1J2lsIGFwcHVpZSBlc3QgY29ubnVlLgoKIyMgTWlzZSBlbiBwYWdlCgotIFsgXSBMZSBjaGlmZnJlIGxlIHBsdXMgaW1wb3J0YW50IGVzdCBsZSBwbHVzIGdyYW5kIGV0IGVuIGhhdXQgw6AgZ2F1Y2hlLgotIFsgXSBMZXMgaW5kaWNhdGV1cnMgbGnDqXMgc29udCByZWdyb3Vww6lzLgotIFsgXSBSaWVuIG5lIHNlIGRpc3B1dGUgbCdhdHRlbnRpb24uCi0gWyBdIFRvdXQgdGllbnQgc3VyIHVuIMOpY3JhbiBzYW5zIGTDqWZpbGVtZW50IChwb3VyIGxhIHZ1ZSBwcmluY2lwYWxlKS4KCiMjIEluZGljYXRldXJzCgotIFsgXSBDaGFxdWUgS1BJIGVzdCBkw6lmaW5pIGV0IGNvbXByaXMuCi0gWyBdIENlIHNvbnQgbGVzICpib25zKiBLUEksIHBhcyBzZXVsZW1lbnQgbGVzIHBsdXMgZmFjaWxlcy4KLSBbIF0gTGVzIHVuaXTDqXMgZXQgbGVzIGZvcm1hdHMgc29udCBjbGFpcnMgKOKCrCwgJSwgbm9tYnJlcykuCi0gWyBdIENoYXF1ZSBjaGlmZnJlIHBldXQgw6p0cmUgcmF0dGFjaMOpIGF1IG1vZMOobGUuCgojIyBWaXN1ZWxzCgotIFsgXSBMZSB0eXBlIGRlIGdyYXBoaXF1ZSBjb252aWVudCBhdXggZG9ubsOpZXMgKGJhcnJlcyBwb3VyIGxhIGNvbXBhcmFpc29uLCBjb3VyYmUgcG91ciBsYSB0ZW5kYW5jZSwgZXRjLikuCi0gWyBdIFBhcyBkJ2F4ZSB0cm9tcGV1ciwgcGFzIGRlIHDDqXJpb2RlIHRyacOpZSBzdXIgbGUgdm9sZXQuCi0gWyBdIExlcyBjb3VsZXVycyBvbnQgdW4gc2VucyAoZXQgbm9uIGRlIGxhIHNpbXBsZSBkw6ljb3JhdGlvbikuCi0gWyBdIExlcyBsaWJlbGzDqXMgc2UgbGlzZW50IGQndW4gY291cCBkJ8WTaWwuCgojIyBJbnRlcmFjdGl2aXTDqQoKLSBbIF0gTGVzIGZpbHRyZXMgZm9uY3Rpb25uZW50IGV0IG9udCBkdSBzZW5zLgotIFsgXSBMZSBkcmlsbC1kb3duIG3DqG5lIGzDoCBvw7kgbCd1dGlsaXNhdGV1ciBzJ3kgYXR0ZW5kLgotIFsgXSBMYSBzdXJicmlsbGFuY2UgY3JvaXPDqWUgc2UgY29tcG9ydGUgY29ycmVjdGVtZW50LgoKIyMgQ29uZmlhbmNlCgotIFsgXSBMZXMgY2hpZmZyZXMgc2UgcmFjY29yZGVudCDDoCBsYSBzb3VyY2UuCi0gWyBdIExlIG1vZMOobGUgYSByw6l1c3NpIGxlIGNvbnRyw7RsZSBkZXMgYm9ubmVzIHByYXRpcXVlcy4KLSBbIF0gTGUgdGFibGVhdSBkZSBib3JkIGVzdCBkb2N1bWVudMOpIChjZSBxdWUgc2lnbmlmaWUgY2hhcXVlIEtQSSkuCi0gWyBdIFF1ZWxxdSd1biBlbiBlc3QgcmVzcG9uc2FibGUgZXQgbGUgdGllbnQgw6Agam91ci4KCiMjIEhvbm7DqnRldMOpCgotIFsgXSBMJ2hpc3RvaXJlIHF1ZSByYWNvbnRlIGxlIHRhYmxlYXUgZGUgYm9yZCBlc3QgdW5lIGhpc3RvaXJlIGhvbm7DqnRlLgotIFsgXSBVbmUgcXVlc3Rpb24gZGlmZmljaWxlIHN1ciB1biBjaGlmZnJlIHBldXQgcmVjZXZvaXIgdW5lIHLDqXBvbnNlIHNhbnMgZW1iYXJyYXMuCgpVbiBib24gdGFibGVhdSBkZSBib3JkIG4nZXN0IHBhcyBsZSBwbHVzIGpvbGkuIEMnZXN0IGNlbHVpIGF1cXVlbCBsZXMgZ2VucyBmb250IGFzc2V6IGNvbmZpYW5jZSBwb3VyIGFnaXIuIENvbnN0cnVpc2V6IGQnYWJvcmQgcG91ciBsYSBjb25maWFuY2UsIGVuc3VpdGUgcG91ciBsYSBiZWF1dMOpLgo=
+# Annexe C — Liste de contrôle du tableau de bord
+
+Avant de livrer un tableau de bord, parcourez cette liste.
+
+## Objectif
+
+- [ ] Le tableau de bord répond à une question claire (ou à un ensemble de questions).
+- [ ] Le public est identifié (direction, exploitation, analyste).
+- [ ] La décision qu'il appuie est connue.
+
+## Mise en page
+
+- [ ] Le chiffre le plus important est le plus grand et en haut à gauche.
+- [ ] Les indicateurs liés sont regroupés.
+- [ ] Rien ne se dispute l'attention.
+- [ ] Tout tient sur un écran sans défilement (pour la vue principale).
+
+## Indicateurs
+
+- [ ] Chaque KPI est défini et compris.
+- [ ] Ce sont les *bons* KPI, pas seulement les plus faciles.
+- [ ] Les unités et les formats sont clairs (€, %, nombres).
+- [ ] Chaque chiffre peut être rattaché au modèle.
+
+## Visuels
+
+- [ ] Le type de graphique convient aux données (barres pour la comparaison, courbe pour la tendance, etc.).
+- [ ] Pas d'axe trompeur, pas de période triée sur le volet.
+- [ ] Les couleurs ont un sens (et non de la simple décoration).
+- [ ] Les libellés se lisent d'un coup d'œil.
+
+## Interactivité
+
+- [ ] Les filtres fonctionnent et ont du sens.
+- [ ] Le drill-down mène là où l'utilisateur s'y attend.
+- [ ] La surbrillance croisée se comporte correctement.
+
+## Confiance
+
+- [ ] Les chiffres se raccordent à la source.
+- [ ] Le modèle a réussi le contrôle des bonnes pratiques.
+- [ ] Le tableau de bord est documenté (ce que signifie chaque KPI).
+- [ ] Quelqu'un en est responsable et le tient à jour.
+
+## Honnêteté
+
+- [ ] L'histoire que raconte le tableau de bord est une histoire honnête.
+- [ ] Une question difficile sur un chiffre peut recevoir une réponse sans embarras.
+
+Un bon tableau de bord n'est pas le plus joli. C'est celui auquel les gens font assez confiance pour agir. Construisez d'abord pour la confiance, ensuite pour la beauté.

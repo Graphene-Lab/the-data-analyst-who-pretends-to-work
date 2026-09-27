@@ -1,1 +1,98 @@
-IyAzLiBUaGlua2luZyBpbiBEYXRhCgpUaGVyZSBpcyBhIHdheSBvZiB0aGlua2luZyB0aGF0IHNlcGFyYXRlcyBhIGdvb2QgYW5hbHlzdCBmcm9tIGEgcGVyc29uIHdobyBqdXN0Cm1ha2VzIGNoYXJ0cy4gSXQgaXMgbm90IG1hdGguIEl0IGlzIGEgaGFiaXQgb2YgYXNraW5nLCAqIkhvdyBkbyBJIGtub3cgdGhhdD8gQW5kCmNvbXBhcmVkIHRvIHdoYXQ/IiogTGV0J3MgYnVpbGQgdGhhdCBoYWJpdC4KCiMjIFRoZSBnb2xkZW4gcnVsZTogY29tcGFyZWQgdG8gd2hhdD8KCkEgbnVtYmVyIG9uIGl0cyBvd24gbWVhbnMgYWxtb3N0IG5vdGhpbmcuICJXZSBtYWRlIDEsMDAwIHNhbGVzIHRoaXMgbW9udGguIiBJcyB0aGF0Cmdvb2Q/IFlvdSBjYW5ub3QgdGVsbC4gWW91IG5lZWQgdG8gY29tcGFyZToKCi0gKipUbyBsYXN0IG1vbnRoKiog4oCUIGRpZCB3ZSBncm93IG9yIHNocmluaz8KLSAqKlRvIGxhc3QgeWVhcioqIOKAlCBpcyB0aGlzIG5vcm1hbCBmb3IgdGhlIHNlYXNvbj8KLSAqKlRvIHRoZSB0YXJnZXQqKiDigJQgZGlkIHdlIGhpdCB0aGUgZ29hbD8KLSAqKlRvIGEgc2ltaWxhciB0aGluZyoqIOKAlCBpcyB0aGlzIHN0b3JlIGJldHRlciB0aGFuIHRoZSBvdGhlcnM/CgpUaGUgbW9tZW50IHNvbWVvbmUgc2F5cyBhIG51bWJlciwgYSB0cmFpbmVkIGFuYWx5c3QgYXNrcyAqImNvbXBhcmVkIHRvIHdoYXQ/IioKVGhpcyBzaW5nbGUgcXVlc3Rpb24ga2lsbHMgbW9yZSBiYWQgZGVjaXNpb25zIHRoYW4gYW55IHNvZnR3YXJlIGV2ZXIgd2lsbC4KCiMjIFRoZSB0cmFwIG9mIHRoZSBtaXNzaW5nIGJ1bGxldCBob2xlcwoKRHVyaW5nIFdvcmxkIFdhciBJSSwgdGhlIFUuUy4gbWlsaXRhcnkgc3R1ZGllZCB3aGljaCBwYXJ0cyBvZiByZXR1cm5pbmcgYm9tYmVycwpoYWQgdGhlIG1vc3QgYnVsbGV0IGhvbGVzLCBwbGFubmluZyB0byBhZGQgYXJtb3VyIHRoZXJlLiBBIHN0YXRpc3RpY2lhbiBuYW1lZAoqKkFicmFoYW0gV2FsZCoqIHN0b3BwZWQgdGhlbS4gSGUgc2FpZDogKnlvdSBhcmUgb25seSBsb29raW5nIGF0IHRoZSBwbGFuZXMgdGhhdApjYW1lIGJhY2suIFRoZSBwbGFuZXMgaGl0IGluIHRoZSBjcml0aWNhbCBzcG90cyDigJQgdGhlIGNvY2twaXQsIHRoZSBlbmdpbmVzIOKAlCBuZXZlcgpyZXR1cm5lZCwgc28geW91IHNlZSBubyBob2xlcyB0aGVyZS4qIFRoZSBhcm1vdXIgYmVsb25nZWQgZXhhY3RseSB3aGVyZSB0aGUgaG9sZXMKd2VyZSAqKm1pc3NpbmcqKi4KClRoaXMgaXMgY2FsbGVkICoqc3Vydml2b3JzaGlwIGJpYXMqKiwgYW5kIGl0IGlzIGV2ZXJ5d2hlcmUuIFlvdSBzdHVkeSB0aGUgc3VjY2Vzc2Z1bApjb21wYW5pZXMgYW5kIGNvcHkgd2hhdCB0aGV5IGRpZCwgaWdub3JpbmcgdGhlIGZhaWx1cmVzIHRoYXQgZGlkIHRoZSBzYW1lIHRoaW5nIGFuZApkaWVkLiBZb3UgbG9vayBhdCB0aGUgY3VzdG9tZXJzIHdobyBzdGF5ZWQgYW5kIG1pc3Mgd2h5IHRoZSBvdGhlcnMgbGVmdC4gVGhlIGxlc3NvbjoKYWx3YXlzIGFzayB3aGF0IGlzICpub3QqIGluIHlvdXIgZGF0YS4KCiMjIEV2aWRlbmNlIG92ZXIgb3BpbmlvbgoKSW4gbW9zdCBtZWV0aW5ncywgdGhlIGxvdWRlc3Qgdm9pY2Ugd2lucy4gSW4gYSBkYXRhLWRyaXZlbiB0ZWFtLCB0aGUgYmVzdCBldmlkZW5jZQp3aW5zLiBUaGF0IGRvZXMgbm90IG1lYW4gbnVtYmVycyByZXBsYWNlIGp1ZGdlbWVudCDigJQgaXQgbWVhbnMgb3BpbmlvbnMgZ2V0IGNoZWNrZWQKYWdhaW5zdCBmYWN0cy4gIkkgZmVlbCBsaWtlIHRoZSBuZXcgd2Vic2l0ZSBpcyBiZXR0ZXIiIGJlY29tZXMgInRoZSBuZXcgc2l0ZQpjb252ZXJ0cyAzLjElIHZlcnN1cyAyLjQlLCBhbmQgdGhlIGRpZmZlcmVuY2UgaXMgcmVhbC4iIEZlZWxpbmdzIGdldCBhIHRlc3QuCgojIyBLUElzOiB0aGUgZmV3IG51bWJlcnMgdGhhdCBtYXR0ZXIKCkEgKipLUEkqKiDigJQgS2V5IFBlcmZvcm1hbmNlIEluZGljYXRvciDigJQgaXMgYSBudW1iZXIgeW91IHdhdGNoIGJlY2F1c2UgaXQgdGVsbHMgeW91CndoZXRoZXIgeW91IGFyZSB3aW5uaW5nLiBUaGUgYXJ0IGlzIGNob29zaW5nIHRoZSAqZmV3KiB0aGF0IG1hdHRlciBhbmQgaWdub3JpbmcgdGhlCmh1bmRyZWRzIHRoYXQgZG8gbm90LgoKQSBnb29kIEtQSSBpczoKLSAqKkNsZWFyKiog4oCUIGV2ZXJ5b25lIGFncmVlcyB3aGF0IGl0IG1lYW5zLgotICoqTWVhc3VyYWJsZSoqIOKAlCB5b3UgY2FuIGFjdHVhbGx5IGNvbXB1dGUgaXQuCi0gKipUaWVkIHRvIGEgZ29hbCoqIOKAlCBpdCBtb3ZlcyB3aGVuIHRoZSBidXNpbmVzcyBtb3Zlcy4KLSAqKkFjdGlvbmFibGUqKiDigJQgaWYgaXQncyBiYWQsIHlvdSBjYW4gZG8gc29tZXRoaW5nLgoKQSBiYWQgS1BJIGlzIGEgbnVtYmVyIHRoYXQgbG9va3MgaW1wcmVzc2l2ZSBidXQgY2hhbmdlcyBub3RoaW5nLiBWYW5pdHkgbWV0cmljcyDigJQKInRvdGFsIHdlYnNpdGUgdmlzaXRzIGV2ZXIiIOKAlCBmZWVsIGdvb2QgYW5kIGRlY2lkZSBub3RoaW5nLgoKIyMgR29hbHMgd29ydGggY2hhc2luZzogdGhlIFNNQVJUIGlkZWEKCkEgdmFndWUgZ29hbCAoInNlbGwgbW9yZSIpIHByb2R1Y2VzIHZhZ3VlIHdvcmsuIEEgKipTTUFSVCoqIGdvYWwgZ2l2ZXMgdGhlIGFuYWx5c3QKc29tZXRoaW5nIHRvIG1lYXN1cmU6CgotICoqUyoqcGVjaWZpYyDigJQgImluY3JlYXNlIG9ubGluZSBzYWxlcyIKLSAqKk0qKmVhc3VyYWJsZSDigJQgImJ5IDEwJSIKLSAqKkEqKmNoaWV2YWJsZSDigJQgcmVhbGlzdGljLCBub3QgYSB3aXNoCi0gKipSKiplbGV2YW50IOKAlCBpdCBtYXR0ZXJzIHRvIHRoZSBidXNpbmVzcwotICoqVCoqaW1lLWJvdW5kIOKAlCAiYnkgdGhlIGVuZCBvZiB0aGUgcXVhcnRlciIKCk5vdyB0aGUgYW5hbHlzdCBjYW4gYW5zd2VyOiBhcmUgd2UgdGhlcmU/IEJ5IGhvdyBtdWNoPyBPbiB0cmFjaz8gQSBnb29kIGdvYWwgaXMgYQpxdWVzdGlvbiB3aXRoIGEgZGVhZGxpbmUuCgojIyBUaGUgZGFzaGJvYXJkIGlzIGEgY29ja3BpdAoKVGhpbmsgb2YgYSBkYXNoYm9hcmQgbGlrZSBhbiBhaXJwbGFuZSBjb2NrcGl0LiBUaGUgcGlsb3QgZG9lcyBub3Qgd2FudCA1MDAgZGlhbHMuClRoZXkgd2FudCB0aGUgaGFuZGZ1bCB0aGF0IHRlbGwgdGhlbTogYWx0aXR1ZGUsIHNwZWVkLCBmdWVsLCBoZWFkaW5nLiBBIGdvb2QKZGFzaGJvYXJkIGlzIHRoZSBzYW1lIOKAlCBhIGZldyBob25lc3QgbnVtYmVycywgdmlzaWJsZSBhdCBhIGdsYW5jZSwgdGhhdCBsZXQgeW91IGFjdApiZWZvcmUgc29tZXRoaW5nIGdvZXMgd3JvbmcuIElmIGEgZGFzaGJvYXJkIG5lZWRzIGEgbWFudWFsIHRvIHJlYWQsIGl0IGlzIG5vdCBhCmRhc2hib2FyZDsgaXQgaXMgYSByZXBvcnQuCgojIyBBIGN1cmlvc2l0eTogdGhlIGJhc2UgcmF0ZQoKSW1hZ2luZSBhIGRpc2Vhc2UgYWZmZWN0cyAxIGluIDEsMDAwIHBlb3BsZS4gQSB0ZXN0IGlzIDk5JSBhY2N1cmF0ZS4gWW91IHRlc3QKcG9zaXRpdmUuIFdoYXQgYXJlIHRoZSBjaGFuY2VzIHlvdSBhY3R1YWxseSBoYXZlIGl0PyBNb3N0IHBlb3BsZSBzYXkgOTklLiBUaGUgcmVhbAphbnN3ZXIgaXMgY2xvc2VyIHRvICoqOSUqKi4gQmVjYXVzZSB0aGUgZGlzZWFzZSBpcyBzbyByYXJlLCB0aGUgaGFuZGZ1bCBvZiBmYWxzZQpwb3NpdGl2ZXMgZnJvbSA5OTkgaGVhbHRoeSBwZW9wbGUgcm91Z2hseSBlcXVhbHMgdGhlIG9uZSB0cnVlIHBvc2l0aXZlLiBUaGlzIGlzIHRoZQoqKmJhc2UgcmF0ZSoqLCBhbmQgaWdub3JpbmcgaXQgZm9vbHMgZG9jdG9ycywgbGF3eWVycywgYW5kIENFT3MgYWxpa2UuIFRoaW5raW5nIGluCmRhdGEgbWVhbnMgYWx3YXlzIGFza2luZzogKmhvdyBjb21tb24gaXMgdGhpcyB0byBiZWdpbiB3aXRoPyoKCi0tLQoKIyMgV2hhdCB5b3UnbGwgY2FycnkgZnJvbSB0aGlzIGNoYXB0ZXIKCi0gQWx3YXlzIGFzayAqImNvbXBhcmVkIHRvIHdoYXQ/IioKLSBXYXRjaCBmb3Igd2hhdCBpcyBtaXNzaW5nIChzdXJ2aXZvcnNoaXAgYmlhcykuCi0gTGV0IGV2aWRlbmNlLCBub3Qgdm9sdW1lLCB3aW4gYXJndW1lbnRzLgotIENob29zZSBhIGZldyBhY3Rpb25hYmxlIEtQSXM7IHNldCBTTUFSVCBnb2Fscy4KLSBBIGRhc2hib2FyZCBpcyBhIGNvY2twaXQsIG5vdCBhIGZpbGluZyBjYWJpbmV0LgoKTmV4dDogdGhlIHNtYWxsIGFtb3VudCBvZiBzdGF0aXN0aWNzIHlvdSBhY3R1YWxseSBuZWVkIOKAlCBhbmQgdGhlIG9uZSBtaXN0YWtlIGFib3V0CmNvcnJlbGF0aW9uIHRoYXQgdHJpcHMgdXAgZXZlcnlvbmUuCg==
+# 3. Thinking in Data
+
+There is a way of thinking that separates a good analyst from a person who just
+makes charts. It is not math. It is a habit of asking, *"How do I know that? And
+compared to what?"* Let's build that habit.
+
+## The golden rule: compared to what?
+
+A number on its own means almost nothing. "We made 1,000 sales this month." Is that
+good? You cannot tell. You need to compare:
+
+- **To last month** — did we grow or shrink?
+- **To last year** — is this normal for the season?
+- **To the target** — did we hit the goal?
+- **To a similar thing** — is this store better than the others?
+
+The moment someone says a number, a trained analyst asks *"compared to what?"*
+This single question kills more bad decisions than any software ever will.
+
+## The trap of the missing bullet holes
+
+During World War II, the U.S. military studied which parts of returning bombers
+had the most bullet holes, planning to add armour there. A statistician named
+**Abraham Wald** stopped them. He said: *you are only looking at the planes that
+came back. The planes hit in the critical spots — the cockpit, the engines — never
+returned, so you see no holes there.* The armour belonged exactly where the holes
+were **missing**.
+
+This is called **survivorship bias**, and it is everywhere. You study the successful
+companies and copy what they did, ignoring the failures that did the same thing and
+died. You look at the customers who stayed and miss why the others left. The lesson:
+always ask what is *not* in your data.
+
+## Evidence over opinion
+
+In most meetings, the loudest voice wins. In a data-driven team, the best evidence
+wins. That does not mean numbers replace judgement — it means opinions get checked
+against facts. "I feel like the new website is better" becomes "the new site
+converts 3.1% versus 2.4%, and the difference is real." Feelings get a test.
+
+## KPIs: the few numbers that matter
+
+A **KPI** — Key Performance Indicator — is a number you watch because it tells you
+whether you are winning. The art is choosing the *few* that matter and ignoring the
+hundreds that do not.
+
+A good KPI is:
+- **Clear** — everyone agrees what it means.
+- **Measurable** — you can actually compute it.
+- **Tied to a goal** — it moves when the business moves.
+- **Actionable** — if it's bad, you can do something.
+
+A bad KPI is a number that looks impressive but changes nothing. Vanity metrics —
+"total website visits ever" — feel good and decide nothing.
+
+## Goals worth chasing: the SMART idea
+
+A vague goal ("sell more") produces vague work. A **SMART** goal gives the analyst
+something to measure:
+
+- **S**pecific — "increase online sales"
+- **M**easurable — "by 10%"
+- **A**chievable — realistic, not a wish
+- **R**elevant — it matters to the business
+- **T**ime-bound — "by the end of the quarter"
+
+Now the analyst can answer: are we there? By how much? On track? A good goal is a
+question with a deadline.
+
+## The dashboard is a cockpit
+
+Think of a dashboard like an airplane cockpit. The pilot does not want 500 dials.
+They want the handful that tell them: altitude, speed, fuel, heading. A good
+dashboard is the same — a few honest numbers, visible at a glance, that let you act
+before something goes wrong. If a dashboard needs a manual to read, it is not a
+dashboard; it is a report.
+
+## A curiosity: the base rate
+
+Imagine a disease affects 1 in 1,000 people. A test is 99% accurate. You test
+positive. What are the chances you actually have it? Most people say 99%. The real
+answer is closer to **9%**. Because the disease is so rare, the handful of false
+positives from 999 healthy people roughly equals the one true positive. This is the
+**base rate**, and ignoring it fools doctors, lawyers, and CEOs alike. Thinking in
+data means always asking: *how common is this to begin with?*
+
+---
+
+## What you'll carry from this chapter
+
+- Always ask *"compared to what?"*
+- Watch for what is missing (survivorship bias).
+- Let evidence, not volume, win arguments.
+- Choose a few actionable KPIs; set SMART goals.
+- A dashboard is a cockpit, not a filing cabinet.
+
+Next: the small amount of statistics you actually need — and the one mistake about
+correlation that trips up everyone.

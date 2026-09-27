@@ -1,1 +1,57 @@
-IyBBbm5leGUgRCDigJQgQ2FzIHLDqWVscyBwYXIgc2VjdGV1cgoKQ29tbWVudCBsZSBtw6ptZSBzY2jDqW1hIGFnZW50aXF1ZSDigJQgcG9zZXIgdW5lIHF1ZXN0aW9uIGVuIGxhbmdhZ2UgY291cmFudCBldCBvYnRlbmlyIHVuIHZyYWkgY2hhbmdlbWVudCBkYW5zIGxlIG1vZMOobGUg4oCUIHNlIHJldHJvdXZlIGRhbnMgZGVzIG3DqXRpZXJzIHRyw6hzIGRpZmbDqXJlbnRzLiBDaGFxdWUgY2FzIGVzdCB1bmUgcGV0aXRlIGhpc3RvaXJlIDogdW5lIHF1ZXN0aW9uLCBldCBsYSBmYcOnb24gZG9udCBsJ2Fzc2lzdGFudCB5IHLDqXBvbmQuCgojIyBDb21tZXJjZSBkZSBkw6l0YWlsCgoqKkxhIHF1ZXN0aW9uIDoqKiDCqyBRdWVscyBwcm9kdWl0cyBub3VzIG1hbmdlbnQgbm90cmUgbWFyZ2UgPyDCuwoqKkxhIGRlbWFuZGUgOioqIGNyw6llciB1bmUgbWVzdXJlIGRlIG1hcmdlIGV0IGNsYXNzZXIgbGVzIHByb2R1aXRzIHNlbG9uIGVsbGUuCioqTGUgcsOpc3VsdGF0IDoqKiB1biBjbGFzc2VtZW50IG1vbnRyYW50IHF1ZSBxdWVscXVlcyByw6lmw6lyZW5jZXMgw6AgZm9ydGUgcmVtaXNlIHNlIHZlbmRlbnQgYmllbiBtYWlzIGZvbnQgcGVyZHJlIGRlIGwnYXJnZW50LiBMJ2FjaGV0ZXVyIHLDqWR1aXQgbGEgcmVtaXNlIHN1ciBsYSBwaXJlLiBMYSBtYXJnZSBzZSByZWRyZXNzZSBlbiB1biB0cmltZXN0cmUuCgoqKkxhIHF1ZXN0aW9uIDoqKiDCqyBRdWVscyBtYWdhc2lucyBzb3VzLXBlcmZvcm1lbnQgPyDCuwoqKkxhIGRlbWFuZGUgOioqIGxlIHRvdGFsIGRlcyB2ZW50ZXMgcGFyIG1hZ2FzaW4sIHB1aXMgcGFyIHLDqWdpb24uCioqTGUgcsOpc3VsdGF0IDoqKiBkZXV4IG1hZ2FzaW5zIHRyYcOubmVudC4gVW5lIHZpc2l0ZSByw6l2w6hsZSB1biBwcm9ibMOobWUgZGUgcnVwdHVyZSBkZSBzdG9jaywgcGFzIHVuIHByb2Jsw6htZSBkZSBkZW1hbmRlLgoKIyMgRS1jb21tZXJjZQoKKipMYSBxdWVzdGlvbiA6KiogwqsgUXVpIHNvbnQgbm9zIGNsaWVudHMgw6AgZm9ydGUgdmFsZXVyID8gwrsKKipMYSBkZW1hbmRlIDoqKiB1bmUgbWVzdXJlIGQnaW5kaWNhdGV1ciDCqyBmb3J0ZSB2YWxldXIgwrsgYXUtZGVsw6AgZCd1biBzZXVpbCBkZSBkw6lwZW5zZXMuCioqTGUgcsOpc3VsdGF0IDoqKiB1biBzZWdtZW50IGRlIDggJSBkZXMgY2xpZW50cyBnw6luw6lyYW50IDQwICUgZHUgY2hpZmZyZSBkJ2FmZmFpcmVzLiBVbmUgY2FtcGFnbmUgZCdlLW1haWxzIGNpYmzDqWUgcmVsYW5jZSBsZXMgYWNoYXRzIHLDqXDDqXTDqXMuCgoqKkxhIHF1ZXN0aW9uIDoqKiDCqyBRdWVsbGUgY2F0w6lnb3JpZSBjcm/DrnQgbGUgcGx1cyB2aXRlID8gwrsKKipMYSBkZW1hbmRlIDoqKiBsZXMgdmVudGVzIHBhciBjYXTDqWdvcmllIGV0IHBhciBtb2lzLgoqKkxlIHLDqXN1bHRhdCA6KiogdW5lIGNhdMOpZ29yaWUgZ3JpbXBlIHBlbmRhbnQgcXVlIGxlcyBhdXRyZXMgc3RhZ25lbnQuIExlIG1hcmtldGluZyBkw6lwbGFjZSBsZSBidWRnZXQgcG91ciBzdXJmZXIgc3VyIGxhIHRlbmRhbmNlLgoKIyMgSW5kdXN0cmllCgoqKkxhIHF1ZXN0aW9uIDoqKiDCqyBRdWVsbGUgbGlnbmUgYSBsZSBwbHVzIGRlIGTDqWZhdXRzID8gwrsKKipMYSBkZW1hbmRlIDoqKiBsZSBub21icmUgZGUgZMOpZmF1dHMgcGFyIGxpZ25lIGRlIHByb2R1Y3Rpb24sIGNsYXNzw6kuCioqTGUgcsOpc3VsdGF0IDoqKiB1bmUgbGlnbmUgc2UgZMOpdGFjaGUuIExhIG1haW50ZW5hbmNlIHJlcMOocmUgdW5lIHBpw6hjZSB1c8OpZSBhdmFudCBxdSdlbGxlIG5lIGzDomNoZS4KCioqTGEgcXVlc3Rpb24gOioqIMKrIEF0dGVpZ25vbnMtbm91cyBub3RyZSBvYmplY3RpZiBkZSBwcm9kdWN0aW9uID8gwrsKKipMYSBkZW1hbmRlIDoqKiBsZSByw6llbCBjb250cmUgbCdvYmplY3RpZiwgc291cyBmb3JtZSBkZSBtZXN1cmUgZW4gcG91cmNlbnRhZ2UuCioqTGUgcsOpc3VsdGF0IDoqKiB1bmUgY2FydGUgS1BJIHF1aSB2aXJlIGF1IHJvdWdlIHF1YW5kIGxhIHByb2R1Y3Rpb24gZMOpY3JvY2hlLgoKIyMgRmluYW5jZQoKKipMYSBxdWVzdGlvbiA6KiogwqsgT8O5IHNlIGNvbmNlbnRyZW50IGxlcyBkw6lwZW5zZXMgPyDCuwoqKkxhIGRlbWFuZGUgOioqIGxlcyBkw6lwZW5zZXMgcGFyIGTDqXBhcnRlbWVudCwgcGFydCBkdSB0b3RhbC4KKipMZSByw6lzdWx0YXQgOioqIHVuIGTDqXBhcnRlbWVudCByZXByw6lzZW50ZSAzNSAlIGRlcyBkw6lwZW5zZXMuIFVuZSByZXZ1ZSBidWRnw6l0YWlyZSBzJ2Vuc3VpdC4KCioqTGEgcXVlc3Rpb24gOioqIMKrIFF1ZWxzIGNvbXB0ZXMgc29udCBlbiByZXRhcmQgPyDCuwoqKkxhIGRlbWFuZGUgOioqIHVuIGluZGljYXRldXIgcG91ciBsZXMgZmFjdHVyZXMgw6ljaHVlcy4KKipMZSByw6lzdWx0YXQgOioqIHVuZSBsaXN0ZSBkZSByZWNvdXZyZW1lbnQgcXVpIHJlbnRyZSBsYSB0csOpc29yZXJpZSBwbHVzIHZpdGUuCgojIyBTYW50w6kKCioqTGEgcXVlc3Rpb24gOioqIMKrIFF1ZWxzIHBhdGllbnRzIHJpc3F1ZW50IHVuZSByw6lhZG1pc3Npb24gPyDCuwoqKkxhIGRlbWFuZGUgOioqIHVuIGluZGljYXRldXIgZGUgcmlzcXVlIGJhc8OpIHN1ciBsZXMgdmlzaXRlcyBhbnTDqXJpZXVyZXMuCioqTGUgcsOpc3VsdGF0IDoqKiB1bmUgbGlzdGUgZGUgc3VpdmkgcG91ciBsJ8OpcXVpcGUgc29pZ25hbnRlLgoKKipMYSBxdWVzdGlvbiA6KiogwqsgQ29tbWVudCDDqXZvbHVlIGxlIHRhdXggZCdvY2N1cGF0aW9uIGRlcyBsaXRzID8gwrsKKipMYSBkZW1hbmRlIDoqKiBsJ29jY3VwYXRpb24gcGFyIHNlbWFpbmUuCioqTGUgcsOpc3VsdGF0IDoqKiB1bmUgY291cmJlIHF1aSBhbGVydGUgc3VyIHVuZSBhZmZsdWVuY2UgaW1taW5lbnRlLgoKIyMgTGUgZmlsIGNvbW11bgoKQ2hhcXVlIHNlY3RldXIgcG9zZSBsYSBtw6ptZSBmb3JtZSBkZSBxdWVzdGlvbiA6ICpjb21wYXJlciwgY2xhc3Nlciwgc2lnbmFsZXIsIHN1aXZyZSBsYSB0ZW5kYW5jZS4qIEwnYXNzaXN0YW50IHLDqXBvbmQgw6AgY2V0dGUgZm9ybWUgaW5zdGFudGFuw6ltZW50LCBxdWVsbGVzIHF1ZSBzb2llbnQgbGVzIGRvbm7DqWVzLiBMZSBkb21haW5lIGNoYW5nZSA7IGxlIHNjaMOpbWEsIG5vbi4gQydlc3QgcG91cnF1b2kgdW4gc2V1bCBvdXRpbCB2YSBhdXNzaSBsb2luLgo=
+# Annexe D — Cas réels par secteur
+
+Comment le même schéma agentique — poser une question en langage courant et obtenir un vrai changement dans le modèle — se retrouve dans des métiers très différents. Chaque cas est une petite histoire : une question, et la façon dont l'assistant y répond.
+
+## Commerce de détail
+
+**La question :** « Quels produits nous mangent notre marge ? »
+**La demande :** créer une mesure de marge et classer les produits selon elle.
+**Le résultat :** un classement montrant que quelques références à forte remise se vendent bien mais font perdre de l'argent. L'acheteur réduit la remise sur la pire. La marge se redresse en un trimestre.
+
+**La question :** « Quels magasins sous-performent ? »
+**La demande :** le total des ventes par magasin, puis par région.
+**Le résultat :** deux magasins traînent. Une visite révèle un problème de rupture de stock, pas un problème de demande.
+
+## E-commerce
+
+**La question :** « Qui sont nos clients à forte valeur ? »
+**La demande :** une mesure d'indicateur « forte valeur » au-delà d'un seuil de dépenses.
+**Le résultat :** un segment de 8 % des clients générant 40 % du chiffre d'affaires. Une campagne d'e-mails ciblée relance les achats répétés.
+
+**La question :** « Quelle catégorie croît le plus vite ? »
+**La demande :** les ventes par catégorie et par mois.
+**Le résultat :** une catégorie grimpe pendant que les autres stagnent. Le marketing déplace le budget pour surfer sur la tendance.
+
+## Industrie
+
+**La question :** « Quelle ligne a le plus de défauts ? »
+**La demande :** le nombre de défauts par ligne de production, classé.
+**Le résultat :** une ligne se détache. La maintenance repère une pièce usée avant qu'elle ne lâche.
+
+**La question :** « Atteignons-nous notre objectif de production ? »
+**La demande :** le réel contre l'objectif, sous forme de mesure en pourcentage.
+**Le résultat :** une carte KPI qui vire au rouge quand la production décroche.
+
+## Finance
+
+**La question :** « Où se concentrent les dépenses ? »
+**La demande :** les dépenses par département, part du total.
+**Le résultat :** un département représente 35 % des dépenses. Une revue budgétaire s'ensuit.
+
+**La question :** « Quels comptes sont en retard ? »
+**La demande :** un indicateur pour les factures échues.
+**Le résultat :** une liste de recouvrement qui rentre la trésorerie plus vite.
+
+## Santé
+
+**La question :** « Quels patients risquent une réadmission ? »
+**La demande :** un indicateur de risque basé sur les visites antérieures.
+**Le résultat :** une liste de suivi pour l'équipe soignante.
+
+**La question :** « Comment évolue le taux d'occupation des lits ? »
+**La demande :** l'occupation par semaine.
+**Le résultat :** une courbe qui alerte sur une affluence imminente.
+
+## Le fil commun
+
+Chaque secteur pose la même forme de question : *comparer, classer, signaler, suivre la tendance.* L'assistant répond à cette forme instantanément, quelles que soient les données. Le domaine change ; le schéma, non. C'est pourquoi un seul outil va aussi loin.

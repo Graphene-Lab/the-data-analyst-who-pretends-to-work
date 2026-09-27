@@ -1,1 +1,93 @@
-IyAxOS4gREFYIDogbGUgbGFuZ2FnZSBkZXJyacOocmUgbGVzIGNoaWZmcmVzCgpEQVggZXN0IGxlIGxhbmdhZ2UgZGUgY2FsY3VsIMOgIGwnaW50w6lyaWV1ciBkZSBQb3dlciBCSS4gSWwgYSBsYSByw6lwdXRhdGlvbiBkJ8OqdHJlIGVmZnJheWFudC4gQ2UgY2hhcGl0cmUgZXhwbGlxdWUgcG91cnF1b2kgaWwgY29tcHRlLCBldCBwb3VycXVvaSDigJQgYXZlYyBsJ2Fzc2lzdGFudCDigJQgdm91cyBwb3V2ZXogbCd1dGlsaXNlciBzYW5zIGphbWFpcyB2b3VzIGZyaXRlciBhdmVjIGx1aS4KCiMjIMOAIHF1b2kgc2VydCBEQVgKCkRBWCAoRGF0YSBBbmFseXNpcyBFeHByZXNzaW9ucykgY2FsY3VsZSBsZXMgY2hpZmZyZXMgZGUgdm9zIHJhcHBvcnRzIDogdG90YXV4LCBtb3llbm5lcywgcG91cmNlbnRhZ2VzLCBjb21wYXJhaXNvbnMgYW5uw6llIHN1ciBhbm7DqWUsIGN1bXVscywgY2xhc3NlbWVudHMuIENoYXF1ZSBtZXN1cmUgcXVlIHZvdXMgdm95ZXogc3VyIHVuIHRhYmxlYXUgZGUgYm9yZCBQb3dlciBCSSBlc3QgZHUgREFYIHNvdXMgbGUgY2Fwb3QuCgpMZXMgZm9uY3Rpb25zIGRlIGJhc2Ugc29udCBzaW1wbGVzIDogYFNVTWAsIGBBVkVSQUdFYCwgYENPVU5UYCwgYE1JTmAsIGBNQVhgLCBldCBsYSB0b3V0ZS1wdWlzc2FudGUgYENBTENVTEFURWAsIHF1aSBwZXJtZXQgZGUgY2FsY3VsZXIgdW4gbm9tYnJlICpzb3VzIHVuIGZpbHRyZSBwcsOpY2lzKi4KCiMjIEwnYXNzaXN0YW50IGwnw6ljcml0IDsgdm91cyBsZSBsaXNlegoKVm91cyBuZSB0YXBleiBwYXMgZGUgREFYLiBWb3VzIGTDqWNyaXZleiBsZSBub21icmUgcXVlIHZvdXMgdm91bGV6LCBldCBsJ2Fzc2lzdGFudCDDqWNyaXQgbGUgREFYIGV0IGNyw6llIGxhIG1lc3VyZSBlbiBkaXJlY3QuIE1haXMgdm91cyBkZXZyaWV6IHBvdXZvaXIgKmxpcmUqIGNlIHF1J2lsIGEgcHJvZHVpdCwgcG91ciBsdWkgZmFpcmUgY29uZmlhbmNlLgoKPiDCqyBDcsOpZSB1bmUgbWVzdXJlIGRlIHZlbnRlcyB1bmlxdWVtZW50IHBvdXIgTWlsYW4uIMK7CgohW01lc3VyZSBkZSB2ZW50ZXMgTWlsYW5dKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9lMDUzLnBuZykKClNvdXMgbGUgY2Fwb3QsIGMnZXN0IGBDQUxDVUxBVEUoW1RvdGFsIFNhbGVzXSwgU3RvcmVzW0NpdHldID0gIk1pbGFuIilgIOKAlCBsZSB0b3RhbCBkZXMgdmVudGVzLCBtYWlzIHNldWxlbWVudCBsw6Agb8O5IGxhIHZpbGxlIGVzdCBNaWxhbi4gVW5lIGZvaXMgcXUnb24gYSB2dSBsZSBzY2jDqW1hLCBsZSBEQVggY2Vzc2UgZCfDqnRyZSBkZSBsYSBtYWdpZS4KCiMjIFZhbGlkZXIgYXZhbnQgZGUgZmFpcmUgY29uZmlhbmNlCgpMJ2Fzc2lzdGFudCBwZXV0IHRlc3RlciB1bmUgZm9ybXVsZSBzYW5zIHJpZW4gY3LDqWVyIDoKCj4gwqsgQ2V0dGUgbWVzdXJlIGVzdC1lbGxlIHZhbGlkZSA/IFNVTShTYWxlc1tBbW91bnRdKSDCuwoKIVtWYWxpZGVyIHVuZSBib25uZSBtZXN1cmVdKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9lMDQ5LnBuZykKCj4gwqsgVsOpcmlmaWUgY2V0dGUgZm9ybXVsZSBjYXNzw6llIDogU1VNWChTYWxlc1tBbW91bnRdKSDCuwoKIVtWYWxpZGVyIHVuZSBtZXN1cmUgY2Fzc8OpZV0oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2UwNTAucG5nKQoKTCd1bmUgcGFzc2UsIGwnYXV0cmUgw6ljaG91ZSDigJQgZXQgdm91cyBhcHByZW5leiBjZSBxdWkgbmUgdmEgcGFzICphdmFudCogcXVlIMOnYSBkZXZpZW5uZSB1bmUgbWVzdXJlIGNhc3PDqWUgZGFucyBsZSBtb2TDqGxlLiBDZXR0ZSBoYWJpdHVkZSBkZSDCqyB2w6lyaWZpZXIgZCdhYm9yZCDCuyBmYWl0IGdhZ25lciBkZXMgaGV1cmVzIGRlIGTDqWJvZ2FnZS4KCj4gwqsgVmFsaWRlIHVuZSBtZXN1cmUgQ0FMQ1VMQVRFLiDCuwoKIVtWYWxpZGVyIENBTENVTEFURV0oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2UwODEucG5nKQoKPiDCqyBWYWxpZGUgdW5lIG1lc3VyZSBkZSBwb3VyY2VudGFnZS4gwrsKCiFbVmFsaWRlciB1biBwb3VyY2VudGFnZV0oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2UwOTQucG5nKQoKIyMgTGUgbGludGVyIDogbGUgZ2FyZGllbiBkdSBzdHlsZSBwb3VyIERBWAoKQXUtZGVsw6AgZGUgwqsgZXN0LWNlIHF1ZSDDp2EgdG91cm5lID8gwrssIGwnYXNzaXN0YW50IHBldXQgdsOpcmlmaWVyIMKrIGVzdC1jZSBxdWUgYydlc3QgKmJpZW4gw6ljcml0KiA/IMK7IOKAlCB1biBwcm9jZXNzdXMgYXBwZWzDqSAqKmxpbnRpbmcqKi4gSWwgcmVww6hyZSBsZXMgZXJyZXVycyBjb3VyYW50ZXMgZXQgbGVzIHNjaMOpbWFzIHJpc3F1w6lzLgoKPiDCqyBMaW50ZSBjZSBEQVggOiBTVU0oYSkvU1VNKGIpIMK7CgohW0xpbnRlciB1bmUgZGl2aXNpb24gcGFyIGJhcnJlIG9ibGlxdWVdKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9lMDUxLnBuZykKCklsIGF2ZXJ0aXQgOiBuJ3V0aWxpc2V6IHBhcyB1biBgL2AgdG91dCBzaW1wbGUg4oCUIHV0aWxpc2V6IGBESVZJREVgLCBxdWkgZ8OocmUgbGEgZGl2aXNpb24gcGFyIHrDqXJvIGVuIHRvdXRlIHPDqWN1cml0w6kuIFVuZSBwZXRpdGUgcGljaGVuZXR0ZSBxdWkgcHLDqXZpZW50IHRvdXRlIHVuZSBjbGFzc2UgZCdlcnJldXJzIGAjRElWLzAhYC4KCj4gwqsgTGludGUgY2UgREFYIHByb3ByZSBhdmVjIERJVklERS4gwrsKCiFbTGludGVyIHVuIERBWCBwcm9wcmVdKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9lMDUyLnBuZykKCkxhIHZlcnNpb24gcHJvcHJlIHBhc3NlLiBPbiBhcHByZW5kIGxlIGJvbiBzY2jDqW1hIGVuIGxlIHZveWFudCByw6ljb21wZW5zw6kuCgo+IMKrIExpbnRlIHVuZSBtZXN1cmUgcXVpIHV0aWxpc2UgSUZFUlJPUi4gwrsKCiFbTGludGVyIElGRVJST1JdKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9lMDgyLnBuZykKCklsIHNpZ25hbGUgYElGRVJST1JgIGNvbW1lIHVuZSBtYXV2YWlzZSBvZGV1ciDigJQgZW52ZWxvcHBlciBsZXMgZXJyZXVycyBwZXV0IGNhY2hlciBkZSB2cmFpcyBidWdzIGF1IGxpZXUgZGUgbGVzIGNvcnJpZ2VyLiBMZSBsaW50ZXIgYXBwcmVuZCBsZXMgYm9ubmVzIGhhYml0dWRlcywgdW4gYXZlcnRpc3NlbWVudCDDoCBsYSBmb2lzLgoKIyMgTW9kaWZpZXIgbGVzIG1lc3VyZXMKCkxlcyBtZXN1cmVzIMOpdm9sdWVudC4gTCdhc3Npc3RhbnQgcGV1dCBsZXMgbWV0dHJlIMOgIGpvdXIgZXQgbGVzIHN1cHByaW1lciA6Cgo+IMKrIENoYW5nZSBsZSBmb3JtYXQgZGUgVG90YWwgU2FsZXMgZW4gZXVyb3MgZW50aWVycy4gwrsKCiFbTWV0dHJlIMOgIGpvdXIgbGUgZm9ybWF0XSguLi8uLi9hc3NldHMvZXhhbXBsZXMvZTA1NC5wbmcpCgo+IMKrIFN1cHByaW1lIGxhIG1lc3VyZSBNaWxhbiBTYWxlcy4gwrsKCiFbU3VwcHJpbWVyIHVuZSBtZXN1cmVdKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9lMDU1LnBuZykKClJlbm9tbWVyLCByZWZvcm1hdGVyLCByZXRpcmVyIOKAlCB0b3V0IGVuIGRpcmVjdCwgdG91dCByw6l2ZXJzaWJsZSB0YW50IHF1ZSB2b3VzIG4nZW5yZWdpc3RyZXogcGFzLgoKIyMgVW5lIGN1cmlvc2l0w6kgOiBsYSBiw6p0ZSBkdSBjb250ZXh0ZSBkZSBmaWx0cmUKClNpIERBWCBlc3QgcsOpcHV0w6kgZGlmZmljaWxlLCBjJ2VzdCDDoCBjYXVzZSBkJ3VuIHNldWwgY29uY2VwdCA6IGxlICoqY29udGV4dGUgZGUgZmlsdHJlKiog4oCUIGwnZW5zZW1ibGUgaW52aXNpYmxlIGRlIGZpbHRyZXMgcXUndW4gY2FsY3VsIHZvaXQgw6AgdW4gaW5zdGFudCBkb25uw6kgKGxhIGxpZ25lIGNvdXJhbnRlLCBsYSBzw6lsZWN0aW9uIGNvdXJhbnRlIGR1IHNlZ21lbnQsIGxhIHZpc3VlbGxlIGNvdXJhbnRlKS4gTWHDrnRyaXNlei1sZSBldCBEQVggZGV2aWVudCB2b3RyZSBhbWkgOyBjb21wcmVuZXotbGUgZGUgdHJhdmVycyBldCBsZXMgY2hpZmZyZXMgcGFyYWlzc2VudCBmYXV4IGRlIGZhw6dvbnMgZGlmZmljaWxlcyDDoCByZXRyYWNlci4gVm9pY2kgbGEgdsOpcml0w6kgbGliw6lyYXRyaWNlIGRlIGNlIGxpdnJlIDogKip2b3VzIGTDqWNyaXZleiBsYSByw6lwb25zZSwgZXQgbCdhc3Npc3RhbnQgZ8OocmUgbGUgY29udGV4dGUgZGUgZmlsdHJlLioqIExhIGLDqnRlIGRldmllbnQgbGUgcHJvYmzDqG1lIGRlIGwnb3V0aWwsIHBhcyBsZSB2w7R0cmUuCgotLS0KCiMjIENlIHF1ZSB2b3VzIGdhcmRlcmV6IGRlIGNlIGNoYXBpdHJlCgotIERBWCBjYWxjdWxlIGxlcyBjaGlmZnJlcyA7IGBDQUxDVUxBVEVgIGVzdCBzb24gbW90IGxlIHBsdXMgcHVpc3NhbnQuCi0gVm91cyBkw6ljcml2ZXogbGEgcsOpcG9uc2UgOyBsJ2Fzc2lzdGFudCDDqWNyaXQgbGUgREFYLgotIFZhbGlkZXogdW5lIGZvcm11bGUgYXZhbnQgZGUgbGEgY3LDqWVyLgotIExpbnRleiBwb3VyIHJlcMOpcmVyIGxlcyBtYXV2YWlzIHNjaMOpbWFzIChgL2AgdG91dCBzaW1wbGUsIGBJRkVSUk9SYCBxdWkgY2FjaGUgZGVzIGJ1Z3MpLgotIExhIHBhcnRpZSBkaWZmaWNpbGUg4oCUIGxlIGNvbnRleHRlIGRlIGZpbHRyZSDigJQgZXN0IGTDqXNvcm1haXMgbGUgam9iIGRlIGwnb3V0aWwuCgpTdWl0ZSA6IHZvaXIsIGMnZXN0IGNyb2lyZSDigJQgY29tbWVudCBjaG9pc2lyIGxlIGJvbiBncmFwaGlxdWUgZXQgbmUgcGFzIG1lbnRpciBhdmVjIGxlcyB2aXN1ZWxsZXMuCg==
+# 19. DAX : le langage derrière les chiffres
+
+DAX est le langage de calcul à l'intérieur de Power BI. Il a la réputation d'être effrayant. Ce chapitre explique pourquoi il compte, et pourquoi — avec l'assistant — vous pouvez l'utiliser sans jamais vous friter avec lui.
+
+## À quoi sert DAX
+
+DAX (Data Analysis Expressions) calcule les chiffres de vos rapports : totaux, moyennes, pourcentages, comparaisons année sur année, cumuls, classements. Chaque mesure que vous voyez sur un tableau de bord Power BI est du DAX sous le capot.
+
+Les fonctions de base sont simples : `SUM`, `AVERAGE`, `COUNT`, `MIN`, `MAX`, et la toute-puissante `CALCULATE`, qui permet de calculer un nombre *sous un filtre précis*.
+
+## L'assistant l'écrit ; vous le lisez
+
+Vous ne tapez pas de DAX. Vous décrivez le nombre que vous voulez, et l'assistant écrit le DAX et crée la mesure en direct. Mais vous devriez pouvoir *lire* ce qu'il a produit, pour lui faire confiance.
+
+> « Crée une mesure de ventes uniquement pour Milan. »
+
+![Mesure de ventes Milan](../../assets/examples/e053.png)
+
+Sous le capot, c'est `CALCULATE([Total Sales], Stores[City] = "Milan")` — le total des ventes, mais seulement là où la ville est Milan. Une fois qu'on a vu le schéma, le DAX cesse d'être de la magie.
+
+## Valider avant de faire confiance
+
+L'assistant peut tester une formule sans rien créer :
+
+> « Cette mesure est-elle valide ? SUM(Sales[Amount]) »
+
+![Valider une bonne mesure](../../assets/examples/e049.png)
+
+> « Vérifie cette formule cassée : SUMX(Sales[Amount]) »
+
+![Valider une mesure cassée](../../assets/examples/e050.png)
+
+L'une passe, l'autre échoue — et vous apprenez ce qui ne va pas *avant* que ça devienne une mesure cassée dans le modèle. Cette habitude de « vérifier d'abord » fait gagner des heures de débogage.
+
+> « Valide une mesure CALCULATE. »
+
+![Valider CALCULATE](../../assets/examples/e081.png)
+
+> « Valide une mesure de pourcentage. »
+
+![Valider un pourcentage](../../assets/examples/e094.png)
+
+## Le linter : le gardien du style pour DAX
+
+Au-delà de « est-ce que ça tourne ? », l'assistant peut vérifier « est-ce que c'est *bien écrit* ? » — un processus appelé **linting**. Il repère les erreurs courantes et les schémas risqués.
+
+> « Linte ce DAX : SUM(a)/SUM(b) »
+
+![Linter une division par barre oblique](../../assets/examples/e051.png)
+
+Il avertit : n'utilisez pas un `/` tout simple — utilisez `DIVIDE`, qui gère la division par zéro en toute sécurité. Une petite pichenette qui prévient toute une classe d'erreurs `#DIV/0!`.
+
+> « Linte ce DAX propre avec DIVIDE. »
+
+![Linter un DAX propre](../../assets/examples/e052.png)
+
+La version propre passe. On apprend le bon schéma en le voyant récompensé.
+
+> « Linte une mesure qui utilise IFERROR. »
+
+![Linter IFERROR](../../assets/examples/e082.png)
+
+Il signale `IFERROR` comme une mauvaise odeur — envelopper les erreurs peut cacher de vrais bugs au lieu de les corriger. Le linter apprend les bonnes habitudes, un avertissement à la fois.
+
+## Modifier les mesures
+
+Les mesures évoluent. L'assistant peut les mettre à jour et les supprimer :
+
+> « Change le format de Total Sales en euros entiers. »
+
+![Mettre à jour le format](../../assets/examples/e054.png)
+
+> « Supprime la mesure Milan Sales. »
+
+![Supprimer une mesure](../../assets/examples/e055.png)
+
+Renommer, reformater, retirer — tout en direct, tout réversible tant que vous n'enregistrez pas.
+
+## Une curiosité : la bête du contexte de filtre
+
+Si DAX est réputé difficile, c'est à cause d'un seul concept : le **contexte de filtre** — l'ensemble invisible de filtres qu'un calcul voit à un instant donné (la ligne courante, la sélection courante du segment, la visuelle courante). Maîtrisez-le et DAX devient votre ami ; comprenez-le de travers et les chiffres paraissent faux de façons difficiles à retracer. Voici la vérité libératrice de ce livre : **vous décrivez la réponse, et l'assistant gère le contexte de filtre.** La bête devient le problème de l'outil, pas le vôtre.
+
+---
+
+## Ce que vous garderez de ce chapitre
+
+- DAX calcule les chiffres ; `CALCULATE` est son mot le plus puissant.
+- Vous décrivez la réponse ; l'assistant écrit le DAX.
+- Validez une formule avant de la créer.
+- Lintez pour repérer les mauvais schémas (`/` tout simple, `IFERROR` qui cache des bugs).
+- La partie difficile — le contexte de filtre — est désormais le job de l'outil.
+
+Suite : voir, c'est croire — comment choisir le bon graphique et ne pas mentir avec les visuelles.

@@ -1,1 +1,65 @@
-IyA0LiBMZXMgc3RhdGlzdGlxdWVzIHNhbnMgbGEgZG91bGV1cgoKSWwgbmUgZmF1dCBwYXMgYmVhdWNvdXAgZGUgc3RhdGlzdGlxdWVzIHBvdXIgw6p0cmUgdW4gYm9uIGFuYWx5c3RlLiBJbCBmYXV0IHVuZSBwb2lnbsOpZSBkJ2lkw6llcywgY29tcHJpc2VzIGVuIHByb2ZvbmRldXIsIGV0IGxhIHNhZ2Vzc2UgZGUgc2F2b2lyIHF1YW5kIGVsbGVzIHZvdXMgdHJvbXBlbnQuIFZvaWNpIGxhIHRyb3Vzc2UgY29tcGzDqHRlLCBlbiBtb3RzIHNpbXBsZXMuCgojIyBMZXMgdHJvaXMgbW95ZW5uZXMgOiBtb3llbm5lLCBtw6lkaWFuZSwgbW9kZQoKTGVzIGdlbnMgZGlzZW50IMKrIGxhIG1veWVubmUgwrsgY29tbWUgcydpbCBuJ3kgZW4gYXZhaXQgcXUndW5lLiBJbCB5IGVuIGEgdHJvaXMsIGV0IGNob2lzaXIgbGEgbWF1dmFpc2UgcGV1dCBtZW50aXIgc2FucyB0ZWNobmlxdWVtZW50IGF2b2lyIHRvcnQuCgotICoqTGEgbW95ZW5uZSoqIOKAlCBhZGRpdGlvbm5leiB0b3V0LCBkaXZpc2V6IHBhciBsZSBub21icmUuIExhIG1veWVubmUgY2xhc3NpcXVlLgotICoqTGEgbcOpZGlhbmUqKiDigJQgbGEgdmFsZXVyIGR1IG1pbGlldSBxdWFuZCB2b3VzIGxlcyBhbGlnbmV6IHRvdXRlcy4gTGEgbW9pdGnDqSBhdS1kZXNzdXMsIGxhIG1vaXRpw6kgZW4gZGVzc291cy4KLSAqKkxlIG1vZGUqKiDigJQgbGEgdmFsZXVyIGxhIHBsdXMgZnLDqXF1ZW50ZS4KClBvdXJxdW9pIGVzdC1jZSBpbXBvcnRhbnQgPyBJbWFnaW5leiB1bmUgcGV0aXRlIGVudHJlcHJpc2UuIERpeCBlbXBsb3nDqXMgZ2FnbmVudCAzMCAwMDAg4oKsLCBldCBsZSBwYXRyb24gZW4gZ2FnbmUgNTAwIDAwMC4KCi0gTGUgKipzYWxhaXJlIG1veWVuKiogZXN0IGRlIDcyIDcyNyDigqwg4oCUIMKrIG9uIHBhaWUgYmllbiAhIMK7Ci0gTGUgKipzYWxhaXJlIG3DqWRpYW4qKiBlc3QgZGUgMzAgMDAwIOKCrCDigJQgbGEgcsOpYWxpdMOpIGR1IHRyYXZhaWxsZXVyIHR5cGlxdWUuCgpVbiBjaGlmZnJlIGVzdCDCqyBjb3JyZWN0IMK7IGV0IGwnYXV0cmUgYXVzc2ksIGV0IGlscyByYWNvbnRlbnQgZGVzIGhpc3RvaXJlcyBjb21wbMOodGVtZW50IGRpZmbDqXJlbnRlcy4gUXVhbmQgcXVlbHF1ZXMgdmFsZXVycyBleHRyw6ptZXMgKGRlcyB2YWxldXJzIGFiZXJyYW50ZXMpIHNvbnQgZGFucyBsZSBsb3QsIGxhICoqbcOpZGlhbmUqKiBlc3QgZ8OpbsOpcmFsZW1lbnQgbCdob25uw6p0ZS4gUXVhbmQgcXVlbHF1J3VuIGNpdGUgdW5lIG1veWVubmUsIGRlbWFuZGV6IDogKm1veWVubmUgb3UgbcOpZGlhbmUgPyoKCiMjIExhIGRpc3BlcnNpb24gOiBsZXMgY2hvc2VzIHNvbnQtZWxsZXMgc3RhYmxlcyBvdSBkw6lyw6lnbMOpZXMgPwoKVW5lIG1veWVubmUgY2FjaGUgw6AgcXVlbCBwb2ludCBsZXMgbm9tYnJlcyBzb250IMOpdGFsw6lzLiBEZXV4IHNlcnZpY2VzIGRlIGxpdnJhaXNvbiBvbnQgdG91cyBkZXV4IHVuZSBtb3llbm5lIGRlIDMgam91cnMuIEwndW4gbWV0IHRvdWpvdXJzIDMgam91cnMuIEwnYXV0cmUgbWV0IDEgam91ciBvdSA1IGpvdXJzIGF1IGhhc2FyZC4gTcOqbWUgbW95ZW5uZSwgZXhww6lyaWVuY2UgdG90YWxlbWVudCBkaWZmw6lyZW50ZS4KCkxhIG1lc3VyZSBkZSBkaXNwZXJzaW9uIHF1ZSB2b3VzIHV0aWxpc2VyZXogbGUgcGx1cyBlc3QgbCcqKsOpY2FydC10eXBlKiog4oCUIGVuIGdyb3MsIMKrIMOgIHF1ZWxsZSBkaXN0YW5jZSBkZSBsYSBtb3llbm5lIGxlcyBjaG9zZXMgc2UgdHJvdXZlbnQgZCdoYWJpdHVkZSDCuy4gUGV0aXQgw6ljYXJ0LXR5cGUgPSBzdGFibGUsIHByw6l2aXNpYmxlLiBHcmFuZCA9IGTDqXLDqWdsw6ksIHBldSBmaWFibGUuIExlcyBtb3llbm5lcyB2b3VzIGRvbm5lbnQgbGUgY2VudHJlIDsgbGEgZGlzcGVyc2lvbiB2b3VzIGRvbm5lIGxlIHJpc3F1ZS4KCiMjIExhIGNvdXJiZSBlbiBjbG9jaGUgKGV0IHBvdXJxdW9pIGVsbGUgYXBwYXJhw650IHBhcnRvdXQpCgpCZWF1Y291cCBkZSBjaG9zZXMgcsOpZWxsZXMg4oCUIGxlcyB0YWlsbGVzLCBsZXMgbm90ZXMgZCdleGFtZW4sIGxlcyBlcnJldXJzIGRlIG1lc3VyZSDigJQgcydhY2N1bXVsZW50IGF1dG91ciBkdSBtaWxpZXUgZXQgcydhbWluY2lzc2VudCBhdXggZXh0csOpbWl0w6lzLCBmb3JtYW50IHVuZSBjbG9jaGUuIEMnZXN0IGxhICoqbG9pIG5vcm1hbGUqKiwgZXQgZWxsZSBlc3QgcGFydG91dCDDoCBjYXVzZSBkJ3VuIGZhaXQgbWFnbmlmaXF1ZSA6IHF1YW5kIGJlYXVjb3VwIGRlIHBldGl0ZXMgaW5mbHVlbmNlcyBhbMOpYXRvaXJlcyBzJ2FkZGl0aW9ubmVudCwgbGUgcsOpc3VsdGF0IHRlbmQgdmVycyB1bmUgY2xvY2hlLiBWb3VzIG4nYXZleiBwYXMgYmVzb2luIGRlcyBtYXRocy4gVm91cyBhdmV6IGJlc29pbiBkZSBsJ2luc3RpbmN0IDogbGEgcGx1cGFydCBkZXMgY2FzIHNvbnQgcHLDqHMgZHUgbWlsaWV1LCBsZXMgZXh0csOqbWVzIHNvbnQgcmFyZXMsIGV0IHVuZSB2YWxldXIgdHLDqHMgbG9pbiBkYW5zIGxhIHF1ZXVlIG3DqXJpdGUgcXUnb24gcyd5IGF0dGFyZGUuCgojIyBMZXMgdmFsZXVycyBhYmVycmFudGVzIDogbGUgbm9tYnJlIGJpemFycmUKClVuZSAqKnZhbGV1ciBhYmVycmFudGUqKiBlc3QgdW5lIHZhbGV1ciBsb2luIGRlcyBhdXRyZXMuIFVuIGNsaWVudCBhY2jDqHRlIHBvdXIgNTAgMDAwIOKCrCBhbG9ycyBxdWUgdG91cyBsZXMgYXV0cmVzIGFjaMOodGVudCBwb3VyIDUwIOKCrC4gVW5lIGxpdnJhaXNvbiBtZXQgMzAgam91cnMgYWxvcnMgcXVlIGxlIHJlc3RlIGVuIG1ldCAzLiBMZXMgdmFsZXVycyBhYmVycmFudGVzIHBldXZlbnQgw6p0cmUgOgotICoqRGVzIGVycmV1cnMqKiDigJQgdW5lIGZhdXRlIGRlIGZyYXBwZSwgdW4gZW5yZWdpc3RyZW1lbnQgZGUgdGVzdCwgdW5lIHZpcmd1bGUgbWFsIHBsYWPDqWUuCi0gKipSw6llbGxlcyBtYWlzIHJhcmVzKiog4oCUIHVuIGNsaWVudCBiYWxlaW5lLCB1bmUgdnJhaWUgY2F0YXN0cm9waGUuCgpSZWdhcmRleiB0b3Vqb3VycyBsZXMgdmFsZXVycyBhYmVycmFudGVzIGF2YW50IGRlIGZhaXJlIGNvbmZpYW5jZSDDoCB1bmUgbW95ZW5uZS4gVW4gc2V1bCBncm9zIGNsaWVudCBwZXV0IGZhaXJlIHBhcmHDrnRyZSB1biBtb2lzIGVudGllciBmb3JtaWRhYmxlIGV0IGNhY2hlciBxdWUgbGVzIDIwMCBhdXRyZXMgY2xpZW50cyBzJ2VuIHZvbnQuCgojIyBMZSBncmFuZCBwacOoZ2UgOiBjb3Jyw6lsYXRpb24gbidlc3QgcGFzIGNhdXNhbGl0w6kKCkMnZXN0IGxhIHBocmFzZSBsYSBwbHVzIGltcG9ydGFudGUgZGUgdG91dCBjZSBsaXZyZS4KCkxhICoqY29ycsOpbGF0aW9uKiogdmV1dCBkaXJlIHF1ZSBkZXV4IGNob3NlcyBib3VnZW50IGVuc2VtYmxlLiBMYSAqKmNhdXNhbGl0w6kqKiB2ZXV0IGRpcmUgcXUndW5lIGNob3NlICpjYXVzZSogbCdhdXRyZS4gQ2Ugbidlc3QgcGFzIGxhIG3Dqm1lIGNob3NlLCBldCBsZXMgY29uZm9uZHJlIGVuZ2VuZHJlIGRlcyBiw6p0aXNlcyBjb8O7dGV1c2VzLgoKRXhlbXBsZSBjbGFzc2lxdWUgOiAqKmxlcyB2ZW50ZXMgZGUgZ2xhY2VzIGV0IGxlcyBub3lhZGVzIGF1Z21lbnRlbnQgZW5zZW1ibGUqKiBjaGFxdWUgw6l0w6kuIExlcyBnbGFjZXMgY2F1c2VudC1lbGxlcyBsZXMgbm95YWRlcyA/IE5vbi4gVW5lIHRyb2lzacOobWUgY2hvc2Ug4oCUIGxlIHRlbXBzIGNoYXVkIOKAlCBwaWxvdGUgbGVzIGRldXguIFF1YW5kIHZvdXMgdm95ZXogZGV1eCBjaG9zZXMgYm91Z2VyIGVuc2VtYmxlLCBkZW1hbmRleiB0b3Vqb3VycyA6Ci0gRXN0LWNlIHF1ZSBBIGNhdXNlIEIgPwotIEVzdC1jZSBxdWUgQiBjYXVzZSBBID8KLSBFc3QtY2UgcXUndW4gQyBjYWNow6kgY2F1c2UgbGVzIGRldXggPwotIEVzdC1jZSBqdXN0ZSB1bmUgY2/Dr25jaWRlbmNlID8KCsKrIExlcyBjbGllbnRzIHF1aSB1dGlsaXNlbnQgcGx1cyBub3RyZSBhcHBsaSBzb250IHBsdXMgaGV1cmV1eCDCuyBwb3VycmFpdCB2b3Vsb2lyIGRpcmUgcXVlIGwnYXBwbGkgbGVzIHJlbmQgaGV1cmV1eCDigJQgb3UgcXVlIGxlcyBjbGllbnRzIGTDqWrDoCBoZXVyZXV4IGwndXRpbGlzZW50IHBsdXMuIExhIGNvcnLDqWxhdGlvbiB2b3VzIG1ldCBzdXIgdW5lIHBpc3RlLiBFbGxlIG5lIHZvdXMgZG9ubmUgcGFzIGxhIHLDqXBvbnNlLgoKIyMgVW5lIGN1cmlvc2l0w6kgOiBsZSBjb2VmZmljaWVudCBkZSBjb3Jyw6lsYXRpb24KCkxlcyBzdGF0aXN0aWNpZW5zIHLDqXN1bWVudCDCqyDDoCBxdWVsIHBvaW50IGRldXggY2hvc2VzIGJvdWdlbnQgZW5zZW1ibGUgwrsgZW4gdW4gc2V1bCBub21icmUgYWxsYW50IGRlICoqLTEgw6AgKzEqKi4gKzEgdmV1dCBkaXJlIHF1J2VsbGVzIG1vbnRlbnQgcGFyZmFpdGVtZW50IGVuIGNhZGVuY2UgOyAtMSB2ZXV0IGRpcmUgcXVlIGwndW5lIG1vbnRlIHBlbmRhbnQgcXVlIGwnYXV0cmUgZGVzY2VuZCA7IDAgdmV1dCBkaXJlIGF1Y3VuZSByZWxhdGlvbi4gQydlc3QgdW4gdGhlcm1vbcOodHJlIHV0aWxlIHBvdXIgdW5lIHJlbGF0aW9uIOKAlCBtYWlzIHJhcHBlbGV6LXZvdXMsIG3Dqm1lIHVuICsxIHBhcmZhaXQgbidlc3QgdG91am91cnMgcGFzIHVuZSBwcmV1dmUgZGUgY2F1c2UuCgotLS0KCiMjIENlIHF1ZSB2b3VzIGdhcmRlcmV6IGRlIGNlIGNoYXBpdHJlCgotIFNhY2hleiBxdWVsbGUgbW95ZW5uZSB2b3VzIHV0aWxpc2V6IDsgbGEgbcOpZGlhbmUgZGl0IHNvdXZlbnQgbGEgdsOpcml0w6kuCi0gTGVzIG1veWVubmVzIGNhY2hlbnQgbGEgZGlzcGVyc2lvbiDigJQgc3VydmVpbGxleiBsJ8OpY2FydC10eXBlLgotIExlcyB2YWxldXJzIGFiZXJyYW50ZXMgcGV1dmVudCBmYWxzaWZpZXIgdG91dGUgdW5lIGhpc3RvaXJlIDsgcmVnYXJkZXotbGVzIGQnYWJvcmQuCi0gTGEgY29ycsOpbGF0aW9uIGVzdCB1bmUgcGlzdGUsIGphbWFpcyB1bmUgcHJldXZlLiBDaGVyY2hleiB0b3Vqb3VycyBsYSB0cm9pc2nDqG1lIGNob3NlIGNhY2jDqWUuCgpTdWl0ZSA6IGNvbW1lbnQgdHJhbnNmb3JtZXIgdW5lIGlucXVpw6l0dWRlIGZsb3VlIGVuIHVuZSBxdWVzdGlvbiBwcsOpY2lzZSDDoCBsYXF1ZWxsZSBvbiBwZXV0IHZyYWltZW50IHLDqXBvbmRyZSBhdmVjIGRlcyBkb25uw6llcy4K
+# 4. Les statistiques sans la douleur
+
+Il ne faut pas beaucoup de statistiques pour être un bon analyste. Il faut une poignée d'idées, comprises en profondeur, et la sagesse de savoir quand elles vous trompent. Voici la trousse complète, en mots simples.
+
+## Les trois moyennes : moyenne, médiane, mode
+
+Les gens disent « la moyenne » comme s'il n'y en avait qu'une. Il y en a trois, et choisir la mauvaise peut mentir sans techniquement avoir tort.
+
+- **La moyenne** — additionnez tout, divisez par le nombre. La moyenne classique.
+- **La médiane** — la valeur du milieu quand vous les alignez toutes. La moitié au-dessus, la moitié en dessous.
+- **Le mode** — la valeur la plus fréquente.
+
+Pourquoi est-ce important ? Imaginez une petite entreprise. Dix employés gagnent 30 000 €, et le patron en gagne 500 000.
+
+- Le **salaire moyen** est de 72 727 € — « on paie bien ! »
+- Le **salaire médian** est de 30 000 € — la réalité du travailleur typique.
+
+Un chiffre est « correct » et l'autre aussi, et ils racontent des histoires complètement différentes. Quand quelques valeurs extrêmes (des valeurs aberrantes) sont dans le lot, la **médiane** est généralement l'honnête. Quand quelqu'un cite une moyenne, demandez : *moyenne ou médiane ?*
+
+## La dispersion : les choses sont-elles stables ou déréglées ?
+
+Une moyenne cache à quel point les nombres sont étalés. Deux services de livraison ont tous deux une moyenne de 3 jours. L'un met toujours 3 jours. L'autre met 1 jour ou 5 jours au hasard. Même moyenne, expérience totalement différente.
+
+La mesure de dispersion que vous utiliserez le plus est l'**écart-type** — en gros, « à quelle distance de la moyenne les choses se trouvent d'habitude ». Petit écart-type = stable, prévisible. Grand = déréglé, peu fiable. Les moyennes vous donnent le centre ; la dispersion vous donne le risque.
+
+## La courbe en cloche (et pourquoi elle apparaît partout)
+
+Beaucoup de choses réelles — les tailles, les notes d'examen, les erreurs de mesure — s'accumulent autour du milieu et s'amincissent aux extrémités, formant une cloche. C'est la **loi normale**, et elle est partout à cause d'un fait magnifique : quand beaucoup de petites influences aléatoires s'additionnent, le résultat tend vers une cloche. Vous n'avez pas besoin des maths. Vous avez besoin de l'instinct : la plupart des cas sont près du milieu, les extrêmes sont rares, et une valeur très loin dans la queue mérite qu'on s'y attarde.
+
+## Les valeurs aberrantes : le nombre bizarre
+
+Une **valeur aberrante** est une valeur loin des autres. Un client achète pour 50 000 € alors que tous les autres achètent pour 50 €. Une livraison met 30 jours alors que le reste en met 3. Les valeurs aberrantes peuvent être :
+- **Des erreurs** — une faute de frappe, un enregistrement de test, une virgule mal placée.
+- **Réelles mais rares** — un client baleine, une vraie catastrophe.
+
+Regardez toujours les valeurs aberrantes avant de faire confiance à une moyenne. Un seul gros client peut faire paraître un mois entier formidable et cacher que les 200 autres clients s'en vont.
+
+## Le grand piège : corrélation n'est pas causalité
+
+C'est la phrase la plus importante de tout ce livre.
+
+La **corrélation** veut dire que deux choses bougent ensemble. La **causalité** veut dire qu'une chose *cause* l'autre. Ce n'est pas la même chose, et les confondre engendre des bêtises coûteuses.
+
+Exemple classique : **les ventes de glaces et les noyades augmentent ensemble** chaque été. Les glaces causent-elles les noyades ? Non. Une troisième chose — le temps chaud — pilote les deux. Quand vous voyez deux choses bouger ensemble, demandez toujours :
+- Est-ce que A cause B ?
+- Est-ce que B cause A ?
+- Est-ce qu'un C caché cause les deux ?
+- Est-ce juste une coïncidence ?
+
+« Les clients qui utilisent plus notre appli sont plus heureux » pourrait vouloir dire que l'appli les rend heureux — ou que les clients déjà heureux l'utilisent plus. La corrélation vous met sur une piste. Elle ne vous donne pas la réponse.
+
+## Une curiosité : le coefficient de corrélation
+
+Les statisticiens résument « à quel point deux choses bougent ensemble » en un seul nombre allant de **-1 à +1**. +1 veut dire qu'elles montent parfaitement en cadence ; -1 veut dire que l'une monte pendant que l'autre descend ; 0 veut dire aucune relation. C'est un thermomètre utile pour une relation — mais rappelez-vous, même un +1 parfait n'est toujours pas une preuve de cause.
+
+---
+
+## Ce que vous garderez de ce chapitre
+
+- Sachez quelle moyenne vous utilisez ; la médiane dit souvent la vérité.
+- Les moyennes cachent la dispersion — surveillez l'écart-type.
+- Les valeurs aberrantes peuvent falsifier toute une histoire ; regardez-les d'abord.
+- La corrélation est une piste, jamais une preuve. Cherchez toujours la troisième chose cachée.
+
+Suite : comment transformer une inquiétude floue en une question précise à laquelle on peut vraiment répondre avec des données.

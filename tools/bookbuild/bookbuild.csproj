@@ -1,1 +1,18 @@
-PFByb2plY3QgU2RrPSJNaWNyb3NvZnQuTkVULlNkayI+CgogIDxQcm9wZXJ0eUdyb3VwPgogICAgPE91dHB1dFR5cGU+RXhlPC9PdXRwdXRUeXBlPgogICAgPFRhcmdldEZyYW1ld29yaz5uZXQxMC4wPC9UYXJnZXRGcmFtZXdvcms+CiAgICA8SW1wbGljaXRVc2luZ3M+ZW5hYmxlPC9JbXBsaWNpdFVzaW5ncz4KICAgIDxOdWxsYWJsZT5lbmFibGU8L051bGxhYmxlPgogICAgPFJvb3ROYW1lc3BhY2U+Qm9va0J1aWxkPC9Sb290TmFtZXNwYWNlPgogICAgPEFzc2VtYmx5TmFtZT5ib29rYnVpbGQ8L0Fzc2VtYmx5TmFtZT4KICAgIDxMYW5nVmVyc2lvbj5sYXRlc3Q8L0xhbmdWZXJzaW9uPgogIDwvUHJvcGVydHlHcm91cD4KCiAgPEl0ZW1Hcm91cD4KICAgIDxQYWNrYWdlUmVmZXJlbmNlIEluY2x1ZGU9IlB1cHBldGVlclNoYXJwIiBWZXJzaW9uPSIyNS4wLjQiIC8+CiAgICA8UHJvamVjdFJlZmVyZW5jZSBJbmNsdWRlPSIuLlwuLlwuLlxQb3dlckJJVG9vbFxQb3dlckJJVG9vbC5jc3Byb2oiIC8+CiAgPC9JdGVtR3JvdXA+Cgo8L1Byb2plY3Q+Cg==
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>BookBuild</RootNamespace>
+    <AssemblyName>bookbuild</AssemblyName>
+    <LangVersion>latest</LangVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="PuppeteerSharp" Version="25.0.4" />
+    <ProjectReference Include="..\..\..\PowerBITool\PowerBITool.csproj" />
+  </ItemGroup>
+
+</Project>

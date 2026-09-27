@@ -1,1 +1,107 @@
-IyA2LiBXb2hlciBEYXRlbiBrb21tZW4KCkJldm9yIGR1IGlyZ2VuZGV0d2FzIGFuYWx5c2llcmVuIGthbm5zdCwgYnJhdWNoc3QgZHUgRGF0ZW4g4oCTIHVuZCBkdSBtdXNzdCB3aXNzZW4sCmluIHdlbGNoZXIgVmVyZmFzc3VuZyBzaWUgc2luZC4gRGllc2VzIEthcGl0ZWwgaGFuZGVsdCB2b20gUm9oc3RvZmY6IHdvaGVyIGVyCmtvbW10LCB3ZWxjaGUgRm9ybWVuIGVyIGFubmltbXQsIHVuZCB3aWUgbWFuIGlobSBkaWUgVGVtcGVyYXR1ciBuaW1tdCwgYmV2b3IgbWFuCmlyZ2VuZGV0d2FzIGJhdXQuCgojIyBEcmVpIEFydGVuIHZvbiBEYXRlbgoKQWxsZXMsIHdhcyBkdSBqZSBhbmFseXNpZXJlbiB3aXJzdCwgZsOkbGx0IGluIGRyZWkgRWltZXI6CgotICoqU3RydWt0dXJpZXJ0Kiog4oCTIHNhdWJlcmUgWmVpbGVuIHVuZCBTcGFsdGVuLiBFaW5lIFZlcmthdWZzdGFiZWxsZSwgZWluZQogIEt1bmRlbmxpc3RlLCBlaW4gS29udG9hdXN6dWcuIExlaWNodCBmw7xyIENvbXB1dGVyIHp1IGxlc2VuLiBEYXMgaXN0IGRlaW4KICBCcm90LXVuZC1CdXR0ZXItR2VzY2jDpGZ0LgotICoqSGFsYnN0cnVrdHVyaWVydCoqIOKAkyBoYXQgZWluZSBnZXdpc3NlIE9yZG51bmcsIGFiZXIga2VpbiBzYXViZXJlcyBSYXN0ZXIuIEVpbgogIFdlYi1Mb2csIGVpbmUgSlNPTi1EYXRlaSBhdXMgZWluZXIgQXBwLCBlaW5lIEUtTWFpbCBtaXQgRmVsZGVybi4gQnJhdWNodCBldHdhcwogIFp1cmljaHR1bmcuCi0gKipVbnN0cnVrdHVyaWVydCoqIOKAkyBrZWluZSBlaW5nZWJhdXRlIE9yZG51bmcuIFRleHRkb2t1bWVudGUsIEJpbGRlciwgVmlkZW9zLCBkaWUKICBGcmVpdGV4dC1CZXNjaHdlcmRlIGVpbmVzIEt1bmRlbi4gQW0gc2Nod2Vyc3RlbiB6dSBhbmFseXNpZXJlbiwgdW5kIHdvIEtJCiAgw7xiZXJyYXNjaGVuZCBndXQgd2lyZC4KCkRpZSBtZWlzdGUgR2VzY2jDpGZ0c2FuYWx5c2UgbGVidCBpbiBkZXIgc3RydWt0dXJpZXJ0ZW4gV2VsdC4gRGFzIGlzdCBkaWUgZ3V0ZQpOYWNocmljaHQ6IEVzIGlzdCBkaWUgQXJ0LCBhdWYgZGllIG1hbiBlaW4gV2Vya3pldWcgcmljaHRlbiB1bmQgc2NobmVsbCBBbnR3b3J0ZW4KYmVrb21tZW4ga2Fubi4KCiMjIERpZSDDvGJsaWNoZW4gVmVyZMOkY2h0aWdlbjogV28gR2VzY2jDpGZ0c2RhdGVuIHNpY2ggdmVyc3RlY2tlbgoKLSAqKkRhcyBFUlAtL01hbmFnZW1lbnRzeXN0ZW0qKiDigJMgQXVmdHLDpGdlLCBSZWNobnVuZ2VuLCBMYWdlciwgS3VuZGVuLgotICoqRGFzIENSTSoqIOKAkyBMZWFkcywgVmVya2F1ZnNjaGFuY2VuLCBLb250YWt0ZSwgVmVydHJpZWJzLVBpcGVsaW5lLgotICoqVGFiZWxsZW5rYWxrdWxhdGlvbmVuKiog4oCTIGRlciB1bml2ZXJzZWxsZSBSw7xja2dyaWZmLCBpbSBHdXRlbiB3aWUgaW0gU2NobGVjaHRlbi4KLSAqKkRhdGVuYmFua2VuKiog4oCTIFNRTC1TZXJ2ZXIsIGRpZSBkaWUgQXVmemVpY2hudW5nZW4gZGVyIEZpcm1hIGVudGhhbHRlbi4KLSAqKldlYi0gdW5kIEFwcC1Mb2dzKiog4oCTIGplZGVyIEtsaWNrLCBqZWRlciBTZWl0ZW5hdWZydWYsIGplZGVzIEVyZWlnbmlzLgotICoqQ1NWLS9FeGNlbC1FeHBvcnRlKiog4oCTIERhdGVuLCBkaWUgYXVzIGlyZ2VuZGVpbmVtIFN5c3RlbSBpbiBlaW5lIERhdGVpIGdlem9nZW4KICB3ZXJkZW4uCi0gKipBUElzKiog4oCTIExpdmUtRGF0ZW4sIGRpZSB2b24gZWluZW0gRGllbnN0IGdlc3RyZWFtdCB3ZXJkZW4gKFdldHRlciwgVmVyc2FuZCwKICBaYWhsdW5nZW4pLgotICoqSW9ULVNlbnNvcmVuKiog4oCTIFRlbXBlcmF0dXIsIE1hc2NoaW5lbnN0YXR1cywgS3VuZGVuZnJlcXVlbnp6w6RobGVyLgoKRWluZSBlY2h0ZSBBbmFseXNlIG7DpGh0IG9mdCBtZWhyZXJlIGRhdm9uIHp1c2FtbWVuLiBEZXIgZXJzdGUgWnVnIGRlcyBBbmFseXN0ZW4KaXN0LCBkaWUgRGF0ZW4genUgZmluZGVuIHVuZCBpaHJlIEZvcm0genUgdmVyc3RlaGVuLgoKIyMgRGllIFRlbXBlcmF0dXIgbmVobWVuOiBQcm9maWxpbmcKCkJldm9yIGR1IGVpbmVyIFRhYmVsbGUgdHJhdXN0LCAqKnByb2ZpbGllcnN0KiogZHUgc2llOiB3aWUgdmllbGUgWmVpbGVuLCB3ZWxjaGUKU3BhbHRlbiwgd2llIHZpZWxlIHZlcnNjaGllZGVuZSBXZXJ0ZSwgd2llIHZpZWxlIGxlZXJlLCBkYXMgTWluaW11bSB1bmQgTWF4aW11bSwKZGllIGjDpHVmaWdzdGVuIFdlcnRlLiBQcm9maWxpbmcgaXN0IGVpbiBHZXN1bmRoZWl0c2NoZWNrLCBkZXIgZGlyIHNhZ3QsIG1pdCB3YXMgZHUKZXMgenUgdHVuIGhhc3QsIGJldm9yIGR1IGVpbiBlaW56aWdlcyBEaWFncmFtbSBiYXVzdC4KCkhpZXIgZWluIGVjaHRlcy4gSmVtYW5kIGJhdCBkZW4gQXNzaXN0ZW50ZW4sIGRpZSBQcm9kdWt0dGFiZWxsZSB6dSBwcm9maWxpZXJlbjoKCj4g4oCeRXJzdGVsbGUgZWluIFByb2ZpbCBkZXIgUHJvZHVjdHMtVGFiZWxsZS4iCgohW1Byb2ZpbCBkZXIgUHJvZHVjdHMtVGFiZWxsZV0oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2UwMDYucG5nKQoKQXVmIGVpbmVuIFNjaGxhZyBzaWVoc3QgZHU6IDggUHJvZHVrdGUsIDMgS2F0ZWdvcmllbiAoS2l0Y2hlbiA0LCBGdXJuaXR1cmUgMywKU3RhdGlvbmVyeSAxKSwgUHJlaXNlIHZvbiAxMiDigqwgYmlzIDM0OSDigqwgdW5kIGVpbiBwYWFyIEJlaXNwaWVsemVpbGVuLiBLZWluIFJhdGVuLgpEaWUgRm9ybSBkZXIgRGF0ZW4gaXN0IGpldHp0IG9mZmVuc2ljaHRsaWNoLgoKRGFzc2VsYmUgZ2VodCBiZWkgS3VuZGVuOgoKPiDigJ5FcnN0ZWxsZSBlaW4gUHJvZmlsIGRlciBDdXN0b21lcnMtVGFiZWxsZS4iCgohW1Byb2ZpbCBkZXIgQ3VzdG9tZXJzLVRhYmVsbGVdKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9lMDA3LnBuZykKClp3w7ZsZiBLdW5kZW4gw7xiZXIgdmllciBTdMOkZHRlIHVuZCBkcmVpIFNlZ21lbnRlLiBNYW4gc2llaHQgZGllIEdlc2NoaWNodGUgc2ljaApmb3JtZW4gc2Nob24g4oCTIE1haWxhbmQgdW5kIFJvbSBzaW5kIGRpZSBncsO2w590ZW4sIGRpZSBTZWdtZW50ZSBzaW5kIGF1c2dld29nZW4uCgojIyBEaWUgU3BhbHRlbiBrbGFyIHNlaGVuCgpNYW5jaG1hbCB3aWxsIG1hbiBudXIgZGllIFN0cnVrdHVyIOKAkyBkaWUgU3BhbHRlbiB1bmQgaWhyZSBUeXBlbi4gRGVyIEFzc2lzdGVudApsaWVzdCBkYXMgU2NoZW1hIGRpcmVrdDoKCj4g4oCeWmVpZyBtaXIgZGFzIFNjaGVtYSBkZXIgU2FsZXMtVGFiZWxsZS4iCgohW1NjaGVtYSBkZXIgU2FsZXMtVGFiZWxsZV0oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2UwMDgucG5nKQoKSmVkZSBTcGFsdGUsIGlociBUeXAgdW5kIGRpZSBiZXJlaXRzIGFuZ2Vow6RuZ3RlbiBNYcOfZS4gRGFzIGlzdCBkaWUgS2FydGUsIGRpZSBkdSBpbgpqZWRlIHNww6R0ZXJlIEZyYWdlIHRyw6Rnc3QuCgojIyBFaW5lIEt1cmlvc2l0w6R0OiBkaWUg4oCeZsO8bmZ0ZSBBcnQiIHZvbiBEYXRlbgoKVW50ZXIgQW5hbHlzdGVuIGt1cnNpZXJ0IGRlciBXaXR6LCBkaWUgZsO8bmZ0ZSBBcnQgdm9uIERhdGVuIHNlaSAqKkRhdGVuLCB2b24gZGVuZW4KbWFuIG5pY2h0IHd1c3N0ZSwgZGFzcyBtYW4gc2llIGhhdCoqIOKAkyBkaWUgTWV0YWRhdGVuLiBXYW5uIGhhdCBzaWNoIGplZGVyCkRhdGVuc2F0eiBnZcOkbmRlcnQ/IFdlciBoYXQgaWhuIGFuZ2VmYXNzdD8gV2llIG9mdCB3dXJkZSBlaW5lIFNlaXRlIGF1ZmdlcnVmZW4/Ck1ldGFkYXRlbiBzaW5kIGRpZSBEYXRlbiAqw7xiZXIqIGRlaW5lIERhdGVuLCB1bmQgc2llIGVudGhhbHRlbiBvZnQgZGllCmludGVyZXNzYW50ZXN0ZW4gQW50d29ydGVuIHZvbiBhbGxlbi4KCi0tLQoKIyMgUHJvYmllciBlcyBzZWxic3QKCj4g4oCeV2llIHZpZWxlIHZlcnNjaGllZGVuZSBLYXRlZ29yaWVuIGdpYnQgZXM/IgoKIVtBbnphaGwgdmVyc2NoaWVkZW5lciBLYXRlZ29yaWVuXSguLi8uLi9hc3NldHMvZXhhbXBsZXMvZTA3MS5wbmcpCgpFaW5lIGVpbnplaWxpZ2UgRnJhZ2UsIGVpbmUgZWluemVpbGlnZSBBbnR3b3J0LCBkaXJla3QgYXVzIGRlbSBMaXZlLU1vZGVsbC4KCiMjIFdhcyBkdSBhdXMgZGllc2VtIEthcGl0ZWwgbWl0bmltbXN0CgotIERhdGVuIGtvbW1lbiBpbiBkcmVpIEZvcm1lbjogc3RydWt0dXJpZXJ0LCBoYWxic3RydWt0dXJpZXJ0LCB1bnN0cnVrdHVyaWVydC4KLSBHZXNjaMOkZnRzZGF0ZW4gdmVyc3RlY2tlbiBzaWNoIGluIEVSUCwgQ1JNLCBEYXRlbmJhbmtlbiwgVGFiZWxsZW5rYWxrdWxhdGlvbmVuLAogIExvZ3MgdW5kIEFQSXMuCi0gSW1tZXIgKipwcm9maWxpZXJlbioqLCBiZXZvciBtYW4gYmF1dCDigJMgZGllIEZvcm0gdW5kIGRpZSBMw7xja2VuIGtlbm5lbi4KLSBEaWUgTWV0YWRhdGVuIG5pY2h0IHZlcmdlc3NlbjogZGllIERhdGVuIMO8YmVyIGRlaW5lIERhdGVuLgoKQWxzIE7DpGNoc3RlczogZGllIHVuc3Bla3Rha3Vsw6RyZSwgZXNzZW56aWVsbGUgQXJiZWl0LCBzY2htdXR6aWdlIERhdGVuIHp1CnPDpHViZXJuIOKAkyB1bmQgd2llIGVpbiBwYWFyIGJlcmVjaG5ldGUgU3BhbHRlbiBlaW4gQ2hhb3MgaW4gU2VrdW5kZW4gYmVoZWJlbi4K
+# 6. Woher Daten kommen
+
+Bevor du irgendetwas analysieren kannst, brauchst du Daten – und du musst wissen,
+in welcher Verfassung sie sind. Dieses Kapitel handelt vom Rohstoff: woher er
+kommt, welche Formen er annimmt, und wie man ihm die Temperatur nimmt, bevor man
+irgendetwas baut.
+
+## Drei Arten von Daten
+
+Alles, was du je analysieren wirst, fällt in drei Eimer:
+
+- **Strukturiert** – saubere Zeilen und Spalten. Eine Verkaufstabelle, eine
+  Kundenliste, ein Kontoauszug. Leicht für Computer zu lesen. Das ist dein
+  Brot-und-Butter-Geschäft.
+- **Halbstrukturiert** – hat eine gewisse Ordnung, aber kein sauberes Raster. Ein
+  Web-Log, eine JSON-Datei aus einer App, eine E-Mail mit Feldern. Braucht etwas
+  Zurichtung.
+- **Unstrukturiert** – keine eingebaute Ordnung. Textdokumente, Bilder, Videos, die
+  Freitext-Beschwerde eines Kunden. Am schwersten zu analysieren, und wo KI
+  überraschend gut wird.
+
+Die meiste Geschäftsanalyse lebt in der strukturierten Welt. Das ist die gute
+Nachricht: Es ist die Art, auf die man ein Werkzeug richten und schnell Antworten
+bekommen kann.
+
+## Die üblichen Verdächtigen: Wo Geschäftsdaten sich verstecken
+
+- **Das ERP-/Managementsystem** – Aufträge, Rechnungen, Lager, Kunden.
+- **Das CRM** – Leads, Verkaufschancen, Kontakte, Vertriebs-Pipeline.
+- **Tabellenkalkulationen** – der universelle Rückgriff, im Guten wie im Schlechten.
+- **Datenbanken** – SQL-Server, die die Aufzeichnungen der Firma enthalten.
+- **Web- und App-Logs** – jeder Klick, jeder Seitenaufruf, jedes Ereignis.
+- **CSV-/Excel-Exporte** – Daten, die aus irgendeinem System in eine Datei gezogen
+  werden.
+- **APIs** – Live-Daten, die von einem Dienst gestreamt werden (Wetter, Versand,
+  Zahlungen).
+- **IoT-Sensoren** – Temperatur, Maschinenstatus, Kundenfrequenzzähler.
+
+Eine echte Analyse näht oft mehrere davon zusammen. Der erste Zug des Analysten
+ist, die Daten zu finden und ihre Form zu verstehen.
+
+## Die Temperatur nehmen: Profiling
+
+Bevor du einer Tabelle traust, **profilierst** du sie: wie viele Zeilen, welche
+Spalten, wie viele verschiedene Werte, wie viele leere, das Minimum und Maximum,
+die häufigsten Werte. Profiling ist ein Gesundheitscheck, der dir sagt, mit was du
+es zu tun hast, bevor du ein einziges Diagramm baust.
+
+Hier ein echtes. Jemand bat den Assistenten, die Produkttabelle zu profilieren:
+
+> „Erstelle ein Profil der Products-Tabelle."
+
+![Profil der Products-Tabelle](../../assets/examples/e006.png)
+
+Auf einen Schlag siehst du: 8 Produkte, 3 Kategorien (Kitchen 4, Furniture 3,
+Stationery 1), Preise von 12 € bis 349 € und ein paar Beispielzeilen. Kein Raten.
+Die Form der Daten ist jetzt offensichtlich.
+
+Dasselbe geht bei Kunden:
+
+> „Erstelle ein Profil der Customers-Tabelle."
+
+![Profil der Customers-Tabelle](../../assets/examples/e007.png)
+
+Zwölf Kunden über vier Städte und drei Segmente. Man sieht die Geschichte sich
+formen schon – Mailand und Rom sind die größten, die Segmente sind ausgewogen.
+
+## Die Spalten klar sehen
+
+Manchmal will man nur die Struktur – die Spalten und ihre Typen. Der Assistent
+liest das Schema direkt:
+
+> „Zeig mir das Schema der Sales-Tabelle."
+
+![Schema der Sales-Tabelle](../../assets/examples/e008.png)
+
+Jede Spalte, ihr Typ und die bereits angehängten Maße. Das ist die Karte, die du in
+jede spätere Frage trägst.
+
+## Eine Kuriosität: die „fünfte Art" von Daten
+
+Unter Analysten kursiert der Witz, die fünfte Art von Daten sei **Daten, von denen
+man nicht wusste, dass man sie hat** – die Metadaten. Wann hat sich jeder
+Datensatz geändert? Wer hat ihn angefasst? Wie oft wurde eine Seite aufgerufen?
+Metadaten sind die Daten *über* deine Daten, und sie enthalten oft die
+interessantesten Antworten von allen.
+
+---
+
+## Probier es selbst
+
+> „Wie viele verschiedene Kategorien gibt es?"
+
+![Anzahl verschiedener Kategorien](../../assets/examples/e071.png)
+
+Eine einzeilige Frage, eine einzeilige Antwort, direkt aus dem Live-Modell.
+
+## Was du aus diesem Kapitel mitnimmst
+
+- Daten kommen in drei Formen: strukturiert, halbstrukturiert, unstrukturiert.
+- Geschäftsdaten verstecken sich in ERP, CRM, Datenbanken, Tabellenkalkulationen,
+  Logs und APIs.
+- Immer **profilieren**, bevor man baut – die Form und die Lücken kennen.
+- Die Metadaten nicht vergessen: die Daten über deine Daten.
+
+Als Nächstes: die unspektakuläre, essenzielle Arbeit, schmutzige Daten zu
+säubern – und wie ein paar berechnete Spalten ein Chaos in Sekunden beheben.

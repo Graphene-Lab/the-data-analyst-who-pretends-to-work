@@ -1,1 +1,89 @@
-IyDQn9GA0LjQu9C+0LbQtdC90LjQtSBGIOKAlCDQoNC10YjQtdC90LjRjyDRg9C/0YDQsNC20L3QtdC90LjQuQoK0KDQtdGI0LXQvdC40Y8g0YPQv9GA0LDQttC90LXQvdC40Lkg0YEg0L/QvtC00YHQutCw0LfQutCw0LzQuCDQuNC3INC/0YDQuNC70L7QttC10L3QuNGPIEUuINCa0LDQttC00L7QtSDQv9C+0LrQsNC30YvQstCw0LXRgiDQv9GA0L7RgdGM0LHRgyDQvdCwCtC/0YDQvtGB0YLQvtC8INCw0L3Qs9C70LjQudGB0LrQvtC8INC4IERBWCwg0YfRgtC+INCy0YvQtNCw0ZHRgiDQsNGB0YHQuNGB0YLQtdC90YIuCgojIyDQo9C/0YDQsNC20L3QtdC90LjQtSAxIOKAlCDQn9GA0L7Rh9C40YLQsNGC0Ywg0LzQvtC00LXQu9GMCgoqKtCf0YDQvtGB0YzQsdCwOioqIMKr0J/QtdGA0LXRh9C40YHQu9C4INC60LDQttC00YPRjiDRgtCw0LHQu9C40YbRgyDRgSDRh9C40YHQu9C+0Lwg0YHRgtGA0L7Qui7CuwoqKtCn0YLQviDQv9GA0L7QuNGB0YXQvtC00LjRgjoqKiDQsNGB0YHQuNGB0YLQtdC90YIg0YfQuNGC0LDQtdGCINC20LjQstGD0Y4g0LzQvtC00LXQu9GMINC4INCy0L7Qt9Cy0YDQsNGJ0LDQtdGCINC60LDQttC00YPRjiDRgtCw0LHQu9C40YbRgyDRgQrQtdGRINGC0LjQv9C+0LwsINGH0LjRgdC70L7QvCDRgdGC0YDQvtC6INC4INGH0LjRgdC70L7QvCDRgdGC0L7Qu9Cx0YbQvtCyLiBEQVgg0L3QtSDQvdGD0LbQtdC9IOKAlCDRjdGC0L4g0LLRi9C30L7QsiDQvtCx0L3QsNGA0YPQttC10L3QuNGPLgoKIyMg0KPQv9GA0LDQttC90LXQvdC40LUgMiDigJQg0J/RgNC+0YTQuNC70LjRgNC+0LLQsNGC0Ywg0YLQsNCx0LvQuNGG0YMKCioq0J/RgNC+0YHRjNCx0LA6KiogwqvQn9GA0L7RhNC40LvQuNGA0YPQuSDRgtCw0LHQu9C40YbRgyBQcm9kdWN0cy7CuwoqKtCn0YLQviDQv9GA0L7QuNGB0YXQvtC00LjRgjoqKiDQsNGB0YHQuNGB0YLQtdC90YIg0LLQvtC30LLRgNCw0YnQsNC10YIg0YLQsNCx0LvQuNGG0YMg0L/RgNC+0YTQuNC70Y8g0YEgRGlzdGluY3QsIEJsYW5rcywgTWluLApNYXgg0LggVG9wINC30L3QsNGH0LXQvdC40Y/QvNC4INC/0L4g0LrQsNC20LTQvtC80YMg0YHRgtC+0LvQsdGG0YMuINCg0LDQt9C70LjRh9C90YvRhSDQt9C90LDRh9C10L3QuNC5IENhdGVnb3J5IOKAlCAzOyDQv9GD0YHRgtC+0YLRiwrQv9C+0LrQsNC30LDQvdGLINC/0L4g0YHRgtC+0LvQsdGG0LDQvC4KCiMjINCj0L/RgNCw0LbQvdC10L3QuNC1IDMg4oCUINCf0L7Rh9C40YHRgtC40YLRjCDRgtC10LrRgdGCCgoqKtCf0YDQvtGB0YzQsdCwOioqIMKr0JTQvtCx0LDQstGMINGB0YLQvtC70LHQtdGGINGBINC60LDRgtC10LPQvtGA0LjQuCDQt9Cw0LPQu9Cw0LLQvdGL0LzQuCDQsdGD0LrQstCw0LzQuC7CuwoqKkRBWDoqKiBgVVBQRVIoUHJvZHVjdHNbQ2F0ZWdvcnldKWAKKirQoNC10LfRg9C70YzRgtCw0YI6Kiog0L3QvtCy0YvQuSDQstGL0YfQuNGB0LvRj9C10LzRi9C5INGB0YLQvtC70LHQtdGGIGBQcm9kdWN0c1tDYXRlZ29yeVVwcGVyXWAuCgojIyDQo9C/0YDQsNC20L3QtdC90LjQtSA0IOKAlCDQoNCw0LfQu9C+0LbQuNGC0Ywg0YfQuNGB0LvQviDQvdCwINCz0YDRg9C/0L/RiwoKKirQn9GA0L7RgdGM0LHQsDoqKiDCq9Cg0LDQt9C70L7QttC4INGC0L7QstCw0YDRiyDQvdCwIEhpZ2ggLyBNaWQgLyBMb3cg0L/QviDRhtC10L3QtS7CuwoqKkRBWDoqKgpgYGAKU1dJVENIKFRSVUUoKSwKICBQcm9kdWN0c1tQcmljZV0gPj0gMjAwLCAiSGlnaCIsCiAgUHJvZHVjdHNbUHJpY2VdID49IDUwLCAiTWlkIiwKICAiTG93IikKYGBgCioq0KDQtdC30YPQu9GM0YLQsNGCOioqINC90L7QstGL0Lkg0LLRi9GH0LjRgdC70Y/QtdC80YvQuSDRgdGC0L7Qu9Cx0LXRhiBgUHJvZHVjdHNbUHJpY2VCYW5kXWAuCgojIyDQo9C/0YDQsNC20L3QtdC90LjQtSA1IOKAlCDQoNCw0LfQstC10YHRgtC4INGB0LLRj9C30YwKCioq0J/RgNC+0YHRjNCx0LA6KiogwqvQodCy0Y/QttC4IFNhbGVzINGBIFByb2R1Y3RzINC/0L4gUHJvZHVjdElELsK7Cioq0KDQtdC30YPQu9GM0YLQsNGCOioqINGB0LLRj9C30YwgwqvQvNC90L7Qs9C40LUt0Lot0L7QtNC90L7QvNGDwrssINC+0LTQvdC+0L3QsNC/0YDQsNCy0LvQtdC90L3QsNGPLCDQsNC60YLQuNCy0L3QsNGPOgpgU2FsZXNbUHJvZHVjdElEXSDihpIgUHJvZHVjdHNbUHJvZHVjdElEXWAuCgojIyDQo9C/0YDQsNC20L3QtdC90LjQtSA2IOKAlCDQn9C+0YHRgtGA0L7QuNGC0Ywg0LzQtdGA0YMKCioq0J/RgNC+0YHRjNCx0LA6KiogwqvQodC+0LfQtNCw0Lkg0LzQtdGA0YMgVG90YWwgU2FsZXMg0LIg0YTQvtGA0LzQsNGC0LUg0LXQstGA0L4uwrsKKipEQVg6KiogYFNVTShTYWxlc1tBbW91bnRdKWAg0YEg0YTQvtGA0LzQsNGC0L7QvCBgIywjIzAuMDAg4oKsYC4KKirQoNC10LfRg9C70YzRgtCw0YI6Kiog0L3QvtCy0LDRjyDQvNC10YDQsCBgU2FsZXNbVG90YWwgU2FsZXNdYC4KCiMjINCj0L/RgNCw0LbQvdC10L3QuNC1IDcg4oCUINCe0YLRhNC40LvRjNGC0YDQvtCy0LDRgtGMINC80LXRgNGDCgoqKtCf0YDQvtGB0YzQsdCwOioqIMKr0J/QvtGB0YfQuNGC0LDQuSDRgtC+0LvRjNC60L4g0L/RgNC+0LTQsNC20Lgg0LLRi9GI0LUgMzAwLsK7CioqREFYOioqIGBDT1VOVFJPV1MoRklMVEVSKFNhbGVzLCBTYWxlc1tBbW91bnRdID4gMzAwKSlgCioq0KDQtdC30YPQu9GM0YLQsNGCOioqINC90L7QstCw0Y8g0LzQtdGA0LAgYFNhbGVzW0JpZyBTYWxlcyBDb3VudF1gLgoKIyMg0KPQv9GA0LDQttC90LXQvdC40LUgOCDigJQg0JTQvtC70Y8g0L7RgiDQvtCx0YnQtdCz0L4KCioq0J/RgNC+0YHRjNCx0LA6KiogwqvQlNC+0LvRjyDQutCw0LbQtNC+0Lkg0LrQsNGC0LXQs9C+0YDQuNC4INCyINC+0LHRidC40YUg0L/RgNC+0LTQsNC20LDRhS7CuwoqKkRBWDoqKiBgRElWSURFKFtUb3RhbCBTYWxlc10sIENBTENVTEFURShbVG90YWwgU2FsZXNdLCBBTEwoU2FsZXMpKSlgCioq0KDQtdC30YPQu9GM0YLQsNGCOioqINC90L7QstCw0Y8g0LzQtdGA0LAgYFNhbGVzW1BjdCBPZiBUb3RhbF1gINGBINC/0YDQvtGG0LXQvdGC0L3Ri9C8INGE0L7RgNC80LDRgtC+0LwuCgojIyDQo9C/0YDQsNC20L3QtdC90LjQtSA5IOKAlCDQoNCw0L3QttC40YDQvtCy0LDRgtGMCgoqKtCf0YDQvtGB0YzQsdCwOioqIMKr0J/RgNC+0YDQsNC90LbQuNGA0YPQuSDRgtC+0LLQsNGA0Ysg0L/QviDQv9GA0L7QtNCw0LbQsNC8LsK7CioqREFYOioqIGBSQU5LWChBTEwoUHJvZHVjdHMpLCBbVG90YWwgU2FsZXNdKWAKKirQoNC10LfRg9C70YzRgtCw0YI6Kiog0YLQsNCx0LvQuNGG0LAg0LvQuNC00LXRgNC+0LIg0YEg0YDQsNC90LPQvtC8INC60LDQttC00L7Qs9C+INGC0L7QstCw0YDQsC4KCiMjINCj0L/RgNCw0LbQvdC10L3QuNC1IDEwIOKAlCDQktCw0LvQuNC00LjRgNC+0LLQsNGC0Ywg0L/QtdGA0LXQtCDRgdC+0YXRgNCw0L3QtdC90LjQtdC8CgoqKtCf0YDQvtGB0YzQsdCwOioqIMKr0K3RgtC+INCy0LDQu9C40LTQvdCw0Y8g0LzQtdGA0LA/IFNVTShTYWxlc1tBbW91bnRdKcK7Cioq0KfRgtC+INC/0YDQvtC40YHRhdC+0LTQuNGCOioqINCw0YHRgdC40YHRgtC10L3RgiDQstCw0LvQuNC00LjRgNGD0LXRgiDQuCDQstC+0LfQstGA0LDRidCw0LXRgiDCq1ZhbGlkwrsg0YEg0L/RgNC40LzQtdGA0L7QvCDQt9C90LDRh9C10L3QuNGPCigyMjAyMykuINCi0L7Qu9GM0LrQviDRgtC+0LPQtNCwINCy0Ysg0YHQvtC30LTQsNGR0YLQtSDQvNC10YDRgy4KCiMjINCj0L/RgNCw0LbQvdC10L3QuNC1IDExIOKAlCDQm9C40L3RggoKKirQn9GA0L7RgdGM0LHQsDoqKiDCq9Ce0YLQu9C40L3RgtGD0Lkg0Y3RgtC+0YIgREFYOiBTVU0oYSkvU1VNKGIpwrsKKirQp9GC0L4g0L/RgNC+0LjRgdGF0L7QtNC40YI6Kiog0LvQuNC90YLQtdGAINGE0LvQsNCz0YPQtdGCIGAvYCDQuCDQv9GA0LXQtNC70LDQs9Cw0LXRgiBgRElWSURFKClgLCDRh9GC0L7QsdGLINCx0LXQt9C+0L/QsNGB0L3QvgrQvtCx0YDQsNCx0L7RgtCw0YLRjCDQtNC10LvQtdC90LjQtSDQvdCwINC90L7Qu9GMLgoKIyMg0KPQv9GA0LDQttC90LXQvdC40LUgMTIg4oCUINCX0LDQtNC+0LrRg9C80LXQvdGC0LjRgNC+0LLQsNGC0YwKCioq0J/RgNC+0YHRjNCx0LA6KiogwqvQodCz0LXQvdC10YDQuNGA0YPQuSDRgdC70L7QstCw0YDRjCDQtNCw0L3QvdGL0YUg0LTQu9GPINCy0YHQtdC5INC80L7QtNC10LvQuC7CuwoqKtCn0YLQviDQv9GA0L7QuNGB0YXQvtC00LjRgjoqKiDQsNGB0YHQuNGB0YLQtdC90YIg0LLQvtC30LLRgNCw0YnQsNC10YIgbWFya2Rvd24t0YHQu9C+0LLQsNGA0YwsINC/0LXRgNC10YfQuNGB0LvRj9GO0YnQuNC5INC60LDQttC00YPRjgrRgtCw0LHQu9C40YbRgywg0LXRkSDRgtC40L8g0Lgg0YfQuNGB0LvQviDRgdGC0YDQvtC6LCDQuCDQutCw0LbQtNGD0Y4g0LzQtdGA0YMg0YEg0LXRkSDRhNC+0YDQvNCw0YLQvtC8INC4INCy0YvRgNCw0LbQtdC90LjQtdC8LgoKIyMg0J/QsNGC0YLQtdGA0L0g0LIg0LrQsNC20LTQvtC8INGA0LXRiNC10L3QuNC4CgrQn9GA0L7RgdC4INC/0YDQvtGB0YLQviDihpIg0LDRgdGB0LjRgdGC0LXQvdGCINC/0LjRiNC10YIg0LLQtdGA0L3Ri9C5IERBWCDihpIg0L/RgNC40LzQtdC90Y/QtdGCINC40LfQvNC10L3QtdC90LjQtSDQstC20LjQstGD0Y4g4oaSCtC00L7QutC70LDQtNGL0LLQsNC10YIg0YDQvtCy0L3Qviwg0YfRgtC+INGB0LTQtdC70LDQuy4g0K3RgtCwINC/0LXRgtC70Y8g4oCUINCy0LXRgdGMINC90LDQstGL0LouINCa0L7Qs9C00LAg0Y3RgtC+INGB0YLQsNC90LXRgiDQtdGB0YLQtdGB0YLQstC10L3QvdGL0LwsCtCy0Ysg0YPRgdCy0L7QuNGC0LUg0LrQvdC40LPRgy4K
+# Приложение F — Решения упражнений
+
+Решения упражнений с подсказками из приложения E. Каждое показывает просьбу на
+простом английском и DAX, что выдаёт ассистент.
+
+## Упражнение 1 — Прочитать модель
+
+**Просьба:** «Перечисли каждую таблицу с числом строк.»
+**Что происходит:** ассистент читает живую модель и возвращает каждую таблицу с
+её типом, числом строк и числом столбцов. DAX не нужен — это вызов обнаружения.
+
+## Упражнение 2 — Профилировать таблицу
+
+**Просьба:** «Профилируй таблицу Products.»
+**Что происходит:** ассистент возвращает таблицу профиля с Distinct, Blanks, Min,
+Max и Top значениями по каждому столбцу. Различных значений Category — 3; пустоты
+показаны по столбцам.
+
+## Упражнение 3 — Почистить текст
+
+**Просьба:** «Добавь столбец с категории заглавными буквами.»
+**DAX:** `UPPER(Products[Category])`
+**Результат:** новый вычисляемый столбец `Products[CategoryUpper]`.
+
+## Упражнение 4 — Разложить число на группы
+
+**Просьба:** «Разложи товары на High / Mid / Low по цене.»
+**DAX:**
+```
+SWITCH(TRUE(),
+  Products[Price] >= 200, "High",
+  Products[Price] >= 50, "Mid",
+  "Low")
+```
+**Результат:** новый вычисляемый столбец `Products[PriceBand]`.
+
+## Упражнение 5 — Развести связь
+
+**Просьба:** «Свяжи Sales с Products по ProductID.»
+**Результат:** связь «многие-к-одному», однонаправленная, активная:
+`Sales[ProductID] → Products[ProductID]`.
+
+## Упражнение 6 — Построить меру
+
+**Просьба:** «Создай меру Total Sales в формате евро.»
+**DAX:** `SUM(Sales[Amount])` с форматом `#,##0.00 €`.
+**Результат:** новая мера `Sales[Total Sales]`.
+
+## Упражнение 7 — Отфильтровать меру
+
+**Просьба:** «Посчитай только продажи выше 300.»
+**DAX:** `COUNTROWS(FILTER(Sales, Sales[Amount] > 300))`
+**Результат:** новая мера `Sales[Big Sales Count]`.
+
+## Упражнение 8 — Доля от общего
+
+**Просьба:** «Доля каждой категории в общих продажах.»
+**DAX:** `DIVIDE([Total Sales], CALCULATE([Total Sales], ALL(Sales)))`
+**Результат:** новая мера `Sales[Pct Of Total]` с процентным форматом.
+
+## Упражнение 9 — Ранжировать
+
+**Просьба:** «Проранжируй товары по продажам.»
+**DAX:** `RANKX(ALL(Products), [Total Sales])`
+**Результат:** таблица лидеров с рангом каждого товара.
+
+## Упражнение 10 — Валидировать перед сохранением
+
+**Просьба:** «Это валидная мера? SUM(Sales[Amount])»
+**Что происходит:** ассистент валидирует и возвращает «Valid» с примером значения
+(22023). Только тогда вы создаёте меру.
+
+## Упражнение 11 — Линт
+
+**Просьба:** «Отлинтуй этот DAX: SUM(a)/SUM(b)»
+**Что происходит:** линтер флагует `/` и предлагает `DIVIDE()`, чтобы безопасно
+обработать деление на ноль.
+
+## Упражнение 12 — Задокументировать
+
+**Просьба:** «Сгенерируй словарь данных для всей модели.»
+**Что происходит:** ассистент возвращает markdown-словарь, перечисляющий каждую
+таблицу, её тип и число строк, и каждую меру с её форматом и выражением.
+
+## Паттерн в каждом решении
+
+Проси просто → ассистент пишет верный DAX → применяет изменение вживую →
+докладывает ровно, что сделал. Эта петля — весь навык. Когда это станет естественным,
+вы усвоите книгу.

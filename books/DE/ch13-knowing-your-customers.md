@@ -1,1 +1,128 @@
-IyAxMy4gRGVpbmUgS3VuZGVuIGtlbm5lbgoKV2VubiBkdSBpbiBkZWluZW0gR2VzY2jDpGZ0IG51ciBlaW5lcyBhbmFseXNpZXJzdCwgZGFubiBhbmFseXNpZXJlIGRpZSBLdW5kZW4uIFNpZQpzaW5kIGRlciBPcnQsIHdvaGVyIGRhcyBHZWxkIGtvbW10LCB1bmQgZGVyIE9ydCwgd28gZXMgYXVzbMOkdWZ0LiBFaW4gYmlzc2NoZW4KQW5hbHlzZSBkYXLDvGJlciwgd2VyIGthdWZ0LCB3aWUgdmllbCwgdW5kIHdlciBnZWh0LCBpc3QgbWVociB3ZXJ0IGFscyB0YXVzZW5kCkRpYWdyYW1tZSDDvGJlciBQcm9kdWt0ZS4KCiMjIERpZSBLdW5kZW5mcmFnZW4KCkplZGVzIEdlc2Now6RmdCB3aWxsIGluc2dlaGVpbSB3aXNzZW46CgotIFdlciBzaW5kIG1laW5lIGJlc3RlbiBLdW5kZW4/Ci0gV2VsY2hlIEt1bmRlbiBzaW5kIGt1cnogZGF2b3IgenUgZ2VoZW4/Ci0gV2VsY2hlIHNpbmQgZXMgd2VydCwgenVyw7xja2dld29ubmVuIHp1IHdlcmRlbj8KLSBXaWUgdmllbCBnaWJ0IGplZGVyIEt1bmRlbnR5cCBhdXM/Ci0gV29oZXIga29tbWVuIG1laW5lIEt1bmRlbj8KCkJlYW50d29ydGUgZGFzLCB1bmQgZHUga2FubnN0IGRlaW4gR2VsZCB1bmQgZGVpbmUgTcO8aGUgZG9ydGhpbiBsZW5rZW4sIHdvIGVzIHNpY2gKYXVzemFobHQuCgojIyBFaW4gTWHDnyBwcm8gS3VuZGU6IGRhcyBGdW5kYW1lbnQKClVtIEt1bmRlbiB6dSBhbmFseXNpZXJlbiwgYnJhdWNoc3QgZHUgZWluIE1hw58sIGRhcyBkZW4gQXVzZ2FiZW4gZWluZXMgamVkZW4gS3VuZGVuCmF1ZnJvbGx0OgoKPiDigJ5Gw7xnZSBlaW4ga3VuZGVuYmV6b2dlbmVzIFVtc2F0em1hw58gaGluenUuIgoKIVtLdW5kZW51bXNhdHotTWHDn10oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2UwMzUucG5nKQoKSmV0enQgaGF0IGplZGVyIEt1bmRlIGVpbmUg4oCeQ3VzdG9tZXIgU2FsZXMiLVphaGwsIHVuZCBkdSBrYW5uc3Qgc2llIGRlbiBnYW56ZW4gVGFnCnJhbmdpZXJlbiwgc2VnbWVudGllcmVuIHVuZCB2ZXJnbGVpY2hlbi4KCiMjIFdlciBzaW5kIGRpZSBiZXN0ZW4gS3VuZGVuPwoKPiDigJ5Ub3AgNSBLdW5kZW4gbmFjaCBBdXNnYWJlbi4iCgohW1RvcC1LdW5kZW5dKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9lMDM2LnBuZykKClNvZm9ydCBzaWVoc3QgZHUsIHdvcmF1ZiBlcyBhbmtvbW10LiBJbiBkaWVzZW4gRGF0ZW4gdHJhZ2VuIGVpbiBwYWFyIEt1bmRlbiBlaW5lbgpncm/Dn2VuIFRlaWwgZGVzIFVtc2F0emVzIOKAkyB3YXMgbm9ybWFsIHVuZCB3aWNodGlnIGlzdC4gRXMgaGVpw590OiAqKmvDvG1tZXJlIGRpY2ggdW0KZGllc2UgTGV1dGUuKiogRWluZW4gdm9uIGlobmVuIHp1IHZlcmxpZXJlbiwgdHV0IHdlaC4KCkRhc3NlbGJlIFJhbmtpbmcgYWxzIERpYWdyYW1tIGdlemVpY2huZXQ6CgohW1RvcC1LdW5kZW4gbmFjaCBBdXNnYWJlbiDigJMgQmFsa2VuZGlhZ3JhbW1dKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9jaGFydC1jdXN0b21lcnMucG5nKQoKIyMgU2VnbWVudGllcmVuOiBLdW5kZW4gaW4gR3J1cHBlbiBzY2huZWlkZW4KCkVpbiAqKlNlZ21lbnQqKiBpc3QgZWluZSBHcnVwcGUgdm9uIEt1bmRlbiwgZGllIHNpY2ggZ2xlaWNoIHZlcmhhbHRlbi4gRHUga2FubnN0Cm5hY2ggYWxsZW0gc2NobmVpZGVuOgoKPiDigJ5VbXNhdHogYXVmZ2V0ZWlsdCBuYWNoIFN0YWR0IGRlcyBLdW5kZW4uIgoKIVtVbXNhdHogbmFjaCBTdGFkdF0oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2UwMzcucG5nKQoKRGllIFN0YWR0c3VtbWVuIGFscyBEaWFncmFtbToKCiFbVW1zYXR6IG5hY2ggU3RhZHQg4oCTIEJhbGtlbmRpYWdyYW1tXSguLi8uLi9hc3NldHMvZXhhbXBsZXMvY2hhcnQtY2l0eS5wbmcpCgo+IOKAnlVtc2F0eiBuYWNoIEt1bmRlbnNlZ21lbnQuIgoKIVtVbXNhdHogbmFjaCBTZWdtZW50XSguLi8uLi9hc3NldHMvZXhhbXBsZXMvZTAzOC5wbmcpCgpOYWNoIFN0YWR0LCBuYWNoIFNlZ21lbnQgKFJldGFpbCAvIEJ1c2luZXNzIC8gT25saW5lKSwgbmFjaCB3aWUgdmllbCBzaWUgYXVzZ2ViZW4g4oCTCmplZGUgU2NoZWliZSBlbnRow7xsbHQgZWluZSBhbmRlcmUgQ2hhbmNlLiBWaWVsbGVpY2h0IGdpYnQgZGFzIEJ1c2luZXNzLVNlZ21lbnQgcHJvCktvcGYgbWVociBhdXMgdW5kIHZlcmRpZW50IGVpbiBiZXNvbmRlcmVzIEFuZ2Vib3QuIFZpZWxsZWljaHQgaXN0IGVpbmUgU3RhZHQKdW50ZXJ2ZXJzb3JndCB1bmQga8O2bm50ZSB3YWNoc2VuLgoKRGllIFNlZ21lbnQtQXVmdGVpbHVuZyBhbHMgRG9udXQ6CgohW1Vtc2F0eiBuYWNoIFNlZ21lbnQg4oCTIERvbnV0LURpYWdyYW1tXSguLi8uLi9hc3NldHMvZXhhbXBsZXMvY2hhcnQtc2VnbWVudC5wbmcpCgojIyBFaW4gZWNodGVzIEZyYW1ld29yazogUkZNCgpEaWUgYmVyw7xobXRlc3RlIEt1bmRlbmFuYWx5c2UtTWV0aG9kZSBpc3QgKipSRk0qKiDigJMgZHJlaSBCdWNoc3RhYmVuOgoKLSAqKlJlY2VuY3kqKiDigJMgd2llIHZvciBLdXJ6ZW0gaGFiZW4gc2llIGdla2F1ZnQ/Ci0gKipGcmVxdWVuY3kqKiDigJMgd2llIG9mdCBrYXVmZW4gc2llPwotICoqTW9uZXRhcnkqKiDigJMgd2llIHZpZWwgZ2ViZW4gc2llIGF1cz8KCkJld2VydGUgamVkZW4gS3VuZGVuIGluIGFsbGVtIGRyZWllbiwgdW5kIGR1IGthbm5zdCBzaWUgaW4gR3J1cHBlbiBzb3J0aWVyZW46IGRpZQp0cmV1ZW4gQ2hhbXBpb25zLCBkaWUgZ2VsZWdlbnRsaWNoZW4gS8OkdWZlciwgZGllLCBkaWUgd2VndHJlaWJlbi4gUkZNIGlzdCBtw6RjaHRpZywKd2VpbCBlcyBlaW5mYWNoIGlzdCB1bmQgZnVua3Rpb25pZXJ0OiBLdW5kZW4sIGRpZSB2b3IgS3VyemVtLCBvZnQgdW5kIHZpZWwgZ2VrYXVmdApoYWJlbiwgc2luZCBkZWluIEdvbGQ7IEt1bmRlbiwgZGllIGVpbmUgV2VpbGUgbmljaHQgZ2VrYXVmdCBoYWJlbiwgc2luZCBkaWUsIGRpZSBtYW4KenVyw7xja2dld2lubmVuIG11c3MsIGJldm9yIHNpZSB3ZWcgc2luZC4KCiMjIERpZSBXZXJ0dm9sbGVuIGZpbmRlbgoKPiDigJ5FcnN0ZWxsZSBlaW4gTWHDnyBmw7xyIEt1bmRlbiBtaXQgaG9oZW0gV2VydC4iCgohW0hpZ2gtVmFsdWUtRmxhZ10oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2UwOTUucG5nKQoKRWluIEZsYWcsIGRhcyBLdW5kZW4gw7xiZXIgZWluZXIgQXVzZ2FiZW5zY2h3ZWxsZSBtYXJraWVydCDigJMgZGllLCBkaWUgbWFuIHNjaMO8dHplbiwKYmVsb2huZW4gdW5kIG5pZSB2ZXJsaWVyZW4gZGFyZi4KCiMjIE5vY2ggZWluIHBhYXIgU2Nobml0dGUKCj4g4oCeTnVyIEt1bmRlbiBpbiBNYWlsYW5kLiIKCiFbTWFpbGFuZC1LdW5kZW5dKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9lMDc3LnBuZykKCj4g4oCeRHVyY2hzY2huaXR0bGljaGUgQXVzZ2FiZW4gcHJvIEJ1c2luZXNzLUt1bmRlLiIKCiFbRHVyY2hzY2huaXR0bGljaGUgQnVzaW5lc3MtQXVzZ2FiZW5dKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9lMDkwLnBuZykKCkplZGUgZWluZSBzY2hsaWNodGUgRnJhZ2UsIGplZGUgZWluZSBlY2h0ZSBBbnR3b3J0IGF1cyBkZW0gTGl2ZS1Nb2RlbGwuCgojIyBFaW5lIEt1cmlvc2l0w6R0OiBkaWUgQWJ3YW5kZXJ1bmcsIGRpZSBkdSBuaWNodCBzaWVoc3QKCkRpZSB0ZXVlcnN0ZW4gS3VuZGVuIHp1IHZlcmxpZXJlbiBzaW5kIGRpZSwgZGllICoqc3RpbGwqKiBnZWhlbiDigJMgc2llIGJlc2Nod2VyZW4Kc2ljaCBuaWUsIHNpZSBow7ZyZW4gZWluZmFjaCBhdWYgenUga2F1ZmVuLiBCaXMgZHUgZXMgbWVya3N0LCBzaW5kIHNpZSB3ZWcsIHVuZCBkdQpoYXN0IG5pZSBlcmZhaHJlbiB3YXJ1bS4gRWluIGVpbmZhY2hlciBCZXJpY2h0IOKAnkt1bmRlbiwgZGllIHNlaXQgOTAgVGFnZW4gbmljaHQKZ2VrYXVmdCBoYWJlbiIgZsOkbmd0IHNpZSBmcsO8aCwgd8OkaHJlbmQgbWFuIHNpZSBub2NoIHp1csO8Y2tnZXdpbm5lbiBrYW5uLiBTdGlsbGUKQWJ3YW5kZXJ1bmcgaXN0IGRhcyBMZWNrLCBkYXMgZHUgZGlyIG5pY2h0IGVudGdlaGVuIGxhc3NlbiBrYW5uc3QuCgotLS0KCiMjIFdhcyBkdSBhdXMgZGllc2VtIEthcGl0ZWwgbWl0bmltbXN0CgotIEt1bmRlbiBzaW5kIGRhcyBXZXJ0dm9sbHN0ZSwgd2FzIG1hbiBhbmFseXNpZXJlbiBrYW5uLgotIEVpbiBNYcOfIHBybyBLdW5kZSBlcnNjaGxpZcOfdCBSYW5naWVyZW4gdW5kIFNlZ21lbnRpZXJlbi4KLSBSRk0gKFJlY2VuY3ksIEZyZXF1ZW5jeSwgTW9uZXRhcnkpIGlzdCBkaWUga2xhc3Npc2NoZSwgw7xiZXJhbGwgZnVua3Rpb25pZXJlbmRlCiAgTWV0aG9kZS4KLSBTZWdtZW50aWVyZSBuYWNoIGFsbGVtOiBTdGFkdCwgVHlwLCBBdXNnYWJlbi4KLSBBY2h0ZSBhdWYgc3RpbGxlIEFid2FuZGVydW5nIOKAkyBLdW5kZW4sIGRpZSBnZWhlbiwgb2huZSBzaWNoIHp1IGJlc2Nod2VyZW4uCgpBbHMgTsOkY2hzdGVzOiBkaWUgWmVpdCDigJMgZGllIERpbWVuc2lvbiwgZGllIGF1cyBlaW5lciBNb21lbnRhdWZuYWhtZSBlaW5lIEdlc2NoaWNodGUKZGVzIFdhbmRlbHMgbWFjaHQuCg==
+# 13. Deine Kunden kennen
+
+Wenn du in deinem Geschäft nur eines analysierst, dann analysiere die Kunden. Sie
+sind der Ort, woher das Geld kommt, und der Ort, wo es ausläuft. Ein bisschen
+Analyse darüber, wer kauft, wie viel, und wer geht, ist mehr wert als tausend
+Diagramme über Produkte.
+
+## Die Kundenfragen
+
+Jedes Geschäft will insgeheim wissen:
+
+- Wer sind meine besten Kunden?
+- Welche Kunden sind kurz davor zu gehen?
+- Welche sind es wert, zurückgewonnen zu werden?
+- Wie viel gibt jeder Kundentyp aus?
+- Woher kommen meine Kunden?
+
+Beantworte das, und du kannst dein Geld und deine Mühe dorthin lenken, wo es sich
+auszahlt.
+
+## Ein Maß pro Kunde: das Fundament
+
+Um Kunden zu analysieren, brauchst du ein Maß, das den Ausgaben eines jeden Kunden
+aufrollt:
+
+> „Füge ein kundenbezogenes Umsatzmaß hinzu."
+
+![Kundenumsatz-Maß](../../assets/examples/e035.png)
+
+Jetzt hat jeder Kunde eine „Customer Sales"-Zahl, und du kannst sie den ganzen Tag
+rangieren, segmentieren und vergleichen.
+
+## Wer sind die besten Kunden?
+
+> „Top 5 Kunden nach Ausgaben."
+
+![Top-Kunden](../../assets/examples/e036.png)
+
+Sofort siehst du, worauf es ankommt. In diesen Daten tragen ein paar Kunden einen
+großen Teil des Umsatzes – was normal und wichtig ist. Es heißt: **kümmere dich um
+diese Leute.** Einen von ihnen zu verlieren, tut weh.
+
+Dasselbe Ranking als Diagramm gezeichnet:
+
+![Top-Kunden nach Ausgaben – Balkendiagramm](../../assets/examples/chart-customers.png)
+
+## Segmentieren: Kunden in Gruppen schneiden
+
+Ein **Segment** ist eine Gruppe von Kunden, die sich gleich verhalten. Du kannst
+nach allem schneiden:
+
+> „Umsatz aufgeteilt nach Stadt des Kunden."
+
+![Umsatz nach Stadt](../../assets/examples/e037.png)
+
+Die Stadtsummen als Diagramm:
+
+![Umsatz nach Stadt – Balkendiagramm](../../assets/examples/chart-city.png)
+
+> „Umsatz nach Kundensegment."
+
+![Umsatz nach Segment](../../assets/examples/e038.png)
+
+Nach Stadt, nach Segment (Retail / Business / Online), nach wie viel sie ausgeben –
+jede Scheibe enthüllt eine andere Chance. Vielleicht gibt das Business-Segment pro
+Kopf mehr aus und verdient ein besonderes Angebot. Vielleicht ist eine Stadt
+unterversorgt und könnte wachsen.
+
+Die Segment-Aufteilung als Donut:
+
+![Umsatz nach Segment – Donut-Diagramm](../../assets/examples/chart-segment.png)
+
+## Ein echtes Framework: RFM
+
+Die berühmteste Kundenanalyse-Methode ist **RFM** – drei Buchstaben:
+
+- **Recency** – wie vor Kurzem haben sie gekauft?
+- **Frequency** – wie oft kaufen sie?
+- **Monetary** – wie viel geben sie aus?
+
+Bewerte jeden Kunden in allem dreien, und du kannst sie in Gruppen sortieren: die
+treuen Champions, die gelegentlichen Käufer, die, die wegtreiben. RFM ist mächtig,
+weil es einfach ist und funktioniert: Kunden, die vor Kurzem, oft und viel gekauft
+haben, sind dein Gold; Kunden, die eine Weile nicht gekauft haben, sind die, die man
+zurückgewinnen muss, bevor sie weg sind.
+
+## Die Wertvollen finden
+
+> „Erstelle ein Maß für Kunden mit hohem Wert."
+
+![High-Value-Flag](../../assets/examples/e095.png)
+
+Ein Flag, das Kunden über einer Ausgabenschwelle markiert – die, die man schützen,
+belohnen und nie verlieren darf.
+
+## Noch ein paar Schnitte
+
+> „Nur Kunden in Mailand."
+
+![Mailand-Kunden](../../assets/examples/e077.png)
+
+> „Durchschnittliche Ausgaben pro Business-Kunde."
+
+![Durchschnittliche Business-Ausgaben](../../assets/examples/e090.png)
+
+Jede eine schlichte Frage, jede eine echte Antwort aus dem Live-Modell.
+
+## Eine Kuriosität: die Abwanderung, die du nicht siehst
+
+Die teuersten Kunden zu verlieren sind die, die **still** gehen – sie beschweren
+sich nie, sie hören einfach auf zu kaufen. Bis du es merkst, sind sie weg, und du
+hast nie erfahren warum. Ein einfacher Bericht „Kunden, die seit 90 Tagen nicht
+gekauft haben" fängt sie früh, während man sie noch zurückgewinnen kann. Stille
+Abwanderung ist das Leck, das du dir nicht entgehen lassen kannst.
+
+---
+
+## Was du aus diesem Kapitel mitnimmst
+
+- Kunden sind das Wertvollste, was man analysieren kann.
+- Ein Maß pro Kunde erschließt Rangieren und Segmentieren.
+- RFM (Recency, Frequency, Monetary) ist die klassische, überall funktionierende
+  Methode.
+- Segmentiere nach allem: Stadt, Typ, Ausgaben.
+- Achte auf stille Abwanderung – Kunden, die gehen, ohne sich zu beschweren.
+
+Als Nächstes: die Zeit – die Dimension, die aus einer Momentaufnahme eine Geschichte
+des Wandels macht.

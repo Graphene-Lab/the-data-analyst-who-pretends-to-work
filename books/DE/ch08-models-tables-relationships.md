@@ -1,1 +1,117 @@
-IyA4LiBNb2RlbGxlLCBUYWJlbGxlbiB1bmQgQmV6aWVodW5nZW4KCkVpbiBIYXVmZW4gVGFiZWxsZW4gaXN0IGtlaW4gTW9kZWxsLiBFaW4gKipNb2RlbGwqKiBlbnRzdGVodCwgd2VubiBtYW4gZGVtIENvbXB1dGVyCnNhZ3QsIHdpZSBkaWUgVGFiZWxsZW4gKm1pdGVpbmFuZGVyIHp1c2FtbWVuaMOkbmdlbiouIERpZXNlIFZlcmJpbmR1bmdlbiDigJMgZGllClZlcmRyYWh0dW5nIOKAkyBzaW5kIGVzLCBkaWUgZGljaCBlaW5lIEZyYWdlIGFuIGVpbmVyIFN0ZWxsZSBzdGVsbGVuIHVuZCBlaW5lIEFudHdvcnQKYmVrb21tZW4gbGFzc2VuLCBkaWUgc2ljaCDDvGJlciB2aWVsZSBUYWJlbGxlbiBzcGFubnQuIERpZXNlcyBLYXBpdGVsIGhhbmRlbHQgdm9uCmRpZXNlciBWZXJkcmFodHVuZy4KCiMjIFRhYmVsbGVuLCBaZWlsZW4gdW5kIFNjaGzDvHNzZWwKCkplZGUgVGFiZWxsZSBoYXQgKipaZWlsZW4qKiAoamUgZWluIERhdGVuc2F0eikgdW5kICoqU3BhbHRlbioqIChqZSBlaW4gQXR0cmlidXQpLgpEaWUgTWFnaWUgc3RlY2t0IGltICoqU2NobMO8c3NlbCoqIOKAkyBlaW5lciBTcGFsdGUsIGRpZSBqZWRlIFplaWxlIGVpbmRldXRpZwppZGVudGlmaXppZXJ0LiBFaW5lIEt1bmRlbi1JRCwgZWluIFByb2R1a3Rjb2RlLCBlaW5lIEJlc3RlbGxudW1tZXIuIFNjaGzDvHNzZWwgc2luZCwKd2llIFRhYmVsbGVuIGVpbmFuZGVyIHdpZWRlcmVya2VubmVuLgoKLSBFaW4gKipQcmltw6Ryc2NobMO8c3NlbCoqIGlzdCBkaWUgZWluZGV1dGlnZSBJRCBpbiBlaW5lciBUYWJlbGxlIChlaW5lIFplaWxlIHBybwogIEt1bmRlKS4KLSBFaW4gKipGcmVtZHNjaGzDvHNzZWwqKiBpc3QgZWluZSBTcGFsdGUgaW4gZWluZXIgYW5kZXJlbiBUYWJlbGxlLCBkaWUgYXVmIGRpZXNlIElECiAgemVpZ3QgKGplZGVyIFZlcmthdWYgc3BlaWNoZXJ0IGRpZSBLdW5kZW4tSUQpLgoKIyMgRGllIEJlemllaHVuZzogV2llIHp3ZWkgVGFiZWxsZW4gbWl0ZWluYW5kZXIgcmVkZW4KCkVpbmUgKipCZXppZWh1bmcqKiB2ZXJiaW5kZXQgZWluZW4gRnJlbWRzY2hsw7xzc2VsIG1pdCBlaW5lbSBQcmltw6Ryc2NobMO8c3NlbC4gU2luZApzaWUgdmVyYnVuZGVuLCBrYW5uIGRlciBDb21wdXRlciBGcmFnZW4gYmVhbnR3b3J0ZW4sIGRpZSDDvGJlciBUYWJlbGxlbiBoaW53ZWdnZWhlbjoK4oCeV2VsY2hlcyBQcm9kdWt0IHdhciBpbiBkaWVzZW0gVmVya2F1Zj8iIOKAnkluIHdlbGNoZXIgU3RhZHQgbGVidGUgZGllc2VyIEt1bmRlPyIg4oCTCm9obmUgZGFzcyBkdSBqZSBEYXRlaWVuIHZvbiBIYW5kIHp1c2FtbWVuZsO8aHJzdC4KCkRpZSBow6R1Zmlnc3RlIEFydCBpc3QgKip2aWVsZS1hdWYtZWlucyoqOiB2aWVsZSBWZXJrw6R1ZmUgemVpZ2VuIGF1ZiBlaW4gUHJvZHVrdC4KSmVkZXIgVmVya2F1ZiBoYXQgZWluZSBQcm9kdWt0LUlEOyBkaWUgUHJvZHVrdHRhYmVsbGUgaGF0IGVpbmUgWmVpbGUgcHJvIFByb2R1a3QuClZpZWxlIFZlcmvDpHVmZSwgZWluIFByb2R1a3QuIERhcyBpc3QgZGFzIFLDvGNrZ3JhdCBmYXN0IGplZGVzIEdlc2Now6RmdHNtb2RlbGxzLgoKIyMgTGl2ZSB2ZXJkcmFodGVuCgpIaWVyIGVyc3RlbGx0IGRlciBBc3Npc3RlbnQgZWluZSBCZXppZWh1bmcgYXVzIGVpbmVyIHNjaGxpY2h0ZW4gQW5mcmFnZToKCj4g4oCeVmVyYmluZGUgU2FsZXMgbWl0IFByb2R1Y3RzIMO8YmVyIFByb2R1Y3RJRC4iCgohW0JlemllaHVuZyBTYWxlcyB6dSBQcm9kdWN0c10oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2UwMTUucG5nKQoKRGFzIFdlcmt6ZXVnIG1lbGRldCBkaWUgUmljaHR1bmcgKE1hbnnihpJPbmUpIHVuZCBiZXN0w6R0aWd0LCBkYXNzIHNpZSBpbiBQb3dlciBCSQpEZXNrdG9wIGxpdmUgaXN0LiBEYW5uIGRpZSBLdW5kZW4tVmVyYmluZHVuZzoKCj4g4oCeVmVyYmluZGUgU2FsZXMgbWl0IEN1c3RvbWVycyDDvGJlciBDdXN0b21lcklELiIKCiFbQmV6aWVodW5nIFNhbGVzIHp1IEN1c3RvbWVyc10oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2UwMTYucG5nKQoKVW5kIGRpZSBTdG9yZS1WZXJiaW5kdW5nOgoKPiDigJ5WZXJiaW5kZSBTYWxlcyBtaXQgU3RvcmVzIMO8YmVyIFN0b3JlSUQuIgoKIVtCZXppZWh1bmcgU2FsZXMgenUgU3RvcmVzXSguLi8uLi9hc3NldHMvZXhhbXBsZXMvZTAxNy5wbmcpCgpEcmVpIFPDpHR6ZSwgdW5kIGRhcyBNb2RlbGwgaGF0IGpldHp0IGVpbiBSw7xja2dyYXQuIEplZGUgc3DDpHRlcmUgRnJhZ2UgbmFjaCDigJ5VbXNhdHoKbmFjaCBQcm9kdWt0Iiwg4oCeVW1zYXR6IG5hY2ggS3VuZGUiLCDigJ5VbXNhdHogbmFjaCBGaWxpYWxlIiBmdW5rdGlvbmllcnQgd2VnZW4KZGllc2VyIGRyZWkgWmVpbGVuLgoKIyMgRGllIGdhbnplIFZlcmRyYWh0dW5nIHNlaGVuCgo+IOKAnlplaWcgYWxsZSBCZXppZWh1bmdlbiBpbSBNb2RlbGwuIgoKIVtBbGxlIEJlemllaHVuZ2VuXSguLi8uLi9hc3NldHMvZXhhbXBsZXMvZTAxOC5wbmcpCgpEcmVpIHNhdWJlcmUgTWFueeKGkk9uZS1CZXppZWh1bmdlbiwgYWxsZSBha3Rpdi4gRGFzIGlzdCBkZXIgVmVyZHJhaHR1bmdzcGxhbiDigJMgZGFzCkRpbmcsIGRhcyBkdSB6dWVyc3QgcHLDvGZzdCwgd2VubiBlaW5lIFphaGwgZmFsc2NoIGF1c3NpZWh0LgoKIyMgRGFzIFN0ZXJuc2NoZW1hOiBkaWUgRm9ybSwgZGllIGR1IHdpbGxzdAoKWnVzYW1tZW5nZXpvZ2VuIGVyZ2lidCBkYXMgZGllIGJlcsO8aG10ZXN0ZSBGb3JtIGluIEdlc2Now6RmdHNkYXRlbjogZGFzCioqU3Rlcm5zY2hlbWEqKiAoU3RhciBTY2hlbWEpLiBFaW5lIEZha3RlbnRhYmVsbGUgaW4gZGVyIE1pdHRlIChTYWxlcyksIHVtZ2ViZW4gdm9uCkRpbWVuc2lvbnN0YWJlbGxlbiAoUHJvZHVjdHMsIEN1c3RvbWVycywgU3RvcmVzLCBEYXRlKS4gRGllIEZha3RlbnRhYmVsbGUgZW50aMOkbHQKZGllIFphaGxlbjsgZGllIERpbWVuc2lvbmVuIGVudGhhbHRlbiBkYXMgYmVzY2hyZWliZW5kZSBEZXRhaWwuIEF1ZmdlemVpY2huZXQgc2llaHQKZXMgYXVzIHdpZSBlaW4gU3Rlcm4uCgpXYXJ1bSBpc3QgZXMgc28gZ2VsaWVidD8gV2VpbCBlcyBlaW5mYWNoLCBzY2huZWxsIGlzdCB1bmQgenUgZGVtIHBhc3N0LCB3aWUgTGV1dGUKRnJhZ2VuIHN0ZWxsZW4uIOKAnlVtc2F0eiBuYWNoIEthdGVnb3JpZSIgaXN0IG51ciBkaWUgRmFrdGVudGFiZWxsZSwgZGllIGhpbsO8YmVyIHp1cgpQcm9kdWt0LURpbWVuc2lvbiBncmVpZnQuIEZhc3QgamVkZXMgZ3V0ZSBCSS1Nb2RlbGwgaXN0IGVpbiBTdGVybiwgb2RlciBlaW4gRmVsZAp2b2xsZXIgU3Rlcm5lLgoKIyMgRWluZSBiZXJlY2huZXRlIFRhYmVsbGU6IHp1c2FtbWVuZmFzc2VuIGltIFZvcmJlaWdlaGVuCgpNYW5jaG1hbCB3aWxsIG1hbiBlaW5lIGtsZWluZSBadXNhbW1lbmZhc3N1bmdzdGFiZWxsZSwgZ2ViYXV0IGF1cyBkZW0gTW9kZWxsIHNlbGJzdDoKCj4g4oCeQmF1IGVpbmUga2xlaW5lIFRhYmVsbGUgbWl0IGRlbSBHZXNhbXR1bXNhdHogcHJvIEthdGVnb3JpZS4iCgohW1RhYmVsbGUgVW1zYXR6IG5hY2ggS2F0ZWdvcmllXSguLi8uLi9hc3NldHMvZXhhbXBsZXMvZTAxOS5wbmcpCgpFaW5lIG5ldWUgVGFiZWxsZSwgbGl2ZSBiZXJlY2huZXQsIGRpZSBkYXMgRGV0YWlsIHp1IGVpbmVyIHNhdWJlcmVuIFp1c2FtbWVuZmFzc3VuZwphdWZyb2xsdC4gUHJha3Rpc2NoIGbDvHIgZWluZW4gc2NobmVsbGVuIEJlcmljaHQgb2RlciBlaW5lIE1vbWVudGF1Zm5haG1lLgoKIyMgRWluZSBLdXJpb3NpdMOkdDogZGllIFZpZWxlLXZpZWxlLUZhbGxlCgpEaWUgZ2Vmw6RocmxpY2hzdGUgQmV6aWVodW5nIGlzdCAqKnZpZWxlLWF1Zi12aWVsZSoqIG9obmUgU29yZ2ZhbHQg4oCTIHZpZWxlIFByb2R1a3RlCmluIHZpZWxlbiBBa3Rpb25lbiwgdmllbGUgU2Now7xsZXIgaW4gdmllbGVuIEt1cnNlbi4gTWFjaHQgbWFuIGVzIGZhbHNjaCwgdmVyZG9wcGVsbgpvZGVyIHZlcnNjaHdpbmRlbiBkaWUgU3VtbWVuLiBEaWUgTMO2c3VuZyBpc3QgZWluZSDigJ5CcsO8Y2tlbnRhYmVsbGUiIGluIGRlciBNaXR0ZS4KV2VubiBkZWluZSBaYWhsZW4gcGzDtnR6bGljaCBhdWZnZWJsYXNlbiBhdXNzZWhlbiwgaXN0IGVpbiBzY2hsYW1waWdlcyBWaWVsZS12aWVsZQpkZXIgZXJzdGUgVmVyZMOkY2h0aWdlLgoKLS0tCgojIyBQcm9iaWVyIGVzIHNlbGJzdAoKPiDigJ5XaWUgdmllbGUgQmV6aWVodW5nZW4gc2luZCBlcyBqZXR6dD8iCgohW0FuemFobCBkZXIgQmV6aWVodW5nZW5dKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9lMDczLnBuZykKCkVpbiBzY2huZWxsZXIgQ2hlY2ssIG9iIGRpZSBWZXJkcmFodHVuZyBnYW56IGRhIGlzdC4KCiMjIFdhcyBkdSBhdXMgZGllc2VtIEthcGl0ZWwgbWl0bmltbXN0CgotIEVpbiBNb2RlbGwgaXN0IFRhYmVsbGVuIHBsdXMgZGllIEJlemllaHVuZ2VuIHp3aXNjaGVuIGlobmVuLgotIFNjaGzDvHNzZWwgKFByaW3DpHItIHVuZCBGcmVtZHNjaGzDvHNzZWwpIHNpbmQsIHdpZSBUYWJlbGxlbiBlaW5hbmRlciB3aWVkZXJlcmtlbm5lbi4KLSBWaWVsZS1hdWYtZWlucyBpc3QgZGFzIFLDvGNrZ3JhdCB2b24gR2VzY2jDpGZ0c2RhdGVuLgotIERhcyBTdGVybnNjaGVtYSBpc3QgZGllIEZvcm0sIGRpZSBtYW4gbm9ybWFsZXJ3ZWlzZSB3aWxsLgotIEjDvHRlIGRpY2ggdm9yIHNjaGxhbXBpZ2VtIFZpZWxlLXZpZWxlIOKAkyBlcyBibMOkaHQgU3VtbWVuIGF1Zi4KCkFscyBOw6RjaHN0ZXM6IGRpZSBEYXRlbiBkaXJla3QgYmVmcmFnZW4g4oCTIFNRTCB1bmQgREFYLCBkaWUgendlaSBTcHJhY2hlbiwgdW0KQW50d29ydGVuIHp1IGJla29tbWVuLgo=
+# 8. Modelle, Tabellen und Beziehungen
+
+Ein Haufen Tabellen ist kein Modell. Ein **Modell** entsteht, wenn man dem Computer
+sagt, wie die Tabellen *miteinander zusammenhängen*. Diese Verbindungen – die
+Verdrahtung – sind es, die dich eine Frage an einer Stelle stellen und eine Antwort
+bekommen lassen, die sich über viele Tabellen spannt. Dieses Kapitel handelt von
+dieser Verdrahtung.
+
+## Tabellen, Zeilen und Schlüssel
+
+Jede Tabelle hat **Zeilen** (je ein Datensatz) und **Spalten** (je ein Attribut).
+Die Magie steckt im **Schlüssel** – einer Spalte, die jede Zeile eindeutig
+identifiziert. Eine Kunden-ID, ein Produktcode, eine Bestellnummer. Schlüssel sind,
+wie Tabellen einander wiedererkennen.
+
+- Ein **Primärschlüssel** ist die eindeutige ID in einer Tabelle (eine Zeile pro
+  Kunde).
+- Ein **Fremdschlüssel** ist eine Spalte in einer anderen Tabelle, die auf diese ID
+  zeigt (jeder Verkauf speichert die Kunden-ID).
+
+## Die Beziehung: Wie zwei Tabellen miteinander reden
+
+Eine **Beziehung** verbindet einen Fremdschlüssel mit einem Primärschlüssel. Sind
+sie verbunden, kann der Computer Fragen beantworten, die über Tabellen hinweggehen:
+„Welches Produkt war in diesem Verkauf?" „In welcher Stadt lebte dieser Kunde?" –
+ohne dass du je Dateien von Hand zusammenführst.
+
+Die häufigste Art ist **viele-auf-eins**: viele Verkäufe zeigen auf ein Produkt.
+Jeder Verkauf hat eine Produkt-ID; die Produkttabelle hat eine Zeile pro Produkt.
+Viele Verkäufe, ein Produkt. Das ist das Rückgrat fast jedes Geschäftsmodells.
+
+## Live verdrahten
+
+Hier erstellt der Assistent eine Beziehung aus einer schlichten Anfrage:
+
+> „Verbinde Sales mit Products über ProductID."
+
+![Beziehung Sales zu Products](../../assets/examples/e015.png)
+
+Das Werkzeug meldet die Richtung (Many→One) und bestätigt, dass sie in Power BI
+Desktop live ist. Dann die Kunden-Verbindung:
+
+> „Verbinde Sales mit Customers über CustomerID."
+
+![Beziehung Sales zu Customers](../../assets/examples/e016.png)
+
+Und die Store-Verbindung:
+
+> „Verbinde Sales mit Stores über StoreID."
+
+![Beziehung Sales zu Stores](../../assets/examples/e017.png)
+
+Drei Sätze, und das Modell hat jetzt ein Rückgrat. Jede spätere Frage nach „Umsatz
+nach Produkt", „Umsatz nach Kunde", „Umsatz nach Filiale" funktioniert wegen
+dieser drei Zeilen.
+
+## Die ganze Verdrahtung sehen
+
+> „Zeig alle Beziehungen im Modell."
+
+![Alle Beziehungen](../../assets/examples/e018.png)
+
+Drei saubere Many→One-Beziehungen, alle aktiv. Das ist der Verdrahtungsplan – das
+Ding, das du zuerst prüfst, wenn eine Zahl falsch aussieht.
+
+## Das Sternschema: die Form, die du willst
+
+Zusammengezogen ergibt das die berühmteste Form in Geschäftsdaten: das
+**Sternschema** (Star Schema). Eine Faktentabelle in der Mitte (Sales), umgeben von
+Dimensionstabellen (Products, Customers, Stores, Date). Die Faktentabelle enthält
+die Zahlen; die Dimensionen enthalten das beschreibende Detail. Aufgezeichnet sieht
+es aus wie ein Stern.
+
+Warum ist es so geliebt? Weil es einfach, schnell ist und zu dem passt, wie Leute
+Fragen stellen. „Umsatz nach Kategorie" ist nur die Faktentabelle, die hinüber zur
+Produkt-Dimension greift. Fast jedes gute BI-Modell ist ein Stern, oder ein Feld
+voller Sterne.
+
+## Eine berechnete Tabelle: zusammenfassen im Vorbeigehen
+
+Manchmal will man eine kleine Zusammenfassungstabelle, gebaut aus dem Modell selbst:
+
+> „Bau eine kleine Tabelle mit dem Gesamtumsatz pro Kategorie."
+
+![Tabelle Umsatz nach Kategorie](../../assets/examples/e019.png)
+
+Eine neue Tabelle, live berechnet, die das Detail zu einer sauberen Zusammenfassung
+aufrollt. Praktisch für einen schnellen Bericht oder eine Momentaufnahme.
+
+## Eine Kuriosität: die Viele-viele-Falle
+
+Die gefährlichste Beziehung ist **viele-auf-viele** ohne Sorgfalt – viele Produkte
+in vielen Aktionen, viele Schüler in vielen Kursen. Macht man es falsch, verdoppeln
+oder verschwinden die Summen. Die Lösung ist eine „Brückentabelle" in der Mitte.
+Wenn deine Zahlen plötzlich aufgeblasen aussehen, ist ein schlampiges Viele-viele
+der erste Verdächtige.
+
+---
+
+## Probier es selbst
+
+> „Wie viele Beziehungen sind es jetzt?"
+
+![Anzahl der Beziehungen](../../assets/examples/e073.png)
+
+Ein schneller Check, ob die Verdrahtung ganz da ist.
+
+## Was du aus diesem Kapitel mitnimmst
+
+- Ein Modell ist Tabellen plus die Beziehungen zwischen ihnen.
+- Schlüssel (Primär- und Fremdschlüssel) sind, wie Tabellen einander wiedererkennen.
+- Viele-auf-eins ist das Rückgrat von Geschäftsdaten.
+- Das Sternschema ist die Form, die man normalerweise will.
+- Hüte dich vor schlampigem Viele-viele – es bläht Summen auf.
+
+Als Nächstes: die Daten direkt befragen – SQL und DAX, die zwei Sprachen, um
+Antworten zu bekommen.

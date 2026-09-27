@@ -1,1 +1,51 @@
-IyBBcHBlbmRpeCBDIOKAlCBEYXNoYm9hcmQgQ2hlY2tsaXN0CgpCZWZvcmUgeW91IHNoaXAgYSBkYXNoYm9hcmQsIHdhbGsgdGhyb3VnaCB0aGlzIGxpc3QuCgojIyBQdXJwb3NlCgotIFsgXSBUaGUgZGFzaGJvYXJkIGFuc3dlcnMgYSBjbGVhciBxdWVzdGlvbiAob3Igc2V0IG9mIHF1ZXN0aW9ucykuCi0gWyBdIFRoZSBhdWRpZW5jZSBpcyBrbm93biAoZXhlYywgb3BzLCBhbmFseXN0KS4KLSBbIF0gVGhlIGRlY2lzaW9uIGl0IHN1cHBvcnRzIGlzIGtub3duLgoKIyMgTGF5b3V0CgotIFsgXSBUaGUgbW9zdCBpbXBvcnRhbnQgbnVtYmVyIGlzIHRoZSBiaWdnZXN0IGFuZCB0b3AtbGVmdC4KLSBbIF0gUmVsYXRlZCBtZXRyaWNzIHNpdCB0b2dldGhlci4KLSBbIF0gTm90aGluZyBjb21wZXRlcyBmb3IgYXR0ZW50aW9uLgotIFsgXSBJdCBmaXRzIG9uZSBzY3JlZW4gd2l0aG91dCBzY3JvbGxpbmcgKGZvciB0aGUgbWFpbiB2aWV3KS4KCiMjIE1ldHJpY3MKCi0gWyBdIEV2ZXJ5IEtQSSBpcyBkZWZpbmVkIGFuZCB1bmRlcnN0b29kLgotIFsgXSBUaGUgS1BJcyBhcmUgdGhlICpyaWdodCogb25lcywgbm90IGp1c3QgdGhlIGVhc3kgb25lcy4KLSBbIF0gVW5pdHMgYW5kIGZvcm1hdHMgYXJlIGNsZWFyICjigqwsICUsIGNvdW50cykuCi0gWyBdIEVhY2ggbnVtYmVyIGNhbiBiZSB0cmFjZWQgYmFjayB0byB0aGUgbW9kZWwuCgojIyBWaXN1YWxzCgotIFsgXSBUaGUgY2hhcnQgdHlwZSBmaXRzIHRoZSBkYXRhIChiYXJzIGZvciBjb21wYXJpc29uLCBsaW5lIGZvciB0cmVuZCwgZXRjLikuCi0gWyBdIE5vIG1pc2xlYWRpbmcgYXhpcywgbm8gY2hlcnJ5LXBpY2tlZCB3aW5kb3cuCi0gWyBdIENvbG9ycyBtZWFuIHNvbWV0aGluZyAobm90IGRlY29yYXRpb24pLgotIFsgXSBMYWJlbHMgYXJlIHJlYWRhYmxlIGF0IGEgZ2xhbmNlLgoKIyMgSW50ZXJhY3Rpdml0eQoKLSBbIF0gRmlsdGVycyB3b3JrIGFuZCBtYWtlIHNlbnNlLgotIFsgXSBEcmlsbC1kb3duIGdvZXMgd2hlcmUgdGhlIHVzZXIgZXhwZWN0cy4KLSBbIF0gQ3Jvc3MtaGlnaGxpZ2h0aW5nIGJlaGF2ZXMgY29ycmVjdGx5LgoKIyMgVHJ1c3QKCi0gWyBdIFRoZSBudW1iZXJzIHJlY29uY2lsZSB3aXRoIHRoZSBzb3VyY2UuCi0gWyBdIFRoZSBtb2RlbCBwYXNzZWQgdGhlIGJlc3QtcHJhY3RpY2VzIGNoZWNrLgotIFsgXSBUaGUgZGFzaGJvYXJkIGlzIGRvY3VtZW50ZWQgKHdoYXQgZWFjaCBLUEkgbWVhbnMpLgotIFsgXSBTb21lb25lIG93bnMgaXQgYW5kIGtlZXBzIGl0IGZyZXNoLgoKIyMgSG9uZXN0eQoKLSBbIF0gVGhlIHN0b3J5IHRoZSBkYXNoYm9hcmQgdGVsbHMgaXMgdGhlIGhvbmVzdCBvbmUuCi0gWyBdIEEgaGFyZCBxdWVzdGlvbiBhYm91dCBhIG51bWJlciBjYW4gYmUgYW5zd2VyZWQgd2l0aG91dCBlbWJhcnJhc3NtZW50LgoKQSBnb29kIGRhc2hib2FyZCBpcyBub3QgdGhlIHByZXR0aWVzdCBvbmUuIEl0J3MgdGhlIG9uZSBwZW9wbGUgdHJ1c3QgZW5vdWdoIHRvIGFjdApvbi4gQnVpbGQgZm9yIHRydXN0IGZpcnN0LCBiZWF1dHkgc2Vjb25kLgo=
+# Appendix C — Dashboard Checklist
+
+Before you ship a dashboard, walk through this list.
+
+## Purpose
+
+- [ ] The dashboard answers a clear question (or set of questions).
+- [ ] The audience is known (exec, ops, analyst).
+- [ ] The decision it supports is known.
+
+## Layout
+
+- [ ] The most important number is the biggest and top-left.
+- [ ] Related metrics sit together.
+- [ ] Nothing competes for attention.
+- [ ] It fits one screen without scrolling (for the main view).
+
+## Metrics
+
+- [ ] Every KPI is defined and understood.
+- [ ] The KPIs are the *right* ones, not just the easy ones.
+- [ ] Units and formats are clear (€, %, counts).
+- [ ] Each number can be traced back to the model.
+
+## Visuals
+
+- [ ] The chart type fits the data (bars for comparison, line for trend, etc.).
+- [ ] No misleading axis, no cherry-picked window.
+- [ ] Colors mean something (not decoration).
+- [ ] Labels are readable at a glance.
+
+## Interactivity
+
+- [ ] Filters work and make sense.
+- [ ] Drill-down goes where the user expects.
+- [ ] Cross-highlighting behaves correctly.
+
+## Trust
+
+- [ ] The numbers reconcile with the source.
+- [ ] The model passed the best-practices check.
+- [ ] The dashboard is documented (what each KPI means).
+- [ ] Someone owns it and keeps it fresh.
+
+## Honesty
+
+- [ ] The story the dashboard tells is the honest one.
+- [ ] A hard question about a number can be answered without embarrassment.
+
+A good dashboard is not the prettiest one. It's the one people trust enough to act
+on. Build for trust first, beauty second.

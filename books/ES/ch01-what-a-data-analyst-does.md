@@ -1,1 +1,110 @@
-IyAxLiBMbyBxdWUgcmVhbG1lbnRlIGhhY2UgdW4gYW5hbGlzdGEgZGUgZGF0b3MKClByZWfDum50YWxlIGEgZGlleiBwZXJzb25hcyBxdcOpIGhhY2UgdW4gYW5hbGlzdGEgZGUgZGF0b3MgeSBvYnRlbmRyw6FzIGRpZXogcmVzcHVlc3RhcwpkaXN0aW50YXMuIFVuYXMgc2UgbG8gaW1hZ2luYW4gZW4gdW5hIGhhYml0YWNpw7NuIG9zY3VyYSBlc2NyaWJpZW5kbyBjw7NkaWdvIHZlcmRlLgpPdHJhcyBzZSBsbyBpbWFnaW5hbiBoYWNpZW5kbyB0YXJ0YXMgZGUgZGF0b3MgYm9uaXRhcy4gQW1iYXMgZXN0w6FuIGVxdWl2b2NhZGFzLCB5Cm5pbmd1bmEgbG8gZXN0w6EuIEFjbGFyZW1vcyBlbCBhc3VudG8uCgpVbiBhbmFsaXN0YSBkZSBkYXRvcyBlcyB1bmEgcGVyc29uYSBxdWUgcmVzcG9uZGUgcHJlZ3VudGFzIHVzYW5kbyBuw7ptZXJvcy4gRXNlIGVzCnRvZG8gZWwgdHJhYmFqby4gTGFzIHByZWd1bnRhcyB2aWVuZW4gZGUgbGEgdmlkYSByZWFsOiAqwr9Qb3IgcXXDqSBiYWphcm9uIGxhcyB2ZW50YXMKZWwgbWVzIHBhc2Fkbz8gwr9RdcOpIHByb2R1Y3RvIGRlYmVyw61hbW9zIGVtcHVqYXI/IMK/UXXDqSBjbGllbnRlcyBlc3TDoW4gYSBwdW50byBkZQppcnNlPyogTGFzIHJlc3B1ZXN0YXMgdmllbmVuIGRlIGxvcyBkYXRvczogbG9zIHJlZ2lzdHJvcyBxdWUgdW4gbmVnb2NpbyBkZWphIGF0csOhcwpjYWRhIGTDrWE6IHZlbnRhcywgY2xpY3MsIGZhY3R1cmFzLCB0aWNrZXRzIGRlIHNvcG9ydGUsIHRpZW1wb3MgZGUgZW50cmVnYS4KCkxhIGhhYmlsaWRhZCBkZWwgYW5hbGlzdGEgbm8gc29uIGxhcyBtYXRlbcOhdGljYXMuIEVzIGxhICoqdHJhZHVjY2nDs24qKi4gQ29udmllcnRlCnVuYSBwcmVndW50YSBodW1hbmEgZGlmdXNhIGVuIHVuYSBwcmVndW50YSBwcmVjaXNhIHNvYnJlIGxvcyBkYXRvcywgZW5jdWVudHJhIGxhCnJlc3B1ZXN0YSB5IGxhIHZ1ZWx2ZSBhIGNvbnZlcnRpciBlbiB1bmEgZnJhc2UgcXVlIHVuIGdlc3RvciBvY3VwYWRvIHB1ZWRhIHVzYXIuCgojIyBFbCB0cmFiYWpvIGVuIHVuYSBsw61uZWEKCj4gVW4gYW5hbGlzdGEgZGUgZGF0b3MgY29udmllcnRlIHVuYSBwcmVndW50YSBlbnJlZGFkYSBkZWwgbXVuZG8gcmVhbCBlbiB1bmEKPiByZXNwdWVzdGEgY2xhcmEgeSBob25lc3RhIHJlc3BhbGRhZGEgcG9yIG7Dum1lcm9zLgoKVG9kbyBsbyBkZW3DoXMg4oCUbGFzIGhlcnJhbWllbnRhcywgbG9zIGdyw6FmaWNvcywgZWwgY8OzZGlnb+KAlCBlcyBzb2xvIGxhIGZvcm1hIGRlCmxsZWdhciBhaMOtLgoKIyMgVW4gZMOtYSBlbiBsYSB2aWRhCgpJbWFnaW5hIHVuIG1hcnRlcy4gQSBsYXMgOTowMCBlbCBqZWZlIGRlIHZlbnRhcyBkZWphIGNhZXIgdW5hIHByZWd1bnRhIGVuIGxhCmJhbmRlamEgZGVsIGFuYWxpc3RhOiAqwqvCv1BvciBxdcOpIG51ZXN0cmEgdGllbmRhIGRlIE1pbMOhbiBlc3TDoSB1biAxMiUgYWJham8gZXN0ZQptZXM/wrsqCgpFc2Egc29sYSBmcmFzZSBzb24gZW4gcmVhbGlkYWQgY2luY28gcHJlZ3VudGFzOgoKLSDCv0VsIDEyJSBlcyByZWFsLCBvIHVuIGNhcHJpY2hvIGRlIGPDs21vIHNlIGNvbnRhcm9uIGxvcyBuw7ptZXJvcz8KLSDCv0VzIHNvbG8gTWlsw6FuLCBvIG90cmFzIHRpZW5kYXMgdGFtYmnDqW4gZXN0w6FuIGFiYWpvPwotIMK/UXXDqSBjYW1iacOzIGVzdGUgbWVzOiBwcmVjaW8sIHN0b2NrLCBjbGltYSwgdW4gY29tcGV0aWRvciBhYnJpZW5kbyBhbCBsYWRvPwotIMK/TGEgY2HDrWRhIGVzdMOhIGVuIGVsIG7Dum1lcm8gZGUgY2xpZW50ZXMsIG8gZW4gbG8gcXVlIGdhc3RhIGNhZGEgY2xpZW50ZT8KLSDCv1F1w6kgcG9kcsOtYW1vcyBoYWNlciByZWFsbWVudGUgYWwgcmVzcGVjdG8/CgpFbCBhbmFsaXN0YSByZWJ1c2NhIGVudHJlIHJlZ2lzdHJvcyBkZSB2ZW50YXMsIGRhdG9zIGRlIGNsaWVudGVzIHkgdG9kbyBsbyBkZW3DoXMKcXVlIHB1ZWRhIGV4cGxpY2FybG8uIFBhcmEgcG9yIGxhIHRhcmRlIHRpZW5lIHVuYSByZXNwdWVzdGE6ICplbCB0csOhZmljbyBhIHBpZSBjYXnDswpwb3JxdWUgdW5hIGNhcnJldGVyYSBlc3R1dm8gY2VycmFkYSBwb3Igb2JyYXMgZG9zIHNlbWFuYXM7IGxvcyBjbGllbnRlcyBxdWUgc8OtCnZpbmllcm9uIGdhc3Rhcm9uIGxvIGRlIHNpZW1wcmUuKiBOYWRhIGRlIG1pc3RlcmlvLiBVbmEgY2FycmV0ZXJhLgoKRXNlIGVzIGVsIHRyYWJham8uIEN1cmlvc2lkYWQsIHVuIHBvY28gZGUgbcOpdG9kbyB5IGxvcyBkYXRvcy4KCiMjIExvcyBjdWF0cm8gcHJpbW9zICh5IGVuIHF1w6kgc2UgZGlmZXJlbmNpYW4pCgpMYSBnZW50ZSBjb25mdW5kZSBjdWF0cm8gdHJhYmFqb3MgY2VyY2Fub3MuIEFxdcOtIHZhIGxhIHZlcnNpw7NuIHNpbXBsZS4KCnwgUm9sIHwgQSBxdcOpIHNlIGRlZGljYSBzb2JyZSB0b2RvIHwgTGEgcHJlZ3VudGEgcXVlIHJlc3BvbmRlIHwKfC0tLXwtLS18LS0tfAp8ICoqQW5hbGlzdGEgZGUgZGF0b3MqKiB8IE1pcmEgbG8gcXVlIHlhIHBhc8OzIHkgbG8gZXhwbGljYSB8IMKrwr9RdcOpIHBhc8OzIHkgcG9yIHF1w6k/wrsgfAp8ICoqQ2llbnTDrWZpY28gZGUgZGF0b3MqKiB8IENvbnN0cnV5ZSBtb2RlbG9zIHBhcmEgcHJlZGVjaXIgbyBhZGl2aW5hciB8IMKrwr9RdcOpIHBhc2Fyw6EgZGVzcHXDqXM/wrsgfAp8ICoqSW5nZW5pZXJvIGRlIGRhdG9zKiogfCBDb25zdHJ1eWUgbGFzIHR1YmVyw61hcyBxdWUgbXVldmVuIHkgZ3VhcmRhbiBkYXRvcyB8IMKrwr9Dw7NtbyB0cmFlbW9zIGFxdcOtIGRhdG9zIGxpbXBpb3M/wrsgfAp8ICoqQW5hbGlzdGEgZGUgQkkqKiB8IENvbnN0cnV5ZSBwYW5lbGVzIGUgaW5mb3JtZXMgcXVlIGxhIGdlbnRlIG1pcmEgfCDCq8K/Q8OzbW8gbG8gdmVtb3MgY2FkYSBkw61hP8K7IHwKCkhheSBtdWNoYSBzdXBlcnBvc2ljacOzbi4gRW4gdW5hIGVtcHJlc2EgcGVxdWXDsWEsIHVuYSBwZXJzb25hIGhhY2UgbG9zIGN1YXRybyBwYXBlbGVzLgpQZXJvIGVsIHRlcnJlbm8gcHJvcGlvIGRlbCBhbmFsaXN0YSBkZSBkYXRvcyBlcyBsYSBwcmltZXJhIGNvbHVtbmE6IGVudGVuZGVyIGVsCnByZXNlbnRlIHkgZWwgcGFzYWRvIHJlY2llbnRlLgoKIyMgRMOzbmRlIHRyYWJhamEgZWwgYW5hbGlzdGEKCkVuIHRvZGFzIHBhcnRlcy4gVW5hcyBjdWFudGFzIGZvcm1hcyByZWFsZXMgZGVsIHRyYWJham86CgotICoqQ29tZXJjaW8gbWlub3Jpc3RhKiog4oCUIHBvciBxdcOpIGNheWVyb24gbGFzIHZlbnRhcyBkZSB1bmEgdGllbmRhOyBxdcOpIHByb2R1Y3RvcwogIHNlIHZlbmRlbiBqdW50b3MuCi0gKipCYW5jYSoqIOKAlCB2aWdpbGFyIHRyYW5zYWNjaW9uZXMgYnVzY2FuZG8gcGF0cm9uZXMgcXVlIHBhcmV6Y2FuIGZyYXVkZS4KLSAqKkNvbWVyY2lvIGVsZWN0csOzbmljbyoqIOKAlCBkw7NuZGUgYWJhbmRvbmFuIGxvcyBjb21wcmFkb3JlcyBlbCBjYXJyaXRvLCB5IHBvciBxdcOpLgotICoqRmFicmljYWNpw7NuKiog4oCUIHF1w6kgdHVybm8gbyBsw61uZWEgc2FjYSBtw6FzIHBpZXphcyBkZWZlY3R1b3Nhcy4KLSAqKlNvZnR3YXJlIChTYWFTKSoqIOKAlCBjdcOhbnRvcyBzdXNjcmlwdG9yZXMgc2UgcXVlZGFuLCB5IHF1w6kgbG9zIGhhY2UgaXJzZS4KCkRpc3RpbnRvcyBlZGlmaWNpb3MsIG1pc21vIHRyYWJham86IGhhY2VyIHVuYSBwcmVndW50YSwgZW5jb250cmFyIGxvcyBuw7ptZXJvcywgZGVjaXIKbGEgdmVyZGFkLgoKIyMgVW5hIGN1cmlvc2lkYWQ6IGVsIGFuYWxpc3RhIG3DoXMgYW50aWd1bwoKRWwgYW7DoWxpc2lzIGRlIGRhdG9zIGVzIG1pbGVzIGRlIGHDsW9zIG3DoXMgYW50aWd1byBxdWUgbG9zIG9yZGVuYWRvcmVzLiBMb3MgYW50aWd1b3MKZWdpcGNpb3MgZW52aWFiYW4gZXNjcmliYXMgYSBjb250YXIgbGEgY29zZWNoYSB5IGVsIGdhbmFkbyBwYXJhIHBvZGVyIHBsYW5pZmljYXIKaW1wdWVzdG9zIHkgcmVzZXJ2YXMgZGUgZ3Jhbm8gYW50ZXMgZGUgdW5hIGhhbWJydW5hLiBFc29zIGVzY3JpYmFzIGVyYW4gYW5hbGlzdGFzCmRlIGRhdG9zLiBMYSBob2phIGRlIGPDoWxjdWxvIGVzIG51ZXZhOyBlbCB0cmFiYWpvIGVzIGFudGlndW8uCgotLS0KCiMjIFBydcOpYmFsbzogdmVyIHVuIG1vZGVsbyBlbiB1bmEgZnJhc2UKCkJhc3RhIGRlIHRlb3LDrWEuIEFxdcOtIHRpZW5lcyB0dSBwcmltZXIgY29udGFjdG8gY29uIGxhIGhlcnJhbWllbnRhIHNvYnJlIGxhIHF1ZQplc3TDoSBjb25zdHJ1aWRvIGVzdGUgbGlicm8uIEVuIEFnZW50QnJpZGdlLCBjb24gUG93ZXJCSVRvb2wsIHVuYSBwZXJzb25hIGVzY3JpYmnDswp1bmEgZnJhc2Ugc29icmUgdW4gaW5mb3JtZSBkZSBQb3dlciBCSSBxdWUgeWEgdGVuw61hIGFiaWVydG8gZW4gcGFudGFsbGE6Cgo+IMKrQ29uw6ljdGF0ZSBhIFBvd2VyIEJJIERlc2t0b3AgeSBsaXN0YSBsYXMgdGFibGFzIGRlIG1pIG1vZGVsby7CuwoKRXN0byBlcyBsbyBxdWUgZGV2b2x2acOzOgoKIVtDb25lY3RhciB5IGxpc3RhciB0YWJsYXNdKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9jb25uZWN0LWxpc3QtdGFibGVzLnBuZykKCkVuIHVuYSBsw61uZWEsIGVsIGFzaXN0ZW50ZSBsZXnDsyBlbCBtb2RlbG8gZW4gdml2byB5IHJlcG9ydMOzIGNhZGEgdGFibGEsIGN1w6FudGFzCmZpbGFzIHRpZW5lIHkgY3XDoW50YXMgbWVkaWRhcyB0aWVuZS4gU2luIHB1bHNhciBtZW7DunMsIHNpbiBlc2NyaWJpciBjw7NkaWdvLiBFc2EgZXMKbGEgZm9ybWEgZGUgdG9kbyBlbiBlc3RlIGxpYnJvOiB1bmEgZnJhc2Ugbm9ybWFsIGVudHJhLCB1biByZXN1bHRhZG8gcmVhbCBzYWxlLgoKLS0tCgojIyBMbyBxdWUgdGUgbGxldmFyw6FzIGRlIGVzdGUgY2Fww610dWxvCgotIFVuIGFuYWxpc3RhIGRlIGRhdG9zIHJlc3BvbmRlIHByZWd1bnRhcyByZWFsZXMgY29uIG7Dum1lcm9zLgotIExhIGhhYmlsaWRhZCBjZW50cmFsIGVzIGxhIHRyYWR1Y2Npw7NuLCBubyBsYXMgbWF0ZW3DoXRpY2FzLgotIEVsIHRyYWJham8gZXMgYW50aWd1bzsgbGFzIGhlcnJhbWllbnRhcyBzb24gbnVldmFzLCB5IGNhZGEgdmV6IG3DoXMgcsOhcGlkYXMuCgpFbiBlbCBwcsOzeGltbyBjYXDDrXR1bG8gdmlhamFtb3MgYXRyw6FzIGVuIGVsIHRpZW1wbyBwYXJhIHZlciBjw7NtbyBjb250YXIgc2UKY29udmlydGnDsyBlbiB1bmEgcHJvZmVzacOzbi4K
+# 1. Lo que realmente hace un analista de datos
+
+Pregúntale a diez personas qué hace un analista de datos y obtendrás diez respuestas
+distintas. Unas se lo imaginan en una habitación oscura escribiendo código verde.
+Otras se lo imaginan haciendo tartas de datos bonitas. Ambas están equivocadas, y
+ninguna lo está. Aclaremos el asunto.
+
+Un analista de datos es una persona que responde preguntas usando números. Ese es
+todo el trabajo. Las preguntas vienen de la vida real: *¿Por qué bajaron las ventas
+el mes pasado? ¿Qué producto deberíamos empujar? ¿Qué clientes están a punto de
+irse?* Las respuestas vienen de los datos: los registros que un negocio deja atrás
+cada día: ventas, clics, facturas, tickets de soporte, tiempos de entrega.
+
+La habilidad del analista no son las matemáticas. Es la **traducción**. Convierte
+una pregunta humana difusa en una pregunta precisa sobre los datos, encuentra la
+respuesta y la vuelve a convertir en una frase que un gestor ocupado pueda usar.
+
+## El trabajo en una línea
+
+> Un analista de datos convierte una pregunta enredada del mundo real en una
+> respuesta clara y honesta respaldada por números.
+
+Todo lo demás —las herramientas, los gráficos, el código— es solo la forma de
+llegar ahí.
+
+## Un día en la vida
+
+Imagina un martes. A las 9:00 el jefe de ventas deja caer una pregunta en la
+bandeja del analista: *«¿Por qué nuestra tienda de Milán está un 12% abajo este
+mes?»*
+
+Esa sola frase son en realidad cinco preguntas:
+
+- ¿El 12% es real, o un capricho de cómo se contaron los números?
+- ¿Es solo Milán, o otras tiendas también están abajo?
+- ¿Qué cambió este mes: precio, stock, clima, un competidor abriendo al lado?
+- ¿La caída está en el número de clientes, o en lo que gasta cada cliente?
+- ¿Qué podríamos hacer realmente al respecto?
+
+El analista rebusca entre registros de ventas, datos de clientes y todo lo demás
+que pueda explicarlo. Para por la tarde tiene una respuesta: *el tráfico a pie cayó
+porque una carretera estuvo cerrada por obras dos semanas; los clientes que sí
+vinieron gastaron lo de siempre.* Nada de misterio. Una carretera.
+
+Ese es el trabajo. Curiosidad, un poco de método y los datos.
+
+## Los cuatro primos (y en qué se diferencian)
+
+La gente confunde cuatro trabajos cercanos. Aquí va la versión simple.
+
+| Rol | A qué se dedica sobre todo | La pregunta que responde |
+|---|---|---|
+| **Analista de datos** | Mira lo que ya pasó y lo explica | «¿Qué pasó y por qué?» |
+| **Científico de datos** | Construye modelos para predecir o adivinar | «¿Qué pasará después?» |
+| **Ingeniero de datos** | Construye las tuberías que mueven y guardan datos | «¿Cómo traemos aquí datos limpios?» |
+| **Analista de BI** | Construye paneles e informes que la gente mira | «¿Cómo lo vemos cada día?» |
+
+Hay mucha superposición. En una empresa pequeña, una persona hace los cuatro papeles.
+Pero el terreno propio del analista de datos es la primera columna: entender el
+presente y el pasado reciente.
+
+## Dónde trabaja el analista
+
+En todas partes. Unas cuantas formas reales del trabajo:
+
+- **Comercio minorista** — por qué cayeron las ventas de una tienda; qué productos
+  se venden juntos.
+- **Banca** — vigilar transacciones buscando patrones que parezcan fraude.
+- **Comercio electrónico** — dónde abandonan los compradores el carrito, y por qué.
+- **Fabricación** — qué turno o línea saca más piezas defectuosas.
+- **Software (SaaS)** — cuántos suscriptores se quedan, y qué los hace irse.
+
+Distintos edificios, mismo trabajo: hacer una pregunta, encontrar los números, decir
+la verdad.
+
+## Una curiosidad: el analista más antiguo
+
+El análisis de datos es miles de años más antiguo que los ordenadores. Los antiguos
+egipcios enviaban escribas a contar la cosecha y el ganado para poder planificar
+impuestos y reservas de grano antes de una hambruna. Esos escribas eran analistas
+de datos. La hoja de cálculo es nueva; el trabajo es antiguo.
+
+---
+
+## Pruébalo: ver un modelo en una frase
+
+Basta de teoría. Aquí tienes tu primer contacto con la herramienta sobre la que
+está construido este libro. En AgentBridge, con PowerBITool, una persona escribió
+una frase sobre un informe de Power BI que ya tenía abierto en pantalla:
+
+> «Conéctate a Power BI Desktop y lista las tablas de mi modelo.»
+
+Esto es lo que devolvió:
+
+![Conectar y listar tablas](../../assets/examples/connect-list-tables.png)
+
+En una línea, el asistente leyó el modelo en vivo y reportó cada tabla, cuántas
+filas tiene y cuántas medidas tiene. Sin pulsar menús, sin escribir código. Esa es
+la forma de todo en este libro: una frase normal entra, un resultado real sale.
+
+---
+
+## Lo que te llevarás de este capítulo
+
+- Un analista de datos responde preguntas reales con números.
+- La habilidad central es la traducción, no las matemáticas.
+- El trabajo es antiguo; las herramientas son nuevas, y cada vez más rápidas.
+
+En el próximo capítulo viajamos atrás en el tiempo para ver cómo contar se
+convirtió en una profesión.

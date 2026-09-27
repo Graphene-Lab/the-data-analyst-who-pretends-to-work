@@ -1,1 +1,85 @@
-IyBBbm5leGUgRSDigJQgRXhlcmNpY2VzIGd1aWTDqXMKCkVudHJhw65uZXotdm91cyBhdSBtb2TDqGxlIGFnZW50aXF1ZS4gQ2hhcXVlIGV4ZXJjaWNlIHZvdXMgZG9ubmUgdW4gb2JqZWN0aWYgZXQgdW5lCnBpc3RlLiBFc3NheWV6IGQnYWJvcmQgcGFyIHZvdXMtbcOqbWUgOyBsZXMgY29ycmlnw6lzIHNlIHRyb3V2ZW50IGRhbnMgbCdBbm5leGUgRi4KCiMjIEV4ZXJjaWNlIDEg4oCUIExpcmUgbGUgbW9kw6hsZQoKKipPYmplY3RpZiA6Kiogc2UgY29ubmVjdGVyIMOgIHVuIHJhcHBvcnQgUG93ZXIgQkkgZXQgbGlzdGVyIGNoYXF1ZSB0YWJsZSBhdmVjIHNvbgpub21icmUgZGUgbGlnbmVzLgoqKlBpc3RlIDoqKiBkZW1hbmRlciBsZXMgdGFibGVzIGV0IGxldXJzIGxpZ25lcyBlbiB1bmUgc2V1bGUgcGhyYXNlLgoqKkNlIHF1ZSB2b3VzIGFwcHJlbmRyZXogOioqIGxhIGNvbm5leGlvbiBldCBsJ2V4cGxvcmF0aW9uLgoKIyMgRXhlcmNpY2UgMiDigJQgUHJvZmlsZXIgdW5lIHRhYmxlCgoqKk9iamVjdGlmIDoqKiBkw6l0ZXJtaW5lciBjb21iaWVuIGRlIGNhdMOpZ29yaWVzIGRpc3RpbmN0ZXMgZXhpc3RlbnQgZXQgc2kgY2VydGFpbmVzCmNvbG9ubmVzIGNvbnRpZW5uZW50IGRlcyB2YWxldXJzIHZpZGVzLgoqKlBpc3RlIDoqKiBwcm9maWxlciBsYSB0YWJsZSBldCBsaXJlIGxlcyBjb2xvbm5lcyBEaXN0aW5jdCBldCBCbGFua3MuCioqQ2UgcXVlIHZvdXMgYXBwcmVuZHJleiA6KiogbGEgcXVhbGl0w6kgZGVzIGRvbm7DqWVzIGVuIHVuIGNvdXAgZCfFk2lsLgoKIyMgRXhlcmNpY2UgMyDigJQgTmV0dG95ZXIgZHUgdGV4dGUKCioqT2JqZWN0aWYgOioqIGFqb3V0ZXIgdW5lIGNvbG9ubmUgcXVpIG1ldCB1biBjaGFtcCB0ZXh0ZSBlbiBtYWp1c2N1bGVzIHBvdXIgcXUnaWwKc2UgcmVncm91cGUgcHJvcHJlbWVudC4KKipQaXN0ZSA6KiogZGVtYW5kZXIgdW5lIGNvbG9ubmUgY2FsY3Vsw6llIGRlIHR5cGUgVVBQRVIuCioqQ2UgcXVlIHZvdXMgYXBwcmVuZHJleiA6Kiogc3RhbmRhcmRpc2VyIGRlcyBkb25uw6llcyBkw6lzb3Jkb25uw6llcy4KCiMjIEV4ZXJjaWNlIDQg4oCUIFJlZ3JvdXBlciB1biBub21icmUgZW4gdHJhbmNoZXMKCioqT2JqZWN0aWYgOioqIHRyYW5zZm9ybWVyIHVuZSBjb2xvbm5lIGRlIHByaXggZW4gdHJhbmNoZXMgSGF1dGUgLyBNb3llbm5lIC8gQmFzc2UuCioqUGlzdGUgOioqIGRlbWFuZGVyIHVuZSBjb2xvbm5lIGNhbGN1bMOpZSBhdmVjIHVuZSByw6hnbGUgZGUgc2V1aWwuCioqQ2UgcXVlIHZvdXMgYXBwcmVuZHJleiA6KiogdHJhbnNmb3JtZXIgdW4gbm9tYnJlIGVuIGNhdMOpZ29yaWUgZXhwbG9pdGFibGUuCgojIyBFeGVyY2ljZSA1IOKAlCDDiXRhYmxpciB1bmUgcmVsYXRpb24KCioqT2JqZWN0aWYgOioqIHJlbGllciB1bmUgdGFibGUgZGUgdmVudGVzIMOgIHVuZSB0YWJsZSBkZSBwcm9kdWl0cyB2aWEgbCdpZGVudGlmaWFudApjb21tdW4uCioqUGlzdGUgOioqIGRlbWFuZGVyIHVuZSByZWxhdGlvbiBwbHVzaWV1cnMtw6AtdW4gc3VyIGxhIGNvbG9ubmUgY29ycmVzcG9uZGFudGUuCioqQ2UgcXVlIHZvdXMgYXBwcmVuZHJleiA6KiogbGUgY8OiYmxhZ2UgcXVpIGxhaXNzZSBjaXJjdWxlciBsZXMgZG9ubsOpZXMuCgojIyBFeGVyY2ljZSA2IOKAlCBDcsOpZXIgdW5lIG1lc3VyZQoKKipPYmplY3RpZiA6KiogY3LDqWVyIHVuZSBtZXN1cmUgZGUgdG90YWwgZGVzIHZlbnRlcyBhdSBmb3JtYXQgZXVyby4KKipQaXN0ZSA6KiogZGVtYW5kZXIgdW5lIG1lc3VyZSBTVU0gYXZlYyB1biBmb3JtYXQgbW9uw6l0YWlyZS4KKipDZSBxdWUgdm91cyBhcHByZW5kcmV6IDoqKiBsYSBtZXN1cmUgbGEgcGx1cyBzaW1wbGUgZXQgbGEgcGx1cyBpbXBvcnRhbnRlLgoKIyMgRXhlcmNpY2UgNyDigJQgRmlsdHJlciB1bmUgbWVzdXJlCgoqKk9iamVjdGlmIDoqKiBjcsOpZXIgdW5lIG1lc3VyZSBxdWkgbmUgY29tcHRlIHF1ZSBsZXMgdmVudGVzIGF1LWRlc3N1cyBkJ3VuIHNldWlsLgoqKlBpc3RlIDoqKiB1dGlsaXNlciBDQUxDVUxBVEUgYXZlYyB1bmUgY29uZGl0aW9uIGRlIGZpbHRyZS4KKipDZSBxdWUgdm91cyBhcHByZW5kcmV6IDoqKiBsJ2FncsOpZ2F0aW9uIGNvbmRpdGlvbm5lbGxlLgoKIyMgRXhlcmNpY2UgOCDigJQgUGFydCBkdSB0b3RhbAoKKipPYmplY3RpZiA6KiogY3LDqWVyIHVuZSBtZXN1cmUgYWZmaWNoYW50IGxhIHBhcnQgZGUgY2hhcXVlIGNhdMOpZ29yaWUgZGFucyBsZSB0b3RhbApkZXMgdmVudGVzLgoqKlBpc3RlIDoqKiBkaXZpc2VyIGxlIHRvdGFsIGZpbHRyw6kgcGFyIGxlIHRvdGFsIEFMTCgpLgoqKkNlIHF1ZSB2b3VzIGFwcHJlbmRyZXogOioqIGxhIHBhcnQgcGFyIHJhcHBvcnQgYXUgdG91dC4KCiMjIEV4ZXJjaWNlIDkg4oCUIENsYXNzZXIKCioqT2JqZWN0aWYgOioqIMOpdGFibGlyIHVuIGNsYXNzZW1lbnQgZGVzIHByb2R1aXRzIHBhciB2ZW50ZXMuCioqUGlzdGUgOioqIGRlbWFuZGVyIHVuIGNsYXNzZW1lbnQgYXZlYyBSQU5LWC4KKipDZSBxdWUgdm91cyBhcHByZW5kcmV6IDoqKiBvcmRvbm5lciBzZWxvbiB1bmUgbcOpdHJpcXVlLgoKIyMgRXhlcmNpY2UgMTAg4oCUIFZhbGlkZXIgYXZhbnQgZCdlbnJlZ2lzdHJlcgoKKipPYmplY3RpZiA6KiogdsOpcmlmaWVyIHF1J3VuZSBmb3JtdWxlIGVzdCB2YWxpZGUgYXZhbnQgZGUgY3LDqWVyIGxhIG1lc3VyZS4KKipQaXN0ZSA6KiogdmFsaWRlciBkJ2Fib3JkIGxlIERBWCwgY3LDqWVyIGxhIG1lc3VyZSBlbnN1aXRlLgoqKkNlIHF1ZSB2b3VzIGFwcHJlbmRyZXogOioqIGxlIGJvbiBvcmRyZSBkZXMgb3DDqXJhdGlvbnMuCgojIyBFeGVyY2ljZSAxMSDigJQgTGludGVyCgoqKk9iamVjdGlmIDoqKiByZXDDqXJlciB1bmUgZGl2aXNpb24gcmlzcXXDqWUgZGFucyB1bmUgZm9ybXVsZS4KKipQaXN0ZSA6KiogbGludGVyIHVuZSBmb3JtdWxlIHF1aSB1dGlsaXNlIGAvYCBhdSBsaWV1IGRlIERJVklERS4KKipDZSBxdWUgdm91cyBhcHByZW5kcmV6IDoqKiBkw6l0ZWN0ZXIgbGVzIGFudGktbW9kw6hsZXMuCgojIyBFeGVyY2ljZSAxMiDigJQgRG9jdW1lbnRlcgoKKipPYmplY3RpZiA6KiogZ8OpbsOpcmVyIHVuIGRpY3Rpb25uYWlyZSBkZSBkb25uw6llcyBwb3VyIGwnZW5zZW1ibGUgZHUgbW9kw6hsZS4KKipQaXN0ZSA6KiogZGVtYW5kZXIgbGUgZGljdGlvbm5haXJlIGV0IGxpcmUgY2UgcXUnaWwgcmVudm9pZS4KKipDZSBxdWUgdm91cyBhcHByZW5kcmV6IDoqKiBsYSBkb2N1bWVudGF0aW9uIHLDqWR1aXRlIMOgIHVuZSBzZXVsZSBwaHJhc2UuCgpGYWl0ZXMtbGVzIGRhbnMgbCdvcmRyZS4gQ2hhY3VuIGVzdCB1bmUgdnJhaWUgYWN0aW9uIHN1ciB1biBtb2TDqGxlIGVuIGNvbmRpdGlvbnMKcsOpZWxsZXMg4oCUIGR1IG3Dqm1lIHR5cGUgcXVlIGNlbGxlcyB2dWVzIGRhbnMgbGVzIGNoYXBpdHJlcy4gUXVhbmQgdm91cyBzYXVyZXogZmFpcmUKbGVzIGRvdXplLCB2b3VzIHNhdXJleiBmYWlyZSBsZSBtw6l0aWVyLgo=
+# Annexe E — Exercices guidés
+
+Entraînez-vous au modèle agentique. Chaque exercice vous donne un objectif et une
+piste. Essayez d'abord par vous-même ; les corrigés se trouvent dans l'Annexe F.
+
+## Exercice 1 — Lire le modèle
+
+**Objectif :** se connecter à un rapport Power BI et lister chaque table avec son
+nombre de lignes.
+**Piste :** demander les tables et leurs lignes en une seule phrase.
+**Ce que vous apprendrez :** la connexion et l'exploration.
+
+## Exercice 2 — Profiler une table
+
+**Objectif :** déterminer combien de catégories distinctes existent et si certaines
+colonnes contiennent des valeurs vides.
+**Piste :** profiler la table et lire les colonnes Distinct et Blanks.
+**Ce que vous apprendrez :** la qualité des données en un coup d'œil.
+
+## Exercice 3 — Nettoyer du texte
+
+**Objectif :** ajouter une colonne qui met un champ texte en majuscules pour qu'il
+se regroupe proprement.
+**Piste :** demander une colonne calculée de type UPPER.
+**Ce que vous apprendrez :** standardiser des données désordonnées.
+
+## Exercice 4 — Regrouper un nombre en tranches
+
+**Objectif :** transformer une colonne de prix en tranches Haute / Moyenne / Basse.
+**Piste :** demander une colonne calculée avec une règle de seuil.
+**Ce que vous apprendrez :** transformer un nombre en catégorie exploitable.
+
+## Exercice 5 — Établir une relation
+
+**Objectif :** relier une table de ventes à une table de produits via l'identifiant
+commun.
+**Piste :** demander une relation plusieurs-à-un sur la colonne correspondante.
+**Ce que vous apprendrez :** le câblage qui laisse circuler les données.
+
+## Exercice 6 — Créer une mesure
+
+**Objectif :** créer une mesure de total des ventes au format euro.
+**Piste :** demander une mesure SUM avec un format monétaire.
+**Ce que vous apprendrez :** la mesure la plus simple et la plus importante.
+
+## Exercice 7 — Filtrer une mesure
+
+**Objectif :** créer une mesure qui ne compte que les ventes au-dessus d'un seuil.
+**Piste :** utiliser CALCULATE avec une condition de filtre.
+**Ce que vous apprendrez :** l'agrégation conditionnelle.
+
+## Exercice 8 — Part du total
+
+**Objectif :** créer une mesure affichant la part de chaque catégorie dans le total
+des ventes.
+**Piste :** diviser le total filtré par le total ALL().
+**Ce que vous apprendrez :** la part par rapport au tout.
+
+## Exercice 9 — Classer
+
+**Objectif :** établir un classement des produits par ventes.
+**Piste :** demander un classement avec RANKX.
+**Ce que vous apprendrez :** ordonner selon une métrique.
+
+## Exercice 10 — Valider avant d'enregistrer
+
+**Objectif :** vérifier qu'une formule est valide avant de créer la mesure.
+**Piste :** valider d'abord le DAX, créer la mesure ensuite.
+**Ce que vous apprendrez :** le bon ordre des opérations.
+
+## Exercice 11 — Linter
+
+**Objectif :** repérer une division risquée dans une formule.
+**Piste :** linter une formule qui utilise `/` au lieu de DIVIDE.
+**Ce que vous apprendrez :** détecter les anti-modèles.
+
+## Exercice 12 — Documenter
+
+**Objectif :** générer un dictionnaire de données pour l'ensemble du modèle.
+**Piste :** demander le dictionnaire et lire ce qu'il renvoie.
+**Ce que vous apprendrez :** la documentation réduite à une seule phrase.
+
+Faites-les dans l'ordre. Chacun est une vraie action sur un modèle en conditions
+réelles — du même type que celles vues dans les chapitres. Quand vous saurez faire
+les douze, vous saurez faire le métier.

@@ -1,1 +1,74 @@
-IyA1LiBMJ2VzcHJpdCBhbmFseXRpcXVlIDogdHJhbnNmb3JtZXIgbGVzIHF1ZXN0aW9ucyBlbiBjaGlmZnJlcwoKTGUgY8WTdXIgZHUgbcOpdGllciB0aWVudCBlbiB1biBzZXVsIGdlc3RlIDogcHJlbmRyZSB1bmUgaW5xdWnDqXR1ZGUgZmxvdWUgZXQgZW4gZmFpcmUgdW5lIHF1ZXN0aW9uIMOgIGxhcXVlbGxlIGxlcyBkb25uw6llcyBwZXV2ZW50IHLDqXBvbmRyZS4gTWHDrnRyaXNleiBjZSBnZXN0ZSBldCB2b3VzIHBvdXJyZXogdHJhdmFpbGxlciBhdmVjIG4naW1wb3J0ZSBxdWVsIG91dGlsLiBBcHByZW5vbnMtbGUuCgojIyBEZSDCqyBxdWVscXVlIGNob3NlIG5lIHZhIHBhcyDCuyDDoCB1bmUgdnJhaWUgcXVlc3Rpb24KClVuIG1hbmFnZXIgZMOpYmFycXVlIGVuIHRyb21iZSA6ICrCqyBMZXMgdmVudGVzIHNvbnQgbWF1dmFpc2VzICEgwrsqIENlIG4nZXN0IHBhcyB1bmUgcXVlc3Rpb24uIEMnZXN0IHVuZSBodW1ldXIuIExlIHByZW1pZXIgdHJhdmFpbCBkZSBsJ2FuYWx5c3RlIGVzdCBkZSB0cmFuc2Zvcm1lciBsJ2h1bWV1ciBlbiB1bmUgcXVlc3Rpb24gcXVpIGEgdW5lIHLDqXBvbnNlLgoKLSDCqyBNYXV2YWlzIHBhciByYXBwb3J0IMOgIHF1b2kgPyDCuyDihpIgKnBhciByYXBwb3J0IGF1IHRyaW1lc3RyZSBkZXJuaWVyLioKLSDCqyBNYXV2YWlzIHBhcnRvdXQsIG91IHF1ZWxxdWUgcGFydCA/IMK7IOKGkiAqc2V1bGVtZW50IGRhbnMgbGEgcsOpZ2lvbiBub3JkLioKLSDCqyBNYXV2YWlzIGVuIHF1b2kgPyDCuyDihpIgKmVuIHZvbHVtZSwgcGFzIGVuIHByaXguKgotIMKrIERlcHVpcyBxdWFuZCA/IMK7IOKGkiAqw6AgcGFydGlyIGRlIG1hcnMuKgoKTWFpbnRlbmFudCBjJ2VzdCB1bmUgdnJhaWUgcXVlc3Rpb24gOiAqwqsgUG91cnF1b2kgbGVzIHZlbnRlcyBlbiB2b2x1bWUgZGUgbGEgcsOpZ2lvbiBub3JkIG9udC1lbGxlcyBjaHV0w6kgw6AgcGFydGlyIGRlIG1hcnMgPyDCuyogQ2V0dGUgcXVlc3Rpb24sIG9uIHBldXQgeSByw6lwb25kcmUuIEwnb3JpZ2luYWxlLCBub24uCgojIyBMYSBtw6l0aG9kZSBlbiBxdWF0cmUgw6l0YXBlcwoKUHJlc3F1ZSB0b3V0ZSBhbmFseXNlIHN1aXQgbGVzIG3Dqm1lcyBxdWF0cmUgw6l0YXBlcy4gQXBwcmVuZXogY2V0dGUgYm91Y2xlIGV0IHZvdXMgYXZleiBsZSBqb2IuCgoxLiAqKlF1ZXN0aW9uKiog4oCUIMOpY3JpdmV6IGxhIHZyYWllIHF1ZXN0aW9uLCDDoCBsYXF1ZWxsZSBvbiBwZXV0IHLDqXBvbmRyZS4KMi4gKipIeXBvdGjDqHNlKiog4oCUIGRldmluZXogbGEgcsOpcG9uc2UgcHJvYmFibGUgKmF2YW50KiBkZSByZWdhcmRlci4gKHBhciBleC4gwqsgdW4gY29uY3VycmVudCBzJ2VzdCBpbnN0YWxsw6kgw6AgY8O0dMOpLiDCuykKMy4gKipUZXN0Kiog4oCUIHRpcmV6IGxlcyBkb25uw6llcyBxdWkgY29uZmlybWVyYWllbnQgb3UgdHVlcmFpZW50IGwnaW50dWl0aW9uLgo0LiAqKkNvbmNsdXNpb24qKiDigJQgcXVlIGRpc2VudCBsZXMgZG9ubsOpZXMgPyBMJ2ludHVpdGlvbiDDqXRhaXQtZWxsZSBqdXN0ZSA/IEV0IG1haW50ZW5hbnQgPwoKTCfDqXRhcGUgZGUgbCdoeXBvdGjDqHNlIGVzdCBsZSBzZWNyZXQuIERldmluZXIgZCdhYm9yZCB2b3VzIGVtcMOqY2hlIGRlIHZvdXMgcHJvbWVuZXIgZGFucyBsZXMgZG9ubsOpZXMganVzcXUnw6AgdHJvdXZlciBxdWVscXVlIGNob3NlIHF1aSBjb25maXJtZSBwZXUgaW1wb3J0ZSBzdXIgcXVvaSB2b3VzIMOqdGVzIHRvbWLDqS4gQ2VsYSB2b3VzIGdhcmRlIGhvbm7DqnRlLgoKIyMgTGVzIGNpbnEgcG91cnF1b2kKClVuZSBhc3R1Y2UgdmVudWUgZGUgVG95b3RhIHBvdXIgYXR0ZWluZHJlIGxhIGNhdXNlIHJhY2luZSA6IGRlbWFuZGV6IMKrIHBvdXJxdW9pID8gwrsgY2lucSBmb2lzLgoKLSBMZXMgdmVudGVzIHNvbnQgZW4gYmFpc3NlLiAqUG91cnF1b2kgPyogTW9pbnMgZGUgY2xpZW50cyBzb250IHZlbnVzLgotICpQb3VycXVvaSA/KiBMZSBwYXNzYWdlIMOgIHBpZWQgYSBjaHV0w6kuCi0gKlBvdXJxdW9pID8qIEwnYXJyw6p0IGRlIGJ1cyBhIMOpdMOpIGTDqXBsYWPDqS4KLSAqUG91cnF1b2kgPyogTGEgdmlsbGUgYSByw6lhbcOpbmFnw6kgbGEgcnVlLgotICpQb3VycXVvaSA/KiDigKYgZXQgbWFpbnRlbmFudCB2b3VzIHZveWV6IHF1ZSBsYSB2cmFpZSBjYXVzZSBuJ2EgcmllbiDDoCB2b2lyIGF2ZWMgdm90cmUgbWFya2V0aW5nLgoKVm91cyBuJ2F2ZXogcGFzIHRvdWpvdXJzIGJlc29pbiBkZSBjaW5xLiBEZXV4IG91IHRyb2lzIMKrIHBvdXJxdW9pIMK7IGNyZXVzZW50IGfDqW7DqXJhbGVtZW50IGF1LWRlbMOgIGR1IHN5bXB0w7RtZSBqdXNxdSfDoCBjZSBxdWUgdm91cyBwb3V2ZXogcsOpZWxsZW1lbnQgcsOpcGFyZXIuCgojIyBOZSBwYXMgdm91bG9pciBhdmFsZXIgbCdvY8OpYW4KClVuZSBlcnJldXIgZGUgZMOpYnV0YW50IGVzdCBkZSB2b3Vsb2lyIGFuYWx5c2VyICp0b3V0Ki4gQydlc3QgaW1wb3NzaWJsZS4gQ2hvaXNpc3NleiBsYSBwbHVzIHBldGl0ZSB0cmFuY2hlIGRlIGRvbm7DqWVzIHF1aSBwb3VycmFpdCByw6lwb25kcmUgw6AgbGEgcXVlc3Rpb24sIHJlZ2FyZGV6LWxhLCBldCBuJ8OpbGFyZ2lzc2V6IHF1ZSBzaSBjJ2VzdCBuw6ljZXNzYWlyZS4gVW5lIHbDqXJpZmljYXRpb24gY2libMOpZSBkZSAyMCBtaW51dGVzIGJhdCB1bmUgc2VtYWluZSDDoCBzZSBub3llciBkYW5zIGxlcyB0YWJsZXVycy4KCiMjIE3DqWZpZXotdm91cyBkZSBsYSBxdWVzdGlvbiBzYW5zIHLDqXBvbnNlCgpDZXJ0YWluZXMgcXVlc3Rpb25zIG4nb250IHBhcyBkZSByw6lwb25zZSBkYW5zIGxlcyBkb25uw6llcyBxdWUgdm91cyBhdmV6LiAqwqsgUG91cnF1b2kgbGVzIGdlbnMgbidhY2jDqHRlbnQtaWxzIHBhcyBub3RyZSBwcm9kdWl0ID8gwrsqIGRlbWFuZGUgcGV1dC3DqnRyZSB1bmUgZW5xdcOqdGUsIHBhcyB1bmUgYmFzZSBkZSBkb25uw6llcy4gVW4gYm9uIGFuYWx5c3RlIGZhaXQgbGEgZGlmZsOpcmVuY2UgZW50cmUgwqsgaWwgbWUgZmF1dCBwbHVzIGRlIGRvbm7DqWVzIMK7IGV0IMKrIGlsIG1lIGZhdXQgdW4gYXV0cmUgdHlwZSBkZSBkb25uw6llcyDCuyDigJQgZXQgbGUgZGl0IGF1IGxpZXUgZCdpbnZlbnRlciB1bmUgcsOpcG9uc2UuCgojIyBVbmUgY3VyaW9zaXTDqSA6IGwnZWZmZXQgY29icmEKCkRhbnMgbCdJbmRlIGNvbG9uaWFsZSwgbGUgZ291dmVybmVtZW50LCBhZ2Fjw6kgcGFyIGxlcyBjb2JyYXMsIG9mZnJhaXQgdW5lIHByaW1lIHBvdXIgY2hhcXVlIGNvYnJhIG1vcnQuIExlcyBnZW5zIG9udCBjb21tZW5jw6kgw6AgKirDqWxldmVyIGRlcyBjb2JyYXMqKiBwb3VyIHRvdWNoZXIgbGEgcHJpbWUuIFF1YW5kIGxlIGdvdXZlcm5lbWVudCBhIGNvbXByaXMgZXQgYSBzdXBwcmltw6kgbGEgcsOpY29tcGVuc2UsIGxlcyDDqWxldmV1cnMgb250IHJlbMOiY2jDqSBsZXMgY29icmFzIGRldmVudXMgc2FucyB2YWxldXIsIGV0IGxhIHBvcHVsYXRpb24gZGUgY29icmFzIHNhdXZhZ2VzIGEgKmF1Z21lbnTDqSouIFLDqXNvdWRyZSBsZSBtYXV2YWlzIHByb2Jsw6htZSDigJQgb3UgbWVzdXJlciBsYSBtYXV2YWlzZSBjaG9zZSDigJQgcGV1dCBlbXBpcmVyIGxlcyBjaG9zZXMuIE1lc3VyZXogYXZlYyBzb2luLiBDZSBxdWUgdm91cyByw6ljb21wZW5zZXogZXN0IGNlIHF1ZSB2b3VzIG9idGVuZXouCgojIyBVbiBleGVtcGxlIGTDqXJvdWzDqSwgZHUgZMOpYnV0IMOgIGxhIGZpbgoKKipIdW1ldXIgOioqIMKrIE5vdHJlIG5vdXZlbGxlIG1pc2Ugw6Agam91ciBkZSBsJ2FwcGxpIGVzdCB1biBkw6lzYXN0cmUuIMK7CioqUXVlc3Rpb24gOioqIExlcyB1dGlsaXNhdGV1cnMgYWN0aWZzIHF1b3RpZGllbnMgb250LWlscyBjaHV0w6kgYXByw6hzIGxhIG1pc2Ugw6Agam91ciA/CioqSHlwb3Row6hzZSA6KiogTGEgbWlzZSDDoCBqb3VyIGEgY2Fzc8OpIGxhIGNvbm5leGlvbiwgYWxvcnMgbGVzIGdlbnMgc29udCBwYXJ0aXMuCioqVGVzdCA6KiogQ29tcGFyZXogbGVzIHV0aWxpc2F0ZXVycyBhY3RpZnMgcXVvdGlkaWVucyBhdmFudCBldCBhcHLDqHMgbGEgZGF0ZSBkZSBsYSBtaXNlIMOgIGpvdXIgOyB2w6lyaWZpZXogbGVzIHRhdXggZCdlcnJldXIgZGUgY29ubmV4aW9uLgoqKlLDqXN1bHRhdCA6KiogTGVzIHV0aWxpc2F0ZXVycyBvbnQgY2h1dMOpIGRlIDE1ICUsIG1haXMgbGVzIGVycmV1cnMgZGUgY29ubmV4aW9uIG4nb250IHBhcyBhdWdtZW50w6kuIEwnaW50dWl0aW9uIMOpdGFpdCBmYXVzc2UuCioqTm91dmVsbGUgaHlwb3Row6hzZSA6KiogVW5lIGZvbmN0aW9ubmFsaXTDqSBxdWUgbGVzIGdlbnMgYWRvcmFpZW50IGEgw6l0w6kgc3VwcHJpbcOpZS4KKipUZXN0IDoqKiBSZWdhcmRleiBsJ3VzYWdlIGRlIGxhIGZvbmN0aW9ubmFsaXTDqSBzdXBwcmltw6llIGF2YW50IGxhIG1pc2Ugw6Agam91ciDigJQgaWwgw6l0YWl0IHRyw6hzIMOpbGV2w6kuCioqQ29uY2x1c2lvbiA6KiogTGEgbWlzZSDDoCBqb3VyIGEgcmV0aXLDqSB1bmUgZm9uY3Rpb25uYWxpdMOpIHBvcHVsYWlyZS4gVm9pbMOgIGxhIGNhdXNlLiBSw6lwYXJhdGlvbiA6IGxhIHJlbWV0dHJlLgoKUmVtYXJxdWV6IGNvbW1lIGxlcyBkb25uw6llcyBvbnQgdHXDqSBsYSBwcmVtacOocmUgaW50dWl0aW9uIGV0IHBvaW50w6kgdmVycyBsYSB2cmFpZS4gQydlc3QgbGEgbcOpdGhvZGUgcXVpIGZvbmN0aW9ubmUuIEwnYW5hbHlzdGUgbmUgY29ubmFpc3NhaXQgcGFzIGxhIHLDqXBvbnNlIGF1IGTDqXBhcnQg4oCUIGlsIHNhdmFpdCBjb21tZW50IGxhICp0cm91dmVyKi4KCi0tLQoKIyMgQ2UgcXVlIHZvdXMgZ2FyZGVyZXogZGUgY2UgY2hhcGl0cmUKCi0gVHJhbnNmb3JtZXogbGVzIGh1bWV1cnMgZW4gcXVlc3Rpb25zIGF1eHF1ZWxsZXMgb24gcGV1dCByw6lwb25kcmUuCi0gRGV2aW5leiBkJ2Fib3JkIChoeXBvdGjDqHNlKSwgcHVpcyB0ZXN0ZXog4oCUIGNlbGEgdm91cyBnYXJkZSBob25uw6p0ZS4KLSBEZW1hbmRleiDCqyBwb3VycXVvaSDCuyBwbHVzaWV1cnMgZm9pcyBwb3VyIGF0dGVpbmRyZSBsYSBjYXVzZSByYWNpbmUuCi0gQW5hbHlzZXogbGEgcGx1cyBwZXRpdGUgdHJhbmNoZSB1dGlsZSA7IG5lIHZvdWxleiBwYXMgYXZhbGVyIGwnb2PDqWFuLgotIE1lc3VyZXogbGEgYm9ubmUgY2hvc2UsIHNpbm9uIHZvdXMgw6lsZXZlcmV6IGRlcyBjb2JyYXMuCgpMYSBwYXJ0aWUgSSBlc3QgdGVybWluw6llIOKAlCB2b3VzIGNvbXByZW5leiBsZSBtw6l0aWVyLiBNYWludGVuYW50IG9uIHNlIHNhbGl0IGxlcyBtYWlucyBhdmVjIGxhIG1hdGnDqHJlIHByZW1pw6hyZSA6IGQnb8O5IHZpZW5uZW50IGxlcyBkb25uw6llcywgZXQgY29tbWVudCBsZXMgdm9pciBhdmVjIHVuIHZyYWkgb3V0aWwuCg==
+# 5. L'esprit analytique : transformer les questions en chiffres
+
+Le cœur du métier tient en un seul geste : prendre une inquiétude floue et en faire une question à laquelle les données peuvent répondre. Maîtrisez ce geste et vous pourrez travailler avec n'importe quel outil. Apprenons-le.
+
+## De « quelque chose ne va pas » à une vraie question
+
+Un manager débarque en trombe : *« Les ventes sont mauvaises ! »* Ce n'est pas une question. C'est une humeur. Le premier travail de l'analyste est de transformer l'humeur en une question qui a une réponse.
+
+- « Mauvais par rapport à quoi ? » → *par rapport au trimestre dernier.*
+- « Mauvais partout, ou quelque part ? » → *seulement dans la région nord.*
+- « Mauvais en quoi ? » → *en volume, pas en prix.*
+- « Depuis quand ? » → *à partir de mars.*
+
+Maintenant c'est une vraie question : *« Pourquoi les ventes en volume de la région nord ont-elles chuté à partir de mars ? »* Cette question, on peut y répondre. L'originale, non.
+
+## La méthode en quatre étapes
+
+Presque toute analyse suit les mêmes quatre étapes. Apprenez cette boucle et vous avez le job.
+
+1. **Question** — écrivez la vraie question, à laquelle on peut répondre.
+2. **Hypothèse** — devinez la réponse probable *avant* de regarder. (par ex. « un concurrent s'est installé à côté. »)
+3. **Test** — tirez les données qui confirmeraient ou tueraient l'intuition.
+4. **Conclusion** — que disent les données ? L'intuition était-elle juste ? Et maintenant ?
+
+L'étape de l'hypothèse est le secret. Deviner d'abord vous empêche de vous promener dans les données jusqu'à trouver quelque chose qui confirme peu importe sur quoi vous êtes tombé. Cela vous garde honnête.
+
+## Les cinq pourquoi
+
+Une astuce venue de Toyota pour atteindre la cause racine : demandez « pourquoi ? » cinq fois.
+
+- Les ventes sont en baisse. *Pourquoi ?* Moins de clients sont venus.
+- *Pourquoi ?* Le passage à pied a chuté.
+- *Pourquoi ?* L'arrêt de bus a été déplacé.
+- *Pourquoi ?* La ville a réaménagé la rue.
+- *Pourquoi ?* … et maintenant vous voyez que la vraie cause n'a rien à voir avec votre marketing.
+
+Vous n'avez pas toujours besoin de cinq. Deux ou trois « pourquoi » creusent généralement au-delà du symptôme jusqu'à ce que vous pouvez réellement réparer.
+
+## Ne pas vouloir avaler l'océan
+
+Une erreur de débutant est de vouloir analyser *tout*. C'est impossible. Choisissez la plus petite tranche de données qui pourrait répondre à la question, regardez-la, et n'élargissez que si c'est nécessaire. Une vérification ciblée de 20 minutes bat une semaine à se noyer dans les tableurs.
+
+## Méfiez-vous de la question sans réponse
+
+Certaines questions n'ont pas de réponse dans les données que vous avez. *« Pourquoi les gens n'achètent-ils pas notre produit ? »* demande peut-être une enquête, pas une base de données. Un bon analyste fait la différence entre « il me faut plus de données » et « il me faut un autre type de données » — et le dit au lieu d'inventer une réponse.
+
+## Une curiosité : l'effet cobra
+
+Dans l'Inde coloniale, le gouvernement, agacé par les cobras, offrait une prime pour chaque cobra mort. Les gens ont commencé à **élever des cobras** pour toucher la prime. Quand le gouvernement a compris et a supprimé la récompense, les éleveurs ont relâché les cobras devenus sans valeur, et la population de cobras sauvages a *augmenté*. Résoudre le mauvais problème — ou mesurer la mauvaise chose — peut empirer les choses. Mesurez avec soin. Ce que vous récompensez est ce que vous obtenez.
+
+## Un exemple déroulé, du début à la fin
+
+**Humeur :** « Notre nouvelle mise à jour de l'appli est un désastre. »
+**Question :** Les utilisateurs actifs quotidiens ont-ils chuté après la mise à jour ?
+**Hypothèse :** La mise à jour a cassé la connexion, alors les gens sont partis.
+**Test :** Comparez les utilisateurs actifs quotidiens avant et après la date de la mise à jour ; vérifiez les taux d'erreur de connexion.
+**Résultat :** Les utilisateurs ont chuté de 15 %, mais les erreurs de connexion n'ont pas augmenté. L'intuition était fausse.
+**Nouvelle hypothèse :** Une fonctionnalité que les gens adoraient a été supprimée.
+**Test :** Regardez l'usage de la fonctionnalité supprimée avant la mise à jour — il était très élevé.
+**Conclusion :** La mise à jour a retiré une fonctionnalité populaire. Voilà la cause. Réparation : la remettre.
+
+Remarquez comme les données ont tué la première intuition et pointé vers la vraie. C'est la méthode qui fonctionne. L'analyste ne connaissait pas la réponse au départ — il savait comment la *trouver*.
+
+---
+
+## Ce que vous garderez de ce chapitre
+
+- Transformez les humeurs en questions auxquelles on peut répondre.
+- Devinez d'abord (hypothèse), puis testez — cela vous garde honnête.
+- Demandez « pourquoi » plusieurs fois pour atteindre la cause racine.
+- Analysez la plus petite tranche utile ; ne voulez pas avaler l'océan.
+- Mesurez la bonne chose, sinon vous éleverez des cobras.
+
+La partie I est terminée — vous comprenez le métier. Maintenant on se salit les mains avec la matière première : d'où viennent les données, et comment les voir avec un vrai outil.

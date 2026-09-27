@@ -1,1 +1,58 @@
-IyDQn9GA0LjQu9C+0LbQtdC90LjQtSBCIOKAlCDQp9C10Lot0LvQuNGB0YIg0LrQsNGH0LXRgdGC0LLQsCDQtNCw0L3QvdGL0YUKCtCY0YHQv9C+0LvRjNC30YPQudGC0LUg0Y3RgtC+LCDQv9GA0LXQttC00LUg0YfQtdC8INC00L7QstC10YDRj9GC0Ywg0LvRjtCx0L7QvNGDINCw0L3QsNC70LjQt9GDLiDQmtCw0LbQtNGL0Lkg0L/Rg9C90LrRgiDQvNC+0LbQvdC+INC/0YDQvtCy0LXRgNC40YLRjArQsNGB0YHQuNGB0YLQtdC90YLQvtC8LgoKIyMg0J/QvtC70L3QvtGC0LAKCi0gWyBdINCd0LXRgiDQvdC10L7QttC40LTQsNC90L3Ri9GFINC/0YPRgdGC0YvRhSDQt9C90LDRh9C10L3QuNC5INCyINC60LvRjtGH0LXQstGL0YUg0YHRgtC+0LvQsdGG0LDRhS4gKijQn9GA0L7RhNC40LvQuNGA0YPQudGC0LUKICAgICAg0YLQsNCx0LvQuNGG0YM7INGB0LzQvtGC0YDQuNGC0LUg0L3QsCDRgdGC0L7Qu9Cx0LXRhiBCbGFua3MuKSoKLSBbIF0g0JrQsNC20LTQsNGPINC+0LbQuNC00LDQtdC80LDRjyDRgdGC0YDQvtC60LAg0L/RgNC40YHRg9GC0YHRgtCy0YPQtdGCICjQvdC10YIg0L/RgNC+0L/Rg9GJ0LXQvdC90YvRhSDQv9C10YDQuNC+0LTQvtCyLCDRgNC10LPQuNC+0L3QvtCyCiAgICAgINC40LvQuCDRgtC+0LLQsNGA0L7QsikuCi0gWyBdINCn0LjRgdC70LAg0YHRgtGA0L7QuiDRgdC+0LLQv9Cw0LTQsNGO0YIg0YEg0LjRgdGF0L7QtNC90L7QuSDRgdC40YHRgtC10LzQvtC5LgoKIyMg0KLQvtGH0L3QvtGB0YLRjAoKLSBbIF0g0JjRgtC+0LPQuCDRgdGF0L7QtNGP0YLRgdGPINGBINC40YHRgtC+0YfQvdC40LrQvtC8INC40YHRgtC40L3Riy4KLSBbIF0g0KfQuNGB0LvQsCDQsiDQv9GA0LDQstC40LvRjNC90L7QuSDQtdC00LjQvdC40YbQtSAo0LXQstGA0L4g0L/RgNC+0YLQuNCyINGG0LXQvdGC0L7Qsiwg0YjRgtGD0LrQuCDQv9GA0L7RgtC40LIg0Y/RidC40LrQvtCyKS4KLSBbIF0g0J3QtdGCINGP0LLQvdC+INC90LXQstC10YDQvdGL0YUg0LfQvdCw0YfQtdC90LjQuSAo0L7RgtGA0LjRhtCw0YLQtdC70YzQvdGL0LUg0LrQvtC70LjRh9C10YHRgtCy0LAsINC00LDRgtGLINCyINCx0YPQtNGD0YnQtdC8KS4KCiMjINCh0L7Qs9C70LDRgdC+0LLQsNC90L3QvtGB0YLRjAoKLSBbIF0g0KLQtdC60YHRgiDRgdGC0LDQvdC00LDRgNGC0LjQt9C40YDQvtCy0LDQvSAo0L3QtdGCIMKrTWlsYW7CuyDQv9GA0L7RgtC40LIgwqttaWxhbsK7INC/0YDQvtGC0LjQsiDCq01JTEFOwrspLgogICAgICAqKNCU0L7QsdCw0LLRjNGC0LUg0YHRgtC+0LvQsdC10YYgVVBQRVIvTE9XRVIg0LTQu9GPINC/0YDQvtCy0LXRgNC60LguKSoKLSBbIF0g0J7QtNC90LAg0Lgg0YLQsCDQttC1INGB0YPRidC90L7RgdGC0Ywg0LjQvNC10LXRgiDQvtC00L3QviDQuNC80Y8g0LLQtdC30LTQtS4KLSBbIF0g0JrQvtC00Ysg0YHQvtCy0L/QsNC00LDRjtGCINC/0L7Qv9C10YDRkdC6INGC0LDQsdC70LjRhiAo0LrQsNC20LTRi9C5IFByb2R1Y3RJRCDQsiBTYWxlcyDQtdGB0YLRjCDQsiBQcm9kdWN0cykuCgojIyDQo9C90LjQutCw0LvRjNC90L7RgdGC0YwKCi0gWyBdINCa0LvRjtGH0LXQstGL0LUg0YHRgtC+0LvQsdGG0Ysg0YPQvdC40LrQsNC70YzQvdGLINGC0LDQvCwg0LPQtNC1INC00L7Qu9C20L3RiyDQsdGL0YLRjCAo0L7QtNC90LAg0YHRgtGA0L7QutCwINC90LAgU2FsZUlkKS4KLSBbIF0g0J3QtdGCINC00YPQsdC70LjQutCw0YLQvtCyINC60LvQuNC10L3RgtC+0LIsINGC0L7QstCw0YDQvtCyINC40LvQuCDQvNCw0LPQsNC30LjQvdC+0LIuCgojIyDQmtC+0YDRgNC10LrRgtC90L7RgdGC0YwKCi0gWyBdINCX0L3QsNGH0LXQvdC40Y8g0L/QvtC/0LDQtNCw0Y7RgiDQsiDQvtC20LjQtNCw0LXQvNGL0LUg0LTQuNCw0L/QsNC30L7QvdGLICjRhtC10L3QsCA+IDAsINC00LDRgtGLINCy0LDQu9C40LTQvdGLKS4KLSBbIF0g0JrQsNGC0LXQs9C+0YDQuNC4INCx0LXRgNGD0YLRgdGPINC40Lcg0YDQsNC30YDQtdGI0ZHQvdC90L7Qs9C+INGB0L/QuNGB0LrQsC4KLSBbIF0g0KTQvtGA0LzQsNGC0Ysg0LLQtdGA0L3RiyAo0LTQsNGC0Ysg0Y3RgtC+INC00LDRgtGLLCDQsCDQvdC1INGC0LXQutGB0YIpLgoKIyMg0KHQstC+0LXQstGA0LXQvNC10L3QvdC+0YHRgtGMCgotIFsgXSDQlNCw0L3QvdGL0LUg0LTQvtGB0YLQsNGC0L7Rh9C90L4g0YHQstC10LbQuNC1INC00LvRjyDRgNC10YjQtdC90LjRjy4KLSBbIF0g0J7QsdC90L7QstC70LXQvdC40LUg0L/RgNC+0LjQt9C+0YjQu9C+LCDQutC+0LPQtNCwINC00L7Qu9C20L3QviDQsdGL0LvQvi4KCiMjINCm0LXQu9C+0YHRgtC90L7RgdGC0YwKCi0gWyBdINCh0LLRj9C30Lgg0YDQsNC30LLQtdC00LXQvdGLINC/0YDQsNCy0LjQu9GM0L3QviAo0LzQvdC+0LPQuNC1LdC6LdC+0LTQvdC+0LzRgywg0LDQutGC0LjQstC90YspLgotIFsgXSDQndC10YIg0L7RgdC40YDQvtGC0LXQstGI0LjRhSDRgdGC0YDQvtC6ICjQv9GA0L7QtNCw0LbQuCwg0YPQutCw0LfRi9Cy0LDRjtGJ0LjQtSDQvdCwINC+0YLRgdGD0YLRgdGC0LLRg9GO0YnQuNC5INGC0L7QstCw0YApLgotIFsgXSDQnNC+0LTQtdC70Ywg0L/RgNC+0YXQvtC00LjRgiDQv9GA0L7QstC10YDQutGDINC70YPRh9GI0LjRhSDQv9GA0LDQutGC0LjQui4KCiMjINCa0LDQuiDQv9C+0LzQvtCz0LDQtdGCINCw0YHRgdC40YHRgtC10L3RggoKLSAqKtCf0YDQvtGE0LjQu9C40YDRg9C50YLQtSoqINC60LDQttC00YPRjiDRgtCw0LHQu9C40YbRgywg0YfRgtC+0LHRiyDRg9Cy0LjQtNC10YLRjCDRgNCw0LfQu9C40YfQvdGL0LUg0LfQvdCw0YfQtdC90LjRjywg0L/Rg9GB0YLQvtGC0YssCiAg0LzQuNC9L9C80LDQutGBLCDQv9GA0LjQvNC10YDRiy4KLSAqKtCS0LDQu9C40LTQuNGA0YPQudGC0LUqKiDRhNC+0YDQvNGD0LvRiywg0L/RgNC10LbQtNC1INGH0LXQvCDQuNGFINGB0L7RhdGA0LDQvdC40YLRjC4KLSAqKtCb0LjQvdGC0YPQudGC0LUqKiBEQVgsINGH0YLQvtCx0Ysg0LvQvtCy0LjRgtGMINGA0LjRgdC60L7QstCw0L3QvdGL0LUg0L/QsNGC0YLQtdGA0L3Riy4KLSAqKtCe0YLRh9GR0YIg0L/QviDQu9GD0YfRiNC40Lwg0L/RgNCw0LrRgtC40LrQsNC8KiosINGH0YLQvtCx0Ysg0L/RgNC+0LLQtdGA0LjRgtGMINCy0YHRjiDQvNC+0LTQtdC70Ywg0YDQsNC30L7QvC4KCtCn0LjRgdGC0LDRjyDQvNC+0LTQtdC70Ywg4oCUINC90LUg0L/RgNC40Y/RgtC90LDRjyDQvtC/0YbQuNGPLiDQmtCw0LbQtNC+0LUg0YfQuNGB0LvQviDQvdC40LbQtSDQv9C+INC/0L7RgtC+0LrRgyDQvdCw0YHQu9C10LTRg9C10YIg0LrQsNGH0LXRgdGC0LLQvgrQtNCw0L3QvdGL0YUg0LLRi9GI0LUg0L/QviDQv9C+0YLQvtC60YMuINCf0YDQvtCy0LXRgNGM0YLQtSDQvtC00LjQvSDRgNCw0LcsINC00L7QstC10YDRj9C50YLQtSDQstC10LfQtNC1Lgo=
+# Приложение B — Чек-лист качества данных
+
+Используйте это, прежде чем доверять любому анализу. Каждый пункт можно проверить
+ассистентом.
+
+## Полнота
+
+- [ ] Нет неожиданных пустых значений в ключевых столбцах. *(Профилируйте
+      таблицу; смотрите на столбец Blanks.)*
+- [ ] Каждая ожидаемая строка присутствует (нет пропущенных периодов, регионов
+      или товаров).
+- [ ] Числа строк совпадают с исходной системой.
+
+## Точность
+
+- [ ] Итоги сходятся с источником истины.
+- [ ] Числа в правильной единице (евро против центов, штуки против ящиков).
+- [ ] Нет явно неверных значений (отрицательные количества, даты в будущем).
+
+## Согласованность
+
+- [ ] Текст стандартизирован (нет «Milan» против «milan» против «MILAN»).
+      *(Добавьте столбец UPPER/LOWER для проверки.)*
+- [ ] Одна и та же сущность имеет одно имя везде.
+- [ ] Коды совпадают поперёк таблиц (каждый ProductID в Sales есть в Products).
+
+## Уникальность
+
+- [ ] Ключевые столбцы уникальны там, где должны быть (одна строка на SaleId).
+- [ ] Нет дубликатов клиентов, товаров или магазинов.
+
+## Корректность
+
+- [ ] Значения попадают в ожидаемые диапазоны (цена > 0, даты валидны).
+- [ ] Категории берутся из разрешённого списка.
+- [ ] Форматы верны (даты это даты, а не текст).
+
+## Своевременность
+
+- [ ] Данные достаточно свежие для решения.
+- [ ] Обновление произошло, когда должно было.
+
+## Целостность
+
+- [ ] Связи разведены правильно (многие-к-одному, активны).
+- [ ] Нет осиротевших строк (продажи, указывающие на отсутствующий товар).
+- [ ] Модель проходит проверку лучших практик.
+
+## Как помогает ассистент
+
+- **Профилируйте** каждую таблицу, чтобы увидеть различные значения, пустоты,
+  мин/макс, примеры.
+- **Валидируйте** формулы, прежде чем их сохранить.
+- **Линтуйте** DAX, чтобы ловить рискованные паттерны.
+- **Отчёт по лучшим практикам**, чтобы проверить всю модель разом.
+
+Чистая модель — не приятная опция. Каждое число ниже по потоку наследует качество
+данных выше по потоку. Проверьте один раз, доверяйте везде.

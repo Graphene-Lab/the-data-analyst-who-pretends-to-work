@@ -1,1 +1,54 @@
-IyBDb25jbHVzacOzbjogZWwgYW5hbGlzdGEgcXVlIGRlasOzIGRlIGZpbmdpcgoKRW1wZXphc3RlIGNvbiB1biB0w610dWxvIHNvYnJlIGZpbmdpci4gQ2VycmVtb3MgZWwgYnVjbGUgc29icmUgbG8gcXVlIGVzbyBzaWduaWZpY2EuCgojIyBFbCBmaW5naW1pZW50byBzZSBhY2Fiw7MKCkR1cmFudGUgdW4gdGllbXBvLCBtdWNobyBhbsOhbGlzaXMgZnVlIHRlYXRyby4gSW5mb3JtZXMgbGFyZ29zIHF1ZSBuYWRpZSBsZcOtYS4gUGFuZWxlcwpjb25zdHJ1aWRvcyBwYXJhIHBhcmVjZXIgb2N1cGFkby4gSG9yYXMgcGFzYWRhcyBmb3JjZWplYW5kbyBjb24gaG9qYXMgZGUgY8OhbGN1bG8gcGFyYQpwcm9kdWNpciB1biBuw7ptZXJvIHF1ZSByZXNwb25kw61hIHVuYSBwcmVndW50YSBxdWUgbmFkaWUgaGFjw61hIGRlIHZlcmRhZC4gRXNlIGVzIGVsCsKrZmluZ2lyIHRyYWJhamFywrsgcXVlIGVsIHTDrXR1bG8gcGluY2hhOiBtb3ZpbWllbnRvIHNpbiBhdmFuY2UuCgpFbCBhc2lzdGVudGUgYWNhYmEgY29uIGVzby4gQ3VhbmRvIHVuYSBmcmFzZSBzZW5jaWxsYSBwdWVkZSBjb25zdHJ1aXIgdW5hIG1lZGlkYSwKdmFsaWRhcmxhIHkgZG9jdW1lbnRhciBlbCBtb2RlbG8sIG5vIGhheSBleGN1c2EgcGFyYSBlbCB0cmFiYWpvIGRlIHJlbGxlbm8uIExvIHF1ZQpxdWVkYSBlcyBlbCB0cmFiYWpvIHJlYWw6IGxhcyBwcmVndW50YXMgcXVlIG1lcmVjZW4gbGEgcGVuYSBoYWNlcnNlIHkgbGFzIGRlY2lzaW9uZXMKcXVlIG1lcmVjZW4gbGEgcGVuYSB0b21hcnNlLiBFbCBmaW5naW1pZW50byBjYWUsIHkgbG8gcXVlIHBlcm1hbmVjZSBlcyBsYSBwYXJ0ZSBxdWUgZGUKdmVyZGFkIGltcG9ydGEuCgojIyBMbyBxdWUgZXN0ZSBsaWJybyBpbnRlbnTDsyBoYWNlcgoKRXN0ZSBsaWJybyB0ZW7DrWEgdHJlcyB0cmFiYWpvczoKCjEuICoqTW9zdHJhciBlbCBvZmljaW8uKiogTG8gcXVlIHVuIGFuYWxpc3RhIGRlIGRhdG9zIGhhY2UgZGUgdmVyZGFkLCBkZXNkZSBsYQogICBoaXN0b3JpYSBoYXN0YSBsYXMgbcOpdHJpY2FzIHkgUG93ZXIgQkksIGVuIGNyaXN0aWFuby4KMi4gKipNb3N0cmFyIGxhIGhlcnJhbWllbnRhLioqIENhZGEgZWplbXBsbyBzZSBoaXpvIGNvbiBBZ2VudEJyaWRnZSBtYW5lamFuZG8KICAgUG93ZXJCSVRvb2wgc29icmUgdW4gbW9kZWxvIGVuIHZpdm8gZGUgUG93ZXIgQkk6IGFjY2lvbmVzIHJlYWxlcywgcmVzdWx0YWRvcwogICByZWFsZXMsIHNpbiBtYXF1ZXRhcy4KMy4gKipNb3N0cmFyIGVsIGZ1dHVyby4qKiBFbiBxdcOpIHNlIGNvbnZpZXJ0ZSBlbCB0cmFiYWpvIGN1YW5kbyBlbCBoYWNlciBzZQogICBhdXRvbWF0aXphOiBtw6FzIGNyaXRlcmlvLCBtw6FzIGN1cmlvc2lkYWQsIG3DoXMgcmVzcG9uc2FiaWxpZGFkLgoKU2kgdGUgbGxldmFzIHVuYSBzb2xhIGNvc2EsIGxsw6l2YXRlIGVzdGE6ICoqbGEgaGVycmFtaWVudGEgbWFuZWphIGVsIGPDs21vOyB0w7ogcG9zZWVzCmVsIHF1w6ksIGVsIHBvciBxdcOpIHkgZWwgZGViZXLDrWEuKioKCiMjIExhIHByb21lc2EgZGV0csOhcyBkZSBjYWRhIGVqZW1wbG8KCkNhZGEgaW1hZ2VuIGRlIGVzdGUgbGlicm8gdmlubyBkZSB1bmEgY29uZXhpw7NuIHJlYWwgZW50cmUgQWdlbnRCcmlkZ2UgeSBQb3dlckJJVG9vbC4KTGEgaGVycmFtaWVudGEgZXMgZ3JhdGlzLiBFbCBzb3BvcnRlIGVzIGdyYXRpcy4gQWJyZSB1biBpc3N1ZSBlbiBlbCByZXBvc2l0b3JpbyBkZQpHaXRIdWIgeSB1biB0w6ljbmljbyBkZSB2ZXJkYWQgcmVzcG9uZGUgZW4gdW5hcyAyNCBob3JhcyBjb24gdW5hIHNvbHVjacOzbiByZWFsLiBFc28gbm8KZXMgdW5hIGZyYXNlIGRlIG3DoXJrZXRpbmc6IGVzIGxhIG1pc21hIGhlcnJhbWllbnRhIHF1ZSB1c2FuIGxvcyBhdXRvcmVzLCB5IGVsIG1pc21vCnNvcG9ydGUgcXVlIHJlc3BhbGRhbi4KClNpIGhhcyBsZcOtZG8gaGFzdGEgYXF1w60sIHlhIHNhYmVzIG3DoXMgc29icmUgYW7DoWxpc2lzIGRlIGRhdG9zIGFnw6ludGljbyBxdWUgbGEgbWF5b3LDrWEKZGUgbGEgZ2VudGUgZGVsIGNhbXBvLiBFbCBzaWd1aWVudGUgcGFzbyBlcyBwZXF1ZcOxbzogaW5zdGFsYSBsYSBoZXJyYW1pZW50YSwgYWJyZSB1bgppbmZvcm1lIHkgaGF6bGUgdW5hIHByZWd1bnRhLiBNaXJhIHF1w6kgcGFzYS4gQXPDrSBlbXBlesOzIGNhZGEgZWplbXBsbyBkZSBhcXXDrS4KCiMjIFVuYSDDumx0aW1hIGN1cmlvc2lkYWQKCkVsIGFydGVmYWN0byBjb250YWJsZSBjb25vY2lkbyBtw6FzIGFudGlndW8gZXMgdW5hIHRhYmxpbGxhIGRlIGFyY2lsbGEgZGUgTWVzb3BvdGFtaWEsCmRlIHVub3MgY2luY28gbWlsIGHDsW9zOiB1biByZWdpc3RybyBkZSBvdmVqYXMgeSBncmFuby4gQWxndWllbiBoYWNlIG11Y2hvIGRlY2lkacOzIHF1ZQp2YWzDrWEgbGEgcGVuYSBhbm90YXIgbG9zIG7Dum1lcm9zIHBhcmEgcG9kZXIgdG9tYXIgdW5hIGRlY2lzacOzbiBkZXNwdcOpcy4gTGFzIGhlcnJhbWllbnRhcwpjYW1iaWFyb24gZGUgbGEgYXJjaWxsYSBhbCBEQVguIEVsIGluc3RpbnRvIGVzIGlkw6ludGljbywgeSBhaG9yYSwgcG9yIHByaW1lcmEgdmV6LCBsYQpoZXJyYW1pZW50YSBwdWVkZSBoYWNlciBjYXNpIHRvZGEgbGEgZXNjcml0dXJhLCBwYXJhIHF1ZSBlbCBodW1hbm8gcHVlZGEgaGFjZXIgdG9kbyBlbApwZW5zYW1pZW50by4KCkdyYWNpYXMgcG9yIGxlZXIuIFZlIGEgaGFjZXIgdW5hIGJ1ZW5hIHByZWd1bnRhLgo=
+# Conclusión: el analista que dejó de fingir
+
+Empezaste con un título sobre fingir. Cerremos el bucle sobre lo que eso significa.
+
+## El fingimiento se acabó
+
+Durante un tiempo, mucho análisis fue teatro. Informes largos que nadie leía. Paneles
+construidos para parecer ocupado. Horas pasadas forcejeando con hojas de cálculo para
+producir un número que respondía una pregunta que nadie hacía de verdad. Ese es el
+«fingir trabajar» que el título pincha: movimiento sin avance.
+
+El asistente acaba con eso. Cuando una frase sencilla puede construir una medida,
+validarla y documentar el modelo, no hay excusa para el trabajo de relleno. Lo que
+queda es el trabajo real: las preguntas que merecen la pena hacerse y las decisiones
+que merecen la pena tomarse. El fingimiento cae, y lo que permanece es la parte que de
+verdad importa.
+
+## Lo que este libro intentó hacer
+
+Este libro tenía tres trabajos:
+
+1. **Mostrar el oficio.** Lo que un analista de datos hace de verdad, desde la
+   historia hasta las métricas y Power BI, en cristiano.
+2. **Mostrar la herramienta.** Cada ejemplo se hizo con AgentBridge manejando
+   PowerBITool sobre un modelo en vivo de Power BI: acciones reales, resultados
+   reales, sin maquetas.
+3. **Mostrar el futuro.** En qué se convierte el trabajo cuando el hacer se
+   automatiza: más criterio, más curiosidad, más responsabilidad.
+
+Si te llevas una sola cosa, llévate esta: **la herramienta maneja el cómo; tú posees
+el qué, el por qué y el debería.**
+
+## La promesa detrás de cada ejemplo
+
+Cada imagen de este libro vino de una conexión real entre AgentBridge y PowerBITool.
+La herramienta es gratis. El soporte es gratis. Abre un issue en el repositorio de
+GitHub y un técnico de verdad responde en unas 24 horas con una solución real. Eso no
+es una frase de márketing: es la misma herramienta que usan los autores, y el mismo
+soporte que respaldan.
+
+Si has leído hasta aquí, ya sabes más sobre análisis de datos agéntico que la mayoría
+de la gente del campo. El siguiente paso es pequeño: instala la herramienta, abre un
+informe y hazle una pregunta. Mira qué pasa. Así empezó cada ejemplo de aquí.
+
+## Una última curiosidad
+
+El artefacto contable conocido más antiguo es una tablilla de arcilla de Mesopotamia,
+de unos cinco mil años: un registro de ovejas y grano. Alguien hace mucho decidió que
+valía la pena anotar los números para poder tomar una decisión después. Las herramientas
+cambiaron de la arcilla al DAX. El instinto es idéntico, y ahora, por primera vez, la
+herramienta puede hacer casi toda la escritura, para que el humano pueda hacer todo el
+pensamiento.
+
+Gracias por leer. Ve a hacer una buena pregunta.

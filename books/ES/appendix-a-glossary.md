@@ -1,1 +1,98 @@
-IyBBcMOpbmRpY2UgQSDigJQgR2xvc2FyaW8gZGUgdMOpcm1pbm9zCgpEZWZpbmljaW9uZXMgZW4gY3Jpc3RpYW5vIGRlIGxvcyB0w6lybWlub3MgdXNhZG9zIGVuIGVzdGUgbGlicm8uCgoqKkFnZW50ZSAvIGFnw6ludGljby4qKiBTb2Z0d2FyZSBxdWUgdG9tYSAqYWNjaW9uZXMqIGhhY2lhIHVuIG9iamV0aXZvLCBubyBzb2xvCnJlc3BvbmRlIHByZWd1bnRhcy4gVW4gYWdlbnRlIGNpZXJyYSBlbCBidWNsZSBkZSBsYSBpbnRlbmNpw7NuIGFsIHJlc3VsdGFkby4KCioqQWdlbnRCcmlkZ2UuKiogRWwgYXNpc3RlbnRlIGxvY2FsIGRlIElBIGVuIGxlbmd1YWplIG5vcm1hbCBxdWUgcGxhbmlmaWNhIHkgYWN0w7phIGEKdHJhdsOpcyBkZSBoZXJyYW1pZW50YXMuIEVsIMKrY2VyZWJyb8K7IGVuIGVzdGUgbGlicm8uCgoqKlBvd2VyQklUb29sLioqIEVsIHBsdWdpbiBkZSBBZ2VudEJyaWRnZSBxdWUgb3BlcmEgTWljcm9zb2Z0IFBvd2VyIEJJIERlc2t0b3AuIExhcwrCq21hbm9zwrsgZW4gZXN0ZSBsaWJyby4KCioqUG93ZXIgQkkgRGVza3RvcC4qKiBMYSBoZXJyYW1pZW50YSBkZSBNaWNyb3NvZnQgcGFyYSBjb25zdHJ1aXIgbW9kZWxvcyBkZSBkYXRvcyBlCmluZm9ybWVzLgoKKipNb2RlbG8uKiogRWwgY29uanVudG8gZGUgdGFibGFzLCBjb2x1bW5hcywgbWVkaWRhcyB5IHJlbGFjaW9uZXMgcXVlIFBvd2VyIEJJIHVzYQpwYXJhIHJlc3BvbmRlciBwcmVndW50YXMuCgoqKlRhYmxhLioqIFVuIGNvbmp1bnRvIGRlIGZpbGFzIHkgY29sdW1uYXMuIEVsIGNvbnRlbmVkb3IgYsOhc2ljbyBkZSBkYXRvcy4KCioqQ29sdW1uYS4qKiBVbiBzb2xvIGNhbXBvIGVuIHVuYSB0YWJsYSwgY29uIHVuIHRpcG8gZGUgZGF0byAodGV4dG8sIG7Dum1lcm8sIGZlY2hhKS4KCioqTWVkaWRhLioqIFVuIHZhbG9yIGNhbGN1bGFkbyAobm9ybWFsbWVudGUgdW4gYWdyZWdhZG8gY29tbyB1bmEgc3VtYSBvIHVuYSBtZWRpYSkgcXVlCnJlc3BvbmRlIGEgbG9zIGZpbHRyb3MgZGUgdW4gaW5mb3JtZS4KCioqQ29sdW1uYSBjYWxjdWxhZGEuKiogVW5hIGNvbHVtbmEgbnVldmEgYcOxYWRpZGEgYSB1bmEgdGFibGEsIGNhbGN1bGFkYSBjb24gdW5hIGbDs3JtdWxhCnBhcmEgY2FkYSBmaWxhLgoKKipUYWJsYSBjYWxjdWxhZGEuKiogVW5hIHRhYmxhIG51ZXZhIGNyZWFkYSBhIHBhcnRpciBkZSB1bmEgZsOzcm11bGEsIGNhbGN1bGFkYSBzb2JyZSBsYQptYXJjaGEuCgoqKlJlbGFjacOzbi4qKiBVbiBlbmxhY2UgZW50cmUgZG9zIHRhYmxhcyAocC4gZWouIFNhbGVzIOKGkiBQcm9kdWN0cykgcGFyYSBxdWUgbG9zIGRhdG9zCmZsdXlhbiBlbnRyZSBlbGxhcy4KCioqQ2FyZGluYWxpZGFkLioqIExhIG5hdHVyYWxlemEgwqt1bm8tYS1tdWNob3PCuyBvIMKrbXVjaG9zLWEtdW5vwrsgZGUgdW5hIHJlbGFjacOzbi4KCioqREFYLioqIERhdGEgQW5hbHlzaXMgRXhwcmVzc2lvbnM6IGVsIGxlbmd1YWplIGRlIGbDs3JtdWxhcyBkZSBQb3dlciBCSS4KCioqU1FMLioqIFN0cnVjdHVyZWQgUXVlcnkgTGFuZ3VhZ2U6IGVsIGxlbmd1YWplIGVzdMOhbmRhciBwYXJhIGNvbnN1bHRhciBiYXNlcyBkZSBkYXRvcy4KCioqU1VNIC8gQVZFUkFHRSAvIENPVU5ULioqIEFncmVnYWRvcyBiw6FzaWNvczogdG90YWwsIG1lZGlhIHkgcmVjdWVudG8uCgoqKkRJU1RJTkNUQ09VTlQuKiogUmVjdWVudG8gZGUgdmFsb3JlcyDDum5pY29zLgoKKipDQUxDVUxBVEUuKiogVW5hIGZ1bmNpw7NuIERBWCBxdWUgY2FtYmlhIGVsIGNvbnRleHRvIGRlIGZpbHRybyBkZSB1bmEgbWVkaWRhLgoKKipGSUxURVIuKiogVW5hIGZ1bmNpw7NuIERBWCBxdWUgY29uc2VydmEgbGFzIGZpbGFzIHF1ZSBjdW1wbGVuIHVuYSBjb25kaWNpw7NuLgoKKipSRUxBVEVELioqIFVuYSBmdW5jacOzbiBEQVggcXVlIHNhY2EgdW4gdmFsb3IgZGUgdW5hIHRhYmxhIHJlbGFjaW9uYWRhLgoKKipESVZJREUuKiogVW5hIGZ1bmNpw7NuIGRlIGRpdmlzacOzbiBzZWd1cmEgcXVlIG1hbmVqYSBsYSBkaXZpc2nDs24gcG9yIGNlcm8uCgoqKkFMTC4qKiBVbmEgZnVuY2nDs24gREFYIHF1ZSBxdWl0YSBsb3MgZmlsdHJvcyAodXNhZGEgYSBtZW51ZG8gcGFyYSBlbCDCqyUgZGVsIHRvdGFswrspLgoKKipSQU5LWC4qKiBVbmEgZnVuY2nDs24gREFYIHF1ZSBjbGFzaWZpY2EgZmlsYXMgcG9yIHVuIHZhbG9yLgoKKipUT1BOLioqIFVuYSBmdW5jacOzbiBEQVggcXVlIGRldnVlbHZlIGxhcyBOIGZpbGFzIHN1cGVyaW9yZXMuCgoqKkNvbnRleHRvIGRlIGZpbHRyby4qKiBFbCBjb25qdW50byBkZSBmaWx0cm9zIGFwbGljYWRvcyBhY3R1YWxtZW50ZSBjdWFuZG8gdW5hIG1lZGlkYQpzZSBjYWxjdWxhLgoKKipDb250ZXh0byBkZSBmaWxhLioqIExhIMKrZmlsYSBhY3R1YWzCuyBjdWFuZG8gdW5hIGNvbHVtbmEgY2FsY3VsYWRhIG8gdW4gaXRlcmFkb3Igc2UKY2FsY3VsYS4KCioqSXRlcmFkb3IuKiogVW5hIGZ1bmNpw7NuIERBWCAoU1VNWCwgQVZFUkFHRVgpIHF1ZSBldmFsw7phIGZpbGEgcG9yIGZpbGEuCgoqKkRpY2Npb25hcmlvIGRlIGRhdG9zLioqIERvY3VtZW50YWNpw7NuIGRlIGNhZGEgdGFibGEsIGNvbHVtbmEgeSBtZWRpZGEgZGUgdW4gbW9kZWxvLgoKKipQZXJmaWxhZG8uKiogSW5zcGVjY2lvbmFyIGxvcyB2YWxvcmVzIGRpc3RpbnRvcywgaHVlY29zLCBtw61uaW1vL23DoXhpbW8geSBtdWVzdHJhcyBkZQp1bmEgdGFibGEuCgoqKkxpbnRpbmcuKiogQ29tcHJvYmFjaW9uZXMgZXN0w6F0aWNhcyBxdWUgbWFyY2FuIHBhdHJvbmVzIGFycmllc2dhZG9zIChwLiBlai4gYC9gIGVuIHZlegpkZSBgRElWSURFYCkuCgoqKkJ1ZW5hcyBwcsOhY3RpY2FzLioqIFVuYSBjb21wcm9iYWNpw7NuIGRlIHNhbHVkIGRlbCBtb2RlbG8gY29udHJhIHBhdHJvbmVzIGJ1ZW5vcwpjb25vY2lkb3MuCgoqKkd1YXJkYSBkZSBmYWxsbyBjZXJyYWRvLioqIFVuYSByZWdsYSBkZSBzZWd1cmlkYWQgcXVlIGJsb3F1ZWEgY3VhbHF1aWVyIGNvc2Egbm8KY2xhcmFtZW50ZSBwZXJtaXRpZGEuCgoqKkNhbGlkYWQgZGUgZGF0b3MuKiogTG8gbGltcGlvcywgY29tcGxldG9zIHkgZmlhYmxlcyBxdWUgc29uIGxvcyBkYXRvcy4KCioqU2VnbWVudGFjacOzbi4qKiBEaXZpZGlyIGNsaWVudGVzIG8gZGF0b3MgZW4gZ3J1cG9zIHBhcmEgZWwgYW7DoWxpc2lzLgoKKipFc3RhY2lvbmFsaWRhZC4qKiBQYXRyb25lcyByZWd1bGFyZXMgeSByZXBldGl0aXZvcyBlbiBlbCB0aWVtcG8uCgoqKktQSS4qKiBLZXkgUGVyZm9ybWFuY2UgSW5kaWNhdG9yOiB1bmEgbcOpdHJpY2EgcXVlIGltcG9ydGEgYWwgbmVnb2Npby4KCioqUGFuZWwuKiogVW5hIHZpc3RhIGRlIGxvcyBLUEkgY2xhdmUsIG5vcm1hbG1lbnRlIGVuIHVuYSBwYW50YWxsYS4KCioqSW5mb3JtZS4qKiBVbiBjb25qdW50byBkZXRhbGxhZG8gZSBpbnRlcmFjdGl2byBkZSB2aXN1YWxlcyBjb25zdHJ1aWRvIHNvYnJlIHVuCm1vZGVsby4KCioqR29iZXJuYW56YSBkZSBkYXRvcy4qKiBMYXMgcmVnbGFzLCBsYSBwcm9waWVkYWQgeSBsb3MgY29udHJvbGVzIGFscmVkZWRvciBkZSB1bgphY3Rpdm8gZGUgZGF0b3MuCgoqKlBhcmFkb2phIGRlIEpldm9ucy4qKiBDdWFuZG8gYWxnbyBzZSBhYmFyYXRhLCB1c2Ftb3MgbcOhcyBkZSDDqWwsIG5vIG1lbm9zLgo=
+# Apéndice A — Glosario de términos
+
+Definiciones en cristiano de los términos usados en este libro.
+
+**Agente / agéntico.** Software que toma *acciones* hacia un objetivo, no solo
+responde preguntas. Un agente cierra el bucle de la intención al resultado.
+
+**AgentBridge.** El asistente local de IA en lenguaje normal que planifica y actúa a
+través de herramientas. El «cerebro» en este libro.
+
+**PowerBITool.** El plugin de AgentBridge que opera Microsoft Power BI Desktop. Las
+«manos» en este libro.
+
+**Power BI Desktop.** La herramienta de Microsoft para construir modelos de datos e
+informes.
+
+**Modelo.** El conjunto de tablas, columnas, medidas y relaciones que Power BI usa
+para responder preguntas.
+
+**Tabla.** Un conjunto de filas y columnas. El contenedor básico de datos.
+
+**Columna.** Un solo campo en una tabla, con un tipo de dato (texto, número, fecha).
+
+**Medida.** Un valor calculado (normalmente un agregado como una suma o una media) que
+responde a los filtros de un informe.
+
+**Columna calculada.** Una columna nueva añadida a una tabla, calculada con una fórmula
+para cada fila.
+
+**Tabla calculada.** Una tabla nueva creada a partir de una fórmula, calculada sobre la
+marcha.
+
+**Relación.** Un enlace entre dos tablas (p. ej. Sales → Products) para que los datos
+fluyan entre ellas.
+
+**Cardinalidad.** La naturaleza «uno-a-muchos» o «muchos-a-uno» de una relación.
+
+**DAX.** Data Analysis Expressions: el lenguaje de fórmulas de Power BI.
+
+**SQL.** Structured Query Language: el lenguaje estándar para consultar bases de datos.
+
+**SUM / AVERAGE / COUNT.** Agregados básicos: total, media y recuento.
+
+**DISTINCTCOUNT.** Recuento de valores únicos.
+
+**CALCULATE.** Una función DAX que cambia el contexto de filtro de una medida.
+
+**FILTER.** Una función DAX que conserva las filas que cumplen una condición.
+
+**RELATED.** Una función DAX que saca un valor de una tabla relacionada.
+
+**DIVIDE.** Una función de división segura que maneja la división por cero.
+
+**ALL.** Una función DAX que quita los filtros (usada a menudo para el «% del total»).
+
+**RANKX.** Una función DAX que clasifica filas por un valor.
+
+**TOPN.** Una función DAX que devuelve las N filas superiores.
+
+**Contexto de filtro.** El conjunto de filtros aplicados actualmente cuando una medida
+se calcula.
+
+**Contexto de fila.** La «fila actual» cuando una columna calculada o un iterador se
+calcula.
+
+**Iterador.** Una función DAX (SUMX, AVERAGEX) que evalúa fila por fila.
+
+**Diccionario de datos.** Documentación de cada tabla, columna y medida de un modelo.
+
+**Perfilado.** Inspeccionar los valores distintos, huecos, mínimo/máximo y muestras de
+una tabla.
+
+**Linting.** Comprobaciones estáticas que marcan patrones arriesgados (p. ej. `/` en vez
+de `DIVIDE`).
+
+**Buenas prácticas.** Una comprobación de salud del modelo contra patrones buenos
+conocidos.
+
+**Guarda de fallo cerrado.** Una regla de seguridad que bloquea cualquier cosa no
+claramente permitida.
+
+**Calidad de datos.** Lo limpios, completos y fiables que son los datos.
+
+**Segmentación.** Dividir clientes o datos en grupos para el análisis.
+
+**Estacionalidad.** Patrones regulares y repetitivos en el tiempo.
+
+**KPI.** Key Performance Indicator: una métrica que importa al negocio.
+
+**Panel.** Una vista de los KPI clave, normalmente en una pantalla.
+
+**Informe.** Un conjunto detallado e interactivo de visuales construido sobre un
+modelo.
+
+**Gobernanza de datos.** Las reglas, la propiedad y los controles alrededor de un
+activo de datos.
+
+**Paradoja de Jevons.** Cuando algo se abarata, usamos más de él, no menos.

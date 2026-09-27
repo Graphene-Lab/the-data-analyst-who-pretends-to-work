@@ -1,1 +1,77 @@
-IyAxNi4gUG93ZXIgQkkgZW4gbGFuZ2FnZSBjbGFpcgoKVm91cyBhdmV6IGTDqWrDoCBlbnRlbmR1IGxlIG5vbS4gQ2UgY2hhcGl0cmUgcsOpZHVpdCBQb3dlciBCSSDDoCBjZSBxdSdpbCBlc3QgdnJhaW1lbnQsIHNhbnMgbGUgYnJvdWlsbGFyZCBtYXJrZXRpbmcg4oCUIGV0IG1vbnRyZSBjb21tZW50IGwnYXNzaXN0YW50IGx1aSBwYXJsZSBkaXJlY3RlbWVudC4KCiMjIENlIHF1J2VzdCB2cmFpbWVudCBQb3dlciBCSQoKUG93ZXIgQkksIGMnZXN0IGwnb3V0aWwgZGUgTWljcm9zb2Z0IHBvdXIgdHJhbnNmb3JtZXIgZGVzIGRvbm7DqWVzIGVuICoqdGFibGVhdXggZGUgYm9yZCBldCByYXBwb3J0cyoqIHF1ZSBsZXMgZ2VucyBwZXV2ZW50IHJlZ2FyZGVyLCBjbGlxdWVyIGV0IGV4cGxvcmVyLiBJbCBhIHRyb2lzIGdyYW5kZXMgcGFydGllcyA6CgotICoqUG93ZXIgQkkgRGVza3RvcCoqIOKAlCBsZSBwcm9ncmFtbWUgZ3JhdHVpdCBzdXIgdm90cmUgUEMsIG/DuSB2b3VzIGNvbnN0cnVpc2V6IGxlIG1vZMOobGUgZXQgbGUgcmFwcG9ydC4gQydlc3QgbMOgIHF1ZSB0cmF2YWlsbGUgbCdhc3Npc3RhbnQuCi0gKipQb3dlciBCSSBTZXJ2aWNlKiog4oCUIGwnZW5kcm9pdCBlbiBsaWduZSBvw7kgdm91cyBwdWJsaWV6IGxlcyB0YWJsZWF1eCBkZSBib3JkIHBvdXIgcXVlIGQnYXV0cmVzIGxlcyB2b2llbnQgZGFucyB1biBuYXZpZ2F0ZXVyIG91IHN1ciBsZXVyIHTDqWzDqXBob25lLgotICoqUG93ZXIgQkkgTW9iaWxlKiog4oCUIGwnYXBwbGljYXRpb24gcG91ciBjb25zdWx0ZXIgbGVzIHRhYmxlYXV4IGRlIGJvcmQgZW4gZMOpcGxhY2VtZW50LgoKT24gY29uc3RydWl0IGRhbnMgRGVza3RvcC4gT24gcGFydGFnZSB2aWEgbGUgU2VydmljZS4gQydlc3QgdG91dGUgbCdpbWFnZS4KCiMjIExlcyB0cm9pcyBjb3VjaGVzIMOgIGwnaW50w6lyaWV1cgoKVG91dCBwcm9qZXQgUG93ZXIgQkkgYSB0cm9pcyBjb3VjaGVzLCBldCBpbCBlc3QgdXRpbGUgZCdlbiBjb25uYcOudHJlIGxlcyBub21zIDoKCjEuICoqRG9ubsOpZXMqKiDigJQgY2Ugw6AgcXVvaSB2b3VzIHZvdXMgY29ubmVjdGV6ICh1bmUgYmFzZSBkZSBkb25uw6llcywgdW4gZmljaGllciwgdW5lIHNvdXJjZSB3ZWIpLgoyLiAqKk1vZMOobGUqKiDigJQgbGVzIHRhYmxlcywgbGVzIHJlbGF0aW9ucyBldCBsZXMgbWVzdXJlcyBxdWUgdm91cyBjb25zdHJ1aXNleiBwYXItZGVzc3VzIGxlcyBkb25uw6llcy4KMy4gKipSYXBwb3J0Kiog4oCUIGxlcyBwYWdlcyB2aXN1ZWxsZXMgcXVlIGxlcyBnZW5zIHJlZ2FyZGVudCByw6llbGxlbWVudC4KCkwnYXNzaXN0YW50IHRyYXZhaWxsZSBwcmVzcXVlIGVudGnDqHJlbWVudCBkYW5zIGxhIGNvdWNoZSAqKm1vZMOobGUqKiDigJQgbGVzIHRhYmxlcywgbGVzIG1lc3VyZXMgZXQgbGVzIHJlbGF0aW9ucy4gTGEgY291Y2hlIHJhcHBvcnQgKGxlcyBqb2xpZXMgdmlzdWVsbGVzKSwgYydlc3QgbMOgIHF1J3VuIGh1bWFpbiBkaXNwb3NlIGxlcyBjaG9zZXMgc3VyIGxlIGNhbmV2YXMuIExlIG1vZMOobGUgZXN0IGxlIG1vdGV1ciA7IGxlIHJhcHBvcnQgZXN0IGxlIHRhYmxlYXUgZGUgYm9yZC4KCiMjIFZvaXIgbGUgbW9kw6hsZSwgZW4gZGlyZWN0CgpMJ2Fzc2lzdGFudCBwZXV0IGxpcmUgdG91dCBsZSBtb2TDqGxlIGV0IHZvdXMgbGUgcmVzdGl0dWVyIDoKCj4gwqsgRG9ubmUtbW9pIHVuIHLDqXN1bcOpIGR1IG1vZMOobGUuIMK7CgohW1LDqXN1bcOpIGR1IG1vZMOobGVdKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9lMDAyLnBuZykKClRhYmxlcywgbWVzdXJlcywgcmVsYXRpb25zLCBub21icmUgZGUgbGlnbmVzIOKAlCB0b3V0IGxlIG1vdGV1ciBkYW5zIHVuZSBzZXVsZSB2dWUuIEMnZXN0IGxhIHByZW1pw6hyZSBjaG9zZSDDoCBmYWlyZSBxdWFuZCBvbiBvdXZyZSB1biBwcm9qZXQgUG93ZXIgQkkgOiBjb21wcmVuZHJlIGxlIG1vZMOobGUuCgo+IMKrIExpc3RlIGNoYXF1ZSB0YWJsZSBhdmVjIHNvbiBub21icmUgZGUgbGlnbmVzLiDCuwoKIVtMaXN0ZSBkZXMgdGFibGVzXSguLi8uLi9hc3NldHMvZXhhbXBsZXMvZTAwNS5wbmcpCgpMZXMgYnJpcXVlcyBkZSBiYXNlLCBjb21wdMOpZXMgZXQgcHLDqnRlcy4KCiMjIExlIGRpY3Rpb25uYWlyZSBkZSBkb25uw6llcyA6IGRlIGxhIGRvY3VtZW50YXRpb24gZ3JhdHVpdGUKCkwndW4gZGVzIHRvdXJzIGxlcyBwbHVzIHV0aWxlcyBkZSBsJ2Fzc2lzdGFudCwgYydlc3QgZCfDqWNyaXJlIHVuICoqZGljdGlvbm5haXJlIGRlIGRvbm7DqWVzKiog4oCUIHVuIGRvY3VtZW50IHF1aSByZWNlbnNlIGNoYXF1ZSB0YWJsZSwgY2hhcXVlIGNvbG9ubmUgZXQgY2hhcXVlIG1lc3VyZSBhdmVjIGNlIHF1J2VsbGVzIHNpZ25pZmllbnQuCgo+IMKrIEfDqW7DqHJlIHVuIGRpY3Rpb25uYWlyZSBkZSBkb25uw6llcyBwb3VyIHRvdXQgbGUgbW9kw6hsZS4gwrsKCiFbRGljdGlvbm5haXJlIGRlIGRvbm7DqWVzXSguLi8uLi9hc3NldHMvZXhhbXBsZXMvZTA0NC5wbmcpCgpVbmUgZG9jdW1lbnRhdGlvbiBxdWkgcHJlbmRyYWl0IHVuIGFwcsOocy1taWRpIGVudGllciDDoCB1biBhbmFseXN0ZSBhcHBhcmHDrnQgZW4gdW5lIHNlY29uZGUuIENlIG4nZXN0IHBhcyByaWVuIDogdW5lIGJvbm5lIGRvY3VtZW50YXRpb24gZmFpdCBsYSBkaWZmw6lyZW5jZSBlbnRyZSB1biBtb2TDqGxlIGRvbnQgdW5lIMOpcXVpcGUgcGV1dCBzZSBmaWVyIGV0IHVuIG1vZMOobGUgcXUndW5lIHNldWxlIHBlcnNvbm5lIGNvbXByZW5kLgoKIyMgVm9pciBsZXMgbWVzdXJlcwoKPiDCqyBRdWVsbGVzIG1lc3VyZXMgZXhpc3RlbnQgZGFucyBTYWxlcyA/IMK7CgohW01lc3VyZXMgZGFucyBTYWxlc10oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2UwNzkucG5nKQoKQ2hhcXVlIG1lc3VyZSBhdmVjIHNhIGZvcm11bGUgZXQgc29uIGZvcm1hdC4gUXVhbmQgcXVlbHF1J3VuIGRlbWFuZGUgwqsgY29tbWVudCBlc3QgY2FsY3Vsw6kgVG90YWwgU2FsZXMgPyDCuywgbGEgcsOpcG9uc2UgZXN0IGp1c3RlIGzDoC4KCiMjIFVuZSBjdXJpb3NpdMOpIDogbCdhc2NlbnNpb24gaW1wcm9iYWJsZSBkZSBQb3dlciBCSQoKUG93ZXIgQkkgYSBkw6ltYXJyw6kgZW4gMjAxNSBjb21tZSB1bmUgcGV0aXRlIGV4dGVuc2lvbiBldCBhIGZvbmPDqSB2ZXJzIGxlIHNvbW1ldCBkdSBtb25kZSBkZSBsJ2FuYWx5dGljcywgZW4gZ3JhbmRlIHBhcnRpZSBwYXJjZSBxdWUgTWljcm9zb2Z0IGxlIHJlZ3JvdXBhaXQgYXZlYyBkZXMgb3V0aWxzIHF1ZSBsZXMgZW50cmVwcmlzZXMgYXZhaWVudCBkw6lqw6AgZXQgbCdhIHZlbmR1IGFzc2V6IHBldSBjaGVyIHBvdXIgcXVlIHByZXNxdWUgbidpbXBvcnRlIHF1aSBwdWlzc2UgbCdlc3NheWVyLiBTb24gc3VwZXJwb3V2b2lyIGRpc2NyZXQsIGMnZXN0IHF1J2lsIHNpw6hnZSBhdSBjxZN1ciBkZSBsJ8OpY29zeXN0w6htZSBNaWNyb3NvZnQg4oCUIEV4Y2VsLCBBenVyZSwgT2ZmaWNlIOKAlCBzaSBiaWVuIHF1ZSBwb3VyIGRlcyBtaWxsaW9ucyBkJ2VudHJlcHJpc2VzLCBjJ8OpdGFpdCBsZSBjaGVtaW4gZHUgbW9pbmRyZSBlZmZvcnQuIExlIG1laWxsZXVyIG91dGlsIG4nZXN0IHNvdXZlbnQgcGFzIGxlIG1laWxsZXVyIG91dGlsIDsgYydlc3QgY2VsdWkgcXVpIGVzdCBkw6lqw6AgbMOgLgoKIyMgUG91cnF1b2kgbCdhc3Npc3RhbnQgY29tcHRlIGljaQoKUG93ZXIgQkkgZXN0IHB1aXNzYW50IG1haXMgYSB1bmUgY291cmJlIGQnYXBwcmVudGlzc2FnZSDigJQgREFYLCBsYSB2dWUgbW9kw6hsZSwgbGEgcmliYW1iZWxsZSBkZSBib3V0b25zIGRhbnMgbGUgcnViYW4uIEwnYXNzaXN0YW50IHN1cHByaW1lIGNldHRlIGNvdXJiZSBwb3VyIGxlIHRyYXZhaWwgc3VyIGxlIG1vZMOobGUgOiB2b3VzIGTDqWNyaXZleiBjZSBxdWUgdm91cyB2b3VsZXosIGlsIG1vZGlmaWUgbGUgbW9kw6hsZSBlbiBkaXJlY3QuIExlcyB2aXN1ZWxsZXMsIHZvdXMgbGVzIGFycmFuZ2V6IHRvdWpvdXJzIHZvdXMtbcOqbWUsIG1haXMgbGEgcGFydGllIGRpZmZpY2lsZSDigJQgbGVzIG1lc3VyZXMgZXQgbGUgY8OiYmxhZ2Ug4oCUIGRldmllbnQgdW5lIGNvbnZlcnNhdGlvbi4KCi0tLQoKIyMgQ2UgcXVlIHZvdXMgZ2FyZGVyZXogZGUgY2UgY2hhcGl0cmUKCi0gUG93ZXIgQkkgPSBEZXNrdG9wIChjb25zdHJ1aXJlKSwgU2VydmljZSAocGFydGFnZXIpLCBNb2JpbGUgKGNvbnN1bHRlcikuCi0gVHJvaXMgY291Y2hlcyA6IGRvbm7DqWVzLCBtb2TDqGxlLCByYXBwb3J0LgotIEwnYXNzaXN0YW50IHRyYXZhaWxsZSBkYW5zIGxhIGNvdWNoZSBtb2TDqGxlLgotIElsIHBldXQgcsOpc3VtZXIsIGxpc3RlciBldCBkb2N1bWVudGVyIGxlIG1vZMOobGUgw6AgbGEgZGVtYW5kZS4KLSBMJ2Fzc2lzdGFudCBzdXBwcmltZSBsYSBjb3VyYmUgZCdhcHByZW50aXNzYWdlIHN1ciBsYSBwYXJ0aWUgZGlmZmljaWxlLgoKU3VpdGUgOiBjb21tZW50IGwnYXNzaXN0YW50IHRyb3V2ZSBldCBzZSBjb25uZWN0ZSDDoCB2b3RyZSBQb3dlciBCSSBEZXNrdG9wIOKAlCBsZSBtb21lbnQgb8O5IGxlcyBkZXV4IHNlIHJlbmNvbnRyZW50Lgo=
+# 16. Power BI en langage clair
+
+Vous avez déjà entendu le nom. Ce chapitre réduit Power BI à ce qu'il est vraiment, sans le brouillard marketing — et montre comment l'assistant lui parle directement.
+
+## Ce qu'est vraiment Power BI
+
+Power BI, c'est l'outil de Microsoft pour transformer des données en **tableaux de bord et rapports** que les gens peuvent regarder, cliquer et explorer. Il a trois grandes parties :
+
+- **Power BI Desktop** — le programme gratuit sur votre PC, où vous construisez le modèle et le rapport. C'est là que travaille l'assistant.
+- **Power BI Service** — l'endroit en ligne où vous publiez les tableaux de bord pour que d'autres les voient dans un navigateur ou sur leur téléphone.
+- **Power BI Mobile** — l'application pour consulter les tableaux de bord en déplacement.
+
+On construit dans Desktop. On partage via le Service. C'est toute l'image.
+
+## Les trois couches à l'intérieur
+
+Tout projet Power BI a trois couches, et il est utile d'en connaître les noms :
+
+1. **Données** — ce à quoi vous vous connectez (une base de données, un fichier, une source web).
+2. **Modèle** — les tables, les relations et les mesures que vous construisez par-dessus les données.
+3. **Rapport** — les pages visuelles que les gens regardent réellement.
+
+L'assistant travaille presque entièrement dans la couche **modèle** — les tables, les mesures et les relations. La couche rapport (les jolies visuelles), c'est là qu'un humain dispose les choses sur le canevas. Le modèle est le moteur ; le rapport est le tableau de bord.
+
+## Voir le modèle, en direct
+
+L'assistant peut lire tout le modèle et vous le restituer :
+
+> « Donne-moi un résumé du modèle. »
+
+![Résumé du modèle](../../assets/examples/e002.png)
+
+Tables, mesures, relations, nombre de lignes — tout le moteur dans une seule vue. C'est la première chose à faire quand on ouvre un projet Power BI : comprendre le modèle.
+
+> « Liste chaque table avec son nombre de lignes. »
+
+![Liste des tables](../../assets/examples/e005.png)
+
+Les briques de base, comptées et prêtes.
+
+## Le dictionnaire de données : de la documentation gratuite
+
+L'un des tours les plus utiles de l'assistant, c'est d'écrire un **dictionnaire de données** — un document qui recense chaque table, chaque colonne et chaque mesure avec ce qu'elles signifient.
+
+> « Génère un dictionnaire de données pour tout le modèle. »
+
+![Dictionnaire de données](../../assets/examples/e044.png)
+
+Une documentation qui prendrait un après-midi entier à un analyste apparaît en une seconde. Ce n'est pas rien : une bonne documentation fait la différence entre un modèle dont une équipe peut se fier et un modèle qu'une seule personne comprend.
+
+## Voir les mesures
+
+> « Quelles mesures existent dans Sales ? »
+
+![Mesures dans Sales](../../assets/examples/e079.png)
+
+Chaque mesure avec sa formule et son format. Quand quelqu'un demande « comment est calculé Total Sales ? », la réponse est juste là.
+
+## Une curiosité : l'ascension improbable de Power BI
+
+Power BI a démarré en 2015 comme une petite extension et a foncé vers le sommet du monde de l'analytics, en grande partie parce que Microsoft le regroupait avec des outils que les entreprises avaient déjà et l'a vendu assez peu cher pour que presque n'importe qui puisse l'essayer. Son superpouvoir discret, c'est qu'il siège au cœur de l'écosystème Microsoft — Excel, Azure, Office — si bien que pour des millions d'entreprises, c'était le chemin du moindre effort. Le meilleur outil n'est souvent pas le meilleur outil ; c'est celui qui est déjà là.
+
+## Pourquoi l'assistant compte ici
+
+Power BI est puissant mais a une courbe d'apprentissage — DAX, la vue modèle, la ribambelle de boutons dans le ruban. L'assistant supprime cette courbe pour le travail sur le modèle : vous décrivez ce que vous voulez, il modifie le modèle en direct. Les visuelles, vous les arrangez toujours vous-même, mais la partie difficile — les mesures et le câblage — devient une conversation.
+
+---
+
+## Ce que vous garderez de ce chapitre
+
+- Power BI = Desktop (construire), Service (partager), Mobile (consulter).
+- Trois couches : données, modèle, rapport.
+- L'assistant travaille dans la couche modèle.
+- Il peut résumer, lister et documenter le modèle à la demande.
+- L'assistant supprime la courbe d'apprentissage sur la partie difficile.
+
+Suite : comment l'assistant trouve et se connecte à votre Power BI Desktop — le moment où les deux se rencontrent.

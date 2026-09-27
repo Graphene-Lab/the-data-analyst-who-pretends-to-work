@@ -1,1 +1,105 @@
-IyAxOC4gTW9kZWxhciBkYXRvcyBlbiBQb3dlciBCSQoKTW9kZWxhciBlcyBkb25kZSBlbCBhbsOhbGlzaXMgc2UgZ2FuYSBvIHNlIHBpZXJkZS4gVW4gYnVlbiBtb2RlbG8gaGFjZSBmw6FjaWwgY2FkYQpwcmVndW50YTsgdW4gbWFsIG1vZGVsbyBoYWNlIGRlIGNhZGEgcHJlZ3VudGEgdW5hIHBlbGVhLiBFc3RlIGNhcMOtdHVsbyBtdWVzdHJhIGFsCmFzaXN0ZW50ZSBjb21vIHVuIG1vZGVsYWRvciBjdWlkYWRvc286IHVubyBxdWUgbm8gc29sbyBjb25zdHJ1eWUgZWwgbW9kZWxvLCBzaW5vIHF1ZQpsbyBkb2N1bWVudGEgeSBsbyBjb21wcnVlYmEgY29udHJhIGxhcyBidWVuYXMgcHLDoWN0aWNhcy4KCiMjIEPDs21vIHNlIHZlIHVuIGJ1ZW4gbW9kZWxvCgpDb25vY2lzdGUgZWwgZXNxdWVtYSBkZSBlc3RyZWxsYSBlbiBlbCBDYXDDrXR1bG8gOC4gRW4gUG93ZXIgQkksIHVuIGJ1ZW4gbW9kZWxvCnNpZ25pZmljYToKCi0gVW5hICoqdGFibGEgZGUgaGVjaG9zKiogbGltcGlhIChsb3MgbsO6bWVyb3M6IHZlbnRhcywgdHJhbnNhY2Npb25lcykuCi0gKipUYWJsYXMgZGUgZGltZW5zacOzbioqIG9yZGVuYWRhcyAobGFzIGRlc2NyaXBjaW9uZXM6IHByb2R1Y3RvcywgY2xpZW50ZXMsIGZlY2hhcykuCi0gKipSZWxhY2lvbmVzKiogY2FibGVhZGFzIGNvcnJlY3RhbWVudGUgKG11Y2hvcy1hLXVubywgc2luIGFtYmlnw7xlZGFkKS4KLSAqKk1lZGlkYXMqKiBjb24gbm9tYnJlcywgZm9ybWF0b3MgeSBkZXNjcmlwY2lvbmVzIGNsYXJvcy4KLSAqKkRvY3VtZW50YWNpw7NuKiogcGFyYSBxdWUgbGEgc2lndWllbnRlIHBlcnNvbmEgKG8gdMO6LCBlbiBzZWlzIG1lc2VzKSBsbyBlbnRpZW5kYS4KCkVsIGFzaXN0ZW50ZSBheXVkYSBjb24gdG9kbyBlc3RvLCBlbiB2aXZvLgoKIyMgRG9jdW1lbnRhciBzb2JyZSBsYSBtYXJjaGEKCkxvcyBidWVub3MgbW9kZWxvcyBzb24gbW9kZWxvcyBkb2N1bWVudGFkb3MuIEVsIGFzaXN0ZW50ZSBwdWVkZSBhw7FhZGlyIGRlc2NyaXBjaW9uZXMKYSB0YWJsYXMgeSBjb2x1bW5hcyBiYWpvIHBldGljacOzbjoKCj4gwqtBw7FhZGUgdW5hIGRlc2NyaXBjacOzbiBhIGxhIHRhYmxhIFNhbGVzLsK7CgohW0Rlc2NyaXBjacOzbiBkZSB0YWJsYV0oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2UwNDYucG5nKQoKPiDCq0Rlc2NyaWJlIGxhIGNvbHVtbmEgQW1vdW50LsK7CgohW0Rlc2NyaXBjacOzbiBkZSBjb2x1bW5hXSguLi8uLi9hc3NldHMvZXhhbXBsZXMvZTA0Ny5wbmcpCgpFc3RhcyBwZXF1ZcOxYXMgbm90YXMgYXBhcmVjZW4gZW4gZWwgbW9kZWxvIHkgZW4gZWwgZGljY2lvbmFyaW8gZGUgZGF0b3MuIFNvbiBsYQpkaWZlcmVuY2lhIGVudHJlIHVuIG1vZGVsbyBxdWUgZXMgdW5hIGNhamEgbmVncmEgeSB1bm8gcXVlIGVzIHVuIGFjdGl2byBjb21wYXJ0aWRvLgoKPiDCq1BvbiB1bmEgZGVzY3JpcGNpw7NuIGVuIGxhIHRhYmxhIFByb2R1Y3RzLsK7CgohW0Rlc2NyaXBjacOzbiBkZSBQcm9kdWN0c10oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2UwODAucG5nKQoKIyMgRWwgZGljY2lvbmFyaW8gZGUgZGF0b3MsIHRhYmxhIHBvciB0YWJsYQoKUHVlZGVzIGRvY3VtZW50YXIgdG9kbyBlbCBtb2RlbG8gbyB1bmEgc29sYSB0YWJsYToKCj4gwqtHZW5lcmEgdW4gZGljY2lvbmFyaW8gZGUgZGF0b3Mgc29sbyBwYXJhIFByb2R1Y3RzLsK7CgohW0RpY2Npb25hcmlvIGRlIFByb2R1Y3RzXSguLi8uLi9hc3NldHMvZXhhbXBsZXMvZTA0NS5wbmcpCgpVbiBkaWNjaW9uYXJpbyBlbmZvY2FkbyBlbiB1bmEgdGFibGE6IMO6dGlsIGN1YW5kbyBlbnRyZWdhcyB1biB0cm96byBkZWwgbW9kZWxvIGEgdW4KY29sZWdhLgoKIyMgRWwgcmVjb25vY2ltaWVudG8gbcOpZGljbzogYnVlbmFzIHByw6FjdGljYXMKCkVzdGUgZXMgdW5vIGRlIGxvcyBtb3ZpbWllbnRvcyBtw6FzIHZhbGlvc29zIGRlbCBhc2lzdGVudGUuIEVzY2FuZWEgdG9kbyBlbCBtb2RlbG8geQpyZXBvcnRhIHByb2JsZW1hcyB5IGNvbnNlam9zOgoKPiDCq0NvbXBydWViYSBlbCBtb2RlbG8gY29udHJhIGxhcyBidWVuYXMgcHLDoWN0aWNhcy7CuwoKIVtJbmZvcm1lIGRlIGJ1ZW5hcyBwcsOhY3RpY2FzXSguLi8uLi9hc3NldHMvZXhhbXBsZXMvZTA0OC5wbmcpCgpNYXJjYSBtZWRpZGFzIHNpbiBjYWRlbmEgZGUgZm9ybWF0bywgdGFibGFzIHNpbiBkZXNjcmlwY2nDs24sIHRhYmxhcyBkZXNjb25lY3RhZGFzOgpsb3MgcGVxdWXDsW9zIHBlY2Fkb3MgcXVlIGhhY2VuIHVuIG1vZGVsbyBkaWbDrWNpbCBkZSB1c2FyLiBFc3RvIGVzIGNvbW8gdW4gbGludGVyCnBhcmEgdHUgbW9kZWxvIGRlIGRhdG9zOiBubyB0ZSBpbXBpZGUgdHJhYmFqYXIsIHBlcm8gdGUgZGljZSBkw7NuZGUgZWwgbW9kZWxvIGVzdMOhCmRlc29yZGVuYWRvIGFudGVzIGRlIHF1ZSBlbCBkZXNhc3RyZSB0ZSBtdWVyZGEuCgojIyBSZXZpc2FyIHRyYXMgbG9zIGNhbWJpb3MKCk1pZW50cmFzIGNvbnN0cnV5ZXMsIGVsIG1vZGVsbyBkZXJpdmEuIFZvbHZlciBhIGNvcnJlciBsYSBjb21wcm9iYWNpw7NuIGxvIG1hbnRpZW5lCmhvbmVzdG86Cgo+IMKrQnVlbmFzIHByw6FjdGljYXMgdHJhcyBhw7FhZGlyIG1lZGlkYXMuwrsKCiFbQnVlbmFzIHByw6FjdGljYXMgdHJhcyBjYW1iaW9zXSguLi8uLi9hc3NldHMvZXhhbXBsZXMvZTA5My5wbmcpCgpVbiByZS1lc2NhbmVvIHLDoXBpZG8gbXVlc3RyYSBxdcOpIGludHJvZHVqZXJvbiB0dXMgw7psdGltb3MgY2FtYmlvcy4gQ29uc3RydWlyLApjb21wcm9iYXIsIGFycmVnbGFyLCByZXBldGlyOiBlbCByaXRtbyBkZSB1biBtb2RlbG8gbGltcGlvLgoKIyMgVW5hIGN1cmlvc2lkYWQ6IGVsIGZhY3RvciBhdXRvYsO6cwoKRW4gbG9zIGVxdWlwb3MgZGUgc29mdHdhcmUgaGF5IHVuYSBtw6l0cmljYSBsbGFtYWRhIGVsICoqZmFjdG9yIGF1dG9iw7pzKio6IGN1w6FudGFzCnBlcnNvbmFzIHRlbmRyw61hbiBxdWUgc2VyIMKrYXRhcmVhZGFzIHBvciB1biBhdXRvYsO6c8K7IGFudGVzIGRlIHF1ZSB1biBwcm95ZWN0byBzZQphdGFzcXVlIHBvcnF1ZSBzb2xvIHVuYSBwZXJzb25hIGxvIGVudGllbmRlLiBVbiBtb2RlbG8gc2luIGRvY3VtZW50YWNpw7NuIHRpZW5lIHVuCmZhY3RvciBhdXRvYsO6cyBkZSB1bm86IGF0ZXJyYWRvci4gQ2FkYSBkZXNjcmlwY2nDs24geSBlbnRyYWRhIGRlIGRpY2Npb25hcmlvIHF1ZQplc2NyaWJlIGVsIGFzaXN0ZW50ZSBzdWJlIGVzZSBuw7ptZXJvLiBObyBlc3TDoXMgc29sbyBvcmRlbmFuZG87IGVzdMOhcyBoYWNpZW5kbyBlbAptb2RlbG8gc3VwZXJ2aXZpZW50ZS4KCiMjIFBvciBxdcOpIGVsIGFzaXN0ZW50ZSBlcyB1biBidWVuIG1vZGVsYWRvcgoKVW4gbW9kZWxhZG9yIGh1bWFubyBiYWpvIHByZXNpw7NuIGRlIHBsYXpvIHNlIHNhbHRhIGxhIGRvY3VtZW50YWNpw7NuIHkgbGFzIGJ1ZW5hcwpwcsOhY3RpY2FzLiBFbCBhc2lzdGVudGUgbm8gc2UgY2Fuc2EsIG5vIHNlIHNhbHRhIHBhc29zIHkgbG8gY29tcHJ1ZWJhIHRvZG8uIFVuZSBlbApjcml0ZXJpbyBodW1hbm8gc29icmUgKnF1w6kqIG1vZGVsYXIgY29uIGxhIGRpbGlnZW5jaWEgZGVsIGFzaXN0ZW50ZSBzb2JyZQoqZG9jdW1lbnRhciB5IGNvbXByb2JhciosIHkgb2J0aWVuZXMgbW9kZWxvcyBxdWUgc2UgbWFudGllbmVuIGxpbXBpb3MuCgotLS0KCiMjIExvIHF1ZSB0ZSBsbGV2YXLDoXMgZGUgZXN0ZSBjYXDDrXR1bG8KCi0gVW4gYnVlbiBtb2RlbG86IGhlY2hvcyArIGRpbWVuc2lvbmVzIGxpbXBpb3MsIGNhYmxlYWRvIGJpZW4sIGRvY3VtZW50YWRvLgotIEHDsWFkZSBkZXNjcmlwY2lvbmVzIGEgdGFibGFzLCBjb2x1bW5hcyB5IG1lZGlkYXMgc29icmUgbGEgbWFyY2hhLgotIEdlbmVyYSBkaWNjaW9uYXJpb3MgZGUgZGF0b3MgcGFyYSBkb2N1bWVudGFyIHRvZG8gZWwgbW9kZWxvIG8gdW5hIHRhYmxhLgotIENvcnJlIGxhIGNvbXByb2JhY2nDs24gZGUgYnVlbmFzIHByw6FjdGljYXMgY29tbyB1biBsaW50ZXI6IGEgbWVudWRvLgotIExhIGRvY3VtZW50YWNpw7NuIHN1YmUgZWwgZmFjdG9yIGF1dG9iw7pzOyBoYWNlIGVsIG1vZGVsbyBzdXBlcnZpdmllbnRlLgoKU2lndWllbnRlOiBEQVgsIGVsIGxlbmd1YWplIGRldHLDoXMgZGUgbG9zIG7Dum1lcm9zLCB5IHBvciBxdcOpIG5vIHRpZW5lcyBxdWUKZXNjcmliaXJsby4K
+# 18. Modelar datos en Power BI
+
+Modelar es donde el análisis se gana o se pierde. Un buen modelo hace fácil cada
+pregunta; un mal modelo hace de cada pregunta una pelea. Este capítulo muestra al
+asistente como un modelador cuidadoso: uno que no solo construye el modelo, sino que
+lo documenta y lo comprueba contra las buenas prácticas.
+
+## Cómo se ve un buen modelo
+
+Conociste el esquema de estrella en el Capítulo 8. En Power BI, un buen modelo
+significa:
+
+- Una **tabla de hechos** limpia (los números: ventas, transacciones).
+- **Tablas de dimensión** ordenadas (las descripciones: productos, clientes, fechas).
+- **Relaciones** cableadas correctamente (muchos-a-uno, sin ambigüedad).
+- **Medidas** con nombres, formatos y descripciones claros.
+- **Documentación** para que la siguiente persona (o tú, en seis meses) lo entienda.
+
+El asistente ayuda con todo esto, en vivo.
+
+## Documentar sobre la marcha
+
+Los buenos modelos son modelos documentados. El asistente puede añadir descripciones
+a tablas y columnas bajo petición:
+
+> «Añade una descripción a la tabla Sales.»
+
+![Descripción de tabla](../../assets/examples/e046.png)
+
+> «Describe la columna Amount.»
+
+![Descripción de columna](../../assets/examples/e047.png)
+
+Estas pequeñas notas aparecen en el modelo y en el diccionario de datos. Son la
+diferencia entre un modelo que es una caja negra y uno que es un activo compartido.
+
+> «Pon una descripción en la tabla Products.»
+
+![Descripción de Products](../../assets/examples/e080.png)
+
+## El diccionario de datos, tabla por tabla
+
+Puedes documentar todo el modelo o una sola tabla:
+
+> «Genera un diccionario de datos solo para Products.»
+
+![Diccionario de Products](../../assets/examples/e045.png)
+
+Un diccionario enfocado en una tabla: útil cuando entregas un trozo del modelo a un
+colega.
+
+## El reconocimiento médico: buenas prácticas
+
+Este es uno de los movimientos más valiosos del asistente. Escanea todo el modelo y
+reporta problemas y consejos:
+
+> «Comprueba el modelo contra las buenas prácticas.»
+
+![Informe de buenas prácticas](../../assets/examples/e048.png)
+
+Marca medidas sin cadena de formato, tablas sin descripción, tablas desconectadas:
+los pequeños pecados que hacen un modelo difícil de usar. Esto es como un linter
+para tu modelo de datos: no te impide trabajar, pero te dice dónde el modelo está
+desordenado antes de que el desastre te muerda.
+
+## Revisar tras los cambios
+
+Mientras construyes, el modelo deriva. Volver a correr la comprobación lo mantiene
+honesto:
+
+> «Buenas prácticas tras añadir medidas.»
+
+![Buenas prácticas tras cambios](../../assets/examples/e093.png)
+
+Un re-escaneo rápido muestra qué introdujeron tus últimos cambios. Construir,
+comprobar, arreglar, repetir: el ritmo de un modelo limpio.
+
+## Una curiosidad: el factor autobús
+
+En los equipos de software hay una métrica llamada el **factor autobús**: cuántas
+personas tendrían que ser «atareadas por un autobús» antes de que un proyecto se
+atasque porque solo una persona lo entiende. Un modelo sin documentación tiene un
+factor autobús de uno: aterrador. Cada descripción y entrada de diccionario que
+escribe el asistente sube ese número. No estás solo ordenando; estás haciendo el
+modelo superviviente.
+
+## Por qué el asistente es un buen modelador
+
+Un modelador humano bajo presión de plazo se salta la documentación y las buenas
+prácticas. El asistente no se cansa, no se salta pasos y lo comprueba todo. Une el
+criterio humano sobre *qué* modelar con la diligencia del asistente sobre
+*documentar y comprobar*, y obtienes modelos que se mantienen limpios.
+
+---
+
+## Lo que te llevarás de este capítulo
+
+- Un buen modelo: hechos + dimensiones limpios, cableado bien, documentado.
+- Añade descripciones a tablas, columnas y medidas sobre la marcha.
+- Genera diccionarios de datos para documentar todo el modelo o una tabla.
+- Corre la comprobación de buenas prácticas como un linter: a menudo.
+- La documentación sube el factor autobús; hace el modelo superviviente.
+
+Siguiente: DAX, el lenguaje detrás de los números, y por qué no tienes que
+escribirlo.

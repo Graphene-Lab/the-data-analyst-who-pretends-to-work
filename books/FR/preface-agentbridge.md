@@ -1,1 +1,108 @@
-IyBVbmUgbm90ZSBzdXIgbCdvdXRpbCBkZXJyacOocmUgY2UgbGl2cmUKCkNlIGxpdnJlIHBhcmxlIGQndW4gbcOpdGllciA6IGwnYW5hbHlzdGUgZGUgZG9ubsOpZXMuIElsIHBhcmxlIGRlIGNlIHF1J2VzdCB2cmFpbWVudApjZSBtw6l0aWVyLCBkJ2/DuSBpbCB2aWVudCBldCBvw7kgaWwgdmEuIElsIHV0aWxpc2UgZGVzIG1vdHMgc2ltcGxlcy4gVm91cyBuJ2F2ZXogcGFzCmJlc29pbiBkJ3VuIGRpcGzDtG1lIGVuIG1hdGjDqW1hdGlxdWVzIG91IGVuIGluZm9ybWF0aXF1ZSBwb3VyIGxlIHN1aXZyZS4gU2kgdm91cwpkaXJpZ2V6IHVuZSBwZXRpdGUgZW50cmVwcmlzZSwgdGVuZXogdm91cy1tw6ptZSB2b3MgY2hpZmZyZXMsIG91IGFpbWV6IHNpbXBsZW1lbnQKY29tcHJlbmRyZSBjb21tZW50IGxlcyBjaG9zZXMgZm9uY3Rpb25uZW50LCBjZSBsaXZyZSBlc3QgcG91ciB2b3VzLgoKVm9pY2kgbGEgcGFydGllIGhvbm7DqnRlLiBDaGFxdWUgZXhlbXBsZSBxdWUgdm91cyB2ZXJyZXogZGFucyBjZSBsaXZyZSDigJQgY2hhcXVlCnRhYmxlYXUsIGNoYXF1ZSBtZXN1cmUsIGNoYXF1ZSBncmFwaGlxdWUsIGNoYXF1ZSBtb21lbnQgwqsgcmVnYXJkZXogYmllbiDCuyDigJQgYSDDqXTDqQpmYWl0IGF2ZWMgdW4gdnJhaSBvdXRpbCwgcGFzIHRhcMOpIMOgIGxhIG1haW4uIENldCBvdXRpbCwgYydlc3QgKipQb3dlckJJVG9vbCoqLCBxdWkKZm9uY3Rpb25uZSBkYW5zICoqQWdlbnRCcmlkZ2UqKi4KCiMjIFF1ZSBzb250IEFnZW50QnJpZGdlIGV0IFBvd2VyQklUb29sID8KCioqQWdlbnRCcmlkZ2UqKiBlc3QgdW4gYXNzaXN0YW50IGQnSUEgcXVpIHRvdXJuZSBzdXIgdm90cmUgcHJvcHJlIG9yZGluYXRldXIuIFZvdXMKbHVpIHBhcmxleiBjb21tZSB2b3VzIHBhcmxlcmlleiDDoCB1biBjb2xsw6hndWUgOiBlbiBwaHJhc2VzIG9yZGluYWlyZXMuIElsIMOpY291dGUsCmlsIHLDqWZsw6ljaGl0LCBldCBpbCBmYWl0IGxlIHRyYXZhaWwuCgoqKlBvd2VyQklUb29sKiogZXN0IHVuIHBsdWdpbiBxdWkgZG9ubmUgw6AgQWdlbnRCcmlkZ2UgZGVzIG1haW5zIGRhbnMKKipNaWNyb3NvZnQgUG93ZXIgQkkgRGVza3RvcCoqIOKAlCBsZSBwcm9ncmFtbWUgcG9wdWxhaXJlIHF1J29uIHV0aWxpc2UgcG91ciBjcsOpZXIKdGFibGVhdXggZGUgYm9yZCBldCByYXBwb3J0cy4gQXZlYyBQb3dlckJJVG9vbCwgbCdhc3Npc3RhbnQgcGV1dCBvdXZyaXIgdm90cmUKbW9kw6hsZSBkZSBkb25uw6llcywgYWpvdXRlciBkZXMgdGFibGVzLCBjcsOpZXIgZGVzIG1lc3VyZXMsIHJlbGllciBkZXMgdGFibGVzIGVudHJlCmVsbGVzLCBleMOpY3V0ZXIgZGVzIHJlcXXDqnRlcywgdsOpcmlmaWVyIHZvdHJlIHRyYXZhaWwgZXQgZmFpcmUgdW5lIGNhcHR1cmUgZCfDqWNyYW4KZGUgY2UgcXUnaWwgYSBwcm9kdWl0IOKAlCBwZW5kYW50IHF1ZSB2b3VzIGxlIHZveWV6IHNlIGTDqXJvdWxlciBzdXIgdm90cmUgcHJvcHJlCsOpY3Jhbi4KClBhcyBkZSBjbG91ZC4gUGFzIGQnZW52b2kgZGVzIGRvbm7DqWVzIGRlIHZvdHJlIGVudHJlcHJpc2Ugc3VyIGxlIHNlcnZldXIgZCd1bgppbmNvbm51LiDDh2EgZm9uY3Rpb25uZSBhdmVjIGxlIFBvd2VyIEJJIERlc2t0b3AgZMOpasOgIGluc3RhbGzDqSBzdXIgdm90cmUgbWFjaGluZS4KCmBgYApZb3UgIOKGkiAgQWdlbnRCcmlkZ2UgIOKGkiAgUG93ZXJCSVRvb2wgIOKGkiAgeW91ciBQb3dlciBCSSBEZXNrdG9wIChvbiB5b3VyIFBDKQpgYGAKCiMjIENvbW1lbnQgbCdvYnRlbmlyIChjJ2VzdCBncmF0dWl0KQoKUG93ZXJCSVRvb2wgZXN0IGdyYXR1aXQgZXQgb3V2ZXJ0LiBQb3VyIGwnZXNzYXllciB2b3VzLW3Dqm1lIDoKCjEuIEluc3RhbGxleiAqKkFnZW50QnJpZGdlKiogKGdyYXR1aXQpIGRlcHVpcyBsYSBwYWdlIEdpdEh1YiBjaS1kZXNzb3VzLgoyLiBBam91dGV6LWx1aSBsZSBwbHVnaW4gKipQb3dlckJJVG9vbCoqLgozLiBPdXZyZXogdW4gcmFwcG9ydCBkYW5zICoqUG93ZXIgQkkgRGVza3RvcCoqLgo0LiBNZXR0ZXotdm91cyDDoCBwYXJsZXIgw6Agdm90cmUgYXNzaXN0YW50LgoKU2Nhbm5leiBjZSBjb2RlIGF2ZWMgbCdhcHBhcmVpbCBwaG90byBkZSB2b3RyZSB0w6lsw6lwaG9uZSBwb3VyIG91dnJpciBsYSBwYWdlClBvd2VyQklUb29sLCBvw7kgdm91cyB0cm91dmVyZXogbGUgdMOpbMOpY2hhcmdlbWVudCBldCBkZXMgaW5zdHJ1Y3Rpb25zCmQnaW5zdGFsbGF0aW9uIHNpbXBsZXMsIMOpdGFwZSBwYXIgw6l0YXBlIDoKCiFbUG93ZXJCSVRvb2wgc3VyIEdpdEh1Yl0oLi4vLi4vYXNzZXRzL3FyLXBvd2VyYml0b29sLXJlcG8ucG5nKQoKKipnaXRodWIuY29tL0dyYXBoZW5lLUxhYi9Qb3dlckJJVG9vbCoqCgpWb3VzIHBvdXZleiBhdXNzaSBzaW1wbGVtZW50IHRhcGVyIGNldHRlIGFkcmVzc2UgZGFucyB1biBuYXZpZ2F0ZXVyLgoKIyMgQmxvcXXDqSA/IERlIHZyYWllcyBwZXJzb25uZXMgcsOpcG9uZGVudCBlbiAyNCBoZXVyZXMg4oCUIGdyYXR1aXRlbWVudAoKVm9pY2kgdW5lIGNob3NlIGRvbnQgbm91cyBzb21tZXMgZmllcnMuIFBvd2VyQklUb29sIGVzdCBncmF0dWl0LCBldCBsJ2FpZGUgcXVpCmwnYWNjb21wYWduZSBhdXNzaS4gU2kgcXVlbHF1ZSBjaG9zZSBuZSBtYXJjaGUgcGFzLCBzaSB2b3VzIHZvdWxleiB1bmUgZm9uY3Rpb25uYWxpdMOpLApvdSBzaSB2b3VzIGF2ZXogc2ltcGxlbWVudCB0cm91dsOpIHVuIGJ1Zywgdm91cyBvdXZyZXogdW5lICoqaXNzdWUqKiBzdXIgbGEgbcOqbWUgcGFnZQpHaXRIdWIgZXQgbm9zIHRlY2huaWNpZW5zIHLDqXBvbmRlbnQg4oCUIGfDqW7DqXJhbGVtZW50IGVuICoqMjQgaGV1cmVzKiosIGV0IGF2ZWMgdW4gdnJhaQpjb3JyZWN0aWYsIHBhcyB1bmUgcsOpcG9uc2UgdHlwZS4KClNjYW5uZXogY2UgY29kZSBwb3VyIGF0dGVpbmRyZSBsYSBwYWdlIGRlcyBpc3N1ZXMgZXQgdm9pciBjb21tZW50IMOnYSBtYXJjaGUgOgoKIVtTaWduYWxlciB1biBwcm9ibMOobWUgw6AgUG93ZXJCSVRvb2xdKC4uLy4uL2Fzc2V0cy9xci1wb3dlcmJpdG9vbC1pc3N1ZXMucG5nKQoKKipnaXRodWIuY29tL0dyYXBoZW5lLUxhYi9Qb3dlckJJVG9vbC9pc3N1ZXMqKgoKQydlc3QgdG91dGUgbGEgcHJvbWVzc2UgOiB1biBvdXRpbCBncmF0dWl0LCB1bmUgYWlkZSBncmF0dWl0ZSwgZGUgdnJhaWVzIHBlcnNvbm5lcywKZGVzIHLDqXBvbnNlcyByYXBpZGVzLgoKIyMgQ29tbWVudCBsaXJlIGNlIGxpdnJlCgpWb3VzIG4nYXZleiByaWVuIMOgIGluc3RhbGxlciBwb3VyIHByb2ZpdGVyIGRlIGNlIGxpdnJlLiBMaXNlei1sZSBjb21tZSB1bmUgaGlzdG9pcmUKc2kgdm91cyB2b3VsZXouIE1haXMgc2kgdm91cyBzb3VoYWl0ZXogZXNzYXllciBsZXMgY2hvc2VzIGF1IGZpbCBkZSBsYSBsZWN0dXJlIOKAlCBldApub3VzIGwnZXNww6lyb25zIOKAlCBjaGFxdWUgZXhlbXBsZSBwcmF0aXF1ZSBtb250cmUgZGV1eCBjaG9zZXMgOgoKLSAqKkNlIHF1J3VuZSBwZXJzb25uZSBhIHRhcMOpKiogw6AgbCdhc3Npc3RhbnQgKHVuZSBvdSBkZXV4IHBocmFzZXMgb3JkaW5haXJlcykuCi0gKipDZSBxdWkgZXN0IHJldmVudSoqIChsZSB2cmFpIHLDqXN1bHRhdCwgZHUgdnJhaSBvdXRpbCkuCgpMZXMgaW1hZ2VzIGRlIGNlIGxpdnJlIG1vbnRyZW50IGNldCDDqWNoYW5nZSA6IGxhIHF1ZXN0aW9uIMOgIGRyb2l0ZSwgbGEgcsOpcG9uc2UgZGUKUG93ZXJCSVRvb2wgw6AgZ2F1Y2hlLCBleGFjdGVtZW50IHRlbGxlIHF1J2VsbGUgYXBwYXJhw650IGRhbnMgQWdlbnRCcmlkZ2UuCgojIyDDgCBwcm9wb3MgZGVzIGltYWdlcyBkZSBjZSBsaXZyZQoKVm91cyB2ZXJyZXogZGV1eCB0eXBlcyBkJ2ltYWdlcy4KCioqTGVzIHBhbm5lYXV4IGRlIGNoYXQqKiBtb250cmVudCBsJ8OpY2hhbmdlIGx1aS1tw6ptZSA6IGNlIHF1J3VuZSBwZXJzb25uZSBhIHRhcMOpLApldCBsZSB2cmFpIHLDqXN1bHRhdCBxdWUgUG93ZXJCSVRvb2wgYSByZW52b3nDqSBkdSBtb2TDqGxlIGVuIGRpcmVjdC4KCioqTGVzIGltYWdlcyBkZSBncmFwaGlxdWVzKiogbW9udHJlbnQgY2VzIG3Dqm1lcyBkb25uw6llcyByw6llbGxlcyAqdmlzdWFsaXPDqWVzKiDigJQgZGVzCmdyYXBoaXF1ZXMgZW4gYmFycmVzLCBlbiBjb3VyYmVzIGV0IGVuIGFubmVhdXggZGVzc2luw6lzIMOgIHBhcnRpciBkZXMgdnJhaXMgY2hpZmZyZXMKcmVudm95w6lzIHBhciBsJ291dGlsICh2ZW50ZXMgcGFyIGNhdMOpZ29yaWUsIG1laWxsZXVycyBjbGllbnRzLCB0ZW5kYW5jZSBtZW5zdWVsbGUsCmV0Yy4pLiBDZSBzb250IGRlcyB2aXN1YWxpc2F0aW9ucyByZW5kdWVzIMOgIHBhcnRpciBkZSBsYSB2cmFpZSBzb3J0aWUgY2FwdHVyw6llLCBwb3VyCnF1ZSB2b3VzIHB1aXNzaWV6IHZvaXIgbGVzIGRvbm7DqWVzIGVuIGltYWdlLCBwYXMgc2V1bGVtZW50IGVuIHRleHRlLgoKVW5lIG5vdGUgaG9ubsOqdGUgc3VyIFBvd2VyIEJJIERlc2t0b3AgbHVpLW3Dqm1lLiBQb3dlciBCSSBhZmZpY2hlIGNlcyBtw6ptZXMgZG9ubsOpZXMKc3VyIHNvbiBwcm9wcmUgY2FuZXZhcyBkZSByYXBwb3J0LCBldCBsJ291dGlsIHBldXQgY2FwdHVyZXIgY2UgY2FuZXZhcyBlbiBQTkcKKGBDYXB0dXJlUmVwb3J0U2NyZWVuc2hvdGAsIHZpYSBsZSBQb3dlciBCSSBEZXNrdG9wIEJyaWRnZSkuIENldHRlIGNhcHR1cmUgZXhpZ2UgdW4KcmFwcG9ydCBhdmVjIGRlcyB2aXN1ZWxzIGTDqWrDoCBjb25zdHJ1aXRzIGRhbnMgbGEgZmVuw6p0cmUgUG93ZXIgQkkgRGVza3RvcC4gQ2UgbGl2cmUgYQrDqXTDqSBwcm9kdWl0IGRhbnMgdW4gZW52aXJvbm5lbWVudCBzYW5zIHJhcHBvcnQgY29uc3RydWl0IGRhbnMgbCdpbnRlcmZhY2UgZ3JhcGhpcXVlLAphbG9ycyBsZXMgaW1hZ2VzIGRlIGdyYXBoaXF1ZXMgaWNpIHNvbnQgcmVuZHVlcyDDoCBwYXJ0aXIgZGVzIHZyYWllcyBkb25uw6llcyBwbHV0w7R0CnF1ZSBjYXB0dXLDqWVzIMOgIGwnw6ljcmFuIGRlcHVpcyBQb3dlciBCSS4gTGEgcHJvY8OpZHVyZSBwb3VyIGNhcHR1cmVyIGRlIHZyYWllcyBjYXB0dXJlcwpkJ8OpY3JhbiBkZSBQb3dlciBCSSBEZXNrdG9wIGVzdCBmb3VybmllIGF2ZWMgbCdvdXRpbCwgZXQgdm91cyBwb3V2ZXogZMOpcG9zZXIgY2VzCmNhcHR1cmVzIGRpcmVjdGVtZW50IGF1eCBtw6ptZXMgZW5kcm9pdHMuCgpDb21tZW7Dp29ucyBwYXIgbGUgbcOpdGllciBsdWktbcOqbWUuCgoq4oCUIEdyYXBoZW5lIExhYioK
+# Une note sur l'outil derrière ce livre
+
+Ce livre parle d'un métier : l'analyste de données. Il parle de ce qu'est vraiment
+ce métier, d'où il vient et où il va. Il utilise des mots simples. Vous n'avez pas
+besoin d'un diplôme en mathématiques ou en informatique pour le suivre. Si vous
+dirigez une petite entreprise, tenez vous-même vos chiffres, ou aimez simplement
+comprendre comment les choses fonctionnent, ce livre est pour vous.
+
+Voici la partie honnête. Chaque exemple que vous verrez dans ce livre — chaque
+tableau, chaque mesure, chaque graphique, chaque moment « regardez bien » — a été
+fait avec un vrai outil, pas tapé à la main. Cet outil, c'est **PowerBITool**, qui
+fonctionne dans **AgentBridge**.
+
+## Que sont AgentBridge et PowerBITool ?
+
+**AgentBridge** est un assistant d'IA qui tourne sur votre propre ordinateur. Vous
+lui parlez comme vous parleriez à un collègue : en phrases ordinaires. Il écoute,
+il réfléchit, et il fait le travail.
+
+**PowerBITool** est un plugin qui donne à AgentBridge des mains dans
+**Microsoft Power BI Desktop** — le programme populaire qu'on utilise pour créer
+tableaux de bord et rapports. Avec PowerBITool, l'assistant peut ouvrir votre
+modèle de données, ajouter des tables, créer des mesures, relier des tables entre
+elles, exécuter des requêtes, vérifier votre travail et faire une capture d'écran
+de ce qu'il a produit — pendant que vous le voyez se dérouler sur votre propre
+écran.
+
+Pas de cloud. Pas d'envoi des données de votre entreprise sur le serveur d'un
+inconnu. Ça fonctionne avec le Power BI Desktop déjà installé sur votre machine.
+
+```
+You  →  AgentBridge  →  PowerBITool  →  your Power BI Desktop (on your PC)
+```
+
+## Comment l'obtenir (c'est gratuit)
+
+PowerBITool est gratuit et ouvert. Pour l'essayer vous-même :
+
+1. Installez **AgentBridge** (gratuit) depuis la page GitHub ci-dessous.
+2. Ajoutez-lui le plugin **PowerBITool**.
+3. Ouvrez un rapport dans **Power BI Desktop**.
+4. Mettez-vous à parler à votre assistant.
+
+Scannez ce code avec l'appareil photo de votre téléphone pour ouvrir la page
+PowerBITool, où vous trouverez le téléchargement et des instructions
+d'installation simples, étape par étape :
+
+![PowerBITool sur GitHub](../../assets/qr-powerbitool-repo.png)
+
+**github.com/Graphene-Lab/PowerBITool**
+
+Vous pouvez aussi simplement taper cette adresse dans un navigateur.
+
+## Bloqué ? De vraies personnes répondent en 24 heures — gratuitement
+
+Voici une chose dont nous sommes fiers. PowerBITool est gratuit, et l'aide qui
+l'accompagne aussi. Si quelque chose ne marche pas, si vous voulez une fonctionnalité,
+ou si vous avez simplement trouvé un bug, vous ouvrez une **issue** sur la même page
+GitHub et nos techniciens répondent — généralement en **24 heures**, et avec un vrai
+correctif, pas une réponse type.
+
+Scannez ce code pour atteindre la page des issues et voir comment ça marche :
+
+![Signaler un problème à PowerBITool](../../assets/qr-powerbitool-issues.png)
+
+**github.com/Graphene-Lab/PowerBITool/issues**
+
+C'est toute la promesse : un outil gratuit, une aide gratuite, de vraies personnes,
+des réponses rapides.
+
+## Comment lire ce livre
+
+Vous n'avez rien à installer pour profiter de ce livre. Lisez-le comme une histoire
+si vous voulez. Mais si vous souhaitez essayer les choses au fil de la lecture — et
+nous l'espérons — chaque exemple pratique montre deux choses :
+
+- **Ce qu'une personne a tapé** à l'assistant (une ou deux phrases ordinaires).
+- **Ce qui est revenu** (le vrai résultat, du vrai outil).
+
+Les images de ce livre montrent cet échange : la question à droite, la réponse de
+PowerBITool à gauche, exactement telle qu'elle apparaît dans AgentBridge.
+
+## À propos des images de ce livre
+
+Vous verrez deux types d'images.
+
+**Les panneaux de chat** montrent l'échange lui-même : ce qu'une personne a tapé,
+et le vrai résultat que PowerBITool a renvoyé du modèle en direct.
+
+**Les images de graphiques** montrent ces mêmes données réelles *visualisées* — des
+graphiques en barres, en courbes et en anneaux dessinés à partir des vrais chiffres
+renvoyés par l'outil (ventes par catégorie, meilleurs clients, tendance mensuelle,
+etc.). Ce sont des visualisations rendues à partir de la vraie sortie capturée, pour
+que vous puissiez voir les données en image, pas seulement en texte.
+
+Une note honnête sur Power BI Desktop lui-même. Power BI affiche ces mêmes données
+sur son propre canevas de rapport, et l'outil peut capturer ce canevas en PNG
+(`CaptureReportScreenshot`, via le Power BI Desktop Bridge). Cette capture exige un
+rapport avec des visuels déjà construits dans la fenêtre Power BI Desktop. Ce livre a
+été produit dans un environnement sans rapport construit dans l'interface graphique,
+alors les images de graphiques ici sont rendues à partir des vraies données plutôt
+que capturées à l'écran depuis Power BI. La procédure pour capturer de vraies captures
+d'écran de Power BI Desktop est fournie avec l'outil, et vous pouvez déposer ces
+captures directement aux mêmes endroits.
+
+Commençons par le métier lui-même.
+
+*— Graphene Lab*

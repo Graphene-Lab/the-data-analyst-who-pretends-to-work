@@ -1,1 +1,115 @@
-IyBEYXRpIHNwb3JjaGkgZSBjb21lIHB1bGlybGkKCkVjY28gdW5hIHZlcml0w6AgY2hlIG5lc3N1bm8gbWV0dGUgbmVsbGEgZGVzY3JpemlvbmUgZGVsIGxhdm9ybzogKipsYSBtYWdnaW9yIHBhcnRlCmRlbCB0ZW1wbyBkaSB1biBhbmFsaXN0YSBzZXJ2ZSBhIHB1bGlyZSBpIGRhdGkuKiogSSBkYXRpIGRlbCBtb25kbyByZWFsZSBzb25vCmRpc29yZGluYXRpOiBjb24gZXJyb3JpIGRpIG9ydG9ncmFmaWEsIGR1cGxpY2F0aSwgbWFuY2FudGksIGluY29lcmVudGkuIFNwYXp6YXR1cmEKZW50cmEsIHNwYXp6YXR1cmEgZXNjZS4gUHJpbWEgZGkgcG90ZXIgdHJvdmFyZSB1bmEgcXVhbHNpYXNpIHZlcml0w6AsIGRldmkgc3BhenphcmUKaWwgcGF2aW1lbnRvLgoKIyMgSWwgc29saXRvIHBhc3RpY2NpbwoKT2duaSBhbmFsaXN0YSBpbmNvbnRyYSBsYSBzdGVzc2EgY29tcGFnbmlhIGRpIHByb2JsZW1pOgoKLSAqKlRlc3RvIGluY29lcmVudGUqKiDigJQgIk1pbGFubyIsICJtaWxhbm8iLCAiTUlMQU5PIiwgIk1pbGFubyAiLiBRdWF0dHJvCiAgdmFsb3JpLCB1bmEgY2l0dMOgLgotICoqRm9ybWF0aSBtaXN0aSoqIOKAlCBkYXRlIGNvbWUgMDMvMDQvMjAyNSBlIDIwMjUtMDQtMDMgbmVsbGEgc3Rlc3NhIGNvbG9ubmEuCi0gKipWYWxvcmkgbWFuY2FudGkqKiDigJQgY2l0dMOgIHZ1b3RlLCBjYXRlZ29yaWUgdnVvdGUsIG5lc3N1biBudW1lcm8gZGkgdGVsZWZvbm8uCi0gKipEdXBsaWNhdGkqKiDigJQgbG8gc3Rlc3NvIGNsaWVudGUgZHVlIHZvbHRlIGNvbiBkdWUgZW1haWwuCi0gKipUaXBpIHNiYWdsaWF0aSoqIOKAlCB1biBudW1lcm8gc2FsdmF0byBjb21lIHRlc3RvLCBxdWluZGkgbm9uIHNpIHNvbW1hLgotICoqVmFsb3JpIGZ1b3JpIHBvc3RvKiog4oCUIHVuYSB2ZW5kaXRhIG5lZ2F0aXZhIGNoZSDDqCBpbiByZWFsdMOgIHVuIHJpbWJvcnNvLgoKTmVzc3VubyBkaSBxdWVzdGkgw6ggZHJhbW1hdGljby4gVHV0dGkgcXVhbnRpIHJvdmluZXJhbm5vIGluIHNpbGVuemlvIHVuJ2FuYWxpc2kgc2UKbGkgaWdub3JpLgoKIyMgUHVsaXJlIGNvbiBjb2xvbm5lIGNhbGNvbGF0ZQoKSW4gUG93ZXIgQkksIG1vbHRhIGRlbGxhIHB1bGl6aWEgc2kgZmEgY29uICoqY29sb25uZSBjYWxjb2xhdGUqKjogbnVvdmUgY29sb25uZSBjaGUKY3JlaSBjb24gdW5hIGZvcm11bGEgY2hlIHNpc3RlbWEgbyBzdGFuZGFyZGl6emEgaSBkYXRpIGVzaXN0ZW50aS4gw4ggZXNhdHRhbWVudGUKcXVpIGNoZSBsJ2Fzc2lzdGVudGUgYnJpbGxhOiBkZXNjcml2aSBsYSBjb3JyZXppb25lIGEgcGFyb2xlLCBsdWkgc2NyaXZlIGxhIGZvcm11bGEKZSBsYSBhcHBsaWNhIGluIGRpcmV0dGEuCgoqKlN0YW5kYXJkaXp6YSBpbCB0ZXN0by4qKiBVbmEgcGVyc29uYSBoYSBjaGllc3RvOgoKPiAiQWdnaXVuZ2kgdW5hIGNvbG9ubmEgY29uIGxhIGNhdGVnb3JpYSBpbiBsZXR0ZXJlIG1haXVzY29sZS4iCgohW0NhdGVnb3JpYSBpbiBtYWl1c2NvbG9dKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9lMDExLnBuZykKCk9yYSAia2l0Y2hlbiIsICJLaXRjaGVuIiBlICJLSVRDSEVOIiBkaXZlbnRhbm8gdHV0dGkgIktJVENIRU4iIGUgc2kgcmFnZ3J1cHBhbm8uClVuYSBwaWNjb2xhIGNvbG9ubmEsIHVuJ2ludGVyYSBjbGFzc2UgZGkgcHJvYmxlbWkgc3Bhcml0YS4KCioqVHJhc2Zvcm1hIHVuIG51bWVybyBpbiB1bmEgZmFzY2lhIHV0aWxpenphYmlsZS4qKgoKPiAiUmFnZ3J1cHBhIGkgcHJvZG90dGkgaW4gQWx0byAvIE1lZGlvIC8gQmFzc28gcGVyIHByZXp6by4iCgohW0Zhc2NpYSBkaSBwcmV6em9dKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9lMDEyLnBuZykKClVuIHByZXp6byBncmV6em8gZGkgMjQ5IOKCrCDDqCBkaWZmaWNpbGUgZGEgcmFnZ3J1cHBhcmUuIFVuYSBmYXNjaWEgIkFsdG8iIMOoIGZhY2lsZQpkYSBtZXR0ZXJlIGluIGdyYWZpY28gZSBmYWNpbGUgZGkgY3VpIHBhcmxhcmUuIFF1ZXN0byDDqCB1bm8gZGVpIHRydWNjaGkgcGnDuSB1dGlsaQpkZWxsJ2FuYWxpc2k6IHRyYXNmb3JtYXJlIHVuIG51bWVybyBjb250aW51byBpbiB1bmEgY2F0ZWdvcmlhIGFtaWNhLgoKRWQgZWNjbyBjb3NhIHRpIGNvbXByYSBxdWVsbGEgZmFzY2lhOiB2ZW5kaXRlIHJhZ2dydXBwYXRlIGUgdHJhY2NpYXRlIHBlciBmYXNjaWEgZGkKcHJlenpvOgoKIVtWZW5kaXRlIHBlciBmYXNjaWEgZGkgcHJlenpvIOKAlCBncmFmaWNvIGEgYmFycmVdKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9jaGFydC1wcmljZWJhbmQucG5nKQoKKipDb21iaW5hIGNhbXBpIGluIHVuJ2V0aWNoZXR0YS4qKgoKPiAiQ3JlYSB1bidldGljaGV0dGEgY2xpZW50ZSB0aXBvICdOb21lIChDaXR0w6ApJy4iCgohW0V0aWNoZXR0YSBjbGllbnRlXSguLi8uLi9hc3NldHMvZXhhbXBsZXMvZTAxMy5wbmcpCgpPcmEgb2duaSBjbGllbnRlIGhhIHVuJ3VuaWNhIGV0aWNoZXR0YSBkaSB2aXN1YWxpenphemlvbmUgcHVsaXRhLCBjb3N0cnVpdGEgZGEgZHVlCmNvbG9ubmUsIHNlbnphIGNoZSBuZXNzdW5vIGRpZ2l0aSBudWxsYS4KCiMjIENvbnRyb2xsYSBwcmltYSBkaSBpbXBlZ25hcnRpCgpVbmEgYnVvbmEgYWJpdHVkaW5lOiAqKnZhbGlkYSBsYSBmb3JtdWxhIHByaW1hIGRpIHNhbHZhcmxhLioqIEwnYXNzaXN0ZW50ZSBwdcOyCnRlc3RhcmUgdW5hIGZvcm11bGEgZSBtb3N0cmFydGkgdW4gdmFsb3JlIGRpIGVzZW1waW8sIGNvc8OsIHNhaSBjaGUgZnVuemlvbmEgcHJpbWEKY2hlIGRpdmVudGkgcGFydGUgZGVsIG1vZGVsbG8uCgo+ICJDb250cm9sbGEgcXVlc3RhIGZvcm11bGEgZGVsbGEgZmFzY2lhIGRpIHByZXp6byBwcmltYSBjaGUgbGEgc2FsdmkuIgoKIVtWYWxpZGF6aW9uZSBkZWxsYSBmYXNjaWEgZGkgcHJlenpvXSguLi8uLi9hc3NldHMvZXhhbXBsZXMvZTAxNC5wbmcpCgpSZXN0aXR1aXNjZSAiVmFsaWQiIGNvbiB1biB2YWxvcmUgZGkgZXNlbXBpby4gTmllbnRlIHNvcnByZXNlIGRvcG8uCgojIyBDYWNjaWEgYWkgdnVvdGkKCkkgdmFsb3JpIG1hbmNhbnRpIHNvbm8ga2lsbGVyIHNpbGVuemlvc2kuIFVuYSBjaXR0w6AgdnVvdGEgc2lnbmlmaWNhIGNoZSB1biBjbGllbnRlCnNjb21wYXJlIGRhIG9nbmkgbWFwcGEuIEwnYXNzaXN0ZW50ZSBwdcOyIGRhciBsb3JvIGxhIGNhY2NpYToKCj4gIkNpIHNvbm8gY2l0dMOgIHZ1b3RlIG5lbGwnZWxlbmNvIGNsaWVudGk/IgoKIVtDb250cm9sbG8gY2l0dMOgIHZ1b3RlXSguLi8uLi9hc3NldHMvZXhhbXBsZXMvZTA3Mi5wbmcpCgpTZSBpbCByaXN1bHRhdG8gw6ggdnVvdG8sIHNlaSBhIHBvc3RvLiBTZSBubywgc2FpIGVzYXR0YW1lbnRlIGRvdmUgc29ubyBpIGJ1Y2hpCnByaW1hIGNoZSB0cmFnZ2FubyBpbiBpbmdhbm5vIHVuIGdyYWZpY28uCgojIyBVbmEgY3VyaW9zaXTDoDogbCc4MC8yMCBkZWwgbGF2b3JvCgpDaGllZGkgYSB1biBhbmFsaXN0YSBlc3BlcnRvIGNvbWUgc2kgZGl2aWRlIGlsIHN1byB0ZW1wbyBlIHNlbnRpcmFpIHVuYSB2ZXJzaW9uZQpkZWxsYSBzdGVzc2EgYmF0dHV0YTogKipsJzgwJSBkZWxsYSBkYXRhIHNjaWVuY2Ugw6ggcHVsaXJlIGkgZGF0aSwgZSBsJ2FsdHJvIDIwJSDDqApsYW1lbnRhcnNpIGRpIHB1bGlyZSBpIGRhdGkuKiogw4ggdW4gbHVvZ28gY29tdW5lIHBlcmNow6kgw6ggdmVyby4gR2xpIGFuYWxpc3RpIGJyYXZpCmEgcHVsaXJlIHZhbGdvbm8gb3JvOiBwZXJjaMOpIHVuIG1vZGVsbG8gYmVsbGlzc2ltbyBjb3N0cnVpdG8gc3UgZGF0aSBzcG9yY2hpIMOoIHVuCmJlbGxpc3NpbW8gbW9kbyBkaSBzYmFnbGlhcmUuCgojIyBRdWFuZG8gcHVsaXJlIG5vbiBiYXN0YSBtYWkKCkEgdm9sdGUgaSBkYXRpIHNvbm8gdHJvcHBvIGNvbXByb21lc3NpOiBtYW5jYSBpbCA0MCUgZGkgdW4gY2FtcG8gY2hpYXZlLCBvIGR1ZQpzaXN0ZW1pIGNoZSBzZW1wbGljZW1lbnRlIG5vbiBzb25vIGQnYWNjb3Jkby4gVW4gYnVvbiBhbmFsaXN0YSBzYSBxdWFuZG8gc21ldHRlcmUKZGkgcHVsaXJlIGUgcGFzc2FyZSBsYSBwYWxsYTogKnNpc3RlbWEgcXVlc3RvIGFsbGEgZm9udGUqLCBvcHB1cmUgKnJhY2NvZ2xpIGRhdGkKbWlnbGlvcmkgbGEgcHJvc3NpbWEgdm9sdGEqLiBQdWxpcmUgw6ggdW5vIHN0cnVtZW50bywgbm9uIHVuYSByZWxpZ2lvbmUuCgotLS0KCiMjIENvc2EgdGkgcG9ydGkgYSBjYXNhIGRhIHF1ZXN0byBjYXBpdG9sbwoKLSBJIGRhdGkgcmVhbGkgc29ubyBzcG9yY2hpOyBwdWxpcmUgw6ggbGEgbWFnZ2lvciBwYXJ0ZSBkZWwgbGF2b3JvLgotIExlIGNvbG9ubmUgY2FsY29sYXRlIHNpc3RlbWFubyBpbCB0ZXN0bywgbWV0dG9ubyBpbiBmYXNjZSBpIG51bWVyaSBlIGNyZWFubwogIGV0aWNoZXR0ZSBpbiBwb2NoaSBzZWNvbmRpLgotIFZhbGlkYSB1bmEgZm9ybXVsYSBwcmltYSBkaSBpbXBlZ25hcmxhLgotIERhaSBsYSBjYWNjaWEgYWkgdnVvdGkgcHJpbWEgY2hlIHRyYWdnYW5vIGluIGluZ2Fubm8gdW4gZ3JhZmljby4KLSBTYXBwaSBxdWFuZG8gc21ldHRlcmUgZGkgcHVsaXJlIGUgc2lzdGVtYXJlIGxhIGZvbnRlLgoKUHJvc3NpbW86IGNvbWUgc2kgY29sbGVnYW5vIGkgcGV6emkgZGkgZGF0aTogdGFiZWxsZSwgY2hpYXZpIGUgcmVsYXppb25pLCBpbApjYWJsYWdnaW8gY2hlIHJlbmRlIHBvc3NpYmlsZSBsJ2FuYWxpc2kuCg==
+# Dati sporchi e come pulirli
+
+Ecco una verità che nessuno mette nella descrizione del lavoro: **la maggior parte
+del tempo di un analista serve a pulire i dati.** I dati del mondo reale sono
+disordinati: con errori di ortografia, duplicati, mancanti, incoerenti. Spazzatura
+entra, spazzatura esce. Prima di poter trovare una qualsiasi verità, devi spazzare
+il pavimento.
+
+## Il solito pasticcio
+
+Ogni analista incontra la stessa compagnia di problemi:
+
+- **Testo incoerente** — "Milano", "milano", "MILANO", "Milano ". Quattro
+  valori, una città.
+- **Formati misti** — date come 03/04/2025 e 2025-04-03 nella stessa colonna.
+- **Valori mancanti** — città vuote, categorie vuote, nessun numero di telefono.
+- **Duplicati** — lo stesso cliente due volte con due email.
+- **Tipi sbagliati** — un numero salvato come testo, quindi non si somma.
+- **Valori fuori posto** — una vendita negativa che è in realtà un rimborso.
+
+Nessuno di questi è drammatico. Tutti quanti rovineranno in silenzio un'analisi se
+li ignori.
+
+## Pulire con colonne calcolate
+
+In Power BI, molta della pulizia si fa con **colonne calcolate**: nuove colonne che
+crei con una formula che sistema o standardizza i dati esistenti. È esattamente
+qui che l'assistente brilla: descrivi la correzione a parole, lui scrive la formula
+e la applica in diretta.
+
+**Standardizza il testo.** Una persona ha chiesto:
+
+> "Aggiungi una colonna con la categoria in lettere maiuscole."
+
+![Categoria in maiuscolo](../../assets/examples/e011.png)
+
+Ora "kitchen", "Kitchen" e "KITCHEN" diventano tutti "KITCHEN" e si raggruppano.
+Una piccola colonna, un'intera classe di problemi sparita.
+
+**Trasforma un numero in una fascia utilizzabile.**
+
+> "Raggruppa i prodotti in Alto / Medio / Basso per prezzo."
+
+![Fascia di prezzo](../../assets/examples/e012.png)
+
+Un prezzo grezzo di 249 € è difficile da raggruppare. Una fascia "Alto" è facile
+da mettere in grafico e facile di cui parlare. Questo è uno dei trucchi più utili
+dell'analisi: trasformare un numero continuo in una categoria amica.
+
+Ed ecco cosa ti compra quella fascia: vendite raggruppate e tracciate per fascia di
+prezzo:
+
+![Vendite per fascia di prezzo — grafico a barre](../../assets/examples/chart-priceband.png)
+
+**Combina campi in un'etichetta.**
+
+> "Crea un'etichetta cliente tipo 'Nome (Città)'."
+
+![Etichetta cliente](../../assets/examples/e013.png)
+
+Ora ogni cliente ha un'unica etichetta di visualizzazione pulita, costruita da due
+colonne, senza che nessuno digiti nulla.
+
+## Controlla prima di impegnarti
+
+Una buona abitudine: **valida la formula prima di salvarla.** L'assistente può
+testare una formula e mostrarti un valore di esempio, così sai che funziona prima
+che diventi parte del modello.
+
+> "Controlla questa formula della fascia di prezzo prima che la salvi."
+
+![Validazione della fascia di prezzo](../../assets/examples/e014.png)
+
+Restituisce "Valid" con un valore di esempio. Niente sorprese dopo.
+
+## Caccia ai vuoti
+
+I valori mancanti sono killer silenziosi. Una città vuota significa che un cliente
+scompare da ogni mappa. L'assistente può dar loro la caccia:
+
+> "Ci sono città vuote nell'elenco clienti?"
+
+![Controllo città vuote](../../assets/examples/e072.png)
+
+Se il risultato è vuoto, sei a posto. Se no, sai esattamente dove sono i buchi
+prima che traggano in inganno un grafico.
+
+## Una curiosità: l'80/20 del lavoro
+
+Chiedi a un analista esperto come si divide il suo tempo e sentirai una versione
+della stessa battuta: **l'80% della data science è pulire i dati, e l'altro 20% è
+lamentarsi di pulire i dati.** È un luogo comune perché è vero. Gli analisti bravi
+a pulire valgono oro: perché un modello bellissimo costruito su dati sporchi è un
+bellissimo modo di sbagliare.
+
+## Quando pulire non basta mai
+
+A volte i dati sono troppo compromessi: manca il 40% di un campo chiave, o due
+sistemi che semplicemente non sono d'accordo. Un buon analista sa quando smettere
+di pulire e passare la palla: *sistema questo alla fonte*, oppure *raccogli dati
+migliori la prossima volta*. Pulire è uno strumento, non una religione.
+
+---
+
+## Cosa ti porti a casa da questo capitolo
+
+- I dati reali sono sporchi; pulire è la maggior parte del lavoro.
+- Le colonne calcolate sistemano il testo, mettono in fasce i numeri e creano
+  etichette in pochi secondi.
+- Valida una formula prima di impegnarla.
+- Dai la caccia ai vuoti prima che traggano in inganno un grafico.
+- Sappi quando smettere di pulire e sistemare la fonte.
+
+Prossimo: come si collegano i pezzi di dati: tabelle, chiavi e relazioni, il
+cablaggio che rende possibile l'analisi.

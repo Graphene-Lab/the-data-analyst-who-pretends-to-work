@@ -1,1 +1,221 @@
-dXNpbmcgU3lzdGVtLlRleHQ7CnVzaW5nIFN5c3RlbS5UZXh0LkVuY29kaW5ncy5XZWI7CnVzaW5nIFN5c3RlbS5UZXh0Lkpzb247CnVzaW5nIFN5c3RlbS5UZXh0LlVuaWNvZGU7CnVzaW5nIFB1cHBldGVlclNoYXJwOwp1c2luZyBRUkNvZGVyOwoKLy8gQm9vayBpbWFnZSBnZW5lcmF0b3IuIFJlYWRzIGEgcGFuZWxzLmpzb24gbWFuaWZlc3QgYW5kIHJlbmRlcnMgZXZlcnkgZW50cnk6Ci8vICAga2luZCAiY292ZXIiIC0+IGNsZWFuIGNvdmVyIFBORyBhdCBleGFjdCBzaXplIChubyB0aXRsZSB0ZXh0OyBEaXN0cm9Cb29rIG92ZXJsYXlzIGl0KQovLyAgIGtpbmQgInFyIiAgICAtPiBRUiBjb2RlIFBORyBmcm9tIGEgVVJMIChRUkNvZGVyLCBubyBTeXN0ZW0uRHJhd2luZykKLy8gICBraW5kICJjaGF0IiAgLT4gYW4gQWdlbnRCcmlkZ2UgY2hhdCBwYW5lbCAocHJvbXB0IC0+IHJlYWwgdG9vbCByZXN1bHQpIGFzIGEgY2xlYW4gUE5HCi8vIEFsbCByZW5kZXJpbmcgaXMgZGV0ZXJtaW5pc3RpYyBhbmQgcmV1c2VzIG9uZSBDaHJvbWl1bS9FZGdlIGluc3RhbmNlLgoKdmFyIG1hbmlmZXN0UGF0aCA9IGFyZ3MuTGVuZ3RoID4gMCA/IGFyZ3NbMF0KICAgIDogUGF0aC5Db21iaW5lKEFwcENvbnRleHQuQmFzZURpcmVjdG9yeSwgInBhbmVscy5qc29uIik7CmlmICghRmlsZS5FeGlzdHMobWFuaWZlc3RQYXRoKSkKewogICAgQ29uc29sZS5FcnJvci5Xcml0ZUxpbmUoJCJwYW5lbHMuanNvbiBub3QgZm91bmQ6IHttYW5pZmVzdFBhdGh9Iik7CiAgICByZXR1cm4gMTsKfQoKdmFyIGpzb24gPSBGaWxlLlJlYWRBbGxUZXh0KG1hbmlmZXN0UGF0aCk7CnZhciBvcHRzID0gbmV3IEpzb25TZXJpYWxpemVyT3B0aW9ucyB7IFByb3BlcnR5TmFtZUNhc2VJbnNlbnNpdGl2ZSA9IHRydWUgfTsKdmFyIHBhbmVscyA9IEpzb25TZXJpYWxpemVyLkRlc2VyaWFsaXplPExpc3Q8UGFuZWw+Pihqc29uLCBvcHRzKSA/PyBuZXcgTGlzdDxQYW5lbD4oKTsKCi8vIFJlc29sdmUgb3V0cHV0IHBhdGhzIHJlbGF0aXZlIHRvIHRoZSBib29rIHJvb3QgKHR3byBsZXZlbHMgYWJvdmUgdGhlIGV4ZTogdG9vbHMvaW1hZ2VnZW4vYmluLy4uLiApCnZhciBib29rUm9vdCA9IFJlc29sdmVCb29rUm9vdCgpOwpDb25zb2xlLldyaXRlTGluZSgkImJvb2sgcm9vdDoge2Jvb2tSb290fSIpOwoKdmFyIGJyb3dzZXIgPSBhd2FpdCBQdXBwZXRlZXIuTGF1bmNoQXN5bmMobmV3IExhdW5jaE9wdGlvbnMKewogICAgRXhlY3V0YWJsZVBhdGggPSBGaW5kQnJvd3NlcigpID8/IHRocm93IG5ldyBFeGNlcHRpb24oIk5vIENocm9taXVtL0VkZ2UgZm91bmQiKSwKICAgIEFyZ3MgPSBuZXdbXSB7ICItLW5vLXNhbmRib3giLCAiLS1kaXNhYmxlLWdwdSIsICItLWRpc2FibGUtZGV2LXNobS11c2FnZSIgfSwKfSk7CgppbnQgbWFkZSA9IDA7CnRyeQp7CiAgICBmb3JlYWNoICh2YXIgcCBpbiBwYW5lbHMpCiAgICB7CiAgICAgICAgdmFyIG91dFBhdGggPSBQYXRoLklzUGF0aFJvb3RlZChwLk91dCkgPyBwLk91dCA6IFBhdGguQ29tYmluZShib29rUm9vdCwgcC5PdXQpOwogICAgICAgIERpcmVjdG9yeS5DcmVhdGVEaXJlY3RvcnkoUGF0aC5HZXREaXJlY3RvcnlOYW1lKG91dFBhdGgpISk7CgogICAgICAgIGlmIChwLktpbmQgPT0gInFyIikKICAgICAgICB7CiAgICAgICAgICAgIHVzaW5nIHZhciBnZW4gPSBuZXcgUVJDb2RlR2VuZXJhdG9yKCk7CiAgICAgICAgICAgIHVzaW5nIHZhciBkYXRhID0gZ2VuLkNyZWF0ZVFyQ29kZShwLkRhdGEhLCBRUkNvZGVHZW5lcmF0b3IuRUNDTGV2ZWwuUSk7CiAgICAgICAgICAgIHZhciBwbmcgPSBuZXcgUG5nQnl0ZVFSQ29kZShkYXRhKS5HZXRHcmFwaGljKHAuUHggPiAwID8gcC5QeCA6IDEwKTsKICAgICAgICAgICAgRmlsZS5Xcml0ZUFsbEJ5dGVzKG91dFBhdGgsIHBuZyk7CiAgICAgICAgICAgIENvbnNvbGUuV3JpdGVMaW5lKCQicXIgICAtPiB7cC5PdXR9Iik7CiAgICAgICAgICAgIG1hZGUrKzsKICAgICAgICAgICAgY29udGludWU7CiAgICAgICAgfQoKICAgICAgICBzdHJpbmcgaHRtbCA9IHAuS2luZCA9PSAiY292ZXIiID8gQ292ZXJIdG1sKHAuVywgcC5IKSA6IENoYXRIdG1sKHApOwogICAgICAgIHZhciB0bXAgPSBQYXRoLkNvbWJpbmUoUGF0aC5HZXRUZW1wUGF0aCgpLCAkImJvb2tpbWcte0d1aWQuTmV3R3VpZCgpOk59Lmh0bWwiKTsKICAgICAgICBGaWxlLldyaXRlQWxsVGV4dCh0bXAsIGh0bWwsIG5ldyBVVEY4RW5jb2RpbmcoZmFsc2UpKTsKICAgICAgICB0cnkKICAgICAgICB7CiAgICAgICAgICAgIGF3YWl0IHVzaW5nIHZhciBwYWdlID0gYXdhaXQgYnJvd3Nlci5OZXdQYWdlQXN5bmMoKTsKICAgICAgICAgICAgdmFyIGRzZiA9IHAuS2luZCA9PSAiY292ZXIiID8gMSA6IDI7CiAgICAgICAgICAgIGF3YWl0IHBhZ2UuU2V0Vmlld3BvcnRBc3luYyhuZXcgVmlld1BvcnRPcHRpb25zIHsgV2lkdGggPSBwLlcsIEhlaWdodCA9IHAuSCwgRGV2aWNlU2NhbGVGYWN0b3IgPSBkc2YgfSk7CiAgICAgICAgICAgIGF3YWl0IHBhZ2UuR29Ub0FzeW5jKG5ldyBVcmkodG1wKS5BYnNvbHV0ZVVyaSwKICAgICAgICAgICAgICAgIG5ldyBOYXZpZ2F0aW9uT3B0aW9ucyB7IFdhaXRVbnRpbCA9IG5ld1tdIHsgV2FpdFVudGlsTmF2aWdhdGlvbi5Mb2FkIH0gfSk7CiAgICAgICAgICAgIGF3YWl0IHBhZ2UuRXZhbHVhdGVFeHByZXNzaW9uQXN5bmMoImRvY3VtZW50LmZvbnRzICYmIGRvY3VtZW50LmZvbnRzLnJlYWR5Iik7CiAgICAgICAgICAgIGF3YWl0IHBhZ2UuU2NyZWVuc2hvdEFzeW5jKG91dFBhdGgsIG5ldyBTY3JlZW5zaG90T3B0aW9ucwogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBUeXBlID0gU2NyZWVuc2hvdFR5cGUuUG5nLAogICAgICAgICAgICAgICAgRnVsbFBhZ2UgPSBmYWxzZSwKICAgICAgICAgICAgfSk7CiAgICAgICAgICAgIENvbnNvbGUuV3JpdGVMaW5lKCQie3AuS2luZCwtNX0gLT4ge3AuT3V0fSIpOwogICAgICAgICAgICBtYWRlKys7CiAgICAgICAgfQogICAgICAgIGZpbmFsbHkgeyB0cnkgeyBGaWxlLkRlbGV0ZSh0bXApOyB9IGNhdGNoIHsgfSB9CiAgICB9Cn0KZmluYWxseSB7IGF3YWl0IGJyb3dzZXIuQ2xvc2VBc3luYygpOyB9CgpDb25zb2xlLldyaXRlTGluZSgkImdlbmVyYXRlZCB7bWFkZX0gaW1hZ2UocykiKTsKcmV0dXJuIDA7CgpzdGF0aWMgc3RyaW5nIFJlc29sdmVCb29rUm9vdCgpCnsKICAgIC8vIGV4ZSBsaXZlcyBhdCA8Ym9vaz4vdG9vbHMvaW1hZ2VnZW4vYmluLzxjZmc+L25ldDEwLjAvIDsgd2FsayB1cCB0byA8Ym9vaz4KICAgIHZhciBkaXIgPSBBcHBDb250ZXh0LkJhc2VEaXJlY3Rvcnk7CiAgICBmb3IgKGludCBpID0gMDsgaSA8IDg7IGkrKykKICAgIHsKICAgICAgICBpZiAoRmlsZS5FeGlzdHMoUGF0aC5Db21iaW5lKGRpciwgImJvb2suanNvbiIpKSkgcmV0dXJuIGRpcjsKICAgICAgICBkaXIgPSBQYXRoLkdldERpcmVjdG9yeU5hbWUoZGlyKSE7CiAgICB9CiAgICByZXR1cm4gRGlyZWN0b3J5LkdldEN1cnJlbnREaXJlY3RvcnkoKTsKfQoKc3RhdGljIHN0cmluZyBGaW5kQnJvd3NlcigpCnsKICAgIHN0cmluZ1tdIGMgPQogICAgewogICAgICAgIEAiQzpcUHJvZ3JhbSBGaWxlcyAoeDg2KVxNaWNyb3NvZnRcRWRnZVxBcHBsaWNhdGlvblxtc2VkZ2UuZXhlIiwKICAgICAgICBAIkM6XFByb2dyYW0gRmlsZXNcTWljcm9zb2Z0XEVkZ2VcQXBwbGljYXRpb25cbXNlZGdlLmV4ZSIsCiAgICAgICAgQCJDOlxQcm9ncmFtIEZpbGVzXEdvb2dsZVxDaHJvbWVcQXBwbGljYXRpb25cY2hyb21lLmV4ZSIsCiAgICB9OwogICAgZm9yZWFjaCAodmFyIHggaW4gYykgaWYgKEZpbGUuRXhpc3RzKHgpKSByZXR1cm4geDsKICAgIHJldHVybiBudWxsITsKfQoKLy8gLS0tLSBjb3ZlcjogY2xlYW4gMTAyNHgxNTM2IGJhY2tncm91bmQsIG5vIHRpdGxlIHRleHQgLS0tLQpzdGF0aWMgc3RyaW5nIENvdmVySHRtbChpbnQgdywgaW50IGgpID0+ICQkIiIiCjwhZG9jdHlwZSBodG1sPjxodG1sPjxoZWFkPjxtZXRhIGNoYXJzZXQ9InV0Zi04Ij48c3R5bGU+Cip7bWFyZ2luOjA7cGFkZGluZzowO2JveC1zaXppbmc6Ym9yZGVyLWJveH0KaHRtbCxib2R5e3dpZHRoOnt7d319cHg7aGVpZ2h0Ont7aH19cHg7b3ZlcmZsb3c6aGlkZGVufQouYmd7cG9zaXRpb246cmVsYXRpdmU7d2lkdGg6MTAwJTtoZWlnaHQ6MTAwJTsKICBiYWNrZ3JvdW5kOmxpbmVhci1ncmFkaWVudCgxNjBkZWcsIzBiMWYyYSAwJSwjMTIzMDNmIDQ1JSwjMWM0YTVlIDEwMCUpO30KLmdyaWR7cG9zaXRpb246YWJzb2x1dGU7aW5zZXQ6MDtvcGFjaXR5Oi4xMDsKICBiYWNrZ3JvdW5kLWltYWdlOmxpbmVhci1ncmFkaWVudCgjZmZmZmZmIDFweCx0cmFuc3BhcmVudCAxcHgpLGxpbmVhci1ncmFkaWVudCg5MGRlZywjZmZmZmZmIDFweCx0cmFuc3BhcmVudCAxcHgpOwogIGJhY2tncm91bmQtc2l6ZTo2NHB4IDY0cHg7fQouZ2xvd3twb3NpdGlvbjphYnNvbHV0ZTtsZWZ0Oi0xMCU7dG9wOjMwJTt3aWR0aDoxMjAlO2hlaWdodDo2MCU7CiAgYmFja2dyb3VuZDpyYWRpYWwtZ3JhZGllbnQoZWxsaXBzZSBhdCBjZW50ZXIscmdiYSg2NCwyMDAsMjIwLC4yOCksdHJhbnNwYXJlbnQgNjAlKTt9Ci5iYXJze3Bvc2l0aW9uOmFic29sdXRlO2xlZnQ6MTIlO3JpZ2h0OjEyJTtib3R0b206MjAlO2hlaWdodDozNCU7ZGlzcGxheTpmbGV4O2FsaWduLWl0ZW1zOmZsZXgtZW5kO2dhcDozLjIlO30KLmJhcntmbGV4OjE7Ym9yZGVyLXJhZGl1czo4cHggOHB4IDAgMDtiYWNrZ3JvdW5kOmxpbmVhci1ncmFkaWVudCgxODBkZWcsIzNmZDBlMCwjMWY3Zjk2KTtvcGFjaXR5Oi44NTt9Ci50cmVuZHtwb3NpdGlvbjphYnNvbHV0ZTtsZWZ0OjEwJTtyaWdodDoxMCU7Ym90dG9tOjIyJTtoZWlnaHQ6MzAlO30KLnRyZW5kIHN2Z3t3aWR0aDoxMDAlO2hlaWdodDoxMDAlfQouZG90c3twb3NpdGlvbjphYnNvbHV0ZTtpbnNldDowfQouZG90e3Bvc2l0aW9uOmFic29sdXRlO2JvcmRlci1yYWRpdXM6NTAlO2JhY2tncm91bmQ6IzhmZTlmNTtvcGFjaXR5Oi41fQo8L3N0eWxlPjwvaGVhZD48Ym9keT4KPGRpdiBjbGFzcz0iYmciPgogIDxkaXYgY2xhc3M9ImdyaWQiPjwvZGl2PgogIDxkaXYgY2xhc3M9Imdsb3ciPjwvZGl2PgogIDxkaXYgY2xhc3M9ImJhcnMiPgogICAgPGRpdiBjbGFzcz0iYmFyIiBzdHlsZT0iaGVpZ2h0OjM4JSI+PC9kaXY+CiAgICA8ZGl2IGNsYXNzPSJiYXIiIHN0eWxlPSJoZWlnaHQ6NTUlIj48L2Rpdj4KICAgIDxkaXYgY2xhc3M9ImJhciIgc3R5bGU9ImhlaWdodDo0NCUiPjwvZGl2PgogICAgPGRpdiBjbGFzcz0iYmFyIiBzdHlsZT0iaGVpZ2h0OjcwJSI+PC9kaXY+CiAgICA8ZGl2IGNsYXNzPSJiYXIiIHN0eWxlPSJoZWlnaHQ6NjAlIj48L2Rpdj4KICAgIDxkaXYgY2xhc3M9ImJhciIgc3R5bGU9ImhlaWdodDo4OCUiPjwvZGl2PgogICAgPGRpdiBjbGFzcz0iYmFyIiBzdHlsZT0iaGVpZ2h0Ojc2JSI+PC9kaXY+CiAgPC9kaXY+CiAgPGRpdiBjbGFzcz0idHJlbmQiPgogICAgPHN2ZyB2aWV3Qm94PSIwIDAgMTAwIDQwIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJub25lIj4KICAgICAgPHBvbHlsaW5lIHBvaW50cz0iMiwzNCAxOCwyOCAzNCwzMCA1MCwxOCA2NiwyMiA4Miw4IDk4LDQiCiAgICAgICAgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZWFmY2ZmIiBzdHJva2Utd2lkdGg9IjEuMSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBvcGFjaXR5PSIuOSIvPgogICAgPC9zdmc+CiAgPC9kaXY+CiAgPGRpdiBjbGFzcz0iZG90cyI+CiAgICA8ZGl2IGNsYXNzPSJkb3QiIHN0eWxlPSJsZWZ0OjIwJTt0b3A6NjQlO3dpZHRoOjhweDtoZWlnaHQ6OHB4Ij48L2Rpdj4KICAgIDxkaXYgY2xhc3M9ImRvdCIgc3R5bGU9ImxlZnQ6NDYlO3RvcDo1MiU7d2lkdGg6NnB4O2hlaWdodDo2cHgiPjwvZGl2PgogICAgPGRpdiBjbGFzcz0iZG90IiBzdHlsZT0ibGVmdDo3MCU7dG9wOjQwJTt3aWR0aDoxMHB4O2hlaWdodDoxMHB4Ij48L2Rpdj4KICAgIDxkaXYgY2xhc3M9ImRvdCIgc3R5bGU9ImxlZnQ6ODIlO3RvcDo1OCU7d2lkdGg6NXB4O2hlaWdodDo1cHgiPjwvZGl2PgogIDwvZGl2Pgo8L2Rpdj4KPC9ib2R5PjwvaHRtbD4KIiIiOwoKLy8gLS0tLSBjaGF0IHBhbmVsOiBBZ2VudEJyaWRnZSBwcm9tcHQgLT4gcmVhbCBQb3dlckJJVG9vbCByZXN1bHQgLS0tLQpzdGF0aWMgc3RyaW5nIENoYXRIdG1sKFBhbmVsIHApCnsKICAgIHZhciBwcm9tcHQgPSBFc2MocC5Qcm9tcHQgPz8gIiIpOwogICAgdmFyIHJlc3VsdCA9IEVzYyhwLlJlc3VsdCA/PyAiIik7CiAgICB2YXIgY2FwdGlvbiA9IEVzYyhwLkNhcHRpb24gPz8gIiIpOwogICAgdmFyIHRvb2wgPSBFc2Moc3RyaW5nLklzTnVsbE9yV2hpdGVTcGFjZShwLlRvb2wpID8gIlBvd2VyQklUb29sIiA6IHAuVG9vbCEpOwogICAgdmFyIGNhcEh0bWwgPSBzdHJpbmcuSXNOdWxsT3JFbXB0eShjYXB0aW9uKSA/ICIiIDogJCI8ZGl2IGNsYXNzPVwiY2FwXCI+e2NhcHRpb259PC9kaXY+IjsKICAgIHJldHVybiAkJCIiIgo8IWRvY3R5cGUgaHRtbD48aHRtbD48aGVhZD48bWV0YSBjaGFyc2V0PSJ1dGYtOCI+PHN0eWxlPgoqe21hcmdpbjowO3BhZGRpbmc6MDtib3gtc2l6aW5nOmJvcmRlci1ib3h9Cmh0bWwsYm9keXt3aWR0aDp7e3AuV319cHg7aGVpZ2h0Ont7cC5IfX1weDtvdmVyZmxvdzpoaWRkZW47CiAgYmFja2dyb3VuZDojZWVmMWY1O2ZvbnQtZmFtaWx5OidTZWdvZSBVSScsQXJpYWwsc2Fucy1zZXJpZjtwYWRkaW5nOjIycHh9Ci5jYXJke3dpZHRoOjEwMCU7aGVpZ2h0OjEwMCU7YmFja2dyb3VuZDojZmZmZmZmO2JvcmRlci1yYWRpdXM6MTZweDsKICBib3gtc2hhZG93OjAgOHB4IDMwcHggcmdiYSgyMCw0MCw2MCwuMTQpO292ZXJmbG93OmhpZGRlbjtkaXNwbGF5OmZsZXg7ZmxleC1kaXJlY3Rpb246Y29sdW1ufQouYmFye2hlaWdodDo1MnB4O2JhY2tncm91bmQ6IzBmMjczMztkaXNwbGF5OmZsZXg7YWxpZ24taXRlbXM6Y2VudGVyO3BhZGRpbmc6MCAyMHB4O2dhcDoxMHB4O2ZsZXg6MCAwIGF1dG99Ci5kb3R7d2lkdGg6MTFweDtoZWlnaHQ6MTFweDtib3JkZXItcmFkaXVzOjUwJX0KLmQxe2JhY2tncm91bmQ6I2ZmNWY1N30uZDJ7YmFja2dyb3VuZDojZmViYzJlfS5kM3tiYWNrZ3JvdW5kOiMyOGM4NDB9Ci50aXRsZXtjb2xvcjojZWFmY2ZmO2ZvbnQtd2VpZ2h0OjcwMDtmb250LXNpemU6MTZweDttYXJnaW4tbGVmdDo4cHh9Ci5iYWRnZXttYXJnaW4tbGVmdDphdXRvO2JhY2tncm91bmQ6IzFmN2Y5Njtjb2xvcjojZWFmY2ZmO2ZvbnQtc2l6ZToxMnB4O2ZvbnQtd2VpZ2h0OjYwMDsKICBwYWRkaW5nOjRweCAxMHB4O2JvcmRlci1yYWRpdXM6MjBweH0KLmJvZHl7ZmxleDoxIDEgYXV0bztwYWRkaW5nOjIwcHggMjJweDtkaXNwbGF5OmZsZXg7ZmxleC1kaXJlY3Rpb246Y29sdW1uO2dhcDoxNnB4O292ZXJmbG93OmhpZGRlbn0KLnVzZXJ7YWxpZ24tc2VsZjpmbGV4LWVuZDttYXgtd2lkdGg6ODIlO2JhY2tncm91bmQ6IzFmN2Y5Njtjb2xvcjojZmZmOwogIHBhZGRpbmc6MTJweCAxNnB4O2JvcmRlci1yYWRpdXM6MTRweCAxNHB4IDRweCAxNHB4O2ZvbnQtc2l6ZToxNnB4O2xpbmUtaGVpZ2h0OjEuNH0KLnVzZXIgLndob3tkaXNwbGF5OmJsb2NrO2ZvbnQtc2l6ZToxMXB4O29wYWNpdHk6Ljg7bWFyZ2luLWJvdHRvbTo0cHg7Zm9udC13ZWlnaHQ6NjAwO2xldHRlci1zcGFjaW5nOi4zcHh9Ci5yZXN7YWxpZ24tc2VsZjpzdHJldGNoO2JhY2tncm91bmQ6I2Y2ZjhmYTtib3JkZXI6MXB4IHNvbGlkICNlMmU4ZWY7Ym9yZGVyLXJhZGl1czoxMnB4O292ZXJmbG93OmhpZGRlbn0KLnJlcyAucmh7YmFja2dyb3VuZDojZWVmM2Y3O2NvbG9yOiMzMzU1NmI7Zm9udC1zaXplOjEycHg7Zm9udC13ZWlnaHQ6NzAwO3BhZGRpbmc6N3B4IDE0cHg7CiAgYm9yZGVyLWJvdHRvbToxcHggc29saWQgI2UyZThlZjtkaXNwbGF5OmZsZXg7YWxpZ24taXRlbXM6Y2VudGVyO2dhcDo4cHh9Ci5yZXMgLnJoIC50e2JhY2tncm91bmQ6IzBmMjczMztjb2xvcjojOGZlOWY1O2ZvbnQtc2l6ZToxMXB4O3BhZGRpbmc6MnB4IDhweDtib3JkZXItcmFkaXVzOjEwcHg7Zm9udC13ZWlnaHQ6NzAwfQoucmVzIHByZXttYXJnaW46MDtwYWRkaW5nOjE0cHggMTZweDtmb250LWZhbWlseTonQ29uc29sYXMnLCdNZW5sbycsbW9ub3NwYWNlO2ZvbnQtc2l6ZToxMy41cHg7CiAgbGluZS1oZWlnaHQ6MS41O2NvbG9yOiMxYzJiMzY7d2hpdGUtc3BhY2U6cHJlLXdyYXA7d29yZC1icmVhazpicmVhay13b3JkO292ZXJmbG93LXdyYXA6YW55d2hlcmU7CiAgbWF4LWhlaWdodDp7e01hdGguTWF4KDEyMCwgcC5IIC0gMjUwKX19cHg7b3ZlcmZsb3c6aGlkZGVufQouY2Fwe2ZsZXg6MCAwIGF1dG87dGV4dC1hbGlnbjpjZW50ZXI7Y29sb3I6IzVhNmI3YTtmb250LXNpemU6MTNweDtmb250LXN0eWxlOml0YWxpYztwYWRkaW5nOjJweCAxMHB4IDRweH0KPC9zdHlsZT48L2hlYWQ+PGJvZHk+CjxkaXYgY2xhc3M9ImNhcmQiPgogIDxkaXYgY2xhc3M9ImJhciI+CiAgICA8c3BhbiBjbGFzcz0iZG90IGQxIj48L3NwYW4+PHNwYW4gY2xhc3M9ImRvdCBkMiI+PC9zcGFuPjxzcGFuIGNsYXNzPSJkb3QgZDMiPjwvc3Bhbj4KICAgIDxzcGFuIGNsYXNzPSJ0aXRsZSI+QWdlbnRCcmlkZ2U8L3NwYW4+CiAgICA8c3BhbiBjbGFzcz0iYmFkZ2UiPnt7dG9vbH19PC9zcGFuPgogIDwvZGl2PgogIDxkaXYgY2xhc3M9ImJvZHkiPgogICAgPGRpdiBjbGFzcz0idXNlciI+PHNwYW4gY2xhc3M9IndobyI+WU9VPC9zcGFuPnt7cHJvbXB0fX08L2Rpdj4KICAgIDxkaXYgY2xhc3M9InJlcyI+CiAgICAgIDxkaXYgY2xhc3M9InJoIj48c3BhbiBjbGFzcz0idCI+e3t0b29sfX08L3NwYW4+IHJlc3VsdDwvZGl2PgogICAgICA8cHJlPnt7cmVzdWx0fX08L3ByZT4KICAgIDwvZGl2PgogIDwvZGl2PgogIHt7Y2FwSHRtbH19CjwvZGl2Pgo8L2JvZHk+PC9odG1sPgoiIiI7Cn0KCnN0YXRpYyBzdHJpbmcgRXNjKHN0cmluZyBzKSA9PgogICAgSHRtbEVuY29kZXIuQ3JlYXRlKFVuaWNvZGVSYW5nZXMuQWxsKS5FbmNvZGUocyk7CgpyZWNvcmQgUGFuZWwKewogICAgcHVibGljIHN0cmluZyBPdXQgeyBnZXQ7IHNldDsgfSA9ICIiOwogICAgcHVibGljIHN0cmluZyBLaW5kIHsgZ2V0OyBzZXQ7IH0gPSAiY2hhdCI7CiAgICBwdWJsaWMgaW50IFcgeyBnZXQ7IHNldDsgfSA9IDEwMDA7CiAgICBwdWJsaWMgaW50IEggeyBnZXQ7IHNldDsgfSA9IDYyMDsKICAgIHB1YmxpYyBzdHJpbmc/IERhdGEgeyBnZXQ7IHNldDsgfQogICAgcHVibGljIGludCBQeCB7IGdldDsgc2V0OyB9CiAgICBwdWJsaWMgc3RyaW5nPyBQcm9tcHQgeyBnZXQ7IHNldDsgfQogICAgcHVibGljIHN0cmluZz8gUmVzdWx0IHsgZ2V0OyBzZXQ7IH0KICAgIHB1YmxpYyBzdHJpbmc/IENhcHRpb24geyBnZXQ7IHNldDsgfQogICAgcHVibGljIHN0cmluZz8gVG9vbCB7IGdldDsgc2V0OyB9Cn0K
+using System.Text;
+using System.Text.Encodings.Web;
+using System.Text.Json;
+using System.Text.Unicode;
+using PuppeteerSharp;
+using QRCoder;
+
+// Book image generator. Reads a panels.json manifest and renders every entry:
+//   kind "cover" -> clean cover PNG at exact size (no title text; DistroBook overlays it)
+//   kind "qr"    -> QR code PNG from a URL (QRCoder, no System.Drawing)
+//   kind "chat"  -> an AgentBridge chat panel (prompt -> real tool result) as a clean PNG
+// All rendering is deterministic and reuses one Chromium/Edge instance.
+
+var manifestPath = args.Length > 0 ? args[0]
+    : Path.Combine(AppContext.BaseDirectory, "panels.json");
+if (!File.Exists(manifestPath))
+{
+    Console.Error.WriteLine($"panels.json not found: {manifestPath}");
+    return 1;
+}
+
+var json = File.ReadAllText(manifestPath);
+var opts = new JsonSerializerOptions { PropertyNameCaseInsensitive = true };
+var panels = JsonSerializer.Deserialize<List<Panel>>(json, opts) ?? new List<Panel>();
+
+// Resolve output paths relative to the book root (two levels above the exe: tools/imagegen/bin/... )
+var bookRoot = ResolveBookRoot();
+Console.WriteLine($"book root: {bookRoot}");
+
+var browser = await Puppeteer.LaunchAsync(new LaunchOptions
+{
+    ExecutablePath = FindBrowser() ?? throw new Exception("No Chromium/Edge found"),
+    Args = new[] { "--no-sandbox", "--disable-gpu", "--disable-dev-shm-usage" },
+});
+
+int made = 0;
+try
+{
+    foreach (var p in panels)
+    {
+        var outPath = Path.IsPathRooted(p.Out) ? p.Out : Path.Combine(bookRoot, p.Out);
+        Directory.CreateDirectory(Path.GetDirectoryName(outPath)!);
+
+        if (p.Kind == "qr")
+        {
+            using var gen = new QRCodeGenerator();
+            using var data = gen.CreateQrCode(p.Data!, QRCodeGenerator.ECCLevel.Q);
+            var png = new PngByteQRCode(data).GetGraphic(p.Px > 0 ? p.Px : 10);
+            File.WriteAllBytes(outPath, png);
+            Console.WriteLine($"qr   -> {p.Out}");
+            made++;
+            continue;
+        }
+
+        string html = p.Kind == "cover" ? CoverHtml(p.W, p.H) : ChatHtml(p);
+        var tmp = Path.Combine(Path.GetTempPath(), $"bookimg-{Guid.NewGuid():N}.html");
+        File.WriteAllText(tmp, html, new UTF8Encoding(false));
+        try
+        {
+            await using var page = await browser.NewPageAsync();
+            var dsf = p.Kind == "cover" ? 1 : 2;
+            await page.SetViewportAsync(new ViewPortOptions { Width = p.W, Height = p.H, DeviceScaleFactor = dsf });
+            await page.GoToAsync(new Uri(tmp).AbsoluteUri,
+                new NavigationOptions { WaitUntil = new[] { WaitUntilNavigation.Load } });
+            await page.EvaluateExpressionAsync("document.fonts && document.fonts.ready");
+            await page.ScreenshotAsync(outPath, new ScreenshotOptions
+            {
+                Type = ScreenshotType.Png,
+                FullPage = false,
+            });
+            Console.WriteLine($"{p.Kind,-5} -> {p.Out}");
+            made++;
+        }
+        finally { try { File.Delete(tmp); } catch { } }
+    }
+}
+finally { await browser.CloseAsync(); }
+
+Console.WriteLine($"generated {made} image(s)");
+return 0;
+
+static string ResolveBookRoot()
+{
+    // exe lives at <book>/tools/imagegen/bin/<cfg>/net10.0/ ; walk up to <book>
+    var dir = AppContext.BaseDirectory;
+    for (int i = 0; i < 8; i++)
+    {
+        if (File.Exists(Path.Combine(dir, "book.json"))) return dir;
+        dir = Path.GetDirectoryName(dir)!;
+    }
+    return Directory.GetCurrentDirectory();
+}
+
+static string FindBrowser()
+{
+    string[] c =
+    {
+        @"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe",
+        @"C:\Program Files\Microsoft\Edge\Application\msedge.exe",
+        @"C:\Program Files\Google\Chrome\Application\chrome.exe",
+    };
+    foreach (var x in c) if (File.Exists(x)) return x;
+    return null!;
+}
+
+// ---- cover: clean 1024x1536 background, no title text ----
+static string CoverHtml(int w, int h) => $$"""
+<!doctype html><html><head><meta charset="utf-8"><style>
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:{{w}}px;height:{{h}}px;overflow:hidden}
+.bg{position:relative;width:100%;height:100%;
+  background:linear-gradient(160deg,#0b1f2a 0%,#12303f 45%,#1c4a5e 100%);}
+.grid{position:absolute;inset:0;opacity:.10;
+  background-image:linear-gradient(#ffffff 1px,transparent 1px),linear-gradient(90deg,#ffffff 1px,transparent 1px);
+  background-size:64px 64px;}
+.glow{position:absolute;left:-10%;top:30%;width:120%;height:60%;
+  background:radial-gradient(ellipse at center,rgba(64,200,220,.28),transparent 60%);}
+.bars{position:absolute;left:12%;right:12%;bottom:20%;height:34%;display:flex;align-items:flex-end;gap:3.2%;}
+.bar{flex:1;border-radius:8px 8px 0 0;background:linear-gradient(180deg,#3fd0e0,#1f7f96);opacity:.85;}
+.trend{position:absolute;left:10%;right:10%;bottom:22%;height:30%;}
+.trend svg{width:100%;height:100%}
+.dots{position:absolute;inset:0}
+.dot{position:absolute;border-radius:50%;background:#8fe9f5;opacity:.5}
+</style></head><body>
+<div class="bg">
+  <div class="grid"></div>
+  <div class="glow"></div>
+  <div class="bars">
+    <div class="bar" style="height:38%"></div>
+    <div class="bar" style="height:55%"></div>
+    <div class="bar" style="height:44%"></div>
+    <div class="bar" style="height:70%"></div>
+    <div class="bar" style="height:60%"></div>
+    <div class="bar" style="height:88%"></div>
+    <div class="bar" style="height:76%"></div>
+  </div>
+  <div class="trend">
+    <svg viewBox="0 0 100 40" preserveAspectRatio="none">
+      <polyline points="2,34 18,28 34,30 50,18 66,22 82,8 98,4"
+        fill="none" stroke="#eafcff" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round" opacity=".9"/>
+    </svg>
+  </div>
+  <div class="dots">
+    <div class="dot" style="left:20%;top:64%;width:8px;height:8px"></div>
+    <div class="dot" style="left:46%;top:52%;width:6px;height:6px"></div>
+    <div class="dot" style="left:70%;top:40%;width:10px;height:10px"></div>
+    <div class="dot" style="left:82%;top:58%;width:5px;height:5px"></div>
+  </div>
+</div>
+</body></html>
+""";
+
+// ---- chat panel: AgentBridge prompt -> real PowerBITool result ----
+static string ChatHtml(Panel p)
+{
+    var prompt = Esc(p.Prompt ?? "");
+    var result = Esc(p.Result ?? "");
+    var caption = Esc(p.Caption ?? "");
+    var tool = Esc(string.IsNullOrWhiteSpace(p.Tool) ? "PowerBITool" : p.Tool!);
+    var capHtml = string.IsNullOrEmpty(caption) ? "" : $"<div class=\"cap\">{caption}</div>";
+    return $$"""
+<!doctype html><html><head><meta charset="utf-8"><style>
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:{{p.W}}px;height:{{p.H}}px;overflow:hidden;
+  background:#eef1f5;font-family:'Segoe UI',Arial,sans-serif;padding:22px}
+.card{width:100%;height:100%;background:#ffffff;border-radius:16px;
+  box-shadow:0 8px 30px rgba(20,40,60,.14);overflow:hidden;display:flex;flex-direction:column}
+.bar{height:52px;background:#0f2733;display:flex;align-items:center;padding:0 20px;gap:10px;flex:0 0 auto}
+.dot{width:11px;height:11px;border-radius:50%}
+.d1{background:#ff5f57}.d2{background:#febc2e}.d3{background:#28c840}
+.title{color:#eafcff;font-weight:700;font-size:16px;margin-left:8px}
+.badge{margin-left:auto;background:#1f7f96;color:#eafcff;font-size:12px;font-weight:600;
+  padding:4px 10px;border-radius:20px}
+.body{flex:1 1 auto;padding:20px 22px;display:flex;flex-direction:column;gap:16px;overflow:hidden}
+.user{align-self:flex-end;max-width:82%;background:#1f7f96;color:#fff;
+  padding:12px 16px;border-radius:14px 14px 4px 14px;font-size:16px;line-height:1.4}
+.user .who{display:block;font-size:11px;opacity:.8;margin-bottom:4px;font-weight:600;letter-spacing:.3px}
+.res{align-self:stretch;background:#f6f8fa;border:1px solid #e2e8ef;border-radius:12px;overflow:hidden}
+.res .rh{background:#eef3f7;color:#33556b;font-size:12px;font-weight:700;padding:7px 14px;
+  border-bottom:1px solid #e2e8ef;display:flex;align-items:center;gap:8px}
+.res .rh .t{background:#0f2733;color:#8fe9f5;font-size:11px;padding:2px 8px;border-radius:10px;font-weight:700}
+.res pre{margin:0;padding:14px 16px;font-family:'Consolas','Menlo',monospace;font-size:13.5px;
+  line-height:1.5;color:#1c2b36;white-space:pre-wrap;word-break:break-word;overflow-wrap:anywhere;
+  max-height:{{Math.Max(120, p.H - 250)}}px;overflow:hidden}
+.cap{flex:0 0 auto;text-align:center;color:#5a6b7a;font-size:13px;font-style:italic;padding:2px 10px 4px}
+</style></head><body>
+<div class="card">
+  <div class="bar">
+    <span class="dot d1"></span><span class="dot d2"></span><span class="dot d3"></span>
+    <span class="title">AgentBridge</span>
+    <span class="badge">{{tool}}</span>
+  </div>
+  <div class="body">
+    <div class="user"><span class="who">YOU</span>{{prompt}}</div>
+    <div class="res">
+      <div class="rh"><span class="t">{{tool}}</span> result</div>
+      <pre>{{result}}</pre>
+    </div>
+  </div>
+  {{capHtml}}
+</div>
+</body></html>
+""";
+}
+
+static string Esc(string s) =>
+    HtmlEncoder.Create(UnicodeRanges.All).Encode(s);
+
+record Panel
+{
+    public string Out { get; set; } = "";
+    public string Kind { get; set; } = "chat";
+    public int W { get; set; } = 1000;
+    public int H { get; set; } = 620;
+    public string? Data { get; set; }
+    public int Px { get; set; }
+    public string? Prompt { get; set; }
+    public string? Result { get; set; }
+    public string? Caption { get; set; }
+    public string? Tool { get; set; }
+}

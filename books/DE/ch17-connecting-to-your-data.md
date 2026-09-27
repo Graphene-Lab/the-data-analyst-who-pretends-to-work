@@ -1,1 +1,88 @@
-IyAxNy4gVmVyYmluZHVuZyB6dSBkZWluZW4gRGF0ZW4gaGVyc3RlbGxlbgoKQmV2b3IgZGVyIEFzc2lzdGVudCBldHdhcyBtaXQgUG93ZXIgQkkgdHVuIGthbm4sIG11c3MgZXIgc2ljaCBkYW1pdCB2ZXJiaW5kZW4uCkRpZXNlcyBLYXBpdGVsIGhhbmRlbHQgdm9uIGRpZXNlbSBIw6RuZGVkcnVjayDigJMgd2llIGRlciBBc3Npc3RlbnQgZGVpbmVuIG9mZmVuZW4KQmVyaWNodCBmaW5kZXQsIHNpY2ggbWl0IGRlbSBMaXZlLU1vZGVsbCB2ZXJiaW5kZXQgdW5kIGdlbmF1IHdlacOfLCBtaXQgd2FzIGVyIHJlZGV0LgoKIyMgRGllIGxva2FsZSBWZXJiaW5kdW5nCgpIaWVyIGRhcyBFbnRzY2hlaWRlbmRlIHp1bSBWZXJzdGVoZW46IFBvd2VyIEJJIERlc2t0b3Agc3RhcnRldCwgd2VubiBkdSBlaW5lbgpCZXJpY2h0IMO2ZmZuZXN0LCBlaW5lIGtsZWluZSAqKkFuYWx5c2UtRW5naW5lKiogYXVmIGRlaW5lbSBlaWdlbmVuIFJlY2huZXIgKGVpbgpQcm9ncmFtbSBuYW1lbnMgYG1zbWRzcnZgKS4gRGVyIEFzc2lzdGVudCB2ZXJiaW5kZXQgc2ljaCBtaXQgKmRpZXNlciogRW5naW5lLCBhdWYKKmRlaW5lbSogUmVjaG5lci4KCmBgYApZb3UgIOKGkiAgQWdlbnRCcmlkZ2UgIOKGkiAgUG93ZXJCSVRvb2wgIOKGkiAgdGhlIGVuZ2luZSBpbnNpZGUgeW91ciBQb3dlciBCSSBEZXNrdG9wCmBgYAoKS2VpbmUgQ2xvdWQuIEtlaW4gVXBsb2FkLiBEaWUgRGF0ZW4gdmVybGFzc2VuIGRlaW5lbiBDb21wdXRlciBuaWUuIERlciBBc3Npc3RlbnQKcmVkZXQgZWluZmFjaCBtaXQgZGVyc2VsYmVuIEVuZ2luZSwgZGllIFBvd2VyIEJJIHNlbGJzdCBudXR6dCwgZHVyY2ggZWluZSBsb2thbGUKVMO8ci4KCiMjIEZpbmRlbiwgd2FzIG9mZmVuIGlzdAoKRGVyIEFzc2lzdGVudCBzaWVodCBqZWRlbiBQb3dlci1CSS1CZXJpY2h0LCBkZW4gZHUgb2ZmZW4gaGFzdCwgamVkZW4gbWl0IHNlaW5lcgplaWdlbmVuIEVuZ2luZSB1bmQgc2VpbmVtIGVpZ2VuZW4gUG9ydDoKCj4g4oCeV2VsY2hlIFBvd2VyLUJJLUJlcmljaHRlIHNpbmQgZ2VyYWRlIG9mZmVuPyIKCiFbT2ZmZW5lIEJlcmljaHRlXSguLi8uLi9hc3NldHMvZXhhbXBsZXMvZTAwMy5wbmcpCgpXZW5uIGR1IGVpbmVuIEJlcmljaHQgb2ZmZW4gaGFzdCwgdmVyYmluZGV0IGVyIHNpY2ggZGlyZWt0IGRhbWl0LiBXZW5uIGR1IG1laHJlcmUKaGFzdCwgc2Fnc3QgZHUgaWhtIHdlbGNoZW4gYmVpbSBOYW1lbi4gU28gYmxlaWJ0IGVyIGF1ZiBkYXMgcmljaHRpZ2UgRGluZyBnZXJpY2h0ZXQuCgojIyBEaWUgVmVyYmluZHVuZyBiZXN0w6R0aWdlbgoKSXN0IGVyIHZlcmJ1bmRlbiwga2FubnN0IGR1IGplZGVyemVpdCBkZW4gU3RhdHVzIHByw7xmZW46Cgo+IOKAnldpZSBpc3QgZGVyIFZlcmJpbmR1bmdzc3RhdHVzPyIKCiFbVmVyYmluZHVuZ3NzdGF0dXNdKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9lMDA0LnBuZykKCkVyIHNhZ3QgZGlyLCBhdWYgd2VsY2hlbSBNb2RlbGwgZXIgaXN0IHVuZCBhdWYgd2VsY2hlbSBsb2thbGVuIFBvcnQuIERhcyBpc3QKd2ljaHRpZywgd2VpbCBqZWRlIHNww6R0ZXJlIMOEbmRlcnVuZyBpbiAqZGllc2VzKiBMaXZlLU1vZGVsbCBnZWh0LiBHZW5hdSB6dSB3aXNzZW4sCndvbWl0IGR1IHZlcmJ1bmRlbiBiaXN0LCBpc3QgZGllIGVyc3RlIFJlZ2VsIGRlcyBzaWNoZXJlbiBCZWFyYmVpdGVucy4KCiMjIFdhcyDigJ5saXZlIiB3aXJrbGljaCBoZWnDn3QKCldlbm4gZGVyIEFzc2lzdGVudCBkYXMgTW9kZWxsIMOkbmRlcnQsIHBhc3NpZXJ0IGRpZSDDhG5kZXJ1bmcgaW0gKipsaXZlIGltIFNwZWljaGVyCmxpZWdlbmRlbiBNb2RlbGwqKiBpbiBQb3dlciBCSSBEZXNrdG9wLiBEdSBzaWVoc3Qgc2llIHNvZm9ydCDigJMgZGFzIGlzdCBkaWUKdmlzdWVsbGUgUsO8Y2trb3BwbHVuZ3NzY2hsZWlmZS4gQWJlciBkYSBpc3QgZWluIHdpY2h0aWdlciBIYWtlbiwgYW4gZGVuIGRhcwpXZXJremV1ZyBkaWNoIGltbWVyIGVyaW5uZXJ0OgoKPiBEaWUgw4RuZGVydW5nIGlzdCBsaXZlLCBhYmVyICoqbmljaHQgaW4gZGllIERhdGVpIGdlc3BlaWNoZXJ0KiouIFVtIHNpZSB6dQo+IGJlaGFsdGVuLCBkcsO8Y2tzdCBkdSAqKlN0cmcrUyoqIGluIFBvd2VyIEJJIERlc2t0b3AuCgpEYXMgaXN0IGVpbmUgU2ljaGVyaGVpdHNmdW5rdGlvbiwga2VpbiBCdWcuIEVzIGhlacOfdCwgamVkZSDDhG5kZXJ1bmcgaXN0IHVta2VocmJhciwKYmlzIGR1IGRpY2ggenVtIFNwZWljaGVybiBlbnRzY2hlaWRlc3QuIER1IGthbm5zdCBmcmVpIGV4cGVyaW1lbnRpZXJlbjsgbmljaHRzIGlzdApkYXVlcmhhZnQsIGJpcyBkdSBlcyBiZXNjaGxpZcOfdC4KCiMjIEVpbmUgS3VyaW9zaXTDpHQ6IERlciBQb3J0IGlzdCBlaW5lIEdlaGVpbXTDvHIKCkplZGUgUG93ZXItQkktRGVza3RvcC1JbnN0YW56IHfDpGhsdCBlaW5lbiB6dWbDpGxsaWdlbiBsb2thbGVuIE5ldHp3ZXJrcG9ydCBmw7xyIGlocmUKRW5naW5lIOKAkyBkaWVzZSBaYWhsIGluIGRlciBWZXJiaW5kdW5nc3plaWNoZW5mb2xnZSAod2llIGBsb2NhbGhvc3Q6NjQ0MzFgKS4gRGVyCkFzc2lzdGVudCBlbnRkZWNrdCBkaWVzZW4gUG9ydCBhdXRvbWF0aXNjaCwgaW5kZW0gZXIgZGVuIGxhdWZlbmRlbiBQb3dlci1CSS1Qcm96ZXNzCnVuZCBzZWluZSBLaW5kLUVuZ2luZSBmaW5kZXQuIER1IG11c3N0IGRpZSBaYWhsIG5pZSBrZW5uZW47IGRhcyBXZXJremV1ZyBrbmFja3Qgc2llLgpFcyBpc3QgZGllc2VsYmUgVMO8ciwgZGllIFBvd2VyIEJJIGludGVybiBudXR6dCDigJMgZGVyIEFzc2lzdGVudCBoYXQgZWluZmFjaCBnZWxlcm50LAp3aWUgbWFuIGFua2xvcGZ0LgoKIyMgTmV1dmVyYmluZGVuIHVuZCBTaWNoZXJoZWl0CgpXZW5uIGR1IGRlbiBCZXJpY2h0IHNjaGxpZcOfdCB1bmQgZWluZW4gYW5kZXJlbiDDtmZmbmVzdCwgbWVya3QgZGVyIEFzc2lzdGVudCwgZGFzcwpzaWNoIGRpZSBFbmdpbmUgZ2XDpG5kZXJ0IGhhdCwgdW5kIGJpdHRldCBkaWNoLCBkaWNoIG5ldSB6dSB2ZXJiaW5kZW4g4oCTIGVyIHNjaHJlaWJ0Cm5pY2h0IGJsaW5kIGlucyBmYWxzY2hlIE1vZGVsbC4gRGllc2UgU2l0enVuZ3MtU2ljaGVyaGVpdCBtYWNodCBkYXMgTGl2ZS1CZWFyYmVpdGVuCnZlcnRyYXVlbnN3w7xyZGlnOiBEYXMgV2Vya3pldWcgcHLDvGZ0LCBkYXNzIGRpZSBFbmdpbmUgaGludGVyIGRlciBWZXJiaW5kdW5nIG5vY2gKZGllc2VsYmUgaXN0LCBtaXQgZGVyIGVzIHNpY2ggdmVyYnVuZGVuIGhhdCwgYmV2b3IgZXMgZWluZSDDhG5kZXJ1bmcgZHVyY2hsw6Rzc3QuCgotLS0KCiMjIFdhcyBkdSBhdXMgZGllc2VtIEthcGl0ZWwgbWl0bmltbXN0CgotIERlciBBc3Npc3RlbnQgdmVyYmluZGV0IHNpY2ggbWl0IGRlciBsb2thbGVuIEVuZ2luZSBpbiBkZWluZW0gUG93ZXIgQkkgRGVza3RvcC4KLSBLZWluZSBDbG91ZCwga2VpbiBVcGxvYWQg4oCTIGFsbGVzIGJsZWlidCBhdWYgZGVpbmVtIFJlY2huZXIuCi0gRXIgZW50ZGVja3Qgb2ZmZW5lIEJlcmljaHRlIHVuZCBpaHJlIFBvcnRzIGF1dG9tYXRpc2NoLgotIMOEbmRlcnVuZ2VuIHNpbmQgbGl2ZSwgYWJlciBuaWNodCBnZXNwZWljaGVydCwgYmlzIGR1IFN0cmcrUyBkcsO8Y2tzdC4KLSBEYXMgV2Vya3pldWcgc2Now7x0enQgZGF2b3IsIGlucyBmYWxzY2hlIE1vZGVsbCB6dSBzY2hyZWliZW4uCgpBbHMgTsOkY2hzdGVzOiBNb2RlbGxpZXJlbiBpbiBQb3dlciBCSSDigJMgZGVyIEFzc2lzdGVudCBhbHMgc29yZ2bDpGx0aWdlciwgZ3V0CmRva3VtZW50aWVydGVyIE1vZGVsbGllcmVyLgo=
+# 17. Verbindung zu deinen Daten herstellen
+
+Bevor der Assistent etwas mit Power BI tun kann, muss er sich damit verbinden.
+Dieses Kapitel handelt von diesem Händedruck – wie der Assistent deinen offenen
+Bericht findet, sich mit dem Live-Modell verbindet und genau weiß, mit was er redet.
+
+## Die lokale Verbindung
+
+Hier das Entscheidende zum Verstehen: Power BI Desktop startet, wenn du einen
+Bericht öffnest, eine kleine **Analyse-Engine** auf deinem eigenen Rechner (ein
+Programm namens `msmdsrv`). Der Assistent verbindet sich mit *dieser* Engine, auf
+*deinem* Rechner.
+
+```
+You  →  AgentBridge  →  PowerBITool  →  the engine inside your Power BI Desktop
+```
+
+Keine Cloud. Kein Upload. Die Daten verlassen deinen Computer nie. Der Assistent
+redet einfach mit derselben Engine, die Power BI selbst nutzt, durch eine lokale
+Tür.
+
+## Finden, was offen ist
+
+Der Assistent sieht jeden Power-BI-Bericht, den du offen hast, jeden mit seiner
+eigenen Engine und seinem eigenen Port:
+
+> „Welche Power-BI-Berichte sind gerade offen?"
+
+![Offene Berichte](../../assets/examples/e003.png)
+
+Wenn du einen Bericht offen hast, verbindet er sich direkt damit. Wenn du mehrere
+hast, sagst du ihm welchen beim Namen. So bleibt er auf das richtige Ding gerichtet.
+
+## Die Verbindung bestätigen
+
+Ist er verbunden, kannst du jederzeit den Status prüfen:
+
+> „Wie ist der Verbindungsstatus?"
+
+![Verbindungsstatus](../../assets/examples/e004.png)
+
+Er sagt dir, auf welchem Modell er ist und auf welchem lokalen Port. Das ist
+wichtig, weil jede spätere Änderung in *dieses* Live-Modell geht. Genau zu wissen,
+womit du verbunden bist, ist die erste Regel des sicheren Bearbeitens.
+
+## Was „live" wirklich heißt
+
+Wenn der Assistent das Modell ändert, passiert die Änderung im **live im Speicher
+liegenden Modell** in Power BI Desktop. Du siehst sie sofort – das ist die
+visuelle Rückkopplungsschleife. Aber da ist ein wichtiger Haken, an den das
+Werkzeug dich immer erinnert:
+
+> Die Änderung ist live, aber **nicht in die Datei gespeichert**. Um sie zu
+> behalten, drückst du **Strg+S** in Power BI Desktop.
+
+Das ist eine Sicherheitsfunktion, kein Bug. Es heißt, jede Änderung ist umkehrbar,
+bis du dich zum Speichern entscheidest. Du kannst frei experimentieren; nichts ist
+dauerhaft, bis du es beschließt.
+
+## Eine Kuriosität: Der Port ist eine Geheimtür
+
+Jede Power-BI-Desktop-Instanz wählt einen zufälligen lokalen Netzwerkport für ihre
+Engine – diese Zahl in der Verbindungszeichenfolge (wie `localhost:64431`). Der
+Assistent entdeckt diesen Port automatisch, indem er den laufenden Power-BI-Prozess
+und seine Kind-Engine findet. Du musst die Zahl nie kennen; das Werkzeug knackt sie.
+Es ist dieselbe Tür, die Power BI intern nutzt – der Assistent hat einfach gelernt,
+wie man anklopft.
+
+## Neuverbinden und Sicherheit
+
+Wenn du den Bericht schließt und einen anderen öffnest, merkt der Assistent, dass
+sich die Engine geändert hat, und bittet dich, dich neu zu verbinden – er schreibt
+nicht blind ins falsche Modell. Diese Sitzungs-Sicherheit macht das Live-Bearbeiten
+vertrauenswürdig: Das Werkzeug prüft, dass die Engine hinter der Verbindung noch
+dieselbe ist, mit der es sich verbunden hat, bevor es eine Änderung durchlässt.
+
+---
+
+## Was du aus diesem Kapitel mitnimmst
+
+- Der Assistent verbindet sich mit der lokalen Engine in deinem Power BI Desktop.
+- Keine Cloud, kein Upload – alles bleibt auf deinem Rechner.
+- Er entdeckt offene Berichte und ihre Ports automatisch.
+- Änderungen sind live, aber nicht gespeichert, bis du Strg+S drückst.
+- Das Werkzeug schützt davor, ins falsche Modell zu schreiben.
+
+Als Nächstes: Modellieren in Power BI – der Assistent als sorgfältiger, gut
+dokumentierter Modellierer.

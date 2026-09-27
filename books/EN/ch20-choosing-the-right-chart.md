@@ -1,1 +1,111 @@
-IyAyMC4gQ2hvb3NpbmcgdGhlIFJpZ2h0IENoYXJ0CgpBIGNoYXJ0IGlzIG5vdCBkZWNvcmF0aW9uLiBJdCBpcyBhIHRvb2wgZm9yIG1ha2luZyBhIHRydXRoIHZpc2libGUuIFRoZSByaWdodCBjaGFydAptYWtlcyBhbiBpbnNpZ2h0IG9idmlvdXMgaW4gYSBzZWNvbmQ7IHRoZSB3cm9uZyBjaGFydCBoaWRlcyBpdCBvciwgd29yc2UsIGxpZXMuClRoaXMgY2hhcHRlciBpcyBhYm91dCBwaWNraW5nIHRoZSByaWdodCBwaWN0dXJlIGZvciB0aGUgdHJ1dGggeW91IHdhbnQgdG8gc2hvdy4KCiMjIFRoZSBvbmUgcnVsZQoKVGhlcmUgaXMgb25lIHJ1bGUgdGhhdCBjb3ZlcnMgbW9zdCBvZiBpdDoKCj4gKipNYXRjaCB0aGUgY2hhcnQgdG8gdGhlIHF1ZXN0aW9uLCBub3QgdG8gd2hhdCBsb29rcyBjb29sLioqCgpDb21wYXJpbmcgY2F0ZWdvcmllcz8gQmFycy4gQ2hhbmdlIG92ZXIgdGltZT8gQSBsaW5lLiBQYXJ0IG9mIGEgd2hvbGU/IEEgcGllIChhCnNtYWxsIG9uZSkuIFJlbGF0aW9uc2hpcCBiZXR3ZWVuIHR3byBudW1iZXJzPyBBIHNjYXR0ZXIuIFBpY2sgdGhlIGNoYXJ0IHRoYXQgYW5zd2Vycwp0aGUgcXVlc3Rpb24sIGFuZCB0aGUgYW5zd2VyIHNob3dzIGl0c2VsZi4KCiMjIENvbXBhcmluZyBjYXRlZ29yaWVzOiB1c2UgYmFycwoKV2hlbiB5b3Ugd2FudCB0byBjb21wYXJlICJob3cgbXVjaCBmb3IgZWFjaCB0aGluZyIg4oCUIHNhbGVzIGJ5IGNhdGVnb3J5LCBieSByZWdpb24sCmJ5IHByb2R1Y3Qg4oCUIHVzZSBhICoqYmFyIGNoYXJ0KiogKG9yIGNvbHVtbiBjaGFydCkuIEJhcnMgYXJlIGVhc3kgZm9yIHRoZSBleWUgdG8KcmFuay4gVGhlIGFzc2lzdGFudCBjYW4gaGFuZCB5b3UgdGhlIGRhdGEgc2hhcGVkIGZvciBleGFjdGx5IHRoaXM6Cgo+ICJHaXZlIG1lIHNhbGVzIGJ5IGNhdGVnb3J5IGZvciBhIGJhciBjaGFydC4iCgohW1NhbGVzIGJ5IGNhdGVnb3J5IGZvciBhIGJhciBjaGFydF0oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2UwNjAucG5nKQoKVGhyZWUgY2F0ZWdvcmllcywgdGhlaXIgdG90YWxzLCByZWFkeSB0byBiZWNvbWUgYSBiYXIgY2hhcnQuIFRoZSBleWUgaW5zdGFudGx5CnNlZXMgRnVybml0dXJlIG9uIHRvcCwgU3RhdGlvbmVyeSBhdCB0aGUgYm90dG9tLgoKQW5kIGhlcmUgaXMgdGhhdCBzYW1lIHJlYWwgZGF0YSByZW5kZXJlZCBhcyB0aGUgY2hhcnQ6CgohW1NhbGVzIGJ5IGNhdGVnb3J5IOKAlCBiYXIgY2hhcnRdKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9jaGFydC1jYXRlZ29yeS5wbmcpCgo+ICJTYWxlcyBieSByZWdpb24gZm9yIGEgbWFwIG9yIGNvbHVtbiBjaGFydC4iCgohW1NhbGVzIGJ5IHJlZ2lvbl0oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2UwNjEucG5nKQoKUmVnaW9uYWwgdG90YWxzLCByZWFkeSBmb3IgYSBjb2x1bW4gY2hhcnQgb3IgYSBtYXAuCgojIyBDaGFuZ2Ugb3ZlciB0aW1lOiB1c2UgYSBsaW5lCgpXaGVuIHRoZSBxdWVzdGlvbiBpcyAiaG93IGRpZCB0aGlzIG1vdmUgb3ZlciB0aW1lPyIsIGEgKipsaW5lIGNoYXJ0Kiogc2hvd3MgdGhlCnNoYXBlIG9mIHRoZSB0cmVuZCDigJQgdGhlIHJpc2VzLCB0aGUgZGlwcywgdGhlIHNlYXNvbiDigJQgYmV0dGVyIHRoYW4gYW55IHRhYmxlLgoKIVtUb3RhbCBzYWxlcyBwZXIgbW9udGgg4oCUIGxpbmUgY2hhcnRdKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9jaGFydC1tb250aGx5LnBuZykKClR3ZWx2ZSBtb250aHMgb2YgcmVhbCBzYWxlcywgb25lIGxpbmUuIFlvdSBjYW4gc2VlIHRoZSBNYXJjaCBwZWFrIGFuZCB0aGUgYXV0dW1uCnRyb3VnaCBhdCBhIGdsYW5jZSDigJQgdGhlIGtpbmQgb2YgcGF0dGVybiBhIHRhYmxlIG9mIG51bWJlcnMgaGlkZXMuCgojIyBQYXJ0IG9mIGEgd2hvbGU6IHVzZSBhIHBpZSAoY2FyZWZ1bGx5KQoKQSBwaWUgY2hhcnQgc2hvd3MgaG93IGEgdG90YWwgc3BsaXRzIGludG8gcGFydHMuIEl0IHdvcmtzIHdpdGggKip0aHJlZSBvciBmb3VyCnNsaWNlcyoqLiBJdCBmYWlscyBiYWRseSB3aXRoIHRlbi4KCj4gIkNhdGVnb3J5IHNoYXJlIGZvciBhIHBpZSBjaGFydC4iCgohW0NhdGVnb3J5IHNoYXJlXSguLi8uLi9hc3NldHMvZXhhbXBsZXMvZTA4My5wbmcpCgpLaXRjaGVuLCBGdXJuaXR1cmUsIFN0YXRpb25lcnkgYXMgc2hhcmVzIG9mIHRoZSB3aG9sZSDigJQgYSBjbGVhbiBwaWUuIEFkZCBhIGRvemVuCmNhdGVnb3JpZXMgYW5kIHRoZSBzYW1lIGNoYXJ0IGJlY29tZXMgdW5yZWFkYWJsZSBjb25mZXR0aS4KClRoZSBzYW1lIHNoYXJlLCByZW5kZXJlZCBhcyBhIGRvbnV0IHdpdGggdGhlIHZhbHVlcyBhbmQgcGVyY2VudGFnZXM6CgohW0NhdGVnb3J5IHNoYXJlIOKAlCBkb251dCBjaGFydF0oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2NoYXJ0LXNoYXJlLnBuZykKCiMjIFRoZSBjaGFydHMgdG8gYXZvaWQKCi0gKiozRCBjaGFydHMqKiDigJQgdGhleSBkaXN0b3J0IHRoZSBkYXRhLiBBIDNEIHBpZSB0aWx0cyBzbGljZXMgYW5kIGxpZXMgYWJvdXQKICB0aGVpciBzaXplLiBOZXZlci4KLSAqKkR1YWwtYXhpcyBjaGFydHMqKiDigJQgdHdvIHktYXhlcyBjYW4gbWFrZSB1bnJlbGF0ZWQgdGhpbmdzIGxvb2sgcmVsYXRlZC4gVXNlCiAgd2l0aCBleHRyZW1lIGNhcmUsIG9yIG5vdCBhdCBhbGwuCi0gKipQaWUgY2hhcnRzIHdpdGggbWFueSBzbGljZXMqKiDigJQgdW5yZWFkYWJsZS4gVXNlIGEgYmFyIGNoYXJ0IGluc3RlYWQuCi0gKipUcnVuY2F0ZWQgYXhlcyoqIOKAlCBhIGJhciBjaGFydCB3aG9zZSBheGlzIHN0YXJ0cyBhdCA5MCUgaW5zdGVhZCBvZiAwIG1ha2VzIGEKICB0aW55IGRpZmZlcmVuY2UgbG9vayBodWdlLiBTdGFydCB0aGUgYXhpcyBhdCB6ZXJvIHVubGVzcyB5b3UgaGF2ZSBhIHN0cm9uZyByZWFzb24uCgojIyBBIGN1cmlvc2l0eTogdGhlIGNoYXJ0IHRoYXQgbGllZCB0byBhIG5hdGlvbgoKSW4gdGhlIDIwMTIgVS5TLiBlbGVjdGlvbiwgYSB3aWRlbHktc2hhcmVkIGNoYXJ0IHNob3dlZCBQcmVzaWRlbnQgT2JhbWEgd2lubmluZwoiOTglIG9mIHRoZSB2b3RlIiDigJQgYmVjYXVzZSBpdCB3YXMgYSBtYXAgb2YgKmNvdW50eSogd2lucywgYW5kIHJ1cmFsIGNvdW50aWVzIGFyZQpodWdlIGluIGFyZWEgYnV0IHRpbnkgaW4gcG9wdWxhdGlvbi4gVGhlIG1hcCBzaG93ZWQgbGFuZCwgbm90IHBlb3BsZSwgYW5kIG1pc2xlZAptaWxsaW9ucy4gVGhlIGxlc3NvbjogYSBjaGFydCBjYW4gYmUgdGVjaG5pY2FsbHkgYWNjdXJhdGUgYW5kIGNvbXBsZXRlbHkKbWlzbGVhZGluZy4gVGhlIGFuYWx5c3QncyBqb2IgaXMgdG8gY2hvb3NlIHRoZSB2aWV3IHRoYXQgc2hvd3MgdGhlICp0cnV0aCosIG5vdApqdXN0ICphKiB0cnV0aC4KCiMjIENvbG91ciB3aXRoIHB1cnBvc2UKCkNvbG91ciBpcyBwb3dlcmZ1bCBhbmQgZWFzaWx5IHdhc3RlZDoKCi0gVXNlIGNvbG91ciB0byAqKmhpZ2hsaWdodCoqLCBub3QgdG8gZGVjb3JhdGUuCi0gUmVzZXJ2ZSByZWQgZm9yICJiYWQgLyBiZWxvdyB0YXJnZXQiLCBncmVlbiBmb3IgImdvb2QiIOKAlCBhbmQgZG9uJ3Qgb3ZlcnVzZSBlaXRoZXIuCi0gRGVzaWduIGZvciAqKmNvbG91ci1ibGluZCoqIHJlYWRlcnM6IGRvbid0IHJlbHkgb24gcmVkL2dyZWVuIGFsb25lOyBhZGQgbGFiZWxzIG9yCiAgc2hhcGVzLgotIEZld2VyIGNvbG91cnMgPSBjbGVhcmVyIG1lc3NhZ2UuCgojIyBBIGRhc2hib2FyZCBpcyBhIHN0b3J5LCBub3QgYSBwYWludCBwYWxldHRlCgpFdmVyeSB2aXN1YWwgb24gYSBwYWdlIHNob3VsZCBlYXJuIGl0cyBwbGFjZSBieSBhZHZhbmNpbmcgdGhlIHN0b3J5LiBJZiBhIGNoYXJ0CmRvZXNuJ3QgaGVscCB0aGUgcmVhZGVyIHVuZGVyc3RhbmQgb3IgZGVjaWRlLCBjdXQgaXQuIEEgY2xlYW4gcGFnZSB3aXRoIHRocmVlIGdvb2QKY2hhcnRzIGJlYXRzIGEgYnVzeSBwYWdlIHdpdGggdHdlbHZlIHByZXR0eSBvbmVzLgoKLS0tCgojIyBXaGF0IHlvdSdsbCBjYXJyeSBmcm9tIHRoaXMgY2hhcHRlcgoKLSBNYXRjaCB0aGUgY2hhcnQgdG8gdGhlIHF1ZXN0aW9uLCBub3QgdG8gd2hhdCBsb29rcyBjb29sLgotIEJhcnMgZm9yIGNvbXBhcmluZzsgbGluZXMgZm9yIHRpbWU7IHNtYWxsIHBpZXMgZm9yIHBhcnRzIG9mIGEgd2hvbGUuCi0gQXZvaWQgM0QsIGR1YWwtYXhpcyB0cmlja3MsIG1hbnktc2xpY2UgcGllcywgYW5kIHRydW5jYXRlZCBheGVzLgotIEEgY2hhcnQgY2FuIGJlIGFjY3VyYXRlIGFuZCBzdGlsbCBtaXNsZWFkaW5nIOKAlCBjaG9vc2UgdGhlIGhvbmVzdCB2aWV3LgotIFVzZSBjb2xvdXIgdG8gaGlnaGxpZ2h0LCBhbmQgZGVzaWduIGZvciBjb2xvdXItYmxpbmQgcmVhZGVycy4KCk5leHQ6IHB1dHRpbmcgaXQgdG9nZXRoZXIg4oCUIHJlcG9ydHMgYW5kIGRhc2hib2FyZHMgdGhhdCBwZW9wbGUgYWN0dWFsbHkgdXNlLgo=
+# 20. Choosing the Right Chart
+
+A chart is not decoration. It is a tool for making a truth visible. The right chart
+makes an insight obvious in a second; the wrong chart hides it or, worse, lies.
+This chapter is about picking the right picture for the truth you want to show.
+
+## The one rule
+
+There is one rule that covers most of it:
+
+> **Match the chart to the question, not to what looks cool.**
+
+Comparing categories? Bars. Change over time? A line. Part of a whole? A pie (a
+small one). Relationship between two numbers? A scatter. Pick the chart that answers
+the question, and the answer shows itself.
+
+## Comparing categories: use bars
+
+When you want to compare "how much for each thing" — sales by category, by region,
+by product — use a **bar chart** (or column chart). Bars are easy for the eye to
+rank. The assistant can hand you the data shaped for exactly this:
+
+> "Give me sales by category for a bar chart."
+
+![Sales by category for a bar chart](../../assets/examples/e060.png)
+
+Three categories, their totals, ready to become a bar chart. The eye instantly
+sees Furniture on top, Stationery at the bottom.
+
+And here is that same real data rendered as the chart:
+
+![Sales by category — bar chart](../../assets/examples/chart-category.png)
+
+> "Sales by region for a map or column chart."
+
+![Sales by region](../../assets/examples/e061.png)
+
+Regional totals, ready for a column chart or a map.
+
+## Change over time: use a line
+
+When the question is "how did this move over time?", a **line chart** shows the
+shape of the trend — the rises, the dips, the season — better than any table.
+
+![Total sales per month — line chart](../../assets/examples/chart-monthly.png)
+
+Twelve months of real sales, one line. You can see the March peak and the autumn
+trough at a glance — the kind of pattern a table of numbers hides.
+
+## Part of a whole: use a pie (carefully)
+
+A pie chart shows how a total splits into parts. It works with **three or four
+slices**. It fails badly with ten.
+
+> "Category share for a pie chart."
+
+![Category share](../../assets/examples/e083.png)
+
+Kitchen, Furniture, Stationery as shares of the whole — a clean pie. Add a dozen
+categories and the same chart becomes unreadable confetti.
+
+The same share, rendered as a donut with the values and percentages:
+
+![Category share — donut chart](../../assets/examples/chart-share.png)
+
+## The charts to avoid
+
+- **3D charts** — they distort the data. A 3D pie tilts slices and lies about
+  their size. Never.
+- **Dual-axis charts** — two y-axes can make unrelated things look related. Use
+  with extreme care, or not at all.
+- **Pie charts with many slices** — unreadable. Use a bar chart instead.
+- **Truncated axes** — a bar chart whose axis starts at 90% instead of 0 makes a
+  tiny difference look huge. Start the axis at zero unless you have a strong reason.
+
+## A curiosity: the chart that lied to a nation
+
+In the 2012 U.S. election, a widely-shared chart showed President Obama winning
+"98% of the vote" — because it was a map of *county* wins, and rural counties are
+huge in area but tiny in population. The map showed land, not people, and misled
+millions. The lesson: a chart can be technically accurate and completely
+misleading. The analyst's job is to choose the view that shows the *truth*, not
+just *a* truth.
+
+## Colour with purpose
+
+Colour is powerful and easily wasted:
+
+- Use colour to **highlight**, not to decorate.
+- Reserve red for "bad / below target", green for "good" — and don't overuse either.
+- Design for **colour-blind** readers: don't rely on red/green alone; add labels or
+  shapes.
+- Fewer colours = clearer message.
+
+## A dashboard is a story, not a paint palette
+
+Every visual on a page should earn its place by advancing the story. If a chart
+doesn't help the reader understand or decide, cut it. A clean page with three good
+charts beats a busy page with twelve pretty ones.
+
+---
+
+## What you'll carry from this chapter
+
+- Match the chart to the question, not to what looks cool.
+- Bars for comparing; lines for time; small pies for parts of a whole.
+- Avoid 3D, dual-axis tricks, many-slice pies, and truncated axes.
+- A chart can be accurate and still misleading — choose the honest view.
+- Use colour to highlight, and design for colour-blind readers.
+
+Next: putting it together — reports and dashboards that people actually use.

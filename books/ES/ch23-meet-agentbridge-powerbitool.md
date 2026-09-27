@@ -1,1 +1,92 @@
-IyAyMy4gQ29ub2NlIEFnZW50QnJpZGdlIHkgUG93ZXJCSVRvb2wKCkNhZGEgZWplbXBsbyBkZSBlc3RlIGxpYnJvIHNlIGhpem8gY29uIGRvcyBoZXJyYW1pZW50YXMgdHJhYmFqYW5kbyBqdW50YXMuIEVzdGUKY2Fww610dWxvIGxhcyBwcmVzZW50YSBjb21vIGVzIGRlYmlkbzogcXXDqSBlcyBjYWRhIHVuYSwgY8OzbW8gZW5jYWphbiB5IHF1w6kgcHVlZGVuIGhhY2VyLgoKIyMgQWdlbnRCcmlkZ2U6IGVsIGFzaXN0ZW50ZQoKKipBZ2VudEJyaWRnZSoqIGVzIHVuIGFzaXN0ZW50ZSBkZSBJQSBxdWUgZnVuY2lvbmEgZW4gdHUgcHJvcGlvIG9yZGVuYWRvci4gTGUgaGFibGFzCmVuIHBhbGFicmFzIG5vcm1hbGVzLCB5IGhhY2UgdHJhYmFqbyBhIHRyYXbDqXMgZGUgdHVzIGhlcnJhbWllbnRhcy4gTm8gZXMgdW4gY2hhdGJvdApxdWUgc29sbyBoYWJsYTogYWN0w7phLiBQdWVkZSBlc2NyaWJpciBkb2N1bWVudG9zLCBjb25zdHJ1aXIgaG9qYXMgZGUgY8OhbGN1bG8sIGVudmlhcgpjb3JyZW8sIGludmVzdGlnYXIgZW4gbGEgd2ViIHksIGNvbiBlbCBwbHVnaW4gY29ycmVjdG8sIG9wZXJhciBQb3dlciBCSS4KCkxhcyBwcm9waWVkYWRlcyBjbGF2ZToKCi0gKipMb2NhbC4qKiBGdW5jaW9uYSBlbiB0dSBtw6FxdWluYS4gVHVzIGRhdG9zIHNlIHF1ZWRhbiBjb250aWdvLgotICoqRW4gbGVuZ3VhamUgbm9ybWFsLioqIERlc2NyaWJlcyBsbyBxdWUgcXVpZXJlczsgbm8gZXNjcmliZXMgY8OzZGlnby4KLSAqKkV4dGVuc2libGUuKiogTG9zIHBsdWdpbnMgbGUgZGFuIG51ZXZhcyBoYWJpbGlkYWRlcy4gUG93ZXJCSVRvb2wgZXMgdW5hIGRlIGVsbGFzLgoKIyMgUG93ZXJCSVRvb2w6IGxhcyBtYW5vcyBkZW50cm8gZGUgUG93ZXIgQkkKCioqUG93ZXJCSVRvb2wqKiBlcyBlbCBwbHVnaW4gcXVlIGRhIGEgQWdlbnRCcmlkZ2UgbWFub3MgZGVudHJvIGRlIE1pY3Jvc29mdCBQb3dlciBCSQpEZXNrdG9wLiBBIHRyYXbDqXMgZGUgw6lsLCBlbCBhc2lzdGVudGUgcHVlZGU6CgotICoqQ29uZWN0YXJzZSoqIGFsIG1vZGVsbyBlbiB2aXZvIGRlIHVuIGluZm9ybWUgYWJpZXJ0by4KLSAqKkluc3BlY2Npb25hcioqOiByZXN1bWVuIGRlbCBtb2RlbG8sIHRhYmxhcywgZXNxdWVtYSwgbWVkaWRhcywgcmVsYWNpb25lcy4KLSAqKkVkaXRhciBlbCBtb2RlbG8qKjogY3JlYXIgeSBib3JyYXIgdGFibGFzLCBjb2x1bW5hcywgbWVkaWRhcywgcmVsYWNpb25lczsgcG9uZXIKICBkZXNjcmlwY2lvbmVzLgotICoqRWplY3V0YXIgeSB2YWxpZGFyIERBWCoqOiBjb24gdW5hIGd1YXJkYSBkZSBzZWd1cmlkYWQgcXVlIGJsb3F1ZWEgY3VhbHF1aWVyIGNvc2EKICBwZWxpZ3Jvc2EuCi0gKipQZXJmaWxhciB5IGRvY3VtZW50YXIqKjogcGVyZmlsYXIgdGFibGFzLCBnZW5lcmFyIHVuIGRpY2Npb25hcmlvIGRlIGRhdG9zLCBwYXNhcgogIGVsIGxpbnRlciBkZSBidWVuYXMgcHLDoWN0aWNhcy4KCkFxdcOtIGVzdMOhIGVsIGFzaXN0ZW50ZSBwcmVzZW50w6FuZG9zZSBhIHVuIG1vZGVsbzoKCj4gwqtDb25vY2UgUG93ZXJCSVRvb2w6IMK/cXXDqSBwdWVkZXMgaGFjZXIgY29uIG1pIG1vZGVsbz/CuwoKIVtDb25vY2UgUG93ZXJCSVRvb2xdKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9lMDY0LnBuZykKCkVsIHJlc3VtZW4gcXVlIGRldnVlbHZlIGVzIHRvZGEgbGEgc3VwZXJmaWNpZTogdGFibGFzLCBtZWRpZGFzLCByZWxhY2lvbmVzLCByZWN1ZW50b3MKZGUgZmlsYXM6IHRvZG8gbG8gcXVlIHB1ZWRlIHZlciB5IGNvbiBsbyBxdWUgcHVlZGUgdHJhYmFqYXIuCgojIyBDw7NtbyBlbmNhamFuCgpgYGAKWW91ICDihpIgIEFnZW50QnJpZGdlICh0aGUgYnJhaW4pICDihpIgIFBvd2VyQklUb29sICh0aGUgaGFuZHMpICDihpIgIFBvd2VyIEJJIERlc2t0b3AgKHRoZSBtb2RlbCkKYGBgCgpBZ2VudEJyaWRnZSBlbnRpZW5kZSB0dXMgcGFsYWJyYXMgeSBwbGFuaWZpY2EgbGEgYWNjacOzbi4gUG93ZXJCSVRvb2wgbGxldmEgYSBjYWJvIGVzYQphY2Npw7NuIHNvYnJlIGVsIG1vZGVsbyBlbiB2aXZvIGRlIFBvd2VyIEJJLiBWZXMgZWwgcmVzdWx0YWRvIGRlIGlubWVkaWF0byBlbiBQb3dlciBCSQpEZXNrdG9wLiBFbCBidWNsZSBlczogcHJlZ3VudGFyIOKGkiBwZW5zYXIg4oaSIGFjdHVhciDihpIgdmVyLgoKIyMgTGEgZ3VhcmRhIGRlIHNlZ3VyaWRhZAoKVW5hIGNvc2EgcXVlIG1lcmVjZSBsYSBwZW5hIGRlc3RhY2FyOiBQb3dlckJJVG9vbCBwYXNhIGVsIERBWCBwb3IgdW5hICoqZ3VhcmRhIGRlCmZhbGxvIGNlcnJhZG8qKi4gUGVybWl0ZSBjb25zdWx0YXMgZGUgc29sbyBsZWN0dXJhIChgRVZBTFVBVEVgLCB2aXN0YXMgZGUgc2lzdGVtYSkgeQpibG9xdWVhIGN1YWxxdWllciBjb3NhIHF1ZSBwdWVkYSBtb2RpZmljYXIgZWwgbW9kZWxvIHBvciBsYSBwdWVydGEgZGUgbGEgY29uc3VsdGE6IG5pCmBEUk9QYCwgbmkgYElOU0VSVGAsIG5pIGBERUxFVEVgLCBuaSB0cnVjb3MgZGUgbcO6bHRpcGxlcyBzZW50ZW5jaWFzLiBTaSB1bmEgY29uc3VsdGEKbm8gZXN0w6EgY2xhcmFtZW50ZSBzZWd1cmEsIHNlIHJlY2hhemEuIEVzdG8gZXMgbG8gcXVlIGhhY2UgcmVzcG9uc2FibGUgZGVqYXIgcXVlIHVuYQpJQSB0b3F1ZSB1biBtb2RlbG8gZW4gdml2by4KCiMjIEdyYXRpcywgeSByZXNwYWxkYWRvIHBvciBnZW50ZSBkZSB2ZXJkYWQKCkFtYmFzIGhlcnJhbWllbnRhcyBzb24gZ3JhdGlzLiBQb3dlckJJVG9vbCBlcyBhYmllcnRvIGVuIEdpdEh1YiwgeSwgY29tbyBwcm9tZXTDrWEgZWwKcHJlZmFjaW8sIGVsIHNvcG9ydGUgdGFtYmnDqW4gZXMgZ3JhdGlzOiBhYnJlIHVuIGlzc3VlIHkgdW4gdMOpY25pY28gZGUgdmVyZGFkIHJlc3BvbmRlCmVuIHVuYXMgMjQgaG9yYXMgY29uIHVuYSBzb2x1Y2nDs24gcmVhbC4gRXNhIGNvbWJpbmFjacOzbiAoaGVycmFtaWVudGEgZ3JhdGlzLCBzb3BvcnRlCmh1bWFubyBncmF0aXMsIHJlc3B1ZXN0YXMgcsOhcGlkYXMpIGVzIGxhIHByb21lc2EgZGV0csOhcyBkZSBjYWRhIGVqZW1wbG8gcXVlIGhhcyB2aXN0by4KCiMjIFVuYSBjdXJpb3NpZGFkOiBlbCBtb2RlbG8gZGUgcGx1Z2lucwoKUG93ZXJCSVRvb2wgbm8gc2UgY29tcGlsYSBkZW50cm8gZGUgQWdlbnRCcmlkZ2UuIEVzIHVuICoqcGx1Z2luKiogc29sdGFkbyBlbiB1bmEKY2FycGV0YSBgVG9vbHNgLCBkZXNjdWJpZXJ0byBhbCBhcnJhbmNhci4gRXNvIHNpZ25pZmljYSBxdWUgbGFzIGhhYmlsaWRhZGVzIGRlbAphc2lzdGVudGUgcHVlZGVuIGNyZWNlciBzaW4gY2FtYmlhciBlbCBuw7pjbGVvOiBob3kgUG93ZXIgQkksIG1hw7FhbmEgb3RyYXMgaGVycmFtaWVudGFzLgpFbCBtb2RlbG8gZGUgcGx1Z2lucyBlcyBwb3IgcXXDqSBlbCBhc2lzdGVudGUgcHVlZGUgc2VndWlyIGdhbmFuZG8gbnVldmFzIMKrbWFub3PCuyBzaW4KaGluY2hhcnNlLgoKIyMgUXXDqSBwdWVkZXMgaGFjZXIgY29uIGVsbGFzLCBqdW50YXMKClRvZG8gZW4gZXN0ZSBsaWJybywgeSBtw6FzOiBjb25lY3RhcnRlIGEgdW4gaW5mb3JtZSwgZW50ZW5kZXIgZWwgbW9kZWxvLCBsaW1waWFyIGRhdG9zCmNvbiBjb2x1bW5hcyBjYWxjdWxhZGFzLCBjb25zdHJ1aXIgbWVkaWRhcywgY2FibGVhciByZWxhY2lvbmVzLCB2YWxpZGFyIHkgcGFzYXIgZWwKbGludGVyIGFsIERBWCwgZ2VuZXJhciBkb2N1bWVudGFjacOzbiB5IGNvbXByb2JhciBidWVuYXMgcHLDoWN0aWNhczogdG9kbyBoYWJsYW5kby4KCi0tLQoKIyMgTG8gcXVlIHRlIGxsZXZhcsOhcyBkZSBlc3RlIGNhcMOtdHVsbwoKLSBBZ2VudEJyaWRnZSBlcyBlbCBhc2lzdGVudGUgbG9jYWwsIGVuIGxlbmd1YWplIG5vcm1hbCAoZWwgY2VyZWJybykuCi0gUG93ZXJCSVRvb2wgZXMgZWwgcGx1Z2luIHF1ZSBvcGVyYSBQb3dlciBCSSBEZXNrdG9wIChsYXMgbWFub3MpLgotIEVsIGJ1Y2xlOiBwcmVndW50YXIg4oaSIHBlbnNhciDihpIgYWN0dWFyIOKGkiB2ZXIsIHRvZG8gbG9jYWwuCi0gVW5hIGd1YXJkYSBkZSBmYWxsbyBjZXJyYWRvIG1hbnRpZW5lIGVsIG1vZGVsbyBlbiB2aXZvIGEgc2Fsdm8uCi0gSGVycmFtaWVudGEgZ3JhdGlzLCBzb3BvcnRlIGdyYXRpcywgZ2VudGUgZGUgdmVyZGFkLCByZXNwdWVzdGFzIHLDoXBpZGFzLgoKU2lndWllbnRlOiB1biBkw61hIGVudGVybyBkZWwgdHJhYmFqbyBkZWwgYW5hbGlzdGEsIGF1dG9tYXRpemFkby4K
+# 23. Conoce AgentBridge y PowerBITool
+
+Cada ejemplo de este libro se hizo con dos herramientas trabajando juntas. Este
+capítulo las presenta como es debido: qué es cada una, cómo encajan y qué pueden hacer.
+
+## AgentBridge: el asistente
+
+**AgentBridge** es un asistente de IA que funciona en tu propio ordenador. Le hablas
+en palabras normales, y hace trabajo a través de tus herramientas. No es un chatbot
+que solo habla: actúa. Puede escribir documentos, construir hojas de cálculo, enviar
+correo, investigar en la web y, con el plugin correcto, operar Power BI.
+
+Las propiedades clave:
+
+- **Local.** Funciona en tu máquina. Tus datos se quedan contigo.
+- **En lenguaje normal.** Describes lo que quieres; no escribes código.
+- **Extensible.** Los plugins le dan nuevas habilidades. PowerBITool es una de ellas.
+
+## PowerBITool: las manos dentro de Power BI
+
+**PowerBITool** es el plugin que da a AgentBridge manos dentro de Microsoft Power BI
+Desktop. A través de él, el asistente puede:
+
+- **Conectarse** al modelo en vivo de un informe abierto.
+- **Inspeccionar**: resumen del modelo, tablas, esquema, medidas, relaciones.
+- **Editar el modelo**: crear y borrar tablas, columnas, medidas, relaciones; poner
+  descripciones.
+- **Ejecutar y validar DAX**: con una guarda de seguridad que bloquea cualquier cosa
+  peligrosa.
+- **Perfilar y documentar**: perfilar tablas, generar un diccionario de datos, pasar
+  el linter de buenas prácticas.
+
+Aquí está el asistente presentándose a un modelo:
+
+> «Conoce PowerBITool: ¿qué puedes hacer con mi modelo?»
+
+![Conoce PowerBITool](../../assets/examples/e064.png)
+
+El resumen que devuelve es toda la superficie: tablas, medidas, relaciones, recuentos
+de filas: todo lo que puede ver y con lo que puede trabajar.
+
+## Cómo encajan
+
+```
+You  →  AgentBridge (the brain)  →  PowerBITool (the hands)  →  Power BI Desktop (the model)
+```
+
+AgentBridge entiende tus palabras y planifica la acción. PowerBITool lleva a cabo esa
+acción sobre el modelo en vivo de Power BI. Ves el resultado de inmediato en Power BI
+Desktop. El bucle es: preguntar → pensar → actuar → ver.
+
+## La guarda de seguridad
+
+Una cosa que merece la pena destacar: PowerBITool pasa el DAX por una **guarda de
+fallo cerrado**. Permite consultas de solo lectura (`EVALUATE`, vistas de sistema) y
+bloquea cualquier cosa que pueda modificar el modelo por la puerta de la consulta: ni
+`DROP`, ni `INSERT`, ni `DELETE`, ni trucos de múltiples sentencias. Si una consulta
+no está claramente segura, se rechaza. Esto es lo que hace responsable dejar que una
+IA toque un modelo en vivo.
+
+## Gratis, y respaldado por gente de verdad
+
+Ambas herramientas son gratis. PowerBITool es abierto en GitHub, y, como prometía el
+prefacio, el soporte también es gratis: abre un issue y un técnico de verdad responde
+en unas 24 horas con una solución real. Esa combinación (herramienta gratis, soporte
+humano gratis, respuestas rápidas) es la promesa detrás de cada ejemplo que has visto.
+
+## Una curiosidad: el modelo de plugins
+
+PowerBITool no se compila dentro de AgentBridge. Es un **plugin** soltado en una
+carpeta `Tools`, descubierto al arrancar. Eso significa que las habilidades del
+asistente pueden crecer sin cambiar el núcleo: hoy Power BI, mañana otras herramientas.
+El modelo de plugins es por qué el asistente puede seguir ganando nuevas «manos» sin
+hincharse.
+
+## Qué puedes hacer con ellas, juntas
+
+Todo en este libro, y más: conectarte a un informe, entender el modelo, limpiar datos
+con columnas calculadas, construir medidas, cablear relaciones, validar y pasar el
+linter al DAX, generar documentación y comprobar buenas prácticas: todo hablando.
+
+---
+
+## Lo que te llevarás de este capítulo
+
+- AgentBridge es el asistente local, en lenguaje normal (el cerebro).
+- PowerBITool es el plugin que opera Power BI Desktop (las manos).
+- El bucle: preguntar → pensar → actuar → ver, todo local.
+- Una guarda de fallo cerrado mantiene el modelo en vivo a salvo.
+- Herramienta gratis, soporte gratis, gente de verdad, respuestas rápidas.
+
+Siguiente: un día entero del trabajo del analista, automatizado.

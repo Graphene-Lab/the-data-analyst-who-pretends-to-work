@@ -1,1 +1,89 @@
-IyBBcHBlbmRpeCBGIOKAlCBFeGVyY2lzZSBTb2x1dGlvbnMKClNvbHV0aW9ucyB0byB0aGUgZ3VpZGVkIGV4ZXJjaXNlcyBpbiBBcHBlbmRpeCBFLiBFYWNoIHNob3dzIHRoZSBwbGFpbi1FbmdsaXNoIGFzawphbmQgdGhlIERBWCB0aGUgYXNzaXN0YW50IHByb2R1Y2VzLgoKIyMgRXhlcmNpc2UgMSDigJQgUmVhZCB0aGUgbW9kZWwKCioqQXNrOioqICJMaXN0IGV2ZXJ5IHRhYmxlIHdpdGggaXRzIHJvdyBjb3VudC4iCioqV2hhdCBoYXBwZW5zOioqIHRoZSBhc3Npc3RhbnQgcmVhZHMgdGhlIGxpdmUgbW9kZWwgYW5kIHJldHVybnMgZWFjaCB0YWJsZSB3aXRoIGl0cwp0eXBlLCByb3cgY291bnQsIGFuZCBjb2x1bW4gY291bnQuIE5vIERBWCBuZWVkZWQg4oCUIGl0J3MgYSBkaXNjb3ZlcnkgY2FsbC4KCiMjIEV4ZXJjaXNlIDIg4oCUIFByb2ZpbGUgYSB0YWJsZQoKKipBc2s6KiogIlByb2ZpbGUgdGhlIFByb2R1Y3RzIHRhYmxlLiIKKipXaGF0IGhhcHBlbnM6KiogdGhlIGFzc2lzdGFudCByZXR1cm5zIGEgcHJvZmlsZSB0YWJsZSB3aXRoIERpc3RpbmN0LCBCbGFua3MsIE1pbiwKTWF4LCBhbmQgVG9wIHZhbHVlcyBwZXIgY29sdW1uLiBUaGUgZGlzdGluY3QgY291bnQgb2YgQ2F0ZWdvcnkgaXMgMzsgYmxhbmtzIHNob3cKcGVyIGNvbHVtbi4KCiMjIEV4ZXJjaXNlIDMg4oCUIENsZWFuIHRleHQKCioqQXNrOioqICJBZGQgYSBjb2x1bW4gd2l0aCB0aGUgY2F0ZWdvcnkgaW4gY2FwaXRhbCBsZXR0ZXJzLiIKKipEQVg6KiogYFVQUEVSKFByb2R1Y3RzW0NhdGVnb3J5XSlgCioqUmVzdWx0OioqIGEgbmV3IGNhbGN1bGF0ZWQgY29sdW1uIGBQcm9kdWN0c1tDYXRlZ29yeVVwcGVyXWAuCgojIyBFeGVyY2lzZSA0IOKAlCBCdWNrZXQgYSBudW1iZXIKCioqQXNrOioqICJCdWNrZXQgcHJvZHVjdHMgaW50byBIaWdoIC8gTWlkIC8gTG93IGJ5IHByaWNlLiIKKipEQVg6KioKYGBgClNXSVRDSChUUlVFKCksCiAgUHJvZHVjdHNbUHJpY2VdID49IDIwMCwgIkhpZ2giLAogIFByb2R1Y3RzW1ByaWNlXSA+PSA1MCwgIk1pZCIsCiAgIkxvdyIpCmBgYAoqKlJlc3VsdDoqKiBhIG5ldyBjYWxjdWxhdGVkIGNvbHVtbiBgUHJvZHVjdHNbUHJpY2VCYW5kXWAuCgojIyBFeGVyY2lzZSA1IOKAlCBXaXJlIGEgcmVsYXRpb25zaGlwCgoqKkFzazoqKiAiQ29ubmVjdCBTYWxlcyB0byBQcm9kdWN0cyBvbiBQcm9kdWN0SUQuIgoqKlJlc3VsdDoqKiBhIG1hbnktdG8tb25lLCBzaW5nbGUtZGlyZWN0aW9uLCBhY3RpdmUgcmVsYXRpb25zaGlwCmBTYWxlc1tQcm9kdWN0SURdIOKGkiBQcm9kdWN0c1tQcm9kdWN0SURdYC4KCiMjIEV4ZXJjaXNlIDYg4oCUIEJ1aWxkIGEgbWVhc3VyZQoKKipBc2s6KiogIkNyZWF0ZSBhIFRvdGFsIFNhbGVzIG1lYXN1cmUgd2l0aCBhIGV1cm8gZm9ybWF0LiIKKipEQVg6KiogYFNVTShTYWxlc1tBbW91bnRdKWAgd2l0aCBmb3JtYXQgYCMsIyMwLjAwIOKCrGAuCioqUmVzdWx0OioqIGEgbmV3IG1lYXN1cmUgYFNhbGVzW1RvdGFsIFNhbGVzXWAuCgojIyBFeGVyY2lzZSA3IOKAlCBGaWx0ZXIgYSBtZWFzdXJlCgoqKkFzazoqKiAiQ291bnQgb25seSBzYWxlcyBhYm92ZSAzMDAuIgoqKkRBWDoqKiBgQ09VTlRST1dTKEZJTFRFUihTYWxlcywgU2FsZXNbQW1vdW50XSA+IDMwMCkpYAoqKlJlc3VsdDoqKiBhIG5ldyBtZWFzdXJlIGBTYWxlc1tCaWcgU2FsZXMgQ291bnRdYC4KCiMjIEV4ZXJjaXNlIDgg4oCUIFNoYXJlIG9mIHRvdGFsCgoqKkFzazoqKiAiRWFjaCBjYXRlZ29yeSdzIHNoYXJlIG9mIHRvdGFsIHNhbGVzLiIKKipEQVg6KiogYERJVklERShbVG90YWwgU2FsZXNdLCBDQUxDVUxBVEUoW1RvdGFsIFNhbGVzXSwgQUxMKFNhbGVzKSkpYAoqKlJlc3VsdDoqKiBhIG5ldyBtZWFzdXJlIGBTYWxlc1tQY3QgT2YgVG90YWxdYCB3aXRoIGEgcGVyY2VudCBmb3JtYXQuCgojIyBFeGVyY2lzZSA5IOKAlCBSYW5rCgoqKkFzazoqKiAiUmFuayBwcm9kdWN0cyBieSBzYWxlcy4iCioqREFYOioqIGBSQU5LWChBTEwoUHJvZHVjdHMpLCBbVG90YWwgU2FsZXNdKWAKKipSZXN1bHQ6KiogYSBsZWFkZXJib2FyZCB3aXRoIGVhY2ggcHJvZHVjdCdzIHJhbmsuCgojIyBFeGVyY2lzZSAxMCDigJQgVmFsaWRhdGUgYmVmb3JlIHlvdSBzYXZlCgoqKkFzazoqKiAiSXMgdGhpcyBhIHZhbGlkIG1lYXN1cmU/IFNVTShTYWxlc1tBbW91bnRdKSIKKipXaGF0IGhhcHBlbnM6KiogdGhlIGFzc2lzdGFudCB2YWxpZGF0ZXMgYW5kIHJldHVybnMgIlZhbGlkIiB3aXRoIGEgc2FtcGxlIHZhbHVlCigyMjAyMykuIE9ubHkgdGhlbiBkbyB5b3UgY3JlYXRlIHRoZSBtZWFzdXJlLgoKIyMgRXhlcmNpc2UgMTEg4oCUIExpbnQKCioqQXNrOioqICJMaW50IHRoaXMgREFYOiBTVU0oYSkvU1VNKGIpIgoqKldoYXQgaGFwcGVuczoqKiB0aGUgbGludGVyIGZsYWdzIHRoZSBgL2AgYW5kIHN1Z2dlc3RzIGBESVZJREUoKWAgdG8gaGFuZGxlCmRpdmlkZS1ieS16ZXJvIHNhZmVseS4KCiMjIEV4ZXJjaXNlIDEyIOKAlCBEb2N1bWVudAoKKipBc2s6KiogIkdlbmVyYXRlIGEgZGF0YSBkaWN0aW9uYXJ5IGZvciB0aGUgd2hvbGUgbW9kZWwuIgoqKldoYXQgaGFwcGVuczoqKiB0aGUgYXNzaXN0YW50IHJldHVybnMgYSBtYXJrZG93biBkaWN0aW9uYXJ5IGxpc3RpbmcgZXZlcnkgdGFibGUsCml0cyB0eXBlIGFuZCByb3cgY291bnQsIGFuZCBldmVyeSBtZWFzdXJlIHdpdGggaXRzIGZvcm1hdCBhbmQgZXhwcmVzc2lvbi4KCiMjIFRoZSBwYXR0ZXJuIGluIGV2ZXJ5IHNvbHV0aW9uCgpBc2sgcGxhaW5seSDihpIgdGhlIGFzc2lzdGFudCB3cml0ZXMgY29ycmVjdCBEQVgg4oaSIGl0IGFwcGxpZXMgdGhlIGNoYW5nZSBsaXZlIOKGkiBpdApyZXBvcnRzIGV4YWN0bHkgd2hhdCBpdCBkaWQuIFRoYXQgbG9vcCBpcyB0aGUgd2hvbGUgc2tpbGwuIE9uY2UgaXQgZmVlbHMgbmF0dXJhbCwKeW91J3ZlIGludGVybmFsaXNlZCB0aGUgYm9vay4K
+# Appendix F — Exercise Solutions
+
+Solutions to the guided exercises in Appendix E. Each shows the plain-English ask
+and the DAX the assistant produces.
+
+## Exercise 1 — Read the model
+
+**Ask:** "List every table with its row count."
+**What happens:** the assistant reads the live model and returns each table with its
+type, row count, and column count. No DAX needed — it's a discovery call.
+
+## Exercise 2 — Profile a table
+
+**Ask:** "Profile the Products table."
+**What happens:** the assistant returns a profile table with Distinct, Blanks, Min,
+Max, and Top values per column. The distinct count of Category is 3; blanks show
+per column.
+
+## Exercise 3 — Clean text
+
+**Ask:** "Add a column with the category in capital letters."
+**DAX:** `UPPER(Products[Category])`
+**Result:** a new calculated column `Products[CategoryUpper]`.
+
+## Exercise 4 — Bucket a number
+
+**Ask:** "Bucket products into High / Mid / Low by price."
+**DAX:**
+```
+SWITCH(TRUE(),
+  Products[Price] >= 200, "High",
+  Products[Price] >= 50, "Mid",
+  "Low")
+```
+**Result:** a new calculated column `Products[PriceBand]`.
+
+## Exercise 5 — Wire a relationship
+
+**Ask:** "Connect Sales to Products on ProductID."
+**Result:** a many-to-one, single-direction, active relationship
+`Sales[ProductID] → Products[ProductID]`.
+
+## Exercise 6 — Build a measure
+
+**Ask:** "Create a Total Sales measure with a euro format."
+**DAX:** `SUM(Sales[Amount])` with format `#,##0.00 €`.
+**Result:** a new measure `Sales[Total Sales]`.
+
+## Exercise 7 — Filter a measure
+
+**Ask:** "Count only sales above 300."
+**DAX:** `COUNTROWS(FILTER(Sales, Sales[Amount] > 300))`
+**Result:** a new measure `Sales[Big Sales Count]`.
+
+## Exercise 8 — Share of total
+
+**Ask:** "Each category's share of total sales."
+**DAX:** `DIVIDE([Total Sales], CALCULATE([Total Sales], ALL(Sales)))`
+**Result:** a new measure `Sales[Pct Of Total]` with a percent format.
+
+## Exercise 9 — Rank
+
+**Ask:** "Rank products by sales."
+**DAX:** `RANKX(ALL(Products), [Total Sales])`
+**Result:** a leaderboard with each product's rank.
+
+## Exercise 10 — Validate before you save
+
+**Ask:** "Is this a valid measure? SUM(Sales[Amount])"
+**What happens:** the assistant validates and returns "Valid" with a sample value
+(22023). Only then do you create the measure.
+
+## Exercise 11 — Lint
+
+**Ask:** "Lint this DAX: SUM(a)/SUM(b)"
+**What happens:** the linter flags the `/` and suggests `DIVIDE()` to handle
+divide-by-zero safely.
+
+## Exercise 12 — Document
+
+**Ask:** "Generate a data dictionary for the whole model."
+**What happens:** the assistant returns a markdown dictionary listing every table,
+its type and row count, and every measure with its format and expression.
+
+## The pattern in every solution
+
+Ask plainly → the assistant writes correct DAX → it applies the change live → it
+reports exactly what it did. That loop is the whole skill. Once it feels natural,
+you've internalised the book.

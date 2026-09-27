@@ -1,1 +1,111 @@
-IyAxMi4gQ3VhdHJvIHRpcG9zIGRlIGFuw6FsaXNpcwoKVG9kbyBhbsOhbGlzaXMgcXVlIGhhcsOhcyBqYW3DoXMgY2FlIGVuIHVubyBkZSBjdWF0cm8gdGlwb3MsIG9yZGVuYWRvcyBwb3IgY3XDoW50byBsZQpwaWRlbiBhbCBkYXRvLiBFc2NhbGFuIHVuYSBlc2NhbGVyYTogZGVzZGUgbWlyYXIgYXRyw6FzLCBhIGV4cGxpY2FyIHBvciBxdcOpLCBhCmFkaXZpbmFyIGhhY2lhIGFkZWxhbnRlLCBhIHJlY29tZW5kYXIgcXXDqSBoYWNlci4gU2FiZXIgcXXDqSB0aXBvIGVzdMOhcyBoYWNpZW5kbyB0ZQpkaWNlIGN1w6FudG8gZW1wdWphciB5IGN1w6FudG8gZmlhcnRlIGRlIGxhIHJlc3B1ZXN0YS4KCiMjIDEuIERlc2NyaXB0aXZvIOKAlCDCv3F1w6kgcGFzw7M/CgpFbCBtw6FzIHNpbXBsZSB5IGNvbcO6bi4gRGVzY3JpYmVzIGVsIHBhc2Fkby4gwqtMYXMgdmVudGFzIGZ1ZXJvbiDigqwyMiwwMjMuIEVsIE5vcnRlCmhpem8g4oKsMTIsMTQ1LsK7IFNpbiBleHBsaWNhY2nDs24sIHNpbiBwcmVkaWNjacOzbjogc29sbyBsb3MgaGVjaG9zLCBjb24gY2xhcmlkYWQuCgo+IMKrRGVzY3JpcHRpdm86IHZlbnRhcyB0b3RhbGVzIHBvciByZWdpw7NuLsK7CgohW0Rlc2NyaXB0aXZvIHBvciByZWdpw7NuXSguLi8uLi9hc3NldHMvZXhhbXBsZXMvZTAzMS5wbmcpCgpMYSBtYXlvcsOtYSBkZSBsb3MgcGFuZWxlcyBzb24gZGVzY3JpcHRpdm9zLiBSZXNwb25kZW4gwqvCv2PDs21vIG5vcyB2YT/CuyB5IHNvbiBsYQpiYXNlIHNvYnJlIGxhIHF1ZSBzZSBhcG95YSB0b2RvIGxvIGRlbcOhcy4KCkVsIGRlc2dsb3NlIHJlZ2lvbmFsLCBjb21vIGdyw6FmaWNvOgoKIVtWZW50YXMgcG9yIHJlZ2nDs24g4oCUIGdyw6FmaWNvIGRlIGJhcnJhc10oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2NoYXJ0LXJlZ2lvbi5wbmcpCgojIyAyLiBEaWFnbsOzc3RpY28g4oCUIMK/cG9yIHF1w6kgcGFzw7M/CgpBaG9yYSBjYXZhcy4gQWxnbyBjYW1iacOzLCB5IHF1aWVyZXMgbGEgY2F1c2EuIENvcnRhcywgY29tcGFyYXMgeSBjcnV6YXMgcmVmZXJlbmNpYXMKaGFzdGEgcXVlIGFmbG9yYSBsYSByYXrDs24uCgo+IMKrRGlhZ27Ds3N0aWNvOiDCv3F1w6kgY2F0ZWdvcsOtYSBnYW5hIG3DoXM/wrsKCiFbRGlhZ27Ds3N0aWNvIHBvciBjYXRlZ29yw61hXSguLi8uLi9hc3NldHMvZXhhbXBsZXMvZTAzMi5wbmcpCgo+IMKrQ29tcGFyYSB2ZW50YXMgZGVsIE5vcnRlIGNvbnRyYSBlbCBDZW50cm8uwrsKCiFbTm9ydGUgY29udHJhIENlbnRyb10oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2UwMzMucG5nKQoKRWwgdHJhYmFqbyBkaWFnbsOzc3RpY28gZXMgZG9uZGUgZWwgYW5hbGlzdGEgc2UgZ2FuYSBlbCBzdWVsZG8uIExvIGRlc2NyaXB0aXZvIHRlCmRpY2UgcXVlIGVsIHBhY2llbnRlIHRpZW5lIGZpZWJyZTsgbG8gZGlhZ27Ds3N0aWNvIGVuY3VlbnRyYSBsYSBpbmZlY2Npw7NuLgoKRWwgbWlzbW8gb2pvIGRpYWduw7NzdGljbyBwdWVzdG8gZW4gbGFzIHRpZW5kYXM6CgohW1ZlbnRhcyBwb3IgdGllbmRhIOKAlCBncsOhZmljbyBkZSBiYXJyYXNdKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9jaGFydC1zdG9yZS5wbmcpCgojIyAzLiBQcmVkaWN0aXZvIOKAlCDCv3F1w6kgcGFzYXLDoT8KClVzYXMgZWwgcGFzYWRvIHBhcmEgYWRpdmluYXIgZWwgZnV0dXJvLiBEZW1hbmRhIGVsIHByw7N4aW1vIHRyaW1lc3RyZSwgYWJhbmRvbm8gZWwKbWVzIHF1ZSB2aWVuZSwgdmVudGFzIGEgZmluIGRlIGHDsW8uIEVzdG8gc3VlbGUgbmVjZXNpdGFyIGVzdGFkw61zdGljYSBvIGFwcmVuZGl6YWplCmF1dG9tw6F0aWNvLCB5IHZpZW5lIGNvbiB1biByYW5nbyBkZSBjb25maWFuemE6IHVuYSBidWVuYSBwcmVkaWNjacOzbiBkaWNlIMKrdW5hcwoxMS4wMDAsIG3DoXMgbyBtZW5vc8K7LgoKPiDCq01lam9yIG1lcyBlbiB0b3RhbC7CuwoKIVtNZWpvciBtZXNdKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9lMDc2LnBuZykKClVuYSB2aXN0YSBkZSB1biBzb2xvIHBlcmlvZG8gY29tbyBlc3RhIGVzIGxhIG1hdGVyaWEgcHJpbWEgcGFyYSBsYSBwcmVkaWNjacOzbjogdmVzIGVsCnBhdHLDs24sIHkgbHVlZ28gbG8gcHJveWVjdGFzIGhhY2lhIGFkZWxhbnRlLgoKIyMgNC4gUHJlc2NyaXB0aXZvIOKAlCDCv3F1w6kgZGViZXLDrWFtb3MgaGFjZXI/CgpMbyBhbHRvIGRlIGxhIGVzY2FsZXJhLiBEYWRhIGxhIHByZWRpY2Npw7NuIHkgbGFzIHJlc3RyaWNjaW9uZXMsIMK/cXXDqSBhY2Npw7NuIG1heGltaXphCmVsIG9iamV0aXZvPyDCv1F1w6kgcHJlY2lvLCBxdcOpIHByb21vY2nDs24sIHF1w6kgbml2ZWwgZGUgc3RvY2s/IEVsIGFuw6FsaXNpcwpwcmVzY3JpcHRpdm8gZXMgZWwgbcOhcyByYXJvIHkgZGlmw61jaWwsIHkgbm9ybWFsbWVudGUgc2Ugc2llbnRhIGVuY2ltYSBkZSBsb3Mgb3Ryb3MKdHJlcy4KCiMjIExhIGVzY2FsZXJhIGVuIHVuYSBpbWFnZW4KCnwgVGlwbyB8IFByZWd1bnRhIHwgRXNmdWVyem8gfCBDb25maWFuemEgbmVjZXNhcmlhIHwKfC0tLXwtLS18LS0tfC0tLXwKfCBEZXNjcmlwdGl2byB8IMK/UXXDqSBwYXPDsz8gfCBCYWpvIHwgQWx0YSAoc29uIHNvbG8gaGVjaG9zKSB8CnwgRGlhZ27Ds3N0aWNvIHwgwr9Qb3IgcXXDqT8gfCBNZWRpbyB8IE1lZGlhIChjdWlkYWRvIGNvbiBjYXVzYXMgZmFsc2FzKSB8CnwgUHJlZGljdGl2byB8IMK/UXXDqSBzaWd1ZT8gfCBBbHRvIHwgTWVub3IgKGVzIHVuYSBhZGl2aW5hbnphIGNvbiB1biByYW5nbykgfAp8IFByZXNjcmlwdGl2byB8IMK/UXXDqSBoYWNlcj8gfCBFbCBtYXlvciB8IExhIG1lbm9yIChlcyB1bmEgcmVjb21lbmRhY2nDs24pIHwKCkbDrWphdGUgZW4gZWwgcGF0csOzbjogY3VhbnRvIG3DoXMgc3ViZXMsIG3DoXMgdmFsb3IgYcOxYWRlcywgeSBtZW5vcyBjaWVydG8gZXN0w6FzLiBVbgpidWVuIGFuYWxpc3RhIGVzIGhvbmVzdG8gc29icmUgZXNlIGludGVyY2FtYmlvLgoKIyMgQ2xhc2lmaWNhcjogZWwgbW92aW1pZW50byBmYXZvcml0byBkZWwgYW5hbGlzdGEKCkNsYXNpZmljYXIgY29udmllcnRlIHVuYSBsaXN0YSBwbGFuYSBlbiB1bmEgaGlzdG9yaWEuIFF1acOpbiBlcyBlbCBwcmltZXJvLCBxdWnDqW4gZWwKw7psdGltbywgcXVpw6luIG1lam9yYS4KCj4gwqtDbGFzaWZpY2EgcHJvZHVjdG9zIHBvciB2ZW50YXMuwrsKCiFbQ2xhc2lmaWNhciBwcm9kdWN0b3NdKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9lMDM0LnBuZykKCj4gwqtDYW50aWRhZCBtZWRpYSBwb3IgdmVudGEuwrsKCiFbQ2FudGlkYWQgbWVkaWEgcG9yIHZlbnRhXSguLi8uLi9hc3NldHMvZXhhbXBsZXMvZTA1OS5wbmcpCgpDbGFzaWZpY2FyIGVzIGRlc2NyaXB0aXZvLCBwZXJvIHNlw7FhbGEgZWwgdHJhYmFqbyBkaWFnbsOzc3RpY286IGVsIGZvbmRvIGRlIGxhIGxpc3RhCmVzIGRvbmRlIG1pcmFzIHByaW1lcm8gZW4gYnVzY2EgZGUgdW4gcHJvYmxlbWEuCgojIyBVbmEgY3VyaW9zaWRhZDogZWwgbWl0byBkZSBsYSBtYWR1cmV6IGFuYWzDrXRpY2EKCkEgbG9zIGNvbnN1bHRvcmVzIGxlcyBlbmNhbnRhIHZlbmRlciB1biDCq21vZGVsbyBkZSBtYWR1cmV6wrsgZG9uZGUgdGllbmVzIHF1ZSBlc2NhbGFyCmRlIGRlc2NyaXB0aXZvIGEgcHJlc2NyaXB0aXZvIG8gZXJlcyB1biByZXphZ2Fkby4gRW4gcmVhbGlkYWQsICoqYSBsYSBtYXlvcsOtYSBkZSBsb3MKbmVnb2Npb3MgbG9zIHRyYW5zZm9ybWFyw61hIHNvbG8gY29uIGFjZXJ0YXIgZW4gbG8gZGVzY3JpcHRpdm8geSBsbyBkaWFnbsOzc3RpY28uKiogTm8KdGUgYXZlcmfDvGVuY2VzIGRlIHVuIGJ1ZW4gwqtxdcOpIHBhc8OzIHkgcG9yIHF1w6nCuzogZXMgZG9uZGUgdml2ZSBlbCA5MCUgZGVsIHZhbG9yLiBMYXMKY2FwYXMgcHJlZGljdGl2YSB5IHByZXNjcmlwdGl2YSBzb24gbGEgZ3VpbmRhLCBubyBsYSB0YXJ0YS4KCi0tLQoKIyMgTG8gcXVlIHRlIGxsZXZhcsOhcyBkZSBlc3RlIGNhcMOtdHVsbwoKLSBDdWF0cm8gdGlwb3M6IGRlc2NyaXB0aXZvLCBkaWFnbsOzc3RpY28sIHByZWRpY3Rpdm8sIHByZXNjcmlwdGl2by4KLSBFbCB2YWxvciB5IGxhIGluY2VydGlkdW1icmUgYW1ib3Mgc3ViZW4gYSBtZWRpZGEgcXVlIGVzY2FsYXMuCi0gTGEgbWF5b3IgcGFydGUgZGVsIHZhbG9yIHZpdmUgZW4gZGVzY3JpcHRpdm8gKyBkaWFnbsOzc3RpY28uCi0gQ2xhc2lmaWNhciBlcyBsYSBmb3JtYSBtw6FzIHNpbXBsZSBkZSBlbmNvbnRyYXIgZMOzbmRlIG1pcmFyLgotIFPDqSBob25lc3RvIHNvYnJlIGN1w6FudG8gZmlhcnRlIGRlIGNhZGEgdGlwby4KClNpZ3VpZW50ZTogZWwgY2xpZW50ZSwgZWwgdGVtYSBkZSBhbsOhbGlzaXMgbcOhcyBpbXBvcnRhbnRlIHF1ZSBleGlzdGUuCg==
+# 12. Cuatro tipos de análisis
+
+Todo análisis que harás jamás cae en uno de cuatro tipos, ordenados por cuánto le
+piden al dato. Escalan una escalera: desde mirar atrás, a explicar por qué, a
+adivinar hacia adelante, a recomendar qué hacer. Saber qué tipo estás haciendo te
+dice cuánto empujar y cuánto fiarte de la respuesta.
+
+## 1. Descriptivo — ¿qué pasó?
+
+El más simple y común. Describes el pasado. «Las ventas fueron €22,023. El Norte
+hizo €12,145.» Sin explicación, sin predicción: solo los hechos, con claridad.
+
+> «Descriptivo: ventas totales por región.»
+
+![Descriptivo por región](../../assets/examples/e031.png)
+
+La mayoría de los paneles son descriptivos. Responden «¿cómo nos va?» y son la
+base sobre la que se apoya todo lo demás.
+
+El desglose regional, como gráfico:
+
+![Ventas por región — gráfico de barras](../../assets/examples/chart-region.png)
+
+## 2. Diagnóstico — ¿por qué pasó?
+
+Ahora cavas. Algo cambió, y quieres la causa. Cortas, comparas y cruzas referencias
+hasta que aflora la razón.
+
+> «Diagnóstico: ¿qué categoría gana más?»
+
+![Diagnóstico por categoría](../../assets/examples/e032.png)
+
+> «Compara ventas del Norte contra el Centro.»
+
+![Norte contra Centro](../../assets/examples/e033.png)
+
+El trabajo diagnóstico es donde el analista se gana el sueldo. Lo descriptivo te
+dice que el paciente tiene fiebre; lo diagnóstico encuentra la infección.
+
+El mismo ojo diagnóstico puesto en las tiendas:
+
+![Ventas por tienda — gráfico de barras](../../assets/examples/chart-store.png)
+
+## 3. Predictivo — ¿qué pasará?
+
+Usas el pasado para adivinar el futuro. Demanda el próximo trimestre, abandono el
+mes que viene, ventas a fin de año. Esto suele necesitar estadística o aprendizaje
+automático, y viene con un rango de confianza: una buena predicción dice «unas
+11.000, más o menos».
+
+> «Mejor mes en total.»
+
+![Mejor mes](../../assets/examples/e076.png)
+
+Una vista de un solo periodo como esta es la materia prima para la predicción: ves el
+patrón, y luego lo proyectas hacia adelante.
+
+## 4. Prescriptivo — ¿qué deberíamos hacer?
+
+Lo alto de la escalera. Dada la predicción y las restricciones, ¿qué acción maximiza
+el objetivo? ¿Qué precio, qué promoción, qué nivel de stock? El análisis
+prescriptivo es el más raro y difícil, y normalmente se sienta encima de los otros
+tres.
+
+## La escalera en una imagen
+
+| Tipo | Pregunta | Esfuerzo | Confianza necesaria |
+|---|---|---|---|
+| Descriptivo | ¿Qué pasó? | Bajo | Alta (son solo hechos) |
+| Diagnóstico | ¿Por qué? | Medio | Media (cuidado con causas falsas) |
+| Predictivo | ¿Qué sigue? | Alto | Menor (es una adivinanza con un rango) |
+| Prescriptivo | ¿Qué hacer? | El mayor | La menor (es una recomendación) |
+
+Fíjate en el patrón: cuanto más subes, más valor añades, y menos cierto estás. Un
+buen analista es honesto sobre ese intercambio.
+
+## Clasificar: el movimiento favorito del analista
+
+Clasificar convierte una lista plana en una historia. Quién es el primero, quién el
+último, quién mejora.
+
+> «Clasifica productos por ventas.»
+
+![Clasificar productos](../../assets/examples/e034.png)
+
+> «Cantidad media por venta.»
+
+![Cantidad media por venta](../../assets/examples/e059.png)
+
+Clasificar es descriptivo, pero señala el trabajo diagnóstico: el fondo de la lista
+es donde miras primero en busca de un problema.
+
+## Una curiosidad: el mito de la madurez analítica
+
+A los consultores les encanta vender un «modelo de madurez» donde tienes que escalar
+de descriptivo a prescriptivo o eres un rezagado. En realidad, **a la mayoría de los
+negocios los transformaría solo con acertar en lo descriptivo y lo diagnóstico.** No
+te avergüences de un buen «qué pasó y por qué»: es donde vive el 90% del valor. Las
+capas predictiva y prescriptiva son la guinda, no la tarta.
+
+---
+
+## Lo que te llevarás de este capítulo
+
+- Cuatro tipos: descriptivo, diagnóstico, predictivo, prescriptivo.
+- El valor y la incertidumbre ambos suben a medida que escalas.
+- La mayor parte del valor vive en descriptivo + diagnóstico.
+- Clasificar es la forma más simple de encontrar dónde mirar.
+- Sé honesto sobre cuánto fiarte de cada tipo.
+
+Siguiente: el cliente, el tema de análisis más importante que existe.

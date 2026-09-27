@@ -1,1 +1,76 @@
-IyBBcMOpbmRpY2UgSCDigJQgUHJlZ3VudGFzIGZyZWN1ZW50ZXMgZGUgZW50cmV2aXN0YXMKClByZWd1bnRhcyBjb211bmVzIGRlIGVudHJldmlzdGEgcGFyYSBhbmFsaXN0YSBkZSBkYXRvcywgY29uIHJlc3B1ZXN0YXMgY29ydGFzIHF1ZSBtdWVzdHJhbgpxdWUgZW50aWVuZGVzIHRhbnRvIGVsIG9maWNpbyBjb21vIGVsIHV0aWxsYWplIG1vZGVybm8uCgojIyDCq8K/UXXDqSBoYWNlIGRlIHZlcmRhZCB1biBhbmFsaXN0YSBkZSBkYXRvcz/CuwoKQ29udmllcnRlIHByZWd1bnRhcyBkZSBuZWdvY2lvIGVuIHJlc3B1ZXN0YXMgZGUgZGF0b3MuIEVuY3VlbnRyYSB5IGxpbXBpYSBkYXRvcywgbG9zCm1vZGVsYSwgY2FsY3VsYSBtw6l0cmljYXMgeSBjdWVudGEgdW5hIGhpc3RvcmlhIHF1ZSBpbXB1bHNhIHVuYSBkZWNpc2nDs24uIExhIGhlcnJhbWllbnRhCm1hbmVqYSBlbCBoYWNlcjsgZWwgYW5hbGlzdGEgcG9zZWUgbGEgcHJlZ3VudGEgeSBlbCBjcml0ZXJpby4KCiMjIMKrwr9TUUwgbyBEQVg/wrsKCkFtYm9zLiBTUUwgcGFyYSBjb25zdWx0YXIgYmFzZXMgZGUgZGF0b3M7IERBWCBwYXJhIG1vZGVsYXIgeSBtZWRpZGFzIGVuIFBvd2VyIEJJLiBTZQpjb21wbGVtZW50YW4uIFNhYmVyIGN1w6FuZG8gdXNhciBjYWRhIHVubyBlcyBsYSBoYWJpbGlkYWQgcmVhbC4KCiMjIMKrwr9DdcOhbCBlcyBsYSBkaWZlcmVuY2lhIGVudHJlIHVuYSBjb2x1bW5hIGNhbGN1bGFkYSB5IHVuYSBtZWRpZGE/wrsKClVuYSBjb2x1bW5hIGNhbGN1bGFkYSBzZSBjYWxjdWxhIHVuYSB2ZXogcG9yIGZpbGEgeSBzZSBndWFyZGEuIFVuYSBtZWRpZGEgc2UgY2FsY3VsYSBlbgplbCBtb21lbnRvIGRlIGxhIGNvbnN1bHRhLCByZXNwb25kaWVuZG8gYSBsb3MgZmlsdHJvcy4gVXNhIHVuYSBjb2x1bW5hIHBhcmEgYXRyaWJ1dG9zIGEKbml2ZWwgZGUgZmlsYTsgdXNhIHVuYSBtZWRpZGEgcGFyYSBhZ3JlZ2FjaW9uZXMgcXVlIGRlYmVuIHJlYWNjaW9uYXIgYSBsb3MgZmlsdHJvcyBkZWwKaW5mb3JtZS4KCiMjIMKrRXhwbGljYSBDQUxDVUxBVEUuwrsKCkNBTENVTEFURSBjYW1iaWEgZWwgY29udGV4dG8gZGUgZmlsdHJvIGRlIHVuYSBtZWRpZGEuIEVzIGxhIGZ1bmNpw7NuIG3DoXMgcG9kZXJvc2EgZGUgREFYCnBvcnF1ZSB0ZSBkZWphIGNhbGN1bGFyIHVuIHZhbG9yIGJham8gdW4gY29uanVudG8gZXNwZWPDrWZpY28gZGUgZmlsdHJvczogcG9yIGVqZW1wbG8sCnZlbnRhcyBkZSB1bmEgY2F0ZWdvcsOtYSwgbyBleGNsdXllbmRvIHVuYSByZWdpw7NuLgoKIyMgwqvCv0PDs21vIG1hbmVqYXMgbGEgZGl2aXNpw7NuIHBvciBjZXJvP8K7CgpVc2EgRElWSURFIGVuIHZleiBkZSBgL2AuIERJVklERSBkZXZ1ZWx2ZSB1biByZXN1bHRhZG8gc2VndXJvIChlbiBibGFuY28gbyB1biB2YWxvciBkZQpyZXNwYWxkbykgY3VhbmRvIGVsIGRlbm9taW5hZG9yIGVzIGNlcm8uIE51bmNhIHVzZXMgYC9gIGNydWRvIGVuIHVuYSBtZWRpZGEuCgojIyDCq8K/Q8OzbW8gY29tcHJ1ZWJhcyBsYSBjYWxpZGFkIGRlIGRhdG9zP8K7CgpQZXJmaWxhZG8gZGUgbGFzIHRhYmxhczogdmFsb3JlcyBkaXN0aW50b3MsIGh1ZWNvcywgbcOtbmltby9tw6F4aW1vLCBkdXBsaWNhZG9zLiBDb25jaWxpYQp0b3RhbGVzIGNvbiBsYSBmdWVudGUuIENvcnJlIHVuYSBjb21wcm9iYWNpw7NuIGRlIGJ1ZW5hcyBwcsOhY3RpY2FzIHNvYnJlIGVsIG1vZGVsby4gVW4KbW9kZWxvIGxpbXBpbyBlcyBsYSBiYXNlIGRlIGNhZGEgbsO6bWVybyBmaWFibGUuCgojIyDCq8K/UXXDqSBlcyB1biBlc3F1ZW1hIGRlIGVzdHJlbGxhP8K7CgpVbmEgdGFibGEgZGUgaGVjaG9zIGNlbnRyYWwgKHAuIGVqLiBTYWxlcykgY29uZWN0YWRhIGEgdGFibGFzIGRlIGRpbWVuc2nDs24gKFByb2R1Y3RzLApDdXN0b21lcnMsIFN0b3JlcykgcG9yIHJlbGFjaW9uZXMgbXVjaG9zLWEtdW5vLiBFcyBsYSBmb3JtYSBlc3TDoW5kYXIgeSBlZmljaWVudGUgcGFyYQptb2RlbG9zIGFuYWzDrXRpY29zLgoKIyMgwqvCv0PDs21vIGxpZGlhcyBjb24gdW4gZ3LDoWZpY28gZW5nYcOxb3NvP8K7CgpSZWRpYsO6amFsbyBjb24gaG9uZXN0aWRhZC4gUmV2aXNhIGVsIGVqZSwgbGEgdmVudGFuYSB0ZW1wb3JhbCB5IGxhIGFncmVnYWNpw7NuLiBTaSB1bgpncsOhZmljbyBwdWVkZSBsZWVyc2UgZGUgZG9zIG1hbmVyYXMsIGVsIHRyYWJham8gZGVsIGFuYWxpc3RhIGVzIGhhY2VyIHF1ZSBsYSBsZWN0dXJhCmhvbmVzdGEgc2VhIGxhIG9idmlhLgoKIyMgwqvCv1F1w6kgaGFjZXMgY3VhbmRvIGxvcyBkYXRvcyBjb250cmFkaWNlbiBsYSByZXNwdWVzdGEgZXNwZXJhZGE/wrsKCkbDrWF0ZSBkZSBsb3MgZGF0b3MsIHkgbHVlZ28gaW52ZXN0aWdhIHBvciBxdcOpLiBVbiByZXN1bHRhZG8gc29ycHJlbmRlbnRlIHN1ZWxlIHNlciBlbAptw6FzIHZhbGlvc28uIFJldmlzYSBsYSBmdWVudGUsIGxvcyBmaWx0cm9zIHkgbGFzIGRlZmluaWNpb25lcyBhbnRlcyBkZSBjb25jbHVpci4KCiMjIMKrwr9Dw7NtbyB1c2FzIGxhcyBoZXJyYW1pZW50YXMgZGUgSUEgZW4gdHUgZmx1am8gZGUgdHJhYmFqbz/CuwoKQ29tbyB1biBhY2VsZXJhZG9yLCBubyB1biByZWVtcGxhem8uIFVzbyB1biBhc2lzdGVudGUgKEFnZW50QnJpZGdlICsgUG93ZXJCSVRvb2wpIHBhcmEKY29uc3RydWlyIHkgdmFsaWRhciBtZWRpZGFzLCBkb2N1bWVudGFyIGVsIG1vZGVsbyB5IGNvcnJlciBjb21wcm9iYWNpb25lcyBkZSBidWVuYXMKcHLDoWN0aWNhczogYXPDrSBwYXNvIG1pIHRpZW1wbyBlbiBsYXMgcHJlZ3VudGFzIHkgbGEgaGlzdG9yaWEsIG5vIGVuIGxhIHNpbnRheGlzLiBSZXZpc28KY2FkYSBuw7ptZXJvIGFudGVzIGRlIHB1YmxpY2FybG8uIExhIGhlcnJhbWllbnRhIGhhY2UgZWwgY8OzbW87IHlvIHBvc2VvIGVsIHF1w6kgeSBlbCBwb3IKcXXDqS4KCiMjIMKrSMOhYmxhbWUgZGUgdW4gcHJveWVjdG8gcXVlIGNvbnN0cnVpc3RlLsK7CgpVc2EgZWwgcHJveWVjdG8gZGUgcG9ydGFmb2xpbyBkZWwgQXDDqW5kaWNlIEc6IGxhIHByZWd1bnRhLCBlbCBtb2RlbG8sIGxhcyBtw6l0cmljYXMsIGVsCnBhbmVsLCBsYSBoaXN0b3JpYSB5IGPDs21vIGF5dWTDsyBlbCBhc2lzdGVudGUuIE11ZXN0cmEgcXVlIHB1ZWRlcyBoYWNlciB0b2RhIGxhIGNhZGVuYSB5CnF1ZSBlbnRpZW5kZXMgY2FkYSBwYXNvLgoKIyMgTGEgbWV0YS1yZXNwdWVzdGEKCkNhc2kgdG9kYSBidWVuYSByZXNwdWVzdGEgdnVlbHZlIGEgbGEgbWlzbWEgaWRlYTogKipsYSBoZXJyYW1pZW50YSBoYWNlIGVsIHRyYWJham8KcsOhcGlkbzsgZWwgYW5hbGlzdGEgbG8gaGFjZSBiaWVuLioqIE11ZXN0cmEgcXVlIGNvbm9jZXMgYW1iYXMgbWl0YWRlcyB5IGRlc3RhY2FzIHNvYnJlIGxhCmdlbnRlIHF1ZSBzb2xvIGNvbm9jZSB1bmEuCg==
+# Apéndice H — Preguntas frecuentes de entrevistas
+
+Preguntas comunes de entrevista para analista de datos, con respuestas cortas que muestran
+que entiendes tanto el oficio como el utillaje moderno.
+
+## «¿Qué hace de verdad un analista de datos?»
+
+Convierte preguntas de negocio en respuestas de datos. Encuentra y limpia datos, los
+modela, calcula métricas y cuenta una historia que impulsa una decisión. La herramienta
+maneja el hacer; el analista posee la pregunta y el criterio.
+
+## «¿SQL o DAX?»
+
+Ambos. SQL para consultar bases de datos; DAX para modelar y medidas en Power BI. Se
+complementan. Saber cuándo usar cada uno es la habilidad real.
+
+## «¿Cuál es la diferencia entre una columna calculada y una medida?»
+
+Una columna calculada se calcula una vez por fila y se guarda. Una medida se calcula en
+el momento de la consulta, respondiendo a los filtros. Usa una columna para atributos a
+nivel de fila; usa una medida para agregaciones que deben reaccionar a los filtros del
+informe.
+
+## «Explica CALCULATE.»
+
+CALCULATE cambia el contexto de filtro de una medida. Es la función más poderosa de DAX
+porque te deja calcular un valor bajo un conjunto específico de filtros: por ejemplo,
+ventas de una categoría, o excluyendo una región.
+
+## «¿Cómo manejas la división por cero?»
+
+Usa DIVIDE en vez de `/`. DIVIDE devuelve un resultado seguro (en blanco o un valor de
+respaldo) cuando el denominador es cero. Nunca uses `/` crudo en una medida.
+
+## «¿Cómo compruebas la calidad de datos?»
+
+Perfilado de las tablas: valores distintos, huecos, mínimo/máximo, duplicados. Concilia
+totales con la fuente. Corre una comprobación de buenas prácticas sobre el modelo. Un
+modelo limpio es la base de cada número fiable.
+
+## «¿Qué es un esquema de estrella?»
+
+Una tabla de hechos central (p. ej. Sales) conectada a tablas de dimensión (Products,
+Customers, Stores) por relaciones muchos-a-uno. Es la forma estándar y eficiente para
+modelos analíticos.
+
+## «¿Cómo lidias con un gráfico engañoso?»
+
+Redibújalo con honestidad. Revisa el eje, la ventana temporal y la agregación. Si un
+gráfico puede leerse de dos maneras, el trabajo del analista es hacer que la lectura
+honesta sea la obvia.
+
+## «¿Qué haces cuando los datos contradicen la respuesta esperada?»
+
+Fíate de los datos, y luego investiga por qué. Un resultado sorprendente suele ser el
+más valioso. Revisa la fuente, los filtros y las definiciones antes de concluir.
+
+## «¿Cómo usas las herramientas de IA en tu flujo de trabajo?»
+
+Como un acelerador, no un reemplazo. Uso un asistente (AgentBridge + PowerBITool) para
+construir y validar medidas, documentar el modelo y correr comprobaciones de buenas
+prácticas: así paso mi tiempo en las preguntas y la historia, no en la sintaxis. Reviso
+cada número antes de publicarlo. La herramienta hace el cómo; yo poseo el qué y el por
+qué.
+
+## «Háblame de un proyecto que construiste.»
+
+Usa el proyecto de portafolio del Apéndice G: la pregunta, el modelo, las métricas, el
+panel, la historia y cómo ayudó el asistente. Muestra que puedes hacer toda la cadena y
+que entiendes cada paso.
+
+## La meta-respuesta
+
+Casi toda buena respuesta vuelve a la misma idea: **la herramienta hace el trabajo
+rápido; el analista lo hace bien.** Muestra que conoces ambas mitades y destacas sobre la
+gente que solo conoce una.

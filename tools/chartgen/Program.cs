@@ -1,1 +1,219 @@
-dXNpbmcgU3lzdGVtLkdsb2JhbGl6YXRpb247CnVzaW5nIFN5c3RlbS5UZXh0Owp1c2luZyBTeXN0ZW0uVGV4dC5FbmNvZGluZ3MuV2ViOwp1c2luZyBTeXN0ZW0uVGV4dC5Kc29uOwp1c2luZyBTeXN0ZW0uVGV4dC5Vbmljb2RlOwp1c2luZyBQdXBwZXRlZXJTaGFycDsKCi8vIFJlbmRlcnMgcHJvZmVzc2lvbmFsICJkYXNoYm9hcmQgY2FyZCIgUE5HcyB1c2luZyBBcGFjaGUgRUNoYXJ0cyAoYnVuZGxlZCBsb2NhbGx5KS4KLy8gUmVhZHMgYSBjaGFydHMuanNvbiBtYW5pZmVzdDogW3sgb3V0LCB0aXRsZSwgdHlwZSwgbGFiZWxzW10sIHZhbHVlc1tdLCB1bml0PyB9XQovLyBFQ2hhcnRzIGNvbXB1dGVzIGxheW91dCwgYXV0by1yb3RhdGVzIGxvbmcgY2F0ZWdvcnkgbGFiZWxzLCBmaXRzIG1hcmdpbnMKLy8gKGNvbnRhaW5MYWJlbCkgYW5kIGRyYXdzIHZhbHVlIGxhYmVscyDigJQgbm8gY2xpcHBpbmcuCgp2YXIgbWFuaWZlc3RQYXRoID0gYXJncy5MZW5ndGggPiAwID8gYXJnc1swXQogICAgOiBQYXRoLkNvbWJpbmUoQXBwQ29udGV4dC5CYXNlRGlyZWN0b3J5LCAiY2hhcnRzLmpzb24iKTsKaWYgKCFGaWxlLkV4aXN0cyhtYW5pZmVzdFBhdGgpKQp7CiAgICBDb25zb2xlLkVycm9yLldyaXRlTGluZSgkImNoYXJ0cy5qc29uIG5vdCBmb3VuZDoge21hbmlmZXN0UGF0aH0iKTsKICAgIHJldHVybiAxOwp9Cgp2YXIganNvbiA9IEZpbGUuUmVhZEFsbFRleHQobWFuaWZlc3RQYXRoKTsKdmFyIG9wdHMgPSBuZXcgSnNvblNlcmlhbGl6ZXJPcHRpb25zIHsgUHJvcGVydHlOYW1lQ2FzZUluc2Vuc2l0aXZlID0gdHJ1ZSB9Owp2YXIgY2hhcnRzID0gSnNvblNlcmlhbGl6ZXIuRGVzZXJpYWxpemU8TGlzdDxDaGFydD4+KGpzb24sIG9wdHMpID8/IG5ldyBMaXN0PENoYXJ0PigpOwoKdmFyIGJvb2tSb290ID0gUmVzb2x2ZUJvb2tSb290KG1hbmlmZXN0UGF0aCk7CkNvbnNvbGUuV3JpdGVMaW5lKCQiYm9vayByb290OiB7Ym9va1Jvb3R9Iik7Cgp2YXIgZWNoYXJ0c1BhdGggPSBQYXRoLkNvbWJpbmUoYm9va1Jvb3QsICJ0b29scyIsICJjaGFydGdlbiIsICJlY2hhcnRzLm1pbi5qcyIpOwppZiAoIUZpbGUuRXhpc3RzKGVjaGFydHNQYXRoKSkKewogICAgQ29uc29sZS5FcnJvci5Xcml0ZUxpbmUoJCJlY2hhcnRzLm1pbi5qcyBub3QgZm91bmQgYXQge2VjaGFydHNQYXRofSIpOwogICAgcmV0dXJuIDE7Cn0KdmFyIGVjaGFydHNKcyA9IEZpbGUuUmVhZEFsbFRleHQoZWNoYXJ0c1BhdGgpOwoKdmFyIGJyb3dzZXIgPSBhd2FpdCBQdXBwZXRlZXIuTGF1bmNoQXN5bmMobmV3IExhdW5jaE9wdGlvbnMKewogICAgRXhlY3V0YWJsZVBhdGggPSBGaW5kQnJvd3NlcigpID8/IHRocm93IG5ldyBFeGNlcHRpb24oIk5vIENocm9taXVtL0VkZ2UgZm91bmQiKSwKICAgIEFyZ3MgPSBuZXdbXSB7ICItLW5vLXNhbmRib3giLCAiLS1kaXNhYmxlLWdwdSIsICItLWRpc2FibGUtZGV2LXNobS11c2FnZSIgfSwKfSk7Cgp2YXIgUGFsZXR0ZSA9IG5ld1tdCnsKICAgICIjMTE4REZGIiwgIiMxMjIzOUUiLCAiI0U2NkMzNyIsICIjNkIwMDdCIiwgIiMwMUI4QUEiLAogICAgIiNFMDQ0QTciLCAiIzc0NEVDMiIsICIjRDlCMzAwIiwgIiMzNzE1N0QiLCAiIzNGQzFDOSIKfTsKCmludCBtYWRlID0gMDsKdHJ5CnsKICAgIGZvcmVhY2ggKHZhciBjIGluIGNoYXJ0cykKICAgIHsKICAgICAgICB2YXIgb3V0UGF0aCA9IFBhdGguSXNQYXRoUm9vdGVkKGMuT3V0KSA/IGMuT3V0IDogUGF0aC5Db21iaW5lKGJvb2tSb290LCBjLk91dCk7CiAgICAgICAgRGlyZWN0b3J5LkNyZWF0ZURpcmVjdG9yeShQYXRoLkdldERpcmVjdG9yeU5hbWUob3V0UGF0aCkhKTsKCiAgICAgICAgdmFyIG9wdGlvbkpzID0gQnVpbGRPcHRpb24oYywgUGFsZXR0ZSk7CiAgICAgICAgdmFyIGh0bWwgPSBDYXJkSHRtbChjLCBlY2hhcnRzSnMsIG9wdGlvbkpzKTsKICAgICAgICB2YXIgdG1wID0gUGF0aC5Db21iaW5lKFBhdGguR2V0VGVtcFBhdGgoKSwgJCJjaGFydC17R3VpZC5OZXdHdWlkKCk6Tn0uaHRtbCIpOwogICAgICAgIEZpbGUuV3JpdGVBbGxUZXh0KHRtcCwgaHRtbCwgbmV3IFVURjhFbmNvZGluZyhmYWxzZSkpOwogICAgICAgIHRyeQogICAgICAgIHsKICAgICAgICAgICAgYXdhaXQgdXNpbmcgdmFyIHBhZ2UgPSBhd2FpdCBicm93c2VyLk5ld1BhZ2VBc3luYygpOwogICAgICAgICAgICBhd2FpdCBwYWdlLlNldFZpZXdwb3J0QXN5bmMobmV3IFZpZXdQb3J0T3B0aW9ucyB7IFdpZHRoID0gMTEwMCwgSGVpZ2h0ID0gNjgwLCBEZXZpY2VTY2FsZUZhY3RvciA9IDIgfSk7CiAgICAgICAgICAgIGF3YWl0IHBhZ2UuR29Ub0FzeW5jKG5ldyBVcmkodG1wKS5BYnNvbHV0ZVVyaSwKICAgICAgICAgICAgICAgIG5ldyBOYXZpZ2F0aW9uT3B0aW9ucyB7IFdhaXRVbnRpbCA9IG5ld1tdIHsgV2FpdFVudGlsTmF2aWdhdGlvbi5Mb2FkIH0gfSk7CiAgICAgICAgICAgIGF3YWl0IHBhZ2UuRXZhbHVhdGVFeHByZXNzaW9uQXN5bmMoImRvY3VtZW50LmZvbnRzICYmIGRvY3VtZW50LmZvbnRzLnJlYWR5Iik7CiAgICAgICAgICAgIGF3YWl0IFRhc2suRGVsYXkoNDAwKTsgLy8gbGV0IEVDaGFydHMgZmluaXNoIGEgc3luY2hyb25vdXMgZHJhdwogICAgICAgICAgICBhd2FpdCBwYWdlLlNjcmVlbnNob3RBc3luYyhvdXRQYXRoLCBuZXcgU2NyZWVuc2hvdE9wdGlvbnMgeyBUeXBlID0gU2NyZWVuc2hvdFR5cGUuUG5nLCBGdWxsUGFnZSA9IGZhbHNlIH0pOwogICAgICAgICAgICBDb25zb2xlLldyaXRlTGluZSgkIntjLlR5cGUsLTZ9IC0+IHtjLk91dH0gICh7Yy5MYWJlbHMuTGVuZ3RofSBwdHMpIik7CiAgICAgICAgICAgIG1hZGUrKzsKICAgICAgICB9CiAgICAgICAgZmluYWxseSB7IHRyeSB7IEZpbGUuRGVsZXRlKHRtcCk7IH0gY2F0Y2ggeyB9IH0KICAgIH0KfQpmaW5hbGx5IHsgYXdhaXQgYnJvd3Nlci5DbG9zZUFzeW5jKCk7IH0KCkNvbnNvbGUuV3JpdGVMaW5lKCQicmVuZGVyZWQge21hZGV9IGNoYXJ0KHMpIik7CnJldHVybiAwOwoKc3RhdGljIHN0cmluZyBCdWlsZE9wdGlvbihDaGFydCBjLCBzdHJpbmdbXSBwYWxldHRlKQp7CiAgICB2YXIgbGFiZWxzID0gSnNvblNlcmlhbGl6ZXIuU2VyaWFsaXplKGMuTGFiZWxzKTsKICAgIHZhciB2YWx1ZXMgPSBKc29uU2VyaWFsaXplci5TZXJpYWxpemUoYy5WYWx1ZXMpOwogICAgdmFyIGNvbG9ycyA9IEpzb25TZXJpYWxpemVyLlNlcmlhbGl6ZShwYWxldHRlKTsKICAgIGludCBuID0gYy5MYWJlbHMuTGVuZ3RoOwogICAgYm9vbCBsb25naXNoID0gYy5MYWJlbHMuQW55KGwgPT4gbC5MZW5ndGggPiA4KTsKICAgIGludCByb3RhdGUgPSBuID49IDEwID8gNDIgOiAobiA+PSA2IHx8IGxvbmdpc2ggPyAyOCA6IDApOwogICAgc3RyaW5nIHR5cGUgPSBjLlR5cGUuVG9Mb3dlckludmFyaWFudCgpOwoKICAgIGlmICh0eXBlID09ICJsaW5lIikKICAgIHsKICAgICAgICByZXR1cm4gJCQiIiIKICAgICAgICB7CiAgICAgICAgICBhbmltYXRpb246IGZhbHNlLAogICAgICAgICAgZ3JpZDogeyBsZWZ0OiA3MCwgcmlnaHQ6IDQwLCB0b3A6IDMwLCBib3R0b206IDYwLCBjb250YWluTGFiZWw6IHRydWUgfSwKICAgICAgICAgIHhBeGlzOiB7IHR5cGU6ICdjYXRlZ29yeScsIGJvdW5kYXJ5R2FwOiBmYWxzZSwgZGF0YToge3tsYWJlbHN9fSwKICAgICAgICAgICAgICAgICAgIGF4aXNMYWJlbDogeyBmb250U2l6ZTogMTMsIGNvbG9yOiAnIzQxNTg2YicgfSwKICAgICAgICAgICAgICAgICAgIGF4aXNMaW5lOiB7IGxpbmVTdHlsZTogeyBjb2xvcjogJyNjN2QyZGQnIH0gfSB9LAogICAgICAgICAgeUF4aXM6IHsgdHlwZTogJ3ZhbHVlJywgYXhpc0xhYmVsOiB7IGZvbnRTaXplOiAxMiwgY29sb3I6ICcjOGE5OWE4JywKICAgICAgICAgICAgICAgICAgIGZvcm1hdHRlcjogZnVuY3Rpb24odil7IHJldHVybiB2LnRvTG9jYWxlU3RyaW5nKCdlbi1VUycpOyB9IH0sCiAgICAgICAgICAgICAgICAgICBzcGxpdExpbmU6IHsgbGluZVN0eWxlOiB7IGNvbG9yOiAnI2U2ZWJmMScgfSB9IH0sCiAgICAgICAgICBzZXJpZXM6IFt7IHR5cGU6ICdsaW5lJywgZGF0YToge3t2YWx1ZXN9fSwgc21vb3RoOiB0cnVlLCBzeW1ib2w6ICdjaXJjbGUnLCBzeW1ib2xTaXplOiA4LAogICAgICAgICAgICAgICAgICAgIGxpbmVTdHlsZTogeyB3aWR0aDogMy41LCBjb2xvcjogJyMxMThERkYnIH0sCiAgICAgICAgICAgICAgICAgICAgaXRlbVN0eWxlOiB7IGNvbG9yOiAnIzExOERGRicgfSwKICAgICAgICAgICAgICAgICAgICBhcmVhU3R5bGU6IHsgY29sb3I6IHsgdHlwZTonbGluZWFyJywgeDowLHk6MCx4MjowLHkyOjEsCiAgICAgICAgICAgICAgICAgICAgICAgY29sb3JTdG9wczpbe29mZnNldDowLGNvbG9yOidyZ2JhKDE3LDE0MSwyNTUsMC4yOCknfSx7b2Zmc2V0OjEsY29sb3I6J3JnYmEoMTcsMTQxLDI1NSwwLjAyKSd9XSB9IH0sCiAgICAgICAgICAgICAgICAgICAgbGFiZWw6IHsgc2hvdzogdHJ1ZSwgcG9zaXRpb246ICd0b3AnLCBmb250U2l6ZTogMTEsIGNvbG9yOiAnIzI3NDE1NicsCiAgICAgICAgICAgICAgICAgICAgICAgZm9ybWF0dGVyOiBmdW5jdGlvbihwKXsgcmV0dXJuIHAudmFsdWUudG9Mb2NhbGVTdHJpbmcoJ2VuLVVTJyk7IH0gfSB9XQogICAgICAgIH0KICAgICAgICAiIiI7CiAgICB9CgogICAgaWYgKHR5cGUgPT0gImRvbnV0IiB8fCB0eXBlID09ICJwaWUiKQogICAgewogICAgICAgIHJldHVybiAkJCIiIgogICAgICAgIHsKICAgICAgICAgIGFuaW1hdGlvbjogZmFsc2UsCiAgICAgICAgICBsZWdlbmQ6IHsgb3JpZW50OiAndmVydGljYWwnLCByaWdodDogMjQsIHRvcDogJ21pZGRsZScsCiAgICAgICAgICAgICAgICAgICAgdGV4dFN0eWxlOiB7IGZvbnRTaXplOiAxNSwgY29sb3I6ICcjMzM1MDZhJyB9LCBpdGVtR2FwOiAxNCB9LAogICAgICAgICAgc2VyaWVzOiBbeyB0eXBlOiAncGllJywgcmFkaXVzOiBbJzQ2JScsICc3MiUnXSwgY2VudGVyOiBbJzM0JScsICc1MiUnXSwKICAgICAgICAgICAgICAgICAgICBhdm9pZExhYmVsT3ZlcmxhcDogdHJ1ZSwKICAgICAgICAgICAgICAgICAgICBpdGVtU3R5bGU6IHsgYm9yZGVyQ29sb3I6ICcjZmZmZmZmJywgYm9yZGVyV2lkdGg6IDMgfSwKICAgICAgICAgICAgICAgICAgICBsYWJlbDogeyBzaG93OiB0cnVlLCBmb3JtYXR0ZXI6ICd7Yn06IHtkfSUnLCBmb250U2l6ZTogMTQsIGNvbG9yOiAnIzI3NDE1NicgfSwKICAgICAgICAgICAgICAgICAgICBsYWJlbExpbmU6IHsgbGVuZ3RoOiAxNCwgbGVuZ3RoMjogMTQgfSwKICAgICAgICAgICAgICAgICAgICBkYXRhOiB7e2xhYmVsc319Lm1hcChmdW5jdGlvbihuYW1lLCBpKXsgcmV0dXJuIHsgbmFtZTogbmFtZSwgdmFsdWU6IHt7dmFsdWVzfX1baV0sCiAgICAgICAgICAgICAgICAgICAgICAgaXRlbVN0eWxlOiB7IGNvbG9yOiB7e2NvbG9yc319W2kgJSB7e2NvbG9yc319Lmxlbmd0aF0gfSB9OyB9KSB9XQogICAgICAgIH0KICAgICAgICAiIiI7CiAgICB9CgogICAgLy8gYmFyIChkZWZhdWx0KQogICAgcmV0dXJuICQkIiIiCiAgICB7CiAgICAgIGFuaW1hdGlvbjogZmFsc2UsCiAgICAgIGdyaWQ6IHsgbGVmdDogNzAsIHJpZ2h0OiAzMCwgdG9wOiAzNCwgYm90dG9tOiA5MCwgY29udGFpbkxhYmVsOiB0cnVlIH0sCiAgICAgIHhBeGlzOiB7IHR5cGU6ICdjYXRlZ29yeScsIGRhdGE6IHt7bGFiZWxzfX0sCiAgICAgICAgICAgICAgIGF4aXNMYWJlbDogeyBpbnRlcnZhbDogMCwgcm90YXRlOiB7e3JvdGF0ZX19LCBmb250U2l6ZTogMTMsIGNvbG9yOiAnIzQxNTg2YicgfSwKICAgICAgICAgICAgICAgYXhpc0xpbmU6IHsgbGluZVN0eWxlOiB7IGNvbG9yOiAnI2M3ZDJkZCcgfSB9LAogICAgICAgICAgICAgICBheGlzVGljazogeyBhbGlnbldpdGhMYWJlbDogdHJ1ZSB9IH0sCiAgICAgIHlBeGlzOiB7IHR5cGU6ICd2YWx1ZScsIGF4aXNMYWJlbDogeyBmb250U2l6ZTogMTIsIGNvbG9yOiAnIzhhOTlhOCcsCiAgICAgICAgICAgICAgIGZvcm1hdHRlcjogZnVuY3Rpb24odil7IHJldHVybiB2LnRvTG9jYWxlU3RyaW5nKCdlbi1VUycpOyB9IH0sCiAgICAgICAgICAgICAgIHNwbGl0TGluZTogeyBsaW5lU3R5bGU6IHsgY29sb3I6ICcjZTZlYmYxJyB9IH0gfSwKICAgICAgc2VyaWVzOiBbeyB0eXBlOiAnYmFyJywgYmFyTWF4V2lkdGg6IDc4LAogICAgICAgICAgICAgICAgZGF0YToge3t2YWx1ZXN9fS5tYXAoZnVuY3Rpb24odiwgaSl7IHJldHVybiB7IHZhbHVlOiB2LAogICAgICAgICAgICAgICAgICAgaXRlbVN0eWxlOiB7IGNvbG9yOiB7e2NvbG9yc319W2kgJSB7e2NvbG9yc319Lmxlbmd0aF0sIGJvcmRlclJhZGl1czogWzUsNSwwLDBdIH0gfTsgfSksCiAgICAgICAgICAgICAgICBsYWJlbDogeyBzaG93OiB0cnVlLCBwb3NpdGlvbjogJ3RvcCcsIGZvbnRTaXplOiAxMiwgZm9udFdlaWdodDogJ2JvbGQnLCBjb2xvcjogJyMyNzQxNTYnLAogICAgICAgICAgICAgICAgICAgZm9ybWF0dGVyOiBmdW5jdGlvbihwKXsgcmV0dXJuIHAudmFsdWUudG9Mb2NhbGVTdHJpbmcoJ2VuLVVTJyk7IH0gfSB9XQogICAgfQogICAgIiIiOwp9CgpzdGF0aWMgc3RyaW5nIENhcmRIdG1sKENoYXJ0IGMsIHN0cmluZyBlY2hhcnRzSnMsIHN0cmluZyBvcHRpb25KcykKewogICAgdmFyIHRpdGxlID0gRXNjKGMuVGl0bGUgPz8gIiIpOwogICAgdmFyIGZvb3QgPSBFc2MoYy5Gb290ZXIgPz8gIkFnZW50QnJpZGdlICDCtyAgcmVhbCBkYXRhIGZyb20gdGhlIGxpdmUgUG93ZXIgQkkgRGVza3RvcCBtb2RlbCIpOwogICAgcmV0dXJuICQkIiIiCjwhZG9jdHlwZSBodG1sPjxodG1sPjxoZWFkPjxtZXRhIGNoYXJzZXQ9InV0Zi04Ij4KPHNjcmlwdD57e2VjaGFydHNKc319PC9zY3JpcHQ+CjxzdHlsZT4KKnttYXJnaW46MDtwYWRkaW5nOjA7Ym94LXNpemluZzpib3JkZXItYm94fQpodG1sLGJvZHl7d2lkdGg6MTEwMHB4O2hlaWdodDo2ODBweDtvdmVyZmxvdzpoaWRkZW47YmFja2dyb3VuZDojZWVmMWY1O2ZvbnQtZmFtaWx5OidTZWdvZSBVSScsQXJpYWwsc2Fucy1zZXJpZjtwYWRkaW5nOjIycHh9Ci5jYXJke3dpZHRoOjEwMCU7aGVpZ2h0OjEwMCU7YmFja2dyb3VuZDojZmZmO2JvcmRlci1yYWRpdXM6MTZweDtib3gtc2hhZG93OjAgOHB4IDMwcHggcmdiYSgyMCw0MCw2MCwuMTQpOwogIGRpc3BsYXk6ZmxleDtmbGV4LWRpcmVjdGlvbjpjb2x1bW47b3ZlcmZsb3c6aGlkZGVufQouaGVhZHtkaXNwbGF5OmZsZXg7YWxpZ24taXRlbXM6Y2VudGVyO3BhZGRpbmc6MjBweCAyNnB4IDhweDtnYXA6MTJweDtmbGV4OjAgMCBhdXRvfQoudGl0bGV7Zm9udC1zaXplOjI0cHg7Zm9udC13ZWlnaHQ6NzAwO2NvbG9yOiMxNjMyNGF9Ci5iYWRnZXttYXJnaW4tbGVmdDphdXRvO2JhY2tncm91bmQ6IzBmMjczMztjb2xvcjojOGZlOWY1O2ZvbnQtc2l6ZToxM3B4O2ZvbnQtd2VpZ2h0OjcwMDtwYWRkaW5nOjZweCAxMnB4O2JvcmRlci1yYWRpdXM6MjBweH0KLmNoYXJ0e2ZsZXg6MSAxIGF1dG87d2lkdGg6MTAwJTttaW4taGVpZ2h0OjB9Ci5mb290e2ZsZXg6MCAwIGF1dG87cGFkZGluZzo4cHggMjZweCAxNHB4O2NvbG9yOiM3YThhOTk7Zm9udC1zaXplOjEzcHg7Zm9udC1zdHlsZTppdGFsaWM7Ym9yZGVyLXRvcDoxcHggc29saWQgI2VlZjJmNn0KPC9zdHlsZT48L2hlYWQ+PGJvZHk+CjxkaXYgY2xhc3M9ImNhcmQiPgogIDxkaXYgY2xhc3M9ImhlYWQiPjxkaXYgY2xhc3M9InRpdGxlIj57e3RpdGxlfX08L2Rpdj48ZGl2IGNsYXNzPSJiYWRnZSI+UG93ZXJCSVRvb2w8L2Rpdj48L2Rpdj4KICA8ZGl2IGlkPSJjaGFydCIgY2xhc3M9ImNoYXJ0Ij48L2Rpdj4KICA8ZGl2IGNsYXNzPSJmb290Ij57e2Zvb3R9fTwvZGl2Pgo8L2Rpdj4KPHNjcmlwdD4KdmFyIGVsID0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2NoYXJ0Jyk7CnZhciBjaGFydCA9IGVjaGFydHMuaW5pdChlbCwgbnVsbCwgeyBkZXZpY2VQaXhlbFJhdGlvOiAyIH0pOwpjaGFydC5zZXRPcHRpb24oe3tvcHRpb25Kc319KTsKPC9zY3JpcHQ+CjwvYm9keT48L2h0bWw+CiIiIjsKfQoKc3RhdGljIHN0cmluZyBGaW5kQnJvd3NlcigpCnsKICAgIHN0cmluZ1tdIGMgPQogICAgewogICAgICAgIEAiQzpcUHJvZ3JhbSBGaWxlcyAoeDg2KVxNaWNyb3NvZnRcRWRnZVxBcHBsaWNhdGlvblxtc2VkZ2UuZXhlIiwKICAgICAgICBAIkM6XFByb2dyYW0gRmlsZXNcTWljcm9zb2Z0XEVkZ2VcQXBwbGljYXRpb25cbXNlZGdlLmV4ZSIsCiAgICAgICAgQCJDOlxQcm9ncmFtIEZpbGVzXEdvb2dsZVxDaHJvbWVcQXBwbGljYXRpb25cY2hyb21lLmV4ZSIsCiAgICB9OwogICAgZm9yZWFjaCAodmFyIHggaW4gYykgaWYgKEZpbGUuRXhpc3RzKHgpKSByZXR1cm4geDsKICAgIHJldHVybiBudWxsITsKfQoKc3RhdGljIHN0cmluZyBSZXNvbHZlQm9va1Jvb3Qoc3RyaW5nIG1hbmlmZXN0UGF0aCkKewogICAgdmFyIGRpciA9IFBhdGguR2V0RGlyZWN0b3J5TmFtZShQYXRoLkdldEZ1bGxQYXRoKG1hbmlmZXN0UGF0aCkpITsKICAgIGZvciAoaW50IGkgPSAwOyBpIDwgODsgaSsrKQogICAgewogICAgICAgIGlmIChGaWxlLkV4aXN0cyhQYXRoLkNvbWJpbmUoZGlyLCAiYm9vay5qc29uIikpKSByZXR1cm4gZGlyOwogICAgICAgIHZhciBwYXJlbnQgPSBQYXRoLkdldERpcmVjdG9yeU5hbWUoZGlyKTsKICAgICAgICBpZiAocGFyZW50IGlzIG51bGwpIGJyZWFrOwogICAgICAgIGRpciA9IHBhcmVudDsKICAgIH0KICAgIHJldHVybiBEaXJlY3RvcnkuR2V0Q3VycmVudERpcmVjdG9yeSgpOwp9CgpzdGF0aWMgc3RyaW5nIEVzYyhzdHJpbmcgcykgPT4gSHRtbEVuY29kZXIuQ3JlYXRlKFVuaWNvZGVSYW5nZXMuQWxsKS5FbmNvZGUocyk7CgpyZWNvcmQgQ2hhcnQKewogICAgcHVibGljIHN0cmluZyBPdXQgeyBnZXQ7IHNldDsgfSA9ICIiOwogICAgcHVibGljIHN0cmluZz8gVGl0bGUgeyBnZXQ7IHNldDsgfQogICAgcHVibGljIHN0cmluZyBUeXBlIHsgZ2V0OyBzZXQ7IH0gPSAiYmFyIjsKICAgIHB1YmxpYyBzdHJpbmdbXSBMYWJlbHMgeyBnZXQ7IHNldDsgfSA9IEFycmF5LkVtcHR5PHN0cmluZz4oKTsKICAgIHB1YmxpYyBkb3VibGVbXSBWYWx1ZXMgeyBnZXQ7IHNldDsgfSA9IEFycmF5LkVtcHR5PGRvdWJsZT4oKTsKICAgIHB1YmxpYyBzdHJpbmc/IEZvb3RlciB7IGdldDsgc2V0OyB9Cn0K
+using System.Globalization;
+using System.Text;
+using System.Text.Encodings.Web;
+using System.Text.Json;
+using System.Text.Unicode;
+using PuppeteerSharp;
+
+// Renders professional "dashboard card" PNGs using Apache ECharts (bundled locally).
+// Reads a charts.json manifest: [{ out, title, type, labels[], values[], unit? }]
+// ECharts computes layout, auto-rotates long category labels, fits margins
+// (containLabel) and draws value labels — no clipping.
+
+var manifestPath = args.Length > 0 ? args[0]
+    : Path.Combine(AppContext.BaseDirectory, "charts.json");
+if (!File.Exists(manifestPath))
+{
+    Console.Error.WriteLine($"charts.json not found: {manifestPath}");
+    return 1;
+}
+
+var json = File.ReadAllText(manifestPath);
+var opts = new JsonSerializerOptions { PropertyNameCaseInsensitive = true };
+var charts = JsonSerializer.Deserialize<List<Chart>>(json, opts) ?? new List<Chart>();
+
+var bookRoot = ResolveBookRoot(manifestPath);
+Console.WriteLine($"book root: {bookRoot}");
+
+var echartsPath = Path.Combine(bookRoot, "tools", "chartgen", "echarts.min.js");
+if (!File.Exists(echartsPath))
+{
+    Console.Error.WriteLine($"echarts.min.js not found at {echartsPath}");
+    return 1;
+}
+var echartsJs = File.ReadAllText(echartsPath);
+
+var browser = await Puppeteer.LaunchAsync(new LaunchOptions
+{
+    ExecutablePath = FindBrowser() ?? throw new Exception("No Chromium/Edge found"),
+    Args = new[] { "--no-sandbox", "--disable-gpu", "--disable-dev-shm-usage" },
+});
+
+var Palette = new[]
+{
+    "#118DFF", "#12239E", "#E66C37", "#6B007B", "#01B8AA",
+    "#E044A7", "#744EC2", "#D9B300", "#37157D", "#3FC1C9"
+};
+
+int made = 0;
+try
+{
+    foreach (var c in charts)
+    {
+        var outPath = Path.IsPathRooted(c.Out) ? c.Out : Path.Combine(bookRoot, c.Out);
+        Directory.CreateDirectory(Path.GetDirectoryName(outPath)!);
+
+        var optionJs = BuildOption(c, Palette);
+        var html = CardHtml(c, echartsJs, optionJs);
+        var tmp = Path.Combine(Path.GetTempPath(), $"chart-{Guid.NewGuid():N}.html");
+        File.WriteAllText(tmp, html, new UTF8Encoding(false));
+        try
+        {
+            await using var page = await browser.NewPageAsync();
+            await page.SetViewportAsync(new ViewPortOptions { Width = 1100, Height = 680, DeviceScaleFactor = 2 });
+            await page.GoToAsync(new Uri(tmp).AbsoluteUri,
+                new NavigationOptions { WaitUntil = new[] { WaitUntilNavigation.Load } });
+            await page.EvaluateExpressionAsync("document.fonts && document.fonts.ready");
+            await Task.Delay(400); // let ECharts finish a synchronous draw
+            await page.ScreenshotAsync(outPath, new ScreenshotOptions { Type = ScreenshotType.Png, FullPage = false });
+            Console.WriteLine($"{c.Type,-6} -> {c.Out}  ({c.Labels.Length} pts)");
+            made++;
+        }
+        finally { try { File.Delete(tmp); } catch { } }
+    }
+}
+finally { await browser.CloseAsync(); }
+
+Console.WriteLine($"rendered {made} chart(s)");
+return 0;
+
+static string BuildOption(Chart c, string[] palette)
+{
+    var labels = JsonSerializer.Serialize(c.Labels);
+    var values = JsonSerializer.Serialize(c.Values);
+    var colors = JsonSerializer.Serialize(palette);
+    int n = c.Labels.Length;
+    bool longish = c.Labels.Any(l => l.Length > 8);
+    int rotate = n >= 10 ? 42 : (n >= 6 || longish ? 28 : 0);
+    string type = c.Type.ToLowerInvariant();
+
+    if (type == "line")
+    {
+        return $$"""
+        {
+          animation: false,
+          grid: { left: 70, right: 40, top: 30, bottom: 60, containLabel: true },
+          xAxis: { type: 'category', boundaryGap: false, data: {{labels}},
+                   axisLabel: { fontSize: 13, color: '#41586b' },
+                   axisLine: { lineStyle: { color: '#c7d2dd' } } },
+          yAxis: { type: 'value', axisLabel: { fontSize: 12, color: '#8a99a8',
+                   formatter: function(v){ return v.toLocaleString('en-US'); } },
+                   splitLine: { lineStyle: { color: '#e6ebf1' } } },
+          series: [{ type: 'line', data: {{values}}, smooth: true, symbol: 'circle', symbolSize: 8,
+                    lineStyle: { width: 3.5, color: '#118DFF' },
+                    itemStyle: { color: '#118DFF' },
+                    areaStyle: { color: { type:'linear', x:0,y:0,x2:0,y2:1,
+                       colorStops:[{offset:0,color:'rgba(17,141,255,0.28)'},{offset:1,color:'rgba(17,141,255,0.02)'}] } },
+                    label: { show: true, position: 'top', fontSize: 11, color: '#274156',
+                       formatter: function(p){ return p.value.toLocaleString('en-US'); } } }]
+        }
+        """;
+    }
+
+    if (type == "donut" || type == "pie")
+    {
+        return $$"""
+        {
+          animation: false,
+          legend: { orient: 'vertical', right: 24, top: 'middle',
+                    textStyle: { fontSize: 15, color: '#33506a' }, itemGap: 14 },
+          series: [{ type: 'pie', radius: ['46%', '72%'], center: ['34%', '52%'],
+                    avoidLabelOverlap: true,
+                    itemStyle: { borderColor: '#ffffff', borderWidth: 3 },
+                    label: { show: true, formatter: '{b}: {d}%', fontSize: 14, color: '#274156' },
+                    labelLine: { length: 14, length2: 14 },
+                    data: {{labels}}.map(function(name, i){ return { name: name, value: {{values}}[i],
+                       itemStyle: { color: {{colors}}[i % {{colors}}.length] } }; }) }]
+        }
+        """;
+    }
+
+    // bar (default)
+    return $$"""
+    {
+      animation: false,
+      grid: { left: 70, right: 30, top: 34, bottom: 90, containLabel: true },
+      xAxis: { type: 'category', data: {{labels}},
+               axisLabel: { interval: 0, rotate: {{rotate}}, fontSize: 13, color: '#41586b' },
+               axisLine: { lineStyle: { color: '#c7d2dd' } },
+               axisTick: { alignWithLabel: true } },
+      yAxis: { type: 'value', axisLabel: { fontSize: 12, color: '#8a99a8',
+               formatter: function(v){ return v.toLocaleString('en-US'); } },
+               splitLine: { lineStyle: { color: '#e6ebf1' } } },
+      series: [{ type: 'bar', barMaxWidth: 78,
+                data: {{values}}.map(function(v, i){ return { value: v,
+                   itemStyle: { color: {{colors}}[i % {{colors}}.length], borderRadius: [5,5,0,0] } }; }),
+                label: { show: true, position: 'top', fontSize: 12, fontWeight: 'bold', color: '#274156',
+                   formatter: function(p){ return p.value.toLocaleString('en-US'); } } }]
+    }
+    """;
+}
+
+static string CardHtml(Chart c, string echartsJs, string optionJs)
+{
+    var title = Esc(c.Title ?? "");
+    var foot = Esc(c.Footer ?? "AgentBridge  ·  real data from the live Power BI Desktop model");
+    return $$"""
+<!doctype html><html><head><meta charset="utf-8">
+<script>{{echartsJs}}</script>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1100px;height:680px;overflow:hidden;background:#eef1f5;font-family:'Segoe UI',Arial,sans-serif;padding:22px}
+.card{width:100%;height:100%;background:#fff;border-radius:16px;box-shadow:0 8px 30px rgba(20,40,60,.14);
+  display:flex;flex-direction:column;overflow:hidden}
+.head{display:flex;align-items:center;padding:20px 26px 8px;gap:12px;flex:0 0 auto}
+.title{font-size:24px;font-weight:700;color:#16324a}
+.badge{margin-left:auto;background:#0f2733;color:#8fe9f5;font-size:13px;font-weight:700;padding:6px 12px;border-radius:20px}
+.chart{flex:1 1 auto;width:100%;min-height:0}
+.foot{flex:0 0 auto;padding:8px 26px 14px;color:#7a8a99;font-size:13px;font-style:italic;border-top:1px solid #eef2f6}
+</style></head><body>
+<div class="card">
+  <div class="head"><div class="title">{{title}}</div><div class="badge">PowerBITool</div></div>
+  <div id="chart" class="chart"></div>
+  <div class="foot">{{foot}}</div>
+</div>
+<script>
+var el = document.getElementById('chart');
+var chart = echarts.init(el, null, { devicePixelRatio: 2 });
+chart.setOption({{optionJs}});
+</script>
+</body></html>
+""";
+}
+
+static string FindBrowser()
+{
+    string[] c =
+    {
+        @"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe",
+        @"C:\Program Files\Microsoft\Edge\Application\msedge.exe",
+        @"C:\Program Files\Google\Chrome\Application\chrome.exe",
+    };
+    foreach (var x in c) if (File.Exists(x)) return x;
+    return null!;
+}
+
+static string ResolveBookRoot(string manifestPath)
+{
+    var dir = Path.GetDirectoryName(Path.GetFullPath(manifestPath))!;
+    for (int i = 0; i < 8; i++)
+    {
+        if (File.Exists(Path.Combine(dir, "book.json"))) return dir;
+        var parent = Path.GetDirectoryName(dir);
+        if (parent is null) break;
+        dir = parent;
+    }
+    return Directory.GetCurrentDirectory();
+}
+
+static string Esc(string s) => HtmlEncoder.Create(UnicodeRanges.All).Encode(s);
+
+record Chart
+{
+    public string Out { get; set; } = "";
+    public string? Title { get; set; }
+    public string Type { get; set; } = "bar";
+    public string[] Labels { get; set; } = Array.Empty<string>();
+    public double[] Values { get; set; } = Array.Empty<double>();
+    public string? Footer { get; set; }
+}

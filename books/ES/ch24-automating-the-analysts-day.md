@@ -1,1 +1,145 @@
-IyAyNC4gQXV0b21hdGl6YXIgZWwgZMOtYSBkZWwgYW5hbGlzdGEKClBhc2Vtb3MgdW4gZMOtYSBkZW50cm8gZGVsIHRyYWJham8gZGVsIGFuYWxpc3RhIHkgbWlyZW1vcyBjw7NtbyBlbCBhc2lzdGVudGUgbG8gbWFuZWphLgpFc3RlIGNhcMOtdHVsbyBlbmNhZGVuYSBsb3MgZWplbXBsb3MgY29tbyB2YSB1biBkw61hIGRlIHRyYWJham8gcmVhbDogY29uc3RydWlyLAp2YWxpZGFyLCBkb2N1bWVudGFyLCBjb21wcm9iYXIsIHRlcm1pbmFyLiBDYWRhIGltYWdlbiBlcyB1bmEgYWNjacOzbiByZWFsIHNvYnJlIHVuCm1vZGVsbyBlbiB2aXZvLgoKIyMgTWHDsWFuYTogY29uc3RydWlyIGxhcyBwaWV6YXMgZGUgcmVwb3J0aW5nCgpFbCBkw61hIGVtcGllemEgY29udmlydGllbmRvIHRhYmxhcyBjcnVkYXMgZW4gcGllemFzIGRlIHJlcG9ydGluZy4gRW4gdmV6IGRlIGhhY2VyCmNsaWMgZHVyYW50ZSB1bmEgaG9yYSwgcGlkZXMgbG8gcXVlIGVsIHBhbmVsIG5lY2VzaXRhLgoKPiDCq0NvbnN0cnV5ZSB1bmEgdGFibGEgZGUgcmVuZGltaWVudG8gcG9yIGNhdGVnb3LDrWEgY29uIHZlbnRhcyB5IHJlY3VlbnRvIGRlCj4gcHJvZHVjdG9zLsK7CgohW1RhYmxhIGRlIHJlbmRpbWllbnRvIHBvciBjYXRlZ29yw61hXSguLi8uLi9hc3NldHMvZXhhbXBsZXMvZTA2NS5wbmcpCgpVbmEgcGV0aWNpw7NuLCB1bmEgdGFibGEgbnVldmE6IHZlbnRhcyB5IHJlY3VlbnRvIGRlIHByb2R1Y3RvcyBwb3IgY2F0ZWdvcsOtYSwKY2FsY3VsYWRvIHkgZW4gdml2by4KCkx1ZWdvIGxvcyBLUEkgcXVlIGVsIHBhbmVsIG5lY2VzaXRhOgoKPiDCq0NyZWEgdW4gY29uanVudG8gZGUgbWVkaWRhcyBLUEkgcGFyYSBlbCBwYW5lbC7CuwoKIVtDb25qdW50byBkZSBtZWRpZGFzIEtQSV0oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2UwNjYucG5nKQoKVW5hIG1lZGlkYSBkZSBpbmdyZXNvIHBvciBjbGllbnRlLCBjcmVhZGEgeSBhcGxpY2FkYS4gRWwgdGlwbyBkZSBwZXF1ZcOxYSBtw6l0cmljYSBxdWUKYW50ZXMgc2UgdG9tYWJhIHVuIG1pbnV0byBjdWlkYWRvc28gY2FkYSB1bmEsIGFob3JhIGxsZWdhIGVuIHVuYSBmcmFzZS4KCiMjIEFudGVzIGRlIGxhIHJldW5pw7NuOiB2YWxpZGFybG8gdG9kbwoKQW50ZXMgZGUgY29uc3RydWlyIGVsIGluZm9ybWUsIGNvbXBydWViYXMgcXVlIGxvcyBuw7ptZXJvcyBlc3TDoW4gYmllbi4gRWwgYXNpc3RlbnRlCnZhbGlkYSB1biBsb3RlIGVudGVybyBkZSBnb2xwZToKCj4gwqtWYWxpZGEgdW4gbG90ZSBkZSBtZWRpZGFzIGFudGVzIGRlIHF1ZSBjb25zdHJ1eWEgZWwgaW5mb3JtZS7CuwoKIVtWYWxpZGFjacOzbiBwb3IgbG90ZXNdKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9lMDY3LnBuZykKCkNhZGEgbWVkaWRhIGRldnVlbHZlIE9LIGNvbiBzdSB2YWxvci4gU2luIHNvcnByZXNhcyBkZWxhbnRlIGRlbCBqZWZlLgoKIyMgTWVkaWEgbWHDsWFuYTogY2F6YXIgbG9zIGh1ZWNvcwoKVW4gYnVlbiBhbmFsaXN0YSBidXNjYSBsbyBxdWUgKmZhbHRhKiwgbm8gc29sbyBsbyBxdWUgZXN0w6E6Cgo+IMKrwr9RdcOpIHByb2R1Y3RvcyBudW5jYSBzZSB2ZW5kaWVyb24/wrsKCiFbUHJvZHVjdG9zIHF1ZSBudW5jYSBzZSB2ZW5kaWVyb25dKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9lMDcwLnBuZykKCkxhIGNvbnN1bHRhIGNvcnJlIHkgZGV2dWVsdmUgY2VybyBmaWxhczogY2FkYSBwcm9kdWN0byBzZSB2ZW5kacOzIGFsIG1lbm9zIHVuYSB2ZXouCkVzYSB0YW1iacOpbiBlcyB1bmEgcmVzcHVlc3RhIMO6dGlsOiBuaW5nw7puIHN0b2NrIG11ZXJ0byBlc2NvbmRpZG8gZW4gZWwgY2F0w6Fsb2dvLgoKIyMgw5psdGltYSBtYcOxYW5hOiBjb21wb3J0YW1pZW50byBkZWwgbW9kZWxvCgpRdWllcmVzIG1hcmNhciBjb21wb3J0YW1pZW50byByZXBldGlkbyBzaW4gZXRpcXVldGFyIGZpbGFzIGEgbWFubzoKCj4gwqtDcmVhIHVuYSBtYXJjYSBkZSBjbGllbnRlIHJlY3VycmVudGUuwrsKCiFbTWFyY2EgZGUgY2xpZW50ZSByZWN1cnJlbnRlXSguLi8uLi9hc3NldHMvZXhhbXBsZXMvZTA4NS5wbmcpCgpVbmEgY29sdW1uYSBib29sZWFuYSBxdWUgbWFyY2EgY2FkYSB2ZW50YSBjb21vIHJlcGV0aWRhIG8gbm86IGNhbGN1bGFkYSBzb2JyZSB0b2RhIGxhCnRhYmxhIGRlIHVuYSB2ZXouCgpZIGVsIG1lam9yIHJlbmRpbWllbnRvOgoKPiDCq0RhbWUgbGEgbWVqb3IgdGllbmRhIHBvciB2ZW50YXMuwrsKCiFbTWVqb3IgdGllbmRhIHBvciB2ZW50YXNdKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9lMDg3LnBuZykKCk1pbGFuIENlbnRyYWwgbGlkZXJhLiBMYSBjbGFzaWZpY2FjacOzbiBxdWUgYW50ZXMgbmVjZXNpdGFiYSB1bmEgdGFibGEgZGluw6FtaWNhIHkgdW4Kb3JkZW5hZG8sIGFob3JhIGVzIHVuYSBzb2xhIHByZWd1bnRhLgoKIyMgVGFyZGU6IHNlZ21lbnRhY2nDs24gZGUgb2JqZXRpdm9zCgpFbCBlcXVpcG8gZGUgbWFya2V0aW5nIHF1aWVyZSBjbGllbnRlcyBkZSBhbHRvIHZhbG9yOgoKPiDCq0NyZWEgdW5hIG1lZGlkYSBkZSBjbGllbnRlIGRlIGFsdG8gdmFsb3IuwrsKCiFbTWVkaWRhIGRlIGNsaWVudGUgZGUgYWx0byB2YWxvcl0oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2UwOTUucG5nKQoKVW5hIG1hcmNhIHBhcmEgY2xpZW50ZXMgcG9yIGVuY2ltYSBkZSB1biB1bWJyYWwgZGUgZ2FzdG8sIGVuIHZpdm8gZW4gZWwgbW9kZWxvLCBsaXN0YQpwYXJhIGZpbHRyYXIuCgpZIHBhcmEgdmVyIGPDs21vIHJpbmRlbiBsYXMgYmFuZGFzIGRlIHByZWNpbyBxdWUgaGljaW1vcyBhbnRlczoKCj4gwqtWZW50YXMgcG9yIGJhbmRhIGRlIHByZWNpby7CuwoKIVtWZW50YXMgcG9yIGJhbmRhIGRlIHByZWNpb10oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2UwOTcucG5nKQoKQWx0bywgTWVkaW8sIEJham86IGxhIGNvbHVtbmEgZGUgYmFuZGEgZGVsIENhcMOtdHVsbyA3IGFob3JhIGltcHVsc2EgdW4gZGVzZ2xvc2UgcmVhbC4KRXN0YSBlcyBsYSByZWNvbXBlbnNhIGRlIGNvbnN0cnVpciBwaWV6YXMgcGVxdWXDsWFzOiBsdWVnbyBzZSBjb21iaW5hbi4KCiMjIEZpbiBkZWwgZMOtYTogZG9jdW1lbnRhciB5IGNvbXByb2JhcgoKQW50ZXMgZGUgY2VycmFyLCBkb2N1bWVudGFzIGVsIHRyYWJham8geSBjb21wcnVlYmFzIHN1IHNhbHVkLiBFbCBhc2lzdGVudGUgZXNjcmliZSBlbApkaWNjaW9uYXJpbyBkZSB0b2RvIGVsIG1vZGVsbzoKCj4gwqtEb2N1bWVudGEgZWwgbW9kZWxvIGZpbmFsLsK7CgohW0RpY2Npb25hcmlvIGRlIGRhdG9zIGZpbmFsXSguLi8uLi9hc3NldHMvZXhhbXBsZXMvZTA5OS5wbmcpCgpDYWRhIHRhYmxhLCBjYWRhIG1lZGlkYSwgY29uIHN1IGZvcm1hdG8geSBleHByZXNpw7NuOiBkb2N1bWVudGFjacOzbiBxdWUgbnVuY2EgaGFicsOtYXMKZXNjcml0byBhIG1hbm8sIGhlY2hhIHBvciB0aS4KCkx1ZWdvIGxhIGNvbXByb2JhY2nDs24gZGUgc2FsdWQ6Cgo+IMKrQ29tcHJvYmFjacOzbiBkZSBzYWx1ZCBmaW5hbCBkZSB0b2RvIGVsIG1vZGVsby7CuwoKIVtDb21wcm9iYWNpw7NuIGRlIHNhbHVkIGZpbmFsXSguLi8uLi9hc3NldHMvZXhhbXBsZXMvZTEwMC5wbmcpCgpDZXJvIGFkdmVydGVuY2lhcy4gTGFzIGRvcyBub3RhcyBkZSDCq2luZm/CuyBzb24gc29sbyB0YWJsYXMgcmVzdW1lbiBkZXNjb25lY3RhZGFzLCBsbwpjdWFsIGVzIGVzcGVyYWRvLiBFbCBtb2RlbG8gZXN0w6EgbGltcGlvLgoKIyMgQ2llcnJlOiBlbCBtb2RlbG8gdGVybWluYWRvCgpBbCBmaW5hbCBkZWwgZMOtYSwgbWlyYXMgbG8gcXVlIGNvbnN0cnVpc3RlOgoKPiDCq011ZXN0cmEgbGEgbGlzdGEgZmluYWwgZGUgdGFibGFzLsK7CgohW0xpc3RhIGZpbmFsIGRlIHRhYmxhc10oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2UxMDIucG5nKQoKU2VpcyB0YWJsYXMsIGNhdG9yY2UgbWVkaWRhcywgdHJlcyByZWxhY2lvbmVzOiB1biBtb2RlbG8gYW5hbMOtdGljbyBmdW5jaW9uYWwsCmNvbnN0cnVpZG8geSBkb2N1bWVudGFkbyBlbiB1biBzb2xvIGTDrWEgZGUgcGV0aWNpb25lcyBlbiBsZW5ndWFqZSBub3JtYWwuCgojIyBRdcOpIG11ZXN0cmEgZWwgZMOtYQoKVW4gZMOtYSBkZSB0cmFiYWpvIGNvbXBsZXRvOiBjb25zdHJ1aXIsIHZhbGlkYXIsIGNhemFyIGh1ZWNvcywgbW9kZWxhciBjb21wb3J0YW1pZW50bywKc2VnbWVudGFyIG9iamV0aXZvcywgZG9jdW1lbnRhciwgY29tcHJvYmFyOiBoZWNobyBkZXNjcmliaWVuZG8gY2FkYSBwYXNvLiBMYXMgbWFub3MKZGVsIGFuYWxpc3RhIG5vIGhpY2llcm9uIG5pbmd1bm8gZGUgbG9zIGNsaWNzLiBMYSBjYWJlemEgZGVsIGFuYWxpc3RhIHRvbcOzIHRvZGFzIGxhcwpkZWNpc2lvbmVzLgoKRXNlIGVzIGVsIGludGVyY2FtYmlvIHF1ZSBlc3RlIGxpYnJvIG5vIHBhcmEgZGUgaGFjZXI6ICoqdMO6IGNvbnNlcnZhcyBlbCBjcml0ZXJpbywgbGEKaGVycmFtaWVudGEgc2UgbGxldmEgbGEgZXNjbGF2aXR1ZC4qKgoKLS0tCgojIyBMbyBxdWUgdGUgbGxldmFyw6FzIGRlIGVzdGUgY2Fww610dWxvCgotIFVuIGTDrWEgZW50ZXJvIGRlIHRyYWJham8gZGUgYW5hbGlzdGEgc2UgY29ycmVzcG9uZGUgY29uIHVuYSBzZWN1ZW5jaWEgZGUgcGV0aWNpb25lcwogIGVuIGxlbmd1YWplIG5vcm1hbC4KLSBDb25zdHJ1eWUgcGllemFzICh0YWJsYXMsIG1lZGlkYXMpLCB2YWzDrWRhbGFzLCBjYXphIGh1ZWNvcywgZG9jdW1lbnRhLCBjb21wcnVlYmEuCi0gTGFzIHBpZXphcyBwZXF1ZcOxYXMgc2UgY29tYmluYW4gbHVlZ28gKGxhIGJhbmRhIGRlIHByZWNpbyBpbXB1bHNhIHVuIGRlc2dsb3NlKS4KLSBFbCBtb2RlbG8gdGVybWluYSBsaW1waW8sIGRvY3VtZW50YWRvIHkgbGlzdG8sIHNpbiBuaW5ndW5vIGRlIGxvcyBjbGljcyBtYW51YWxlcy4KClNpZ3VpZW50ZTogbmFycmFyIGhpc3Rvcmlhcywgw6l0aWNhIHkgZ29iZXJuYW56YTogbGEgcGFydGUgcXVlIGxhIGhlcnJhbWllbnRhIG5vIHB1ZWRlCmhhY2VyIHBvciB0aS4K
+# 24. Automatizar el día del analista
+
+Pasemos un día dentro del trabajo del analista y miremos cómo el asistente lo maneja.
+Este capítulo encadena los ejemplos como va un día de trabajo real: construir,
+validar, documentar, comprobar, terminar. Cada imagen es una acción real sobre un
+modelo en vivo.
+
+## Mañana: construir las piezas de reporting
+
+El día empieza convirtiendo tablas crudas en piezas de reporting. En vez de hacer
+clic durante una hora, pides lo que el panel necesita.
+
+> «Construye una tabla de rendimiento por categoría con ventas y recuento de
+> productos.»
+
+![Tabla de rendimiento por categoría](../../assets/examples/e065.png)
+
+Una petición, una tabla nueva: ventas y recuento de productos por categoría,
+calculado y en vivo.
+
+Luego los KPI que el panel necesita:
+
+> «Crea un conjunto de medidas KPI para el panel.»
+
+![Conjunto de medidas KPI](../../assets/examples/e066.png)
+
+Una medida de ingreso por cliente, creada y aplicada. El tipo de pequeña métrica que
+antes se tomaba un minuto cuidadoso cada una, ahora llega en una frase.
+
+## Antes de la reunión: validarlo todo
+
+Antes de construir el informe, compruebas que los números están bien. El asistente
+valida un lote entero de golpe:
+
+> «Valida un lote de medidas antes de que construya el informe.»
+
+![Validación por lotes](../../assets/examples/e067.png)
+
+Cada medida devuelve OK con su valor. Sin sorpresas delante del jefe.
+
+## Media mañana: cazar los huecos
+
+Un buen analista busca lo que *falta*, no solo lo que está:
+
+> «¿Qué productos nunca se vendieron?»
+
+![Productos que nunca se vendieron](../../assets/examples/e070.png)
+
+La consulta corre y devuelve cero filas: cada producto se vendió al menos una vez.
+Esa también es una respuesta útil: ningún stock muerto escondido en el catálogo.
+
+## Última mañana: comportamiento del modelo
+
+Quieres marcar comportamiento repetido sin etiquetar filas a mano:
+
+> «Crea una marca de cliente recurrente.»
+
+![Marca de cliente recurrente](../../assets/examples/e085.png)
+
+Una columna booleana que marca cada venta como repetida o no: calculada sobre toda la
+tabla de una vez.
+
+Y el mejor rendimiento:
+
+> «Dame la mejor tienda por ventas.»
+
+![Mejor tienda por ventas](../../assets/examples/e087.png)
+
+Milan Central lidera. La clasificación que antes necesitaba una tabla dinámica y un
+ordenado, ahora es una sola pregunta.
+
+## Tarde: segmentación de objetivos
+
+El equipo de marketing quiere clientes de alto valor:
+
+> «Crea una medida de cliente de alto valor.»
+
+![Medida de cliente de alto valor](../../assets/examples/e095.png)
+
+Una marca para clientes por encima de un umbral de gasto, en vivo en el modelo, lista
+para filtrar.
+
+Y para ver cómo rinden las bandas de precio que hicimos antes:
+
+> «Ventas por banda de precio.»
+
+![Ventas por banda de precio](../../assets/examples/e097.png)
+
+Alto, Medio, Bajo: la columna de banda del Capítulo 7 ahora impulsa un desglose real.
+Esta es la recompensa de construir piezas pequeñas: luego se combinan.
+
+## Fin del día: documentar y comprobar
+
+Antes de cerrar, documentas el trabajo y compruebas su salud. El asistente escribe el
+diccionario de todo el modelo:
+
+> «Documenta el modelo final.»
+
+![Diccionario de datos final](../../assets/examples/e099.png)
+
+Cada tabla, cada medida, con su formato y expresión: documentación que nunca habrías
+escrito a mano, hecha por ti.
+
+Luego la comprobación de salud:
+
+> «Comprobación de salud final de todo el modelo.»
+
+![Comprobación de salud final](../../assets/examples/e100.png)
+
+Cero advertencias. Las dos notas de «info» son solo tablas resumen desconectadas, lo
+cual es esperado. El modelo está limpio.
+
+## Cierre: el modelo terminado
+
+Al final del día, miras lo que construiste:
+
+> «Muestra la lista final de tablas.»
+
+![Lista final de tablas](../../assets/examples/e102.png)
+
+Seis tablas, catorce medidas, tres relaciones: un modelo analítico funcional,
+construido y documentado en un solo día de peticiones en lenguaje normal.
+
+## Qué muestra el día
+
+Un día de trabajo completo: construir, validar, cazar huecos, modelar comportamiento,
+segmentar objetivos, documentar, comprobar: hecho describiendo cada paso. Las manos
+del analista no hicieron ninguno de los clics. La cabeza del analista tomó todas las
+decisiones.
+
+Ese es el intercambio que este libro no para de hacer: **tú conservas el criterio, la
+herramienta se lleva la esclavitud.**
+
+---
+
+## Lo que te llevarás de este capítulo
+
+- Un día entero de trabajo de analista se corresponde con una secuencia de peticiones
+  en lenguaje normal.
+- Construye piezas (tablas, medidas), valídalas, caza huecos, documenta, comprueba.
+- Las piezas pequeñas se combinan luego (la banda de precio impulsa un desglose).
+- El modelo termina limpio, documentado y listo, sin ninguno de los clics manuales.
+
+Siguiente: narrar historias, ética y gobernanza: la parte que la herramienta no puede
+hacer por ti.

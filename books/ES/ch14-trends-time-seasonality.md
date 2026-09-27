@@ -1,1 +1,108 @@
-IyAxNC4gVGVuZGVuY2lhcywgdGllbXBvIHkgZXN0YWNpb25hbGlkYWQKClVuIG7Dum1lcm8gZXMgdW5hIGluc3RhbnTDoW5lYS4gQcOxYWRlIHRpZW1wbywgeSBzZSBjb252aWVydGUgZW4gdW5hIGhpc3RvcmlhLiBWZW50YXMKZGUg4oKsMTEsMDAwIHNpZ25pZmljYW4gcG9jbyBoYXN0YSBxdWUgc2FiZXMgc2kgZXMgYWwgYWx6YSBvIGEgbGEgYmFqYSwgeSBzaSBlcwpub3JtYWwgcGFyYSBlc3RhIMOpcG9jYSBkZWwgYcOxby4gRWwgdGllbXBvIGVzIGxhIGRpbWVuc2nDs24gcXVlIGNvbnZpZXJ0ZSB1bmEgZm90byBlbgp1bmEgcGVsw61jdWxhLCB5IGNhc2kgdG9kYSBwcmVndW50YSBpbXBvcnRhbnRlIGRlIG5lZ29jaW8gdml2ZSBlbiDDqWwuCgojIyBQb3IgcXXDqSBlbCB0aWVtcG8gZXMgZXNwZWNpYWwKCkVsIHRpZW1wbyBlcyBsYSDDum5pY2EgZGltZW5zacOzbiBxdWUgbm8gcHVlZGVzIGV2aXRhci4gQ2FkYSB2ZW50YSwgY2FkYSBjbGljLCBjYWRhCnJlZ2lzdHJvIG9jdXJyZSAqZW4qIHVuIG1vbWVudG8uIFkgZWwgdGllbXBvIHRpZW5lIHVuYSBwcm9waWVkYWQgcXVlIG90cmFzCmRpbWVuc2lvbmVzIG5vOiAqKmxhcyBjb3NhcyBzZSByZXBpdGVuLioqIEVsIGhlbGFkbyBzZSB2ZW5kZSBlbiB2ZXJhbm8uIEVsIGNvbWVyY2lvCm1pbm9yaXN0YSBzZSBkaXNwYXJhIGVuIE5hdmlkYWQuIEVsIHNvZnR3YXJlIGRlIGltcHVlc3RvcyBydWdlIGVuIGFicmlsLiBFc3RhCnJlcGV0aWNpw7NuIGVzIGxhICoqZXN0YWNpb25hbGlkYWQqKiwgeSBkZXRlY3RhcmxhIHRlIGltcGlkZSBlbnRyYXIgZW4gcMOhbmljbyBwb3IgdW4KwqtodW5kaW1pZW50b8K7IHF1ZSBvY3VycmUgY2FkYSBlbmVybyBzaW4gZmFsdGEuCgojIyBDb252ZXJ0aXIgbGEgZmVjaGEgZW4gcGllemFzIMO6dGlsZXMKCkxhcyBmZWNoYXMgY3J1ZGFzIHNvbiB0b3JwZXMuIFBhcmEgYW5hbGl6YXIgZWwgdGllbXBvLCByb21wZXMgbGEgZmVjaGEgZW4gcGllemFzOgphw7FvLCBtZXMsIGTDrWEsIGNvbW8gY29sdW1uYXMgcG9yIGxhcyBxdWUgYWdydXBhcjoKCj4gwqtBw7FhZGUgdW5hIGNvbHVtbmEgQcOxbyBhIHBhcnRpciBkZSBsYSBmZWNoYS7CuwoKIVtDb2x1bW5hIEHDsW9dKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9lMDM5LnBuZykKCj4gwqtBw7FhZGUgdW5hIGNvbHVtbmEgTWVzIGEgcGFydGlyIGRlIGxhIGZlY2hhLsK7CgohW0NvbHVtbmEgTWVzXSguLi8uLi9hc3NldHMvZXhhbXBsZXMvZTA0MC5wbmcpCgpBaG9yYSBwdWVkZXMgYWdydXBhciBwb3IgYcOxbyBvIHBvciBtZXMgeSB2ZXIgbGEgZm9ybWEgZGVsIHRpZW1wby4KCiMjIExhIHZpc3RhIGludGVyYW51YWwKCj4gwqtWZW50YXMgdG90YWxlcyBwb3IgYcOxby7CuwoKIVtWZW50YXMgcG9yIGHDsW9dKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9lMDQxLnBuZykKCkRvcyBhw7FvcywgbGFkbyBhIGxhZG8uIMK/RXMgMjAyNSBtZWpvciBxdWUgMjAyND8gTGEgY29tcGFyYWNpw7NuIGVzIHRvZG8gZWwgc2VudGlkbzoKdW4gc29sbyBhw7FvIG5vIHRlIGRpY2UgbmFkYSwgcGVybyBkb3MgYcOxb3MgdGUgZGljZW4gbGEgZGlyZWNjacOzbi4KCkxhIGNvbXBhcmFjacOzbiBpbnRlcmFudWFsLCBjb21vIGdyw6FmaWNvOgoKIVtWZW50YXMgcG9yIGHDsW8g4oCUIGdyw6FmaWNvIGRlIGJhcnJhc10oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2NoYXJ0LXllYXJseS5wbmcpCgojIyBMYSB0ZW5kZW5jaWEgbWVuc3VhbAoKPiDCq1ZlbnRhcyB0b3RhbGVzIHBvciBtZXMuwrsKCiFbVmVudGFzIHBvciBtZXNdKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9lMDQyLnBuZykKCkRvY2UgbWVzZXMgZGUgZGF0b3MuIFB1ZWRlcyB2ZXIgbG9zIHBpY29zIHkgbG9zIHZhbGxlczogbG9zIG1lc2VzIG9jdXBhZG9zIHkgbG9zCnRyYW5xdWlsb3MuIEVzdGEgZXMgbGEgZm9ybWEgY3J1ZGEgZGVsIGxhdGlkbyBkZSB0dSBuZWdvY2lvLgoKRWwgbGF0aWRvIG1lbnN1YWwsIGRpYnVqYWRvIGNvbW8gbMOtbmVhOgoKIVtWZW50YXMgcG9yIG1lcyDigJQgZ3LDoWZpY28gZGUgbMOtbmVhc10oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2NoYXJ0LW1vbnRobHkucG5nKQoKIyMgRmlsdHJhciB1biBwZXJpb2RvCgo+IMKrVmVudGFzIGVuIDIwMjUgc29sby7CuwoKIVtWZW50YXMgZGUgMjAyNV0oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2UwNDMucG5nKQoKPiDCq1ZlbnRhcyBkZSBsYSBwcmltZXJhIG1pdGFkIGRlIHVuIGHDsW8uwrsKCiFbUHJpbWVyYSBtaXRhZCBkZSAyMDI1XSguLi8uLi9hc3NldHMvZXhhbXBsZXMvZTA3OC5wbmcpCgpDb3J0YXIgdW5hIHZlbnRhbmEgY29uY3JldGEgZGUgdGllbXBvIGVzIGNvbW8gcmVzcG9uZGVzIMKrwr9jw7NtbyBub3MgZnVlIGVsIHRyaW1lc3RyZQpwYXNhZG8/wrsgZW4gdW5hIGZyYXNlLgoKIyMgRW5jb250cmFyIGVsIHBlcmlvZG8gbGVudG8KCj4gwqtNZXMgY29uIG1lbm9zIHZlbnRhcy7CuwoKIVtNZXMgY29uIG1lbm9zIHZlbnRhc10oLi4vLi4vYXNzZXRzL2V4YW1wbGVzL2UwOTEucG5nKQoKQ29ub2NlciB0dSBtZXMgbcOhcyBsZW50byBlcyB0YW4gw7p0aWwgY29tbyBjb25vY2VyIGVsIG3DoXMgb2N1cGFkbzogZXMgY3VhbmRvIHBsYW5pZmljYXMKcHJvbW9jaW9uZXMsIHByb2dyYW1hcyBtYW50ZW5pbWllbnRvIG8gdGUgcHJlcGFyYXMgcGFyYSB1bmEgcmFjaGEgdHJhbnF1aWxhLgoKIyMgTWVkaWFzIG3Ds3ZpbGVzOiBzdWF2aXphciBlbCBydWlkbwoKTG9zIG7Dum1lcm9zIG1lbnN1YWxlcyBzb24gaXJyZWd1bGFyZXMuIFVuYSAqKm1lZGlhIG3Ds3ZpbCoqIChkaWdhbW9zLCBsYSBtZWRpYSBkZSBsb3MKw7psdGltb3MgMyBtZXNlcykgc3VhdmVkZSBsb3MgYnVsdG9zIHBhcmEgcXVlIHNlIHZlYSBsYSB0ZW5kZW5jaWEgc3VieWFjZW50ZS4gRXMgbGEKZGlmZXJlbmNpYSBlbnRyZSB2ZXIgdW5hIGPDoW1hcmEgZGUgbWFubyB0ZW1ibG9yb3NhIHkgdW4gcGxhbm8gc3VhdmUgZGUgc3RlYWRpY2FtLgpMYSB0ZW5kZW5jaWEgZXMgbG8gcXVlIHF1aWVyZXMgdmVyOyBsYSBtZWRpYSBtw7N2aWwgbGEgcmV2ZWxhLgoKIyMgVW5hIGN1cmlvc2lkYWQ6IGVsIMKrZWZlY3RvIGVuZXJvwrsgcXVlIG5vIGxvIGVzCgpVbiBnZXN0b3IgdmUgbGFzIHZlbnRhcyBkZSBlbmVybyB1biAzMCUgYWJham8geSBjb252b2NhIHVuYSByZXVuacOzbiBkZSBlbWVyZ2VuY2lhLgpQZXJvIGVuZXJvICpzaWVtcHJlKiBlc3TDoSBhYmFqbyB0cmFzIGxhIGF2YWxhbmNoYSBkZSBmaWVzdGFzIGRlIGRpY2llbWJyZS4gU2luCmNvbXBhcmFyIGNvbiBlbCBlbmVybyBwYXNhZG8sIGxhIGNhw61kYSBubyBzaWduaWZpY2EgbmFkYTogZXMgbGEgdGVtcG9yYWRhLCBubyB1bgpwcm9ibGVtYS4gUG9yIGVzbyBsb3MgYW5hbGlzdGFzIGNvbXBhcmFuICoqaW50ZXJhbnVhbCoqIChlc3RlIGVuZXJvIGNvbnRyYSBlbCBlbmVybwpwYXNhZG8pIGVuIHZleiBkZSAqKm1lcyBhIG1lcyoqIChlbmVybyBjb250cmEgZGljaWVtYnJlKS4gTGEgY29tcGFyYWNpw7NuIGNvcnJlY3RhCmNvbnZpZXJ0ZSB1bmEgZmFsc2EgYWxhcm1hIGVuIHVuYSBuby1ub3RpY2lhLgoKLS0tCgojIyBMbyBxdWUgdGUgbGxldmFyw6FzIGRlIGVzdGUgY2Fww610dWxvCgotIEVsIHRpZW1wbyBjb252aWVydGUgdW5hIGluc3RhbnTDoW5lYSBlbiB1bmEgaGlzdG9yaWEuCi0gUm9tcGUgbGFzIGZlY2hhcyBlbiBhw7FvL21lcy9kw61hIHBhcmEgYWdydXBhciB5IHZlciB0ZW5kZW5jaWFzLgotIExhIGVzdGFjaW9uYWxpZGFkIHNpZ25pZmljYSBxdWUgbGFzIGNvc2FzIHNlIHJlcGl0ZW46IG5vIGVudHJlcyBlbiBww6FuaWNvIHBvciBlbAogIGh1bmRpbWllbnRvIGVzcGVyYWRvLgotIENvbXBhcmEgaW50ZXJhbnVhbCwgbm8gc29sbyBtZXMgYSBtZXMuCi0gTGFzIG1lZGlhcyBtw7N2aWxlcyBzdWF2aXphbiBlbCBydWlkbyBwYXJhIHJldmVsYXIgbGEgdGVuZGVuY2lhLgoKU2lndWllbnRlOiDCv2PDs21vIHNhYmVzIHF1ZSB1bmEgZGlmZXJlbmNpYSBlcyByZWFsIHkgbm8gc29sbyBzdWVydGU/IFVuYSBzdWF2ZSB2aXNpdGEKYSBsYXMgcHJ1ZWJhcyB5IGVsIGF6YXIuCg==
+# 14. Tendencias, tiempo y estacionalidad
+
+Un número es una instantánea. Añade tiempo, y se convierte en una historia. Ventas
+de €11,000 significan poco hasta que sabes si es al alza o a la baja, y si es
+normal para esta época del año. El tiempo es la dimensión que convierte una foto en
+una película, y casi toda pregunta importante de negocio vive en él.
+
+## Por qué el tiempo es especial
+
+El tiempo es la única dimensión que no puedes evitar. Cada venta, cada clic, cada
+registro ocurre *en* un momento. Y el tiempo tiene una propiedad que otras
+dimensiones no: **las cosas se repiten.** El helado se vende en verano. El comercio
+minorista se dispara en Navidad. El software de impuestos ruge en abril. Esta
+repetición es la **estacionalidad**, y detectarla te impide entrar en pánico por un
+«hundimiento» que ocurre cada enero sin falta.
+
+## Convertir la fecha en piezas útiles
+
+Las fechas crudas son torpes. Para analizar el tiempo, rompes la fecha en piezas:
+año, mes, día, como columnas por las que agrupar:
+
+> «Añade una columna Año a partir de la fecha.»
+
+![Columna Año](../../assets/examples/e039.png)
+
+> «Añade una columna Mes a partir de la fecha.»
+
+![Columna Mes](../../assets/examples/e040.png)
+
+Ahora puedes agrupar por año o por mes y ver la forma del tiempo.
+
+## La vista interanual
+
+> «Ventas totales por año.»
+
+![Ventas por año](../../assets/examples/e041.png)
+
+Dos años, lado a lado. ¿Es 2025 mejor que 2024? La comparación es todo el sentido:
+un solo año no te dice nada, pero dos años te dicen la dirección.
+
+La comparación interanual, como gráfico:
+
+![Ventas por año — gráfico de barras](../../assets/examples/chart-yearly.png)
+
+## La tendencia mensual
+
+> «Ventas totales por mes.»
+
+![Ventas por mes](../../assets/examples/e042.png)
+
+Doce meses de datos. Puedes ver los picos y los valles: los meses ocupados y los
+tranquilos. Esta es la forma cruda del latido de tu negocio.
+
+El latido mensual, dibujado como línea:
+
+![Ventas por mes — gráfico de líneas](../../assets/examples/chart-monthly.png)
+
+## Filtrar un periodo
+
+> «Ventas en 2025 solo.»
+
+![Ventas de 2025](../../assets/examples/e043.png)
+
+> «Ventas de la primera mitad de un año.»
+
+![Primera mitad de 2025](../../assets/examples/e078.png)
+
+Cortar una ventana concreta de tiempo es como respondes «¿cómo nos fue el trimestre
+pasado?» en una frase.
+
+## Encontrar el periodo lento
+
+> «Mes con menos ventas.»
+
+![Mes con menos ventas](../../assets/examples/e091.png)
+
+Conocer tu mes más lento es tan útil como conocer el más ocupado: es cuando planificas
+promociones, programas mantenimiento o te preparas para una racha tranquila.
+
+## Medias móviles: suavizar el ruido
+
+Los números mensuales son irregulares. Una **media móvil** (digamos, la media de los
+últimos 3 meses) suavede los bultos para que se vea la tendencia subyacente. Es la
+diferencia entre ver una cámara de mano temblorosa y un plano suave de steadicam.
+La tendencia es lo que quieres ver; la media móvil la revela.
+
+## Una curiosidad: el «efecto enero» que no lo es
+
+Un gestor ve las ventas de enero un 30% abajo y convoca una reunión de emergencia.
+Pero enero *siempre* está abajo tras la avalancha de fiestas de diciembre. Sin
+comparar con el enero pasado, la caída no significa nada: es la temporada, no un
+problema. Por eso los analistas comparan **interanual** (este enero contra el enero
+pasado) en vez de **mes a mes** (enero contra diciembre). La comparación correcta
+convierte una falsa alarma en una no-noticia.
+
+---
+
+## Lo que te llevarás de este capítulo
+
+- El tiempo convierte una instantánea en una historia.
+- Rompe las fechas en año/mes/día para agrupar y ver tendencias.
+- La estacionalidad significa que las cosas se repiten: no entres en pánico por el
+  hundimiento esperado.
+- Compara interanual, no solo mes a mes.
+- Las medias móviles suavizan el ruido para revelar la tendencia.
+
+Siguiente: ¿cómo sabes que una diferencia es real y no solo suerte? Una suave visita
+a las pruebas y el azar.

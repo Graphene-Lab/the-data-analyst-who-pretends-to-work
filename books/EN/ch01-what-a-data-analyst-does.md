@@ -1,1 +1,106 @@
-IyAxLiBXaGF0IGEgRGF0YSBBbmFseXN0IEFjdHVhbGx5IERvZXMKCkFzayB0ZW4gcGVvcGxlIHdoYXQgYSBkYXRhIGFuYWx5c3QgZG9lcyBhbmQgeW91IHdpbGwgZ2V0IHRlbiBkaWZmZXJlbnQgYW5zd2Vycy4KU29tZSBwaWN0dXJlIGEgcGVyc29uIGluIGEgZGFyayByb29tIHR5cGluZyBncmVlbiBjb2RlLiBTb21lIHBpY3R1cmUgc29tZW9uZSBtYWtpbmcKcHJldHR5IHBpZSBjaGFydHMuIEJvdGggYXJlIHdyb25nLCBhbmQgbmVpdGhlciBpcyB3cm9uZy4gTGV0J3MgY2xlYXIgaXQgdXAuCgpBIGRhdGEgYW5hbHlzdCBpcyBhIHBlcnNvbiB3aG8gYW5zd2VycyBxdWVzdGlvbnMgdXNpbmcgbnVtYmVycy4gVGhhdCBpcyB0aGUgd2hvbGUKam9iLiBUaGUgcXVlc3Rpb25zIGNvbWUgZnJvbSByZWFsIGxpZmU6ICpXaHkgZGlkIHNhbGVzIGRyb3AgbGFzdCBtb250aD8gV2hpY2gKcHJvZHVjdCBzaG91bGQgd2UgcHVzaD8gV2hpY2ggY3VzdG9tZXJzIGFyZSBhYm91dCB0byBsZWF2ZT8qIFRoZSBhbnN3ZXJzIGNvbWUgZnJvbQpkYXRhOiB0aGUgcmVjb3JkcyBhIGJ1c2luZXNzIGxlYXZlcyBiZWhpbmQgZXZlcnkgZGF5IOKAlCBzYWxlcywgY2xpY2tzLCBpbnZvaWNlcywKc3VwcG9ydCB0aWNrZXRzLCBkZWxpdmVyeSB0aW1lcy4KClRoZSBhbmFseXN0J3Mgc2tpbGwgaXMgbm90IG1hdGguIEl0IGlzICoqdHJhbnNsYXRpb24qKi4gVGhleSB0dXJuIGEgZnV6enkgaHVtYW4KcXVlc3Rpb24gaW50byBhIHByZWNpc2UgcXVlc3Rpb24gYWJvdXQgZGF0YSwgZmluZCB0aGUgYW5zd2VyLCBhbmQgdHVybiBpdCBiYWNrIGludG8KYSBzZW50ZW5jZSBhIGJ1c3kgbWFuYWdlciBjYW4gYWN0IG9uLgoKIyMgVGhlIGpvYiBpbiBvbmUgbGluZQoKPiBBIGRhdGEgYW5hbHlzdCB0dXJucyBhIG1lc3N5IHJlYWwtd29ybGQgcXVlc3Rpb24gaW50byBhIGNsZWFyLCBob25lc3QgYW5zd2VyCj4gYmFja2VkIGJ5IG51bWJlcnMuCgpFdmVyeXRoaW5nIGVsc2Ug4oCUIHRoZSB0b29scywgdGhlIGNoYXJ0cywgdGhlIGNvZGUg4oCUIGlzIGp1c3QgaG93IHRoZXkgZ2V0IHRoZXJlLgoKIyMgQSBkYXkgaW4gdGhlIGxpZmUKClBpY3R1cmUgYSBUdWVzZGF5LiBBdCA5OjAwIHRoZSBoZWFkIG9mIHNhbGVzIGRyb3BzIGEgcXVlc3Rpb24gaW50byB0aGUgYW5hbHlzdCdzCmluYm94OiAqIldoeSBpcyBvdXIgTWlsYW4gc3RvcmUgZG93biAxMiUgdGhpcyBtb250aD8iKgoKVGhhdCBzaW5nbGUgc2VudGVuY2UgaXMgYWN0dWFsbHkgZml2ZSBxdWVzdGlvbnM6CgotIElzIHRoZSAxMiUgcmVhbCwgb3IgYSBmbHVrZSBvZiBob3cgdGhlIG51bWJlcnMgd2VyZSBjb3VudGVkPwotIElzIGl0IGp1c3QgTWlsYW4sIG9yIGFyZSBvdGhlciBzdG9yZXMgZG93biB0b28/Ci0gV2hhdCBjaGFuZ2VkIHRoaXMgbW9udGgg4oCUIHByaWNlLCBzdG9jaywgd2VhdGhlciwgYSBjb21wZXRpdG9yIG9wZW5pbmcgbmV4dCBkb29yPwotIElzIHRoZSBkcm9wIGluIHRoZSBudW1iZXIgb2YgY3VzdG9tZXJzLCBvciBpbiB3aGF0IGVhY2ggY3VzdG9tZXIgc3BlbmRzPwotIFdoYXQgY291bGQgd2UgYWN0dWFsbHkgZG8gYWJvdXQgaXQ/CgpUaGUgYW5hbHlzdCBkaWdzIHRocm91Z2ggc2FsZXMgcmVjb3JkcywgY3VzdG9tZXIgZGF0YSwgYW5kIHdoYXRldmVyIGVsc2UgbWlnaHQKZXhwbGFpbiBpdC4gQnkgdGhlIGFmdGVybm9vbiB0aGV5IGhhdmUgYW4gYW5zd2VyOiAqZm9vdCB0cmFmZmljIGZlbGwgYmVjYXVzZSBhIHJvYWQKd2FzIGNsb3NlZCBmb3IgY29uc3RydWN0aW9uIGZvciB0d28gd2Vla3M7IHRoZSBjdXN0b21lcnMgd2hvIGRpZCBjb21lIHNwZW50IHRoZQpzYW1lIGFzIGFsd2F5cy4qIE5vdCBhIG15c3RlcnkuIEEgcm9hZC4KClRoYXQgaXMgdGhlIGpvYi4gQ3VyaW9zaXR5LCBhIGxpdHRsZSBtZXRob2QsIGFuZCB0aGUgZGF0YS4KCiMjIFRoZSBmb3VyIGNvdXNpbnMgKGFuZCBob3cgdGhleSBkaWZmZXIpCgpQZW9wbGUgbWl4IHVwIGZvdXIgbmVhcmJ5IGpvYnMuIEhlcmUgaXMgdGhlIHNpbXBsZSB2ZXJzaW9uLgoKfCBSb2xlIHwgV2hhdCB0aGV5IG1vc3RseSBkbyB8IFRoZSBxdWVzdGlvbiB0aGV5IGFuc3dlciB8CnwtLS18LS0tfC0tLXwKfCAqKkRhdGEgYW5hbHlzdCoqIHwgTG9va3MgYXQgd2hhdCBhbHJlYWR5IGhhcHBlbmVkLCBleHBsYWlucyBpdCB8ICJXaGF0IGhhcHBlbmVkIGFuZCB3aHk/IiB8CnwgKipEYXRhIHNjaWVudGlzdCoqIHwgQnVpbGRzIG1vZGVscyB0byBwcmVkaWN0IG9yIGd1ZXNzIHwgIldoYXQgd2lsbCBoYXBwZW4gbmV4dD8iIHwKfCAqKkRhdGEgZW5naW5lZXIqKiB8IEJ1aWxkcyB0aGUgcGlwZXMgdGhhdCBtb3ZlIGFuZCBzdG9yZSBkYXRhIHwgIkhvdyBkbyB3ZSBnZXQgY2xlYW4gZGF0YSBoZXJlPyIgfAp8ICoqQkkgYW5hbHlzdCoqIHwgQnVpbGRzIGRhc2hib2FyZHMgYW5kIHJlcG9ydHMgcGVvcGxlIGxvb2sgYXQgfCAiSG93IGRvIHdlIHNlZSBpdCBldmVyeSBkYXk/IiB8CgpUaGVyZSBpcyBhIGxvdCBvZiBvdmVybGFwLiBJbiBhIHNtYWxsIGNvbXBhbnksIG9uZSBwZXJzb24gaXMgYWxsIGZvdXIuIEJ1dCB0aGUKZGF0YSBhbmFseXN0J3MgaG9tZSBncm91bmQgaXMgdGhlIGZpcnN0IGNvbHVtbjogdW5kZXJzdGFuZGluZyB0aGUgcHJlc2VudCBhbmQgdGhlCnJlY2VudCBwYXN0LgoKIyMgV2hlcmUgdGhlIGFuYWx5c3Qgd29ya3MKCkV2ZXJ5d2hlcmUuIEEgZmV3IHJlYWwgc2hhcGVzIG9mIHRoZSBqb2I6CgotICoqUmV0YWlsKiog4oCUIHdoeSBkaWQgYSBzdG9yZSdzIHNhbGVzIGZhbGw7IHdoaWNoIHByb2R1Y3RzIHNlbGwgdG9nZXRoZXIuCi0gKipCYW5raW5nKiog4oCUIHdhdGNoaW5nIHRyYW5zYWN0aW9ucyBmb3IgcGF0dGVybnMgdGhhdCBsb29rIGxpa2UgZnJhdWQuCi0gKipFLWNvbW1lcmNlKiog4oCUIHdoZXJlIGRvIHNob3BwZXJzIGFiYW5kb24gdGhlaXIgY2FydCwgYW5kIHdoeS4KLSAqKk1hbnVmYWN0dXJpbmcqKiDigJQgd2hpY2ggc2hpZnQgb3IgbGluZSB0aHJvd3Mgb2ZmIG1vcmUgZGVmZWN0aXZlIHBhcnRzLgotICoqU29mdHdhcmUgKFNhYVMpKiog4oCUIGhvdyBtYW55IHN1YnNjcmliZXJzIHN0YXksIGFuZCB3aGF0IG1ha2VzIHRoZW0gbGVhdmUuCgpEaWZmZXJlbnQgYnVpbGRpbmdzLCBzYW1lIGpvYjogYXNrIGEgcXVlc3Rpb24sIGZpbmQgdGhlIG51bWJlcnMsIHRlbGwgdGhlIHRydXRoLgoKIyMgQSBjdXJpb3NpdHk6IHRoZSBvbGRlc3QgYW5hbHlzdAoKRGF0YSBhbmFseXNpcyBpcyBvbGRlciB0aGFuIGNvbXB1dGVycyBieSB0aG91c2FuZHMgb2YgeWVhcnMuIFRoZSBhbmNpZW50IEVneXB0aWFucwpzZW50IHNjcmliZXMgdG8gY291bnQgdGhlIGhhcnZlc3QgYW5kIHRoZSBjYXR0bGUgc28gdGhleSBjb3VsZCBwbGFuIHRheGVzIGFuZApncmFpbiBzdG9yZXMgYmVmb3JlIGEgZmFtaW5lLiBUaG9zZSBzY3JpYmVzIHdlcmUgZGF0YSBhbmFseXN0cy4gVGhlIHNwcmVhZHNoZWV0IGlzCm5ldzsgdGhlIGpvYiBpcyBhbmNpZW50LgoKLS0tCgojIyBUcnkgaXQ6IHNlZSBhIG1vZGVsIGluIG9uZSBzZW50ZW5jZQoKRW5vdWdoIHRoZW9yeS4gSGVyZSBpcyB5b3VyIGZpcnN0IHRhc3RlIG9mIHRoZSB0b29sIHRoaXMgYm9vayBpcyBidWlsdCBvbi4gSW4KQWdlbnRCcmlkZ2UsIHdpdGggUG93ZXJCSVRvb2wsIGEgcGVyc29uIHR5cGVkIG9uZSBzZW50ZW5jZSBhYm91dCBhIFBvd2VyIEJJIHJlcG9ydAp0aGF0IHdhcyBhbHJlYWR5IG9wZW4gb24gdGhlaXIgc2NyZWVuOgoKPiAiQ29ubmVjdCB0byBQb3dlciBCSSBEZXNrdG9wIGFuZCBsaXN0IHRoZSB0YWJsZXMgaW4gbXkgbW9kZWwuIgoKSGVyZSBpcyB3aGF0IGNhbWUgYmFjazoKCiFbQ29ubmVjdCBhbmQgbGlzdCB0YWJsZXNdKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9jb25uZWN0LWxpc3QtdGFibGVzLnBuZykKCkluIG9uZSBsaW5lLCB0aGUgYXNzaXN0YW50IHJlYWQgdGhlIGxpdmUgbW9kZWwgYW5kIHJlcG9ydGVkIGV2ZXJ5IHRhYmxlLCBob3cgbWFueQpyb3dzIGl0IGhvbGRzLCBhbmQgaG93IG1hbnkgbWVhc3VyZXMgaXQgaGFzLiBObyBtZW51cyBjbGlja2VkLCBubyBjb2RlIHdyaXR0ZW4uClRoYXQgaXMgdGhlIHNoYXBlIG9mIGV2ZXJ5dGhpbmcgaW4gdGhpcyBib29rOiBhIHBsYWluIHNlbnRlbmNlIGluLCBhIHJlYWwgcmVzdWx0Cm91dC4KCi0tLQoKIyMgV2hhdCB5b3UnbGwgY2FycnkgZnJvbSB0aGlzIGNoYXB0ZXIKCi0gQSBkYXRhIGFuYWx5c3QgYW5zd2VycyByZWFsIHF1ZXN0aW9ucyB3aXRoIG51bWJlcnMuCi0gVGhlIGNvcmUgc2tpbGwgaXMgdHJhbnNsYXRpb24sIG5vdCBtYXRoLgotIFRoZSBqb2IgaXMgYW5jaWVudDsgdGhlIHRvb2xzIGFyZSBuZXcg4oCUIGFuZCBnZXR0aW5nIGZhc3Rlci4KCkluIHRoZSBuZXh0IGNoYXB0ZXIgd2UgdHJhdmVsIGJhY2sgaW4gdGltZSB0byBzZWUgaG93IGNvdW50aW5nIHR1cm5lZCBpbnRvIGEKY2FyZWVyLgo=
+# 1. What a Data Analyst Actually Does
+
+Ask ten people what a data analyst does and you will get ten different answers.
+Some picture a person in a dark room typing green code. Some picture someone making
+pretty pie charts. Both are wrong, and neither is wrong. Let's clear it up.
+
+A data analyst is a person who answers questions using numbers. That is the whole
+job. The questions come from real life: *Why did sales drop last month? Which
+product should we push? Which customers are about to leave?* The answers come from
+data: the records a business leaves behind every day — sales, clicks, invoices,
+support tickets, delivery times.
+
+The analyst's skill is not math. It is **translation**. They turn a fuzzy human
+question into a precise question about data, find the answer, and turn it back into
+a sentence a busy manager can act on.
+
+## The job in one line
+
+> A data analyst turns a messy real-world question into a clear, honest answer
+> backed by numbers.
+
+Everything else — the tools, the charts, the code — is just how they get there.
+
+## A day in the life
+
+Picture a Tuesday. At 9:00 the head of sales drops a question into the analyst's
+inbox: *"Why is our Milan store down 12% this month?"*
+
+That single sentence is actually five questions:
+
+- Is the 12% real, or a fluke of how the numbers were counted?
+- Is it just Milan, or are other stores down too?
+- What changed this month — price, stock, weather, a competitor opening next door?
+- Is the drop in the number of customers, or in what each customer spends?
+- What could we actually do about it?
+
+The analyst digs through sales records, customer data, and whatever else might
+explain it. By the afternoon they have an answer: *foot traffic fell because a road
+was closed for construction for two weeks; the customers who did come spent the
+same as always.* Not a mystery. A road.
+
+That is the job. Curiosity, a little method, and the data.
+
+## The four cousins (and how they differ)
+
+People mix up four nearby jobs. Here is the simple version.
+
+| Role | What they mostly do | The question they answer |
+|---|---|---|
+| **Data analyst** | Looks at what already happened, explains it | "What happened and why?" |
+| **Data scientist** | Builds models to predict or guess | "What will happen next?" |
+| **Data engineer** | Builds the pipes that move and store data | "How do we get clean data here?" |
+| **BI analyst** | Builds dashboards and reports people look at | "How do we see it every day?" |
+
+There is a lot of overlap. In a small company, one person is all four. But the
+data analyst's home ground is the first column: understanding the present and the
+recent past.
+
+## Where the analyst works
+
+Everywhere. A few real shapes of the job:
+
+- **Retail** — why did a store's sales fall; which products sell together.
+- **Banking** — watching transactions for patterns that look like fraud.
+- **E-commerce** — where do shoppers abandon their cart, and why.
+- **Manufacturing** — which shift or line throws off more defective parts.
+- **Software (SaaS)** — how many subscribers stay, and what makes them leave.
+
+Different buildings, same job: ask a question, find the numbers, tell the truth.
+
+## A curiosity: the oldest analyst
+
+Data analysis is older than computers by thousands of years. The ancient Egyptians
+sent scribes to count the harvest and the cattle so they could plan taxes and
+grain stores before a famine. Those scribes were data analysts. The spreadsheet is
+new; the job is ancient.
+
+---
+
+## Try it: see a model in one sentence
+
+Enough theory. Here is your first taste of the tool this book is built on. In
+AgentBridge, with PowerBITool, a person typed one sentence about a Power BI report
+that was already open on their screen:
+
+> "Connect to Power BI Desktop and list the tables in my model."
+
+Here is what came back:
+
+![Connect and list tables](../../assets/examples/connect-list-tables.png)
+
+In one line, the assistant read the live model and reported every table, how many
+rows it holds, and how many measures it has. No menus clicked, no code written.
+That is the shape of everything in this book: a plain sentence in, a real result
+out.
+
+---
+
+## What you'll carry from this chapter
+
+- A data analyst answers real questions with numbers.
+- The core skill is translation, not math.
+- The job is ancient; the tools are new — and getting faster.
+
+In the next chapter we travel back in time to see how counting turned into a
+career.

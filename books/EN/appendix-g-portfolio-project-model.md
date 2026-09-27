@@ -1,1 +1,75 @@
-IyBBcHBlbmRpeCBHIOKAlCBBIFBvcnRmb2xpbyBQcm9qZWN0IE1vZGVsCgpBIHBvcnRmb2xpbyBwcm92ZXMgeW91IGNhbiBkbyB0aGUgam9iLiBUaGlzIG1vZGVsIGdpdmVzIHlvdSBhIHByb2plY3QgdG8gYnVpbGQsCmRvY3VtZW50LCBhbmQgc2hvdy4gRG8gb25lIG9yIHR3byBvZiB0aGVzZSBhbmQgeW91IGhhdmUgc29tZXRoaW5nIHRvIHBvaW50IGF0IGluIGFuCmludGVydmlldy4KCiMjIFRoZSBwcm9qZWN0OiBhIHNhbGVzIGFuYWx5c2lzIGRhc2hib2FyZAoKQnVpbGQgYSBzbWFsbCBlbmQtdG8tZW5kIGFuYWx5c2lzIG9uIGEgc2FtcGxlIHNhbGVzIGRhdGFzZXQgKHRoZSBzYW1lIHNoYXBlIHVzZWQKdGhyb3VnaG91dCB0aGlzIGJvb2s6IFNhbGVzLCBQcm9kdWN0cywgQ3VzdG9tZXJzLCBTdG9yZXMpLgoKIyMjIFN0ZXAgMSDigJQgVW5kZXJzdGFuZCB0aGUgZGF0YQoKLSBQcm9maWxlIGVhY2ggdGFibGUuCi0gTm90ZSBkaXN0aW5jdCB2YWx1ZXMsIGJsYW5rcywgYW5kIHJhbmdlcy4KLSBXcml0ZSBvbmUgc2VudGVuY2UgcGVyIHRhYmxlOiB3aGF0IGl0IGhvbGRzLgoKIyMjIFN0ZXAgMiDigJQgQ2xlYW4gYW5kIG1vZGVsCgotIFN0YW5kYXJkaXNlIG1lc3N5IHRleHQgKFVQUEVSL0xPV0VSIGNvbHVtbnMpLgotIEJ1Y2tldCBudW1iZXJzIGludG8gYmFuZHMgKHByaWNlIGJhbmRzKS4KLSBXaXJlIHRoZSByZWxhdGlvbnNoaXBzIChTYWxlcyDihpIgUHJvZHVjdHMsIEN1c3RvbWVycywgU3RvcmVzKS4KCiMjIyBTdGVwIDMg4oCUIEJ1aWxkIHRoZSBtZXRyaWNzCgotIFRvdGFsIFNhbGVzLCBUb3RhbCBRdHksIE9yZGVycy4KLSBBdmVyYWdlIE9yZGVyIFZhbHVlLCBTYWxlcyBwZXIgQ3VzdG9tZXIuCi0gQSBtYXJnaW4gbWVhc3VyZSAocmV2ZW51ZSBtaW51cyBjb3N0KS4KLSBBIHNoYXJlLW9mLXRvdGFsIG1lYXN1cmUuCgojIyMgU3RlcCA0IOKAlCBTZWdtZW50CgotIFRvcCBjdXN0b21lcnMgYnkgc3BlbmQuCi0gU2FsZXMgYnkgc2VnbWVudCAoUmV0YWlsIC8gQnVzaW5lc3MgLyBPbmxpbmUpLgotIFNhbGVzIGJ5IHJlZ2lvbiBhbmQgYnkgbW9udGguCgojIyMgU3RlcCA1IOKAlCBWYWxpZGF0ZSBhbmQgZG9jdW1lbnQKCi0gVmFsaWRhdGUgZXZlcnkgbWVhc3VyZSBiZWZvcmUgc2F2aW5nLgotIExpbnQgdGhlIERBWCBmb3IgYW50aS1wYXR0ZXJucy4KLSBHZW5lcmF0ZSB0aGUgZGF0YSBkaWN0aW9uYXJ5LgotIFJ1biB0aGUgYmVzdC1wcmFjdGljZXMgcmVwb3J0LgoKIyMjIFN0ZXAgNiDigJQgVmlzdWFsaXNlCgotIEEgS1BJIGNhcmQgcm93ICh0b3RhbCBzYWxlcywgb3JkZXJzLCBhdmcgb3JkZXIpLgotIEEgYmFyIGNoYXJ0IG9mIHNhbGVzIGJ5IGNhdGVnb3J5LgotIEEgbGluZSBjaGFydCBvZiB0aGUgbW9udGhseSB0cmVuZC4KLSBBIGxlYWRlcmJvYXJkIG9mIHRvcCBwcm9kdWN0cy4KCiMjIFdoYXQgdG8gc2hvdyBpbiB0aGUgcG9ydGZvbGlvCgpGb3IgZWFjaCBwcm9qZWN0LCBwcmVzZW50OgoKMS4gKipUaGUgcXVlc3Rpb24uKiogV2hhdCBidXNpbmVzcyBwcm9ibGVtIHlvdSB3ZXJlIHNvbHZpbmcuCjIuICoqVGhlIG1vZGVsLioqIEEgc2NyZWVuc2hvdCBvZiB0aGUgdGFibGVzIGFuZCByZWxhdGlvbnNoaXBzLgozLiAqKlRoZSBtZXRyaWNzLioqIFRoZSBtZWFzdXJlcyB5b3UgYnVpbHQsIHdpdGggdGhlaXIgREFYLgo0LiAqKlRoZSBkYXNoYm9hcmQuKiogVGhlIGZpbmFsIHZpc3VhbHMuCjUuICoqVGhlIHN0b3J5LioqIFdoYXQgeW91IGZvdW5kIGFuZCB3aGF0IHlvdSdkIGRvIGFib3V0IGl0Lgo2LiAqKlRoZSB0b29saW5nLioqIEEgbm90ZSB0aGF0IHlvdSBidWlsdCBpdCB3aXRoIEFnZW50QnJpZGdlICsgUG93ZXJCSVRvb2wsIGFuZAogICBob3cgdGhlIGFzc2lzdGFudCBoZWxwZWQgKHZhbGlkYXRpb24sIGRvY3VtZW50YXRpb24sIGJlc3QtcHJhY3RpY2VzKS4KCiMjIFdoeSB0aGlzIHdvcmtzCgpBbiBpbnRlcnZpZXdlciBkb2Vzbid0IGNhcmUgdGhhdCB0aGUgdG9vbCBtYWRlIGl0IGZhc3QuIFRoZXkgY2FyZSB0aGF0IHlvdSBjYW46CmZyYW1lIGEgcHJvYmxlbSwgYnVpbGQgYSBjbGVhbiBtb2RlbCwgdmFsaWRhdGUgeW91ciB3b3JrLCBkb2N1bWVudCBpdCwgYW5kIHRlbGwgYQpzdG9yeS4gVGhpcyBwcm9qZWN0IGV4ZXJjaXNlcyBhbGwgc2l4LiBUaGUgdG9vbCBpcyBhIGJvbnVzIHRoYXQgc2hvd3MgeW91J3JlIGN1cnJlbnQK4oCUIG5vdCBhIHNob3J0Y3V0IHRoYXQgcmVwbGFjZXMgdGhlIHRoaW5raW5nLgoKIyMgTWFrZSBpdCB5b3VycwoKU3dhcCB0aGUgc2FtcGxlIGRhdGEgZm9yIGEgZGF0YXNldCB5b3UgY2FyZSBhYm91dCDigJQgYSBob2JieSwgYSBwdWJsaWMgZGF0YXNldCwgYQpzaWRlIHByb2plY3QuIFRoZSBtb3JlIHlvdSBjYXJlIGFib3V0IHRoZSBzdWJqZWN0LCB0aGUgYmV0dGVyIHRoZSBxdWVzdGlvbnMgeW91J2xsCmFzaywgYW5kIHRoZSBiZXR0ZXIgdGhlIHBvcnRmb2xpbyBsb29rcy4gVGhlIHBhdHRlcm4gaXMgdGhlIHNhbWU7IHRoZSBkYXRhIGlzCnlvdXJzIHRvIGNob29zZS4K
+# Appendix G — A Portfolio Project Model
+
+A portfolio proves you can do the job. This model gives you a project to build,
+document, and show. Do one or two of these and you have something to point at in an
+interview.
+
+## The project: a sales analysis dashboard
+
+Build a small end-to-end analysis on a sample sales dataset (the same shape used
+throughout this book: Sales, Products, Customers, Stores).
+
+### Step 1 — Understand the data
+
+- Profile each table.
+- Note distinct values, blanks, and ranges.
+- Write one sentence per table: what it holds.
+
+### Step 2 — Clean and model
+
+- Standardise messy text (UPPER/LOWER columns).
+- Bucket numbers into bands (price bands).
+- Wire the relationships (Sales → Products, Customers, Stores).
+
+### Step 3 — Build the metrics
+
+- Total Sales, Total Qty, Orders.
+- Average Order Value, Sales per Customer.
+- A margin measure (revenue minus cost).
+- A share-of-total measure.
+
+### Step 4 — Segment
+
+- Top customers by spend.
+- Sales by segment (Retail / Business / Online).
+- Sales by region and by month.
+
+### Step 5 — Validate and document
+
+- Validate every measure before saving.
+- Lint the DAX for anti-patterns.
+- Generate the data dictionary.
+- Run the best-practices report.
+
+### Step 6 — Visualise
+
+- A KPI card row (total sales, orders, avg order).
+- A bar chart of sales by category.
+- A line chart of the monthly trend.
+- A leaderboard of top products.
+
+## What to show in the portfolio
+
+For each project, present:
+
+1. **The question.** What business problem you were solving.
+2. **The model.** A screenshot of the tables and relationships.
+3. **The metrics.** The measures you built, with their DAX.
+4. **The dashboard.** The final visuals.
+5. **The story.** What you found and what you'd do about it.
+6. **The tooling.** A note that you built it with AgentBridge + PowerBITool, and
+   how the assistant helped (validation, documentation, best-practices).
+
+## Why this works
+
+An interviewer doesn't care that the tool made it fast. They care that you can:
+frame a problem, build a clean model, validate your work, document it, and tell a
+story. This project exercises all six. The tool is a bonus that shows you're current
+— not a shortcut that replaces the thinking.
+
+## Make it yours
+
+Swap the sample data for a dataset you care about — a hobby, a public dataset, a
+side project. The more you care about the subject, the better the questions you'll
+ask, and the better the portfolio looks. The pattern is the same; the data is
+yours to choose.

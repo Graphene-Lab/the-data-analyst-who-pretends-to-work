@@ -1,1 +1,104 @@
-IyAyNi4gRGVpbmUgS2FycmllcmUgYWxzIERhdGVuYW5hbHlzdCBpbSBaZWl0YWx0ZXIgZGVzIEFzc2lzdGVudGVuCgpEYXMgQnVjaCBlbmRldCBkb3J0LCB3byBkZWluZSBLYXJyaWVyZSBlaWdlbnRsaWNoIGJlZ2lubnQ6IFdhcyBoZWnDn3QgZXMsIGhldXRlCkRhdGVuYW5hbHlzdCB6dSBzZWluLCB3ZW5uIGVpbiBXZXJremV1ZyB2aWVsIGRlcyBUdW5zIGthbm4/IERpZXNlcyBLYXBpdGVsIGlzdCBlaW5lCnByYWt0aXNjaGUgQW50d29ydC4KCiMjIERpZSBTdGVsbGVuYmVzY2hyZWlidW5nIMOkbmRlcnQgc2ljaAoKSmFocmVsYW5nIHdhciBkaWUgU3RlbGxlbmJlc2NocmVpYnVuZyBlaW5lcyBEYXRlbmFuYWx5c3RlbiBlaW5lIExpc3RlIHZvbiBXZXJremV1Z2VuOgpFeGNlbCwgU1FMLCBQb3dlciBCSSwgZWluIGJpc3NjaGVuIFB5dGhvbi4gRGllc2UgTGlzdGUgd2lyZCB6dW0gQm9kZW4sIG5pY2h0IHp1cgpEZWNrZS4gRGVyIG5ldWUgSm9iIGlzdCB3ZW5pZ2VyIOKAnmJlZGllbmUgZGllIFdlcmt6ZXVnZSIgdW5kIG1laHIg4oCec3RlbGxlIGRpZSBGcmFnZW4KdW5kIHN0ZWggenUgZGVuIEFudHdvcnRlbi4iCgpXYXMgc2ljaCDDpG5kZXJ0OgoKLSAqKlZvbiBTeW50YXggenUgQWJzaWNodC4qKiBGcsO8aGVyIHd1cmRlc3QgZHUgZGFmw7xyIGJlemFobHQsIGRhcyBEQVggenUga2VubmVuLgogIEpldHp0IHdpcnN0IGR1IGRhZsO8ciBiZXphaGx0LCBkaWUgRnJhZ2UgenUga2VubmVuLgotICoqVm9uIEJhdWVuIHp1IFVydGVpbGVuLioqIERhcyBXZXJremV1ZyBiYXV0OyBkdSBlbnRzY2hlaWRlc3QsIHdhcyByaWNodGlnIGlzdC4KLSAqKlZvbiBQcm9kdXppZXJlbiB6dSBJbnRlcnByZXRpZXJlbi4qKiBKZWRlciBrYW5uIGVpbiBEaWFncmFtbSBtYWNoZW4uIER1IGzDpHNzdCBlcwogIGV0d2FzIGJlZGV1dGVuLgoKIyMgV2FzIGRlciBBc3Npc3RlbnQgKm5pY2h0KiB3ZWduaW1tdAoKRXMgaXN0IHZlcmxvY2tlbmQgenUgZGVua2VuLCBlaW4gZsOkaGlnZXMgV2Vya3pldWcgdmVya2xlaW5lcnQgZGllIFJvbGxlIGRlcwpBbmFseXN0ZW4uIERhcyBHZWdlbnRlaWwgaXN0IG7DpGhlciBhbiBkZXIgV2FocmhlaXQuIERlciBBc3Npc3RlbnQgZW50ZmVybnQgZGllIFRlaWxlCmRlcyBKb2JzLCBkaWUgbcO8aHNhbSB1bmQgd2VydGxvcyB3YXJlbiwgdW5kIHNjaGllYnQgZGljaCBkaWUgV2VydGtldHRlIGhpbmF1ZjoKCi0gKipOZXVnaWVyKiogaXN0IG1laHIgd2VydCwgbmljaHQgd2VuaWdlci4gSmUgYmVzc2VyIGRlaW5lIEZyYWdlbiwgZGVzdG8gbWVociBnaWJ0CiAgZGlyIGRhcyBXZXJremV1Zy4KLSAqKktvbnRleHQqKiBnZWjDtnJ0IGFsbGVpbiBkaXIuIERhcyBXZXJremV1ZyBrZW5udCBkZWluIEdlc2Now6RmdCBuaWNodCwgZGVpbmUgS3VuZGVuCiAgbmljaHQsIGRlaW5lIFBvbGl0aWsgbmljaHQuIER1IHNjaG9uLgotICoqVmVydHJhdWVuKiogYmF1dCBkZXIgTWVuc2NoLiBMZXV0ZSBoYW5kZWxuIG5hY2ggZWluZXIgQW5hbHlzZSwgd2VpbCBzaWUgZGVtCiAgTWVuc2NoZW4gZGFoaW50ZXIgdmVydHJhdWVuLCBuaWNodCBkZXIgU29mdHdhcmUsIGRpZSBzaWUgZ2VtYWNodCBoYXQuCgojIyBEaWUgRsOkaGlna2VpdGVuLCBhdWYgZGllIGR1IGRvcHBlbHQgc2V0emVuIHNvbGx0ZXN0CgpXZW5uIGR1IGpldHp0IGFscyBBbmFseXN0IGdlZGVpaGVuIHdpbGxzdCwgaW52ZXN0aWVyZSBpbiBkaWVzZToKCjEuICoqR3V0ZSBGcmFnZW4gc3RlbGxlbi4qKiBEZXIgRW5ncGFzcyBpc3QgaGllcmhlciBnZXdhbmRlcnQuIExlcm4sIGVpbgogICBHZXNjaMOkZnRzcHJvYmxlbSBhbHMgRGF0ZW5mcmFnZSB6dSBmb3JtdWxpZXJlbi4KMi4gKipEYXRlbmtvbXBldGVuei4qKiBWZXJzdGVoLCB3YXMgRGF0ZW4gZGlyIHNhZ2VuIGvDtm5uZW4gdW5kIHdhcyBuaWNodC4gU3BvdCBlaW5lCiAgIHNjaGxlY2h0ZSBBbm5haG1lLCBiZXZvciBzaWUgZWluZSBzY2hsZWNodGUgRW50c2NoZWlkdW5nIHdpcmQuCjMuICoqU3Rvcnl0ZWxsaW5nLioqIFZlcndhbmRsZSBlaW4gRXJnZWJuaXMgaW4gZWluZSBFbnRzY2hlaWR1bmcuIERhcyBpc3QgZGllCiAgIGthcnJpZXJlc2ljaGVyc3RlIEbDpGhpZ2tlaXQgaW0gRmVsZC4KNC4gKipVcnRlaWxzdmVybcO2Z2VuIHVuZCBFdGhpay4qKiBXZWnDnywgd2FubiBlaW5lIFphaGwgaXJyZWbDvGhyZW5kIGlzdCwgd2FubiBlaW5lCiAgIEFuYWx5c2UgdW5mYWlyIGlzdCwgd2FubiBkdSDigJ5ub2NoIG5pY2h0IiBzYWdlbiBzb2xsc3QuCjUuICoqR2V3YW5kdGhlaXQgbWl0IGRlbSBBc3Npc3RlbnRlbi4qKiBMZXJuLCBtaXQgZGVtIFdlcmt6ZXVnIHp1IHJlZGVuLiBEaWUKICAgQW5hbHlzdGVuLCBkaWUgZ2V3aW5uZW4sIHNpbmQgbmljaHQgZGllLCBkaWUgc2ljaCBkZW0gQXNzaXN0ZW50ZW4gd2lkZXJzZXR6ZW4g4oCTCiAgIHNpZSBzaW5kIGRpZSwgZGllIGlobiBhbSBiZXN0ZW4gbnV0emVuLgoKIyMgRWluZSBLdXJpb3NpdMOkdDogZGVyIFRhc2NoZW5yZWNobmVyLUFuYWx5c3QKCkFscyBlbGVrdHJvbmlzY2hlIFRhYmVsbGVua2Fsa3VsYXRpb25lbiBpbiBkZW4gMTk4MGVybiBrYW1lbiwgc2FndGVuIExldXRlIGRhcyBFbmRlCmRlcyBGaW5hbnphbmFseXN0ZW4gdm9yYXVzLiBEaWUgVGFiZWxsZW5rYWxrdWxhdGlvbiBtYWNodGUgZGllIEFyaXRobWV0aWsgc29mb3J0LAphbHNvIHfDvHJkZSBkZXIgYXJpdGhtZXRpa2Jhc2llcnRlIEpvYiB2ZXJzY2h3aW5kZW4uIFdhcyB0YXRzw6RjaGxpY2ggcGFzc2llcnRlOiBEaWUKWmFobCBkZXIgQW5hbHlzdGVuIHd1Y2hzLCB3ZWlsIEFuYWx5c2UgYmlsbGlnIGdlbnVnIHd1cmRlLCB1bSBzaWUgw7xiZXJhbGwgenUgbWFjaGVuLgpEZXIgSm9iIHZlcnNjaG9iIHNpY2ggdm9tICpSZWNobmVuKiB6dW0gKkRlbmtlbiouIERpZXNlbGJlIFZlcnNjaGllYnVuZyBwYXNzaWVydApqZXR6dCwgbWl0IGVpbmVtIGdyw7bDn2VyZW4gV2Vya3pldWcuCgojIyBEYXMgUG9ydGZvbGlvIHNjaGzDpGd0IGRhcyBaZXJ0aWZpa2F0CgpJbiBlaW5lciBXZWx0LCBpbiBkZXIgZGFzIFdlcmt6ZXVnIGRhcyBBcnRlZmFrdCBwcm9kdXppZXJlbiBrYW5uLCB3YXMgYmV3ZWlzdCwgZGFzcwpkdSBndXQgYmlzdD8gTmljaHQgZWluIFplcnRpZmlrYXQg4oCTIGVpbiBQb3J0Zm9saW8uIFplaWcsIGRhc3MgZHUga2FubnN0OgoKLSBFaW5lIGNoYW90aXNjaGUgRnJhZ2UgaW4gZWluIHNhdWJlcmVzIE1vZGVsbCB2ZXJ3YW5kZWxuLgotIERlaW5lIEFyYmVpdCB2YWxpZGllcmVuIHVuZCBkb2t1bWVudGllcmVuLgotIEVpbmUgR2VzY2hpY2h0ZSBlcnrDpGhsZW4sIGRpZSBlaW5lIEVudHNjaGVpZHVuZyBhbnRyaWViLgotIERlbiBBc3Npc3RlbnRlbiBndXQgbnV0emVuIHVuZCBzZWluZSBHcmVuemVuIGtlbm5lbi4KCkRpZSBBbmjDpG5nZSBkaWVzZXMgQnVjaGVzIGdlYmVuIGRpciBlaW4gUG9ydGZvbGlvLVByb2pla3Rtb2RlbGwgdW5kIGdlZsO8aHJ0ZQrDnGJ1bmdlbiBnZW5hdSBkYWbDvHIuIEJhdSBlaW4gcGFhciwgemVpZyBzaWUsIHVuZCBkYXMgV2Vya3pldWcgd2lyZCBUZWlsIGRlaW5lcgpHZXNjaGljaHRlLCBuaWNodCBlaW5lIEJlZHJvaHVuZyBkYWbDvHIuCgojIyBEaWUgZWhybGljaGUgV2FybnVuZwoKRXMgZ2lidCBlaW4gZWNodGVzIFJpc2lrbzogRGVyIEFzc2lzdGVudCBtYWNodCBlcyBsZWljaHQsIGVpbmUgQW50d29ydCB6dQpwcm9kdXppZXJlbiwgZGllIGR1IG5pY2h0IHZlcnN0ZWhzdC4gRWluIEp1bmlvciwgZGVyIHNpY2ggb2huZSBVcnRlaWxzdmVybcO2Z2VuIGF1ZgpkYXMgV2Vya3pldWcgc3TDvHR6dCwgd2lyZCBlaW4gS25vcGYsIGtlaW4gQW5hbHlzdC4gRGVyIFdlZywgZGFzIHp1IHZlcm1laWRlbiwgaXN0LApkZW4gQXNzaXN0ZW50ZW4genUgYmVudXR6ZW4sIHVtICpzY2huZWxsZXIgenUgbGVybmVuKiwgbmljaHQgdW0gKndlbmlnZXIgenUgZGVua2VuKi4KQml0dGUgaWhuLCBkYXMgREFYIHp1IGVya2zDpHJlbiwgZGFzIGVyIHNjaHJpZWIuIFByw7xmIHNlaW5lIEFyYmVpdC4gVmVyc3RlaCBqZWRlClphaGwsIGJldm9yIGR1IHNpZSB2ZXLDtmZmZW50bGljaHN0LiBTbyBiZW51dHp0IG1hY2h0IGRlciBBc3Npc3RlbnQgZGljaCBiZXNzZXIuCkZhdWwgYmVudXR6dCBtYWNodCBlciBkaWNoIGFiaMOkbmdpZy4KCiMjIFdvIGRpY2ggZGFzIHp1csO8Y2tsw6Rzc3QKCkR1IGJpc3QgbmljaHQgZGVyIE1lbnNjaCwgZGVyIGRhcyBXZXJremV1ZyBiZWRpZW50LiBEdSBiaXN0IGRlciBNZW5zY2gsIGRlcgplbnRzY2hlaWRldCwgd2FzIGRhcyBXZXJremV1ZyB0dW4gc29sbCwgcHLDvGZ0LCBkYXNzIGVzIHJpY2h0aWcgd2FyLCB1bmQgZGFzIEVyZ2VibmlzCmluIGV0d2FzIHZlcndhbmRlbHQsIGRhcyB6w6RobHQuIERhcyBpc3QgZWluIGludGVyZXNzYW50ZXJlciBKb2IgYWxzIGRlciwgZGVuIGVyCmVyc2V0enRlIOKAkyB1bmQgZXMgaXN0IGRlciwgYXVmIGRlbiBkaWNoIGRpZXNlcyBCdWNoIGxlaXNlIHZvcmJlcmVpdGV0IGhhdCwgZWluCkJlaXNwaWVsIGluIG5vcm1hbGVyIFNwcmFjaGUgbmFjaCBkZW0gYW5kZXJlbi4KCi0tLQoKIyMgV2FzIGR1IGF1cyBkaWVzZW0gS2FwaXRlbCBtaXRuaW1tc3QKCi0gRGVyIEpvYiB3YW5kZXJ0ZSB2b20gQmVkaWVuZW4gZGVyIFdlcmt6ZXVnZSB6dW0gRnJhZ2VuIHN0ZWxsZW4gdW5kIHp1IEFudHdvcnRlbgogIHN0ZWhlbi4KLSBOZXVnaWVyLCBLb250ZXh0IHVuZCBWZXJ0cmF1ZW4gc2luZCBtZWhyIHdlcnQsIG5pY2h0IHdlbmlnZXIuCi0gU2V0eiBkb3BwZWx0IGF1ZiBGcmFnZW4sIERhdGVua29tcGV0ZW56LCBTdG9yeXRlbGxpbmcsIFVydGVpbHN2ZXJtw7ZnZW4gdW5kCiAgR2V3YW5kdGhlaXQgbWl0IGRlbSBBc3Npc3RlbnRlbi4KLSBFaW4gUG9ydGZvbGlvIHNjaGzDpGd0IGVpbiBaZXJ0aWZpa2F0LgotIE51dHogZGVuIEFzc2lzdGVudGVuLCB1bSBzY2huZWxsZXIgenUgbGVybmVuLCBuaWNodCB1bSB3ZW5pZ2VyIHp1IGRlbmtlbi4KCkFscyBOw6RjaHN0ZXM6IGVpbiBrdXJ6ZXMgRmF6aXQsIGRhbm4gZGllIEFuaMOkbmdlLgo=
+# 26. Deine Karriere als Datenanalyst im Zeitalter des Assistenten
+
+Das Buch endet dort, wo deine Karriere eigentlich beginnt: Was heißt es, heute
+Datenanalyst zu sein, wenn ein Werkzeug viel des Tuns kann? Dieses Kapitel ist eine
+praktische Antwort.
+
+## Die Stellenbeschreibung ändert sich
+
+Jahrelang war die Stellenbeschreibung eines Datenanalysten eine Liste von Werkzeugen:
+Excel, SQL, Power BI, ein bisschen Python. Diese Liste wird zum Boden, nicht zur
+Decke. Der neue Job ist weniger „bediene die Werkzeuge" und mehr „stelle die Fragen
+und steh zu den Antworten."
+
+Was sich ändert:
+
+- **Von Syntax zu Absicht.** Früher wurdest du dafür bezahlt, das DAX zu kennen.
+  Jetzt wirst du dafür bezahlt, die Frage zu kennen.
+- **Von Bauen zu Urteilen.** Das Werkzeug baut; du entscheidest, was richtig ist.
+- **Von Produzieren zu Interpretieren.** Jeder kann ein Diagramm machen. Du lässt es
+  etwas bedeuten.
+
+## Was der Assistent *nicht* wegnimmt
+
+Es ist verlockend zu denken, ein fähiges Werkzeug verkleinert die Rolle des
+Analysten. Das Gegenteil ist näher an der Wahrheit. Der Assistent entfernt die Teile
+des Jobs, die mühsam und wertlos waren, und schiebt dich die Wertkette hinauf:
+
+- **Neugier** ist mehr wert, nicht weniger. Je besser deine Fragen, desto mehr gibt
+  dir das Werkzeug.
+- **Kontext** gehört allein dir. Das Werkzeug kennt dein Geschäft nicht, deine Kunden
+  nicht, deine Politik nicht. Du schon.
+- **Vertrauen** baut der Mensch. Leute handeln nach einer Analyse, weil sie dem
+  Menschen dahinter vertrauen, nicht der Software, die sie gemacht hat.
+
+## Die Fähigkeiten, auf die du doppelt setzen solltest
+
+Wenn du jetzt als Analyst gedeihen willst, investiere in diese:
+
+1. **Gute Fragen stellen.** Der Engpass ist hierher gewandert. Lern, ein
+   Geschäftsproblem als Datenfrage zu formulieren.
+2. **Datenkompetenz.** Versteh, was Daten dir sagen können und was nicht. Spot eine
+   schlechte Annahme, bevor sie eine schlechte Entscheidung wird.
+3. **Storytelling.** Verwandle ein Ergebnis in eine Entscheidung. Das ist die
+   karrieresicherste Fähigkeit im Feld.
+4. **Urteilsvermögen und Ethik.** Weiß, wann eine Zahl irreführend ist, wann eine
+   Analyse unfair ist, wann du „noch nicht" sagen sollst.
+5. **Gewandtheit mit dem Assistenten.** Lern, mit dem Werkzeug zu reden. Die
+   Analysten, die gewinnen, sind nicht die, die sich dem Assistenten widersetzen –
+   sie sind die, die ihn am besten nutzen.
+
+## Eine Kuriosität: der Taschenrechner-Analyst
+
+Als elektronische Tabellenkalkulationen in den 1980ern kamen, sagten Leute das Ende
+des Finanzanalysten voraus. Die Tabellenkalkulation machte die Arithmetik sofort,
+also würde der arithmetikbasierte Job verschwinden. Was tatsächlich passierte: Die
+Zahl der Analysten wuchs, weil Analyse billig genug wurde, um sie überall zu machen.
+Der Job verschob sich vom *Rechnen* zum *Denken*. Dieselbe Verschiebung passiert
+jetzt, mit einem größeren Werkzeug.
+
+## Das Portfolio schlägt das Zertifikat
+
+In einer Welt, in der das Werkzeug das Artefakt produzieren kann, was beweist, dass
+du gut bist? Nicht ein Zertifikat – ein Portfolio. Zeig, dass du kannst:
+
+- Eine chaotische Frage in ein sauberes Modell verwandeln.
+- Deine Arbeit validieren und dokumentieren.
+- Eine Geschichte erzählen, die eine Entscheidung antrieb.
+- Den Assistenten gut nutzen und seine Grenzen kennen.
+
+Die Anhänge dieses Buches geben dir ein Portfolio-Projektmodell und geführte
+Übungen genau dafür. Bau ein paar, zeig sie, und das Werkzeug wird Teil deiner
+Geschichte, nicht eine Bedrohung dafür.
+
+## Die ehrliche Warnung
+
+Es gibt ein echtes Risiko: Der Assistent macht es leicht, eine Antwort zu
+produzieren, die du nicht verstehst. Ein Junior, der sich ohne Urteilsvermögen auf
+das Werkzeug stützt, wird ein Knopf, kein Analyst. Der Weg, das zu vermeiden, ist,
+den Assistenten zu benutzen, um *schneller zu lernen*, nicht um *weniger zu denken*.
+Bitte ihn, das DAX zu erklären, das er schrieb. Prüf seine Arbeit. Versteh jede
+Zahl, bevor du sie veröffentlichst. So benutzt macht der Assistent dich besser.
+Faul benutzt macht er dich abhängig.
+
+## Wo dich das zurücklässt
+
+Du bist nicht der Mensch, der das Werkzeug bedient. Du bist der Mensch, der
+entscheidet, was das Werkzeug tun soll, prüft, dass es richtig war, und das Ergebnis
+in etwas verwandelt, das zählt. Das ist ein interessanterer Job als der, den er
+ersetzte – und es ist der, auf den dich dieses Buch leise vorbereitet hat, ein
+Beispiel in normaler Sprache nach dem anderen.
+
+---
+
+## Was du aus diesem Kapitel mitnimmst
+
+- Der Job wanderte vom Bedienen der Werkzeuge zum Fragen stellen und zu Antworten
+  stehen.
+- Neugier, Kontext und Vertrauen sind mehr wert, nicht weniger.
+- Setz doppelt auf Fragen, Datenkompetenz, Storytelling, Urteilsvermögen und
+  Gewandtheit mit dem Assistenten.
+- Ein Portfolio schlägt ein Zertifikat.
+- Nutz den Assistenten, um schneller zu lernen, nicht um weniger zu denken.
+
+Als Nächstes: ein kurzes Fazit, dann die Anhänge.

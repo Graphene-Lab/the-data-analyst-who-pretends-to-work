@@ -1,1 +1,112 @@
-IyAyMS4gQmVyaWNodGUgdW5kIERhc2hib2FyZHMsIGRpZSBMZXV0ZSB3aXJrbGljaCBudXR6ZW4KCkVpbiBEYXNoYm9hcmQsIGRhcyBuaWVtYW5kIMO2ZmZuZXQsIGlzdCBlaW4gTWlzc2VyZm9sZywgZWdhbCB3aWUgc2Now7ZuIGVzIGlzdC4KRGllc2VzIEthcGl0ZWwgaGFuZGVsdCBkYXZvbiwgQmVyaWNodGUgenUgYmF1ZW4sIGRpZSBMZXV0ZSB0YXRzw6RjaGxpY2ggYW5zZWhlbiwKZGVuZW4gc2llIHZlcnRyYXVlbiB1bmQgbmFjaCBkZW5lbiBzaWUgaGFuZGVsbiDigJMgdW5kIHdpZSBkZXIgQXNzaXN0ZW50IGRpZSBaYWhsZW4Kdm9yYmVyZWl0ZXQsIGRpZSBkYXJhdWYga29tbWVuLgoKIyMgRGFzaGJvYXJkIHZzLiBCZXJpY2h0IOKAkyBzaWUgc2luZCBuaWNodCBkYXNzZWxiZQoKLSBFaW4gKipEYXNoYm9hcmQqKiBpc3QgZWluZSBlaW56ZWxuZSBTZWl0ZSBtaXQgZGVuIHdpY2h0aWdzdGVuIFphaGxlbiwgZ2VtYWNodCwgdW0KICBhdWYgZWluZW4gQmxpY2sgZ2VsZXNlbiB6dSB3ZXJkZW4uIERlbms6IFRhY2hvIHVuZCBUYW5rYW56ZWlnZSBlaW5lcyBBdXRvcy4KLSBFaW4gKipCZXJpY2h0KiogaXN0IGVpbmUgdGllZmVyZSwgbWVocnNlaXRpZ2UgRXJrdW5kdW5nLCBpbiBkaWUgbWFuIGhpbmFic3RlaWdlbgogIGthbm4uIERlbms6IGRhcyBIYW5kYnVjaCwgZGFzIGR1IGtvbnN1bHRpZXJzdCwgd2VubiBldHdhcyBuaWNodCBzdGltbXQuCgpCZWlkZSBoYWJlbiBpaHJlbiBQbGF0ei4gRGFzIERhc2hib2FyZCBiZWFudHdvcnRldCDigJ5XaWUgZ2VodCdzIHVucyBnZXJhZGU/IjsgZGVyCkJlcmljaHQgYmVhbnR3b3J0ZXQg4oCeTGFzcyB1bnMgaW5zIFdhcnVtIGdyYWJlbi4iCgojIyBEaWUgS1BJLVJlaWhlOiBkaWUgU3BpdHplIGplZGVzIGd1dGVuIERhc2hib2FyZHMKCkRpZSBtZWlzdGVuIGdyb8OfYXJ0aWdlbiBEYXNoYm9hcmRzIMO2ZmZuZW4gbWl0IGVpbmVyIFJlaWhlIGdyb8OfZXIgWmFobGVuIOKAkyBkZXIKSGFuZHZvbGwgS1BJcywgZGllIGFtIG1laXN0ZW4gesOkaGxlbi4gRGVyIEFzc2lzdGVudCBrYW5uIGRpZXNlIFJlaWhlIGluIGVpbmVtCkF1ZnRyYWcgYmF1ZW46Cgo+IOKAnkVpbiBLUEktU2V0OiBHZXNhbXR1bXNhdHosIEJlc3RlbGx1bmdlbiwgRHVyY2hzY2huaXR0c2Jlc3RlbGx1bmcuIgoKIVtLUEktU2V0XSguLi8uLi9hc3NldHMvZXhhbXBsZXMvZTA2Mi5wbmcpCgpEcmVpIFphaGxlbiwgYmVyZWl0IGbDvHIgZHJlaSBLUEktS2FydGVuIG9iZW4gcXVlci4gRGFzIGlzdCBkYXMgRXJzdGUsIHdhcyBlaW4KZ2VzdHJlc3N0ZXIgTWFuYWdlciBsaWVzdCwgYWxzbyBtw7xzc2VuIGVzIGRpZSByaWNodGlnZW4gZHJlaSBaYWhsZW4gc2Vpbi4KCkRpZXNlbGJlbiBLUElzIGFscyBWZXJnbGVpY2hzZGlhZ3JhbW0gZ2V6ZWljaG5ldDoKCiFbSGVhZGxpbmUtS1BJcyDigJMgRGlhZ3JhbW1dKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9jaGFydC1rcGkucG5nKQoKPiDigJ5FaW5lIGtvbXBha3RlIEtQSS1SZWloZSBmw7xyIGRpZSBTcGl0emUgZWluZXMgQmVyaWNodHMuIgoKIVtLb21wYWt0ZSBLUEktUmVpaGVdKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9lMDk4LnBuZykKCkdsZWljaGUgSWRlZSwgZWluIGFuZGVyZXMgU2V0IOKAkyB3YXMgYXVjaCBpbW1lciBkZWluZSBUb3AtTGluZS1LZW5uemFobGVuIHNpbmQuCgojIyBEaWUgZWluemVsbmUgZ3Jvw59lIFphaGwKCk1hbmNobWFsIGlzdCBlaW5lIGVpbnppZ2UgWmFobCBkaWUgZ2FuemUgR2VzY2hpY2h0ZToKCj4g4oCeRWluZSBlaW56ZWxuZSBCaWctTnVtYmVyLUtQSS4iCgohW0JpZy1OdW1iZXItS1BJXSguLi8uLi9hc3NldHMvZXhhbXBsZXMvZTA4NC5wbmcpCgpFaW5lIEJpZy1OdW1iZXItS2FydGUgaXN0IGRhcyBEYXNoYm9hcmQtw4RxdWl2YWxlbnQgZWluZXIgU2NobGFnemVpbGUuIE51dHogc2llIGbDvHIKZGllIGVpbmUgS2VubnphaGwsIGRpZSBhbGxlIGludGVyZXNzaWVydC4KCiMjIERpZSBSYW5nbGlzdGUKCkxldXRlIGxpZWJlbiBlaW4gUmFua2luZy4gRWluZSBUb3AtTi1MaXN0ZSB0cmVpYnQgQWt0aW9uIHVuZCBlaW4gYmlzc2NoZW4KZnJldW5kc2NoYWZ0bGljaGVuIFdldHRiZXdlcmIgYW46Cgo+IOKAnlRvcC1Qcm9kdWt0ZSBmw7xyIGVpbiBSYW5nbGlzdGVuLVZpc3VhbC4iCgohW1RvcC1Qcm9kdWt0ZS1SYW5nbGlzdGVdKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9lMDYzLnBuZykKCkVpbmUgcmFuZ2llcnRlIExpc3RlLCBiZXJlaXQgZsO8ciBlaW4gUmFuZ2xpc3Rlbi1WaXN1YWwuIERhcyBFbmRlIGRlciBMaXN0ZSBpc3QsIHdvCmRpZSBQcm9ibGVtZSBzaW5kOyBkaWUgU3BpdHplIGlzdCwgd28gbWFuIG5hY2hsZWdlbiBzb2xsdGUuCgpEaWUgUmFuZ2xpc3RlIGFscyBEaWFncmFtbSBnZXplaWNobmV0OgoKIVtUb3AtUHJvZHVrdGUg4oCTIFJhbmdsaXN0ZW4tRGlhZ3JhbW1dKC4uLy4uL2Fzc2V0cy9leGFtcGxlcy9jaGFydC1wcm9kdWN0cy5wbmcpCgojIyBXYXMgZWluIERhc2hib2FyZCBiZW51dHpiYXIgbWFjaHQKCi0gKipXZW5pZ2UgWmFobGVuLCBncm/DnyB1bmQga2xhci4qKiBFaW4gQmxpY2sgc29sbCBkaWUgR2VzY2hpY2h0ZSBlcnrDpGhsZW4uCi0gKipEaWUgcmljaHRpZ2VuIFphaGxlbi4qKiBEaWUsIGRpZSBzaWNoIG1pdCBkZW0gR2VzY2jDpGZ0IGJld2VnZW4gKEthcGl0ZWwgMTEpLgotICoqS29uc2lzdGVudC4qKiBHbGVpY2hlIEtlbm56YWhsZW4sIGdsZWljaGUgRmFyYmVuLCBnbGVpY2hlcyBMYXlvdXQgamVkZXMgTWFsIOKAkwogIGRhbWl0IGRpZSBMZXV0ZSBlcyBsZXNlbiBsZXJuZW4uCi0gKipMaXZlLioqIEF1dG9tYXRpc2NoIGFrdHVhbGlzaWVydCwgZGFtaXQgZXMgaW1tZXIgYWt0dWVsbCBpc3QuCi0gKipFaHJsaWNoLioqIEtlaW5lIGFiZ2VzY2huaXR0ZW5lbiBBY2hzZW4sIGtlaW5lIEVpdGVsa2VpdHNrZW5uemFobGVuLgoKIyMgRGFzIERyaWxsLURvd24tUHJpbnppcAoKRWluIGd1dGVzIERhc2hib2FyZCB6ZWlndCBkaWUgWnVzYW1tZW5mYXNzdW5nIHVuZCBsw6Rzc3QgZGljaCAqKmRyaWxsZW4qKiwgd2VubiBkdQpEZXRhaWwgYnJhdWNoc3QuIER1IHNpZWhzdCDigJ5Ob3JkIGlzdCBydW50ZXIiIGF1ZiBkZW0gRGFzaGJvYXJkLCBrbGlja3N0IGVzIGFuLCB1bmQKZGVyIEJlcmljaHQgemVpZ3QgZGlyIHdlbGNoZSBGaWxpYWxlbiwgd2VsY2hlIFByb2R1a3RlLCB3ZWxjaGUgVGFnZS4gRXJzdCBkaWUKWnVzYW1tZW5mYXNzdW5nLCBEZXRhaWwgYXVmIFp1cnVmIOKAkyBiZWdyYWIgZGVuIExlc2VyIG5pZSB1cGZyb250IGltIERldGFpbC4KCiMjIEVpbmUgS3VyaW9zaXTDpHQ6IGRpZSBDb2NrcGl0LVJlZ2VsCgpQaWxvdGVuIHdvbGxlbiBuaWNodCBtZWhyIEluc3RydW1lbnRlOyBzaWUgd29sbGVuIGRpZSAqcmljaHRpZ2VuKiBJbnN0cnVtZW50ZSBhbQoqcmljaHRpZ2VuKiBPcnQuIERpZXNlbGJlIFJlZ2VsIGhlcnJzY2h0IMO8YmVyIERhc2hib2FyZHMuIEVpbiBiZXLDvGhtdGVzCkRlc2lnbnByaW56aXAgc2FndCwgZWluIGd1dGVzIERhc2hib2FyZCBiZWFudHdvcnRldCBkZWluZSB3aWNodGlnc3RlIEZyYWdlLCAqKm9obmUKZGFzcyBkdSBmcmFnZW4gbXVzc3QqKiDigJMgZGllIFphaGwsIGRpZSBkdSBicmF1Y2hzdCwgaXN0IHNjaG9uIGRhLCBncm/DnywgYWt0dWVsbCB1bmQKZWhybGljaC4gV2VubiBkdSBzdWNoZW4gb2RlciBrbGlja2VuIG11c3N0LCB1bSBkYXMgRGluZyB6dSBmaW5kZW4sIGRhcyBkdSBqZWRlbgpNb3JnZW4gY2hlY2tzdCwgaXN0IGRhcyBEYXNoYm9hcmQgbmljaHQgZmVydGlnLgoKIyMgRGllIFJvbGxlIGRlcyBBc3Npc3RlbnRlbiBpbSBEYXNoYm9hcmQKCkRlciBBc3Npc3RlbnQgYmF1dCBkaWUgKipaYWhsZW4qKiDigJMgZGllIE1hw59lIHVuZCBLUElzLCBkaWUgamVkZSBLYXJ0ZSB1bmQgamVkZXMKRGlhZ3JhbW0gc3BlaXNlbi4gRHUgb3JkbmVzdCBzaWUgYXVmIGRlbSBDYW52YXMgYW4uIERpZXNlIEFyYmVpdHN0ZWlsdW5nIGlzdCBkZXIKU3dlZXQgU3BvdDogRGVyIEFzc2lzdGVudCBrw7xtbWVydCBzaWNoIHVtIGRpZSBCZXJlY2hudW5nIHVuZCBkaWUgUHLDvGZ1bmc7IGR1CmvDvG1tZXJzdCBkaWNoIHVtIGRpZSBHZXNjaGljaHRlIHVuZCBkYXMgTGF5b3V0LgoKLS0tCgojIyBXYXMgZHUgYXVzIGRpZXNlbSBLYXBpdGVsIG1pdG5pbW1zdAoKLSBFaW4gRGFzaGJvYXJkIGlzdCBlaW4gQmxpY2s7IGVpbiBCZXJpY2h0IGlzdCBlaW4gRHJpbGwtRG93bi4KLSDDlmZmbmUgbWl0IGVpbmVyIEtQSS1SZWloZSBkZXIgcGFhciBaYWhsZW4sIGRpZSB6w6RobGVuLgotIE51dHogQmlnLU51bWJlci1LYXJ0ZW4gdW5kIFJhbmdsaXN0ZW4gZsO8ciBGb2t1cy4KLSBCZW51dHpiYXIgPSB3ZW5pZ2UsIHJpY2h0aWdlLCBrb25zaXN0ZW50LCBsaXZlLCBlaHJsaWNoLgotIERlciBBc3Npc3RlbnQgYmF1dCBkaWUgWmFobGVuOyBkdSBiYXVzdCBkaWUgR2VzY2hpY2h0ZS4KClRlaWwgSVYgaXN0IGdlc2NoYWZmdCDigJMgZHUga2FubnN0IGRpY2ggdmVyYmluZGVuLCBtb2RlbGxpZXJlbiwgYmVyZWNobmVuIHVuZAp2aXN1YWxpc2llcmVuLiBKZXR6dCBkZXIgbGV0enRlIEFrdDogZGllIGFnZW50aXNjaGUgUmV2b2x1dGlvbiwgZGllIGRhcyBhbGxlcwp6dXNhbW1lbmJpbmRldCwgdW5kIGRlaW4gUGxhdHogZGFyaW4uCg==
+# 21. Berichte und Dashboards, die Leute wirklich nutzen
+
+Ein Dashboard, das niemand öffnet, ist ein Misserfolg, egal wie schön es ist.
+Dieses Kapitel handelt davon, Berichte zu bauen, die Leute tatsächlich ansehen,
+denen sie vertrauen und nach denen sie handeln – und wie der Assistent die Zahlen
+vorbereitet, die darauf kommen.
+
+## Dashboard vs. Bericht – sie sind nicht dasselbe
+
+- Ein **Dashboard** ist eine einzelne Seite mit den wichtigsten Zahlen, gemacht, um
+  auf einen Blick gelesen zu werden. Denk: Tacho und Tankanzeige eines Autos.
+- Ein **Bericht** ist eine tiefere, mehrseitige Erkundung, in die man hinabsteigen
+  kann. Denk: das Handbuch, das du konsultierst, wenn etwas nicht stimmt.
+
+Beide haben ihren Platz. Das Dashboard beantwortet „Wie geht's uns gerade?"; der
+Bericht beantwortet „Lass uns ins Warum graben."
+
+## Die KPI-Reihe: die Spitze jedes guten Dashboards
+
+Die meisten großartigen Dashboards öffnen mit einer Reihe großer Zahlen – der
+Handvoll KPIs, die am meisten zählen. Der Assistent kann diese Reihe in einem
+Auftrag bauen:
+
+> „Ein KPI-Set: Gesamtumsatz, Bestellungen, Durchschnittsbestellung."
+
+![KPI-Set](../../assets/examples/e062.png)
+
+Drei Zahlen, bereit für drei KPI-Karten oben quer. Das ist das Erste, was ein
+gestresster Manager liest, also müssen es die richtigen drei Zahlen sein.
+
+Dieselben KPIs als Vergleichsdiagramm gezeichnet:
+
+![Headline-KPIs – Diagramm](../../assets/examples/chart-kpi.png)
+
+> „Eine kompakte KPI-Reihe für die Spitze eines Berichts."
+
+![Kompakte KPI-Reihe](../../assets/examples/e098.png)
+
+Gleiche Idee, ein anderes Set – was auch immer deine Top-Line-Kennzahlen sind.
+
+## Die einzelne große Zahl
+
+Manchmal ist eine einzige Zahl die ganze Geschichte:
+
+> „Eine einzelne Big-Number-KPI."
+
+![Big-Number-KPI](../../assets/examples/e084.png)
+
+Eine Big-Number-Karte ist das Dashboard-Äquivalent einer Schlagzeile. Nutz sie für
+die eine Kennzahl, die alle interessiert.
+
+## Die Rangliste
+
+Leute lieben ein Ranking. Eine Top-N-Liste treibt Aktion und ein bisschen
+freundschaftlichen Wettbewerb an:
+
+> „Top-Produkte für ein Ranglisten-Visual."
+
+![Top-Produkte-Rangliste](../../assets/examples/e063.png)
+
+Eine rangierte Liste, bereit für ein Ranglisten-Visual. Das Ende der Liste ist, wo
+die Probleme sind; die Spitze ist, wo man nachlegen sollte.
+
+Die Rangliste als Diagramm gezeichnet:
+
+![Top-Produkte – Ranglisten-Diagramm](../../assets/examples/chart-products.png)
+
+## Was ein Dashboard benutzbar macht
+
+- **Wenige Zahlen, groß und klar.** Ein Blick soll die Geschichte erzählen.
+- **Die richtigen Zahlen.** Die, die sich mit dem Geschäft bewegen (Kapitel 11).
+- **Konsistent.** Gleiche Kennzahlen, gleiche Farben, gleiches Layout jedes Mal –
+  damit die Leute es lesen lernen.
+- **Live.** Automatisch aktualisiert, damit es immer aktuell ist.
+- **Ehrlich.** Keine abgeschnittenen Achsen, keine Eitelkeitskennzahlen.
+
+## Das Drill-Down-Prinzip
+
+Ein gutes Dashboard zeigt die Zusammenfassung und lässt dich **drillen**, wenn du
+Detail brauchst. Du siehst „Nord ist runter" auf dem Dashboard, klickst es an, und
+der Bericht zeigt dir welche Filialen, welche Produkte, welche Tage. Erst die
+Zusammenfassung, Detail auf Zuruf – begrab den Leser nie upfront im Detail.
+
+## Eine Kuriosität: die Cockpit-Regel
+
+Piloten wollen nicht mehr Instrumente; sie wollen die *richtigen* Instrumente am
+*richtigen* Ort. Dieselbe Regel herrscht über Dashboards. Ein berühmtes
+Designprinzip sagt, ein gutes Dashboard beantwortet deine wichtigste Frage, **ohne
+dass du fragen musst** – die Zahl, die du brauchst, ist schon da, groß, aktuell und
+ehrlich. Wenn du suchen oder klicken musst, um das Ding zu finden, das du jeden
+Morgen checkst, ist das Dashboard nicht fertig.
+
+## Die Rolle des Assistenten im Dashboard
+
+Der Assistent baut die **Zahlen** – die Maße und KPIs, die jede Karte und jedes
+Diagramm speisen. Du ordnest sie auf dem Canvas an. Diese Arbeitsteilung ist der
+Sweet Spot: Der Assistent kümmert sich um die Berechnung und die Prüfung; du
+kümmerst dich um die Geschichte und das Layout.
+
+---
+
+## Was du aus diesem Kapitel mitnimmst
+
+- Ein Dashboard ist ein Blick; ein Bericht ist ein Drill-Down.
+- Öffne mit einer KPI-Reihe der paar Zahlen, die zählen.
+- Nutz Big-Number-Karten und Ranglisten für Fokus.
+- Benutzbar = wenige, richtige, konsistent, live, ehrlich.
+- Der Assistent baut die Zahlen; du baust die Geschichte.
+
+Teil IV ist geschafft – du kannst dich verbinden, modellieren, berechnen und
+visualisieren. Jetzt der letzte Akt: die agentische Revolution, die das alles
+zusammenbindet, und dein Platz darin.
